@@ -626,4 +626,10 @@ input:checked+.slider:before {
         padding-right: 0;
         padding-bottom: 0.75rem;
     }
+
+    .current-date {
+        font-size: 0.85rem;
+        padding: 0.5rem 0.25rem;
+        white-space: nowrap;
+    }
 }

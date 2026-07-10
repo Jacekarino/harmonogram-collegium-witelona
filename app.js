@@ -385,13 +385,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderScheduleForDate(dateStr) {
         if (!dateStr || !currentSchedule || !currentSchedule[dateStr]) {
-            currentDateDisplay.textContent = dateStr ? new Date(dateStr).toLocaleDateString('pl-PL', { weekday: 'long', month: 'short', day: 'numeric' }) : 'Wybierz dzień';
+            currentDateDisplay.textContent = dateStr ? new Date(dateStr).toLocaleDateString('pl-PL', { weekday: 'long', month: 'long', day: 'numeric' }) : 'Wybierz dzień';
             classesList.innerHTML = '<div class="class-card"><i>Brak zajęć w tym dniu.</i></div>';
             return;
         }
 
         const dateObj = new Date(dateStr);
-        currentDateDisplay.textContent = dateObj.toLocaleDateString('pl-PL', { weekday: 'long', month: 'short', day: 'numeric' });
+        currentDateDisplay.textContent = dateObj.toLocaleDateString('pl-PL', { weekday: 'long', month: 'long', day: 'numeric' });
 
         classesList.innerHTML = '';
         currentSchedule[dateStr].forEach(cls => {
