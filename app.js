@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleShortNames = document.getElementById('toggle-short-names');
     const toggleAutoSkip = document.getElementById('toggle-auto-skip');
     const toggleHighlightCurrent = document.getElementById('toggle-highlight-current');
+    const toggleShowGaps = document.getElementById('toggle-show-gaps');
     const exportIcsBtn = document.getElementById('export-ics-btn');
 
     // Accordeon Menu
@@ -63,7 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
         darkMode: false,
         shortNames: false,
         autoSkip: true,
-        highlightCurrent: true
+        highlightCurrent: true,
+        showGaps: false
     };
 
     // Init
@@ -90,7 +92,10 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 300);
     }
 
-    navPickerBtn.addEventListener('click', () => openPanel(pickerPanel));
+    navPickerBtn.addEventListener('click', () => {
+        updateAccordionLockStates();
+        openPanel(pickerPanel);
+    });
     navSettingsBtn.addEventListener('click', () => openPanel(settingsPanel));
     navAboutBtn.addEventListener('click', () => openPanel(aboutPanel));
     panelOverlay.addEventListener('click', closeAllPanels);
@@ -105,11 +110,56 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
+    // Accordion step click handler
+    const accordionSteps = [stepFaculty, stepSpec, stepYear, stepCode, stepSubgroup];
+    accordionSteps.forEach((step, index) => {
+        const summary = step.querySelector('summary');
+        if (summary) {
+            summary.addEventListener('click', () => {
+                if (!step.hasAttribute('open')) {
+
+                    // Reset subsequent selection states
+                    if (index === 0) {
+                        selectionState.faculty = null;
+                        selectionState.specName = null;
+                        selectionState.year = null;
+                        selectionState.code = null;
+                        selectionState.subgroup = null;
+                    } else if (index === 1) {
+                        selectionState.specName = null;
+                        selectionState.year = null;
+                        selectionState.code = null;
+                        selectionState.subgroup = null;
+                    } else if (index === 2) {
+                        selectionState.year = null;
+                        selectionState.code = null;
+                        selectionState.subgroup = null;
+                    } else if (index === 3) {
+                        selectionState.code = null;
+                        selectionState.subgroup = null;
+                    } else if (index === 4) {
+                        selectionState.subgroup = null;
+                    }
+                    savePath();
+
+                    // Collapse all other steps
+                    accordionSteps.forEach((s, idx) => {
+                        if (idx !== index) {
+                            s.removeAttribute('open');
+                        }
+                    });
+
+                    updateAccordionLockStates();
+                }
+            });
+        }
+    });
+
     // Settings Logic
     function loadSettings() {
         const savedSettings = localStorage.getItem('pwszSettings');
         if (savedSettings) {
-            settings = JSON.parse(savedSettings);
+            settings = { ...settings, ...JSON.parse(savedSettings) };
         }
         applySettings();
     }
@@ -133,6 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
         toggleShortNames.checked = settings.shortNames;
         toggleAutoSkip.checked = settings.autoSkip;
         toggleHighlightCurrent.checked = settings.highlightCurrent;
+        toggleShowGaps.checked = settings.showGaps;
         updateHighlights();
     }
 
@@ -153,6 +204,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     toggleHighlightCurrent.addEventListener('change', (e) => {
         settings.highlightCurrent = e.target.checked;
+        saveSettings();
+    });
+
+    toggleShowGaps.addEventListener('change', (e) => {
+        settings.showGaps = e.target.checked;
         saveSettings();
     });
 
@@ -184,6 +240,29 @@ document.addEventListener('DOMContentLoaded', () => {
     function openAccordionStep(step) {
         [stepFaculty, stepSpec, stepYear, stepCode, stepSubgroup].forEach(s => s.removeAttribute('open'));
         step.setAttribute('open', '');
+        updateAccordionLockStates();
+    }
+
+    function updateAccordionLockStates() {
+        const steps = [
+            { el: stepFaculty, grid: gridFaculty, unlocked: true },
+            { el: stepSpec, grid: gridSpec, unlocked: !!selectionState.faculty },
+            { el: stepYear, grid: gridYear, unlocked: !!selectionState.specName },
+            { el: stepCode, grid: gridCode, unlocked: !!selectionState.year },
+            { el: stepSubgroup, grid: gridSubgroup, unlocked: !!selectionState.code }
+        ];
+
+        steps.forEach(step => {
+            if (step.unlocked) {
+                step.el.classList.remove('locked');
+            } else {
+                step.el.classList.add('locked');
+                step.el.removeAttribute('open');
+                if (step.grid) {
+                    step.grid.innerHTML = '';
+                }
+            }
+        });
     }
 
     function createPickBtn(text, onClick) {
@@ -199,22 +278,45 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             const res = await fetch('data/list_faculties.json');
             const data = await res.json();
-            facultiesData = data.faculties;
+            facultiesData = data.faculties.filter(f => {
+                const name = f.faculty_name.toLowerCase();
+                return !name.includes("erasmus") && !name.includes("wrocław");
+            });
 
             buildFacultyGrid();
 
-            if (selectionState.subgroup) {
+            if (selectionState.faculty) {
                 const fac = facultiesData.find(f => f.faculty_name === selectionState.faculty.faculty_name);
                 if (fac) {
                     selectionState.faculty = fac;
-                    await fetchSchedule();
+                    buildSpecGrid();
+                    if (selectionState.specName) {
+                        buildYearGrid();
+                        if (selectionState.year) {
+                            buildCodeGrid();
+                            if (selectionState.code) {
+                                await fetchSubgroups();
+                                if (selectionState.subgroup) {
+                                    await fetchSchedule();
+                                    return;
+                                }
+                            }
+                        }
+                    }
                 } else {
-                    selectionState.subgroup = null;
-                    openPanel(pickerPanel);
+                    selectionState = {
+                        faculty: null,
+                        specName: null,
+                        year: null,
+                        code: null,
+                        subgroup: null
+                    };
+                    savePath();
                 }
-            } else {
-                openPanel(pickerPanel);
             }
+
+            updateAccordionLockStates();
+            openPanel(pickerPanel);
         } catch (e) {
             console.error("Failed to load faculties", e);
         }
@@ -229,6 +331,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 selectionState.year = null;
                 selectionState.code = null;
                 selectionState.subgroup = null;
+                savePath();
                 updatePickerButtons(gridFaculty, btn);
                 buildSpecGrid();
             });
@@ -254,6 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 selectionState.year = null;
                 selectionState.code = null;
                 selectionState.subgroup = null;
+                savePath();
                 updatePickerButtons(gridSpec, btn);
                 buildYearGrid();
             });
@@ -276,6 +380,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 selectionState.year = year;
                 selectionState.code = null;
                 selectionState.subgroup = null;
+                savePath();
                 updatePickerButtons(gridYear, btn);
                 buildCodeGrid();
             });
@@ -295,6 +400,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const btn = createPickBtn(spec.code, () => {
                 selectionState.code = spec.code;
                 selectionState.subgroup = null;
+                savePath();
                 updatePickerButtons(gridCode, btn);
                 fetchSubgroups();
             });
@@ -323,6 +429,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     closeAllPanels();
                     fetchSchedule();
                 });
+                if (selectionState.subgroup === sg) btn.classList.add('active');
                 gridSubgroup.appendChild(btn);
             });
         } catch (e) {
@@ -393,8 +500,67 @@ document.addEventListener('DOMContentLoaded', () => {
         const dateObj = new Date(dateStr);
         currentDateDisplay.textContent = dateObj.toLocaleDateString('pl-PL', { weekday: 'long', month: 'long', day: 'numeric' });
 
+        // Helper to parse class times
+        function parseClassTime(timeStr) {
+            const parts = timeStr.split('-');
+            if (parts.length !== 2) return null;
+            const [startStr, endStr] = parts.map(p => p.trim());
+            const startParts = startStr.split(':').map(Number);
+            const endParts = endStr.split(':').map(Number);
+            if (startParts.length !== 2 || endParts.length !== 2) return null;
+            return {
+                startMins: startParts[0] * 60 + startParts[1],
+                endMins: endParts[0] * 60 + endParts[1],
+                startStr,
+                endStr
+            };
+        }
+
+        const classes = [...currentSchedule[dateStr]].sort((a, b) => {
+            const timeA = parseClassTime(a.time);
+            const timeB = parseClassTime(b.time);
+            if (!timeA || !timeB) return 0;
+            return timeA.startMins - timeB.startMins;
+        });
+
         classesList.innerHTML = '';
-        currentSchedule[dateStr].forEach(cls => {
+        let prevEndMins = null;
+        let prevEndStr = null;
+
+        classes.forEach(cls => {
+            const timeInfo = parseClassTime(cls.time);
+
+            if (settings.showGaps && prevEndMins !== null && timeInfo !== null) {
+                const gapMinutes = timeInfo.startMins - prevEndMins;
+                if (gapMinutes > 20) {
+                    const gapCard = document.createElement('div');
+                    gapCard.className = 'class-card class-gap';
+
+                    const hours = Math.floor(gapMinutes / 60);
+                    const mins = gapMinutes % 60;
+                    let durationText = '';
+                    if (hours > 0) {
+                        durationText = `${hours} godz.${mins > 0 ? ` ${mins} min.` : ''}`;
+                    } else {
+                        durationText = `${mins} min.`;
+                    }
+
+                    gapCard.innerHTML = `
+                        <div class="class-time">${prevEndStr} - ${timeInfo.startStr}</div>
+                        <div class="class-details">
+                            <div class="class-name">Okienko (${durationText})</div>
+                            <div class="class-teacher">Czas wolny</div>
+                        </div>
+                    `;
+                    classesList.appendChild(gapCard);
+                }
+            }
+
+            if (timeInfo) {
+                prevEndMins = timeInfo.endMins;
+                prevEndStr = timeInfo.endStr;
+            }
+
             const card = document.createElement('div');
             card.className = 'class-card';
 
@@ -523,6 +689,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const currentMinutes = now.getHours() * 60 + now.getMinutes();
 
         document.querySelectorAll('.class-card').forEach(card => {
+            if (card.classList.contains('class-gap')) {
+                card.classList.remove('active-class');
+                return;
+            }
             const timeDiv = card.querySelector('.class-time');
             if (!timeDiv) return;
             const timeText = timeDiv.textContent.trim();

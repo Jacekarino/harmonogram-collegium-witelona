@@ -293,6 +293,28 @@ body {
     color: var(--text-secondary);
 }
 
+.class-card.class-gap {
+    background: rgba(128, 128, 128, 0.02);
+    border: 1px dashed rgba(128, 128, 128, 0.25);
+    opacity: 0.85;
+}
+
+.class-card.class-gap:hover {
+    background: rgba(128, 128, 128, 0.05);
+    transform: none;
+    opacity: 1;
+}
+
+.class-card.class-gap .class-time {
+    color: var(--text-secondary);
+    border-right: 1px dashed var(--glass-border);
+}
+
+.class-card.class-gap .class-name {
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
 .empty-state {
     text-align: center;
     padding: 3rem 1rem;
@@ -369,6 +391,12 @@ body {
     border: 1px solid var(--glass-border);
     border-radius: 12px;
     overflow: hidden;
+}
+
+.acc-step.locked {
+    opacity: 0.45;
+    pointer-events: none;
+    user-select: none;
 }
 
 .acc-step summary {
