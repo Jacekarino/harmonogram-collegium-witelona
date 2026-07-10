@@ -1,0 +1,676 @@
+{
+    "s1BW1u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i praktyka strzelań (wyk)",
+                "short_name": "Tips (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C224"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A142"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_10"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_106"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "C226"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C209"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "C226"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C209"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A32"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A32"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C113"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i praktyka strzelań (wyk)",
+                "short_name": "Tips (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_04"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "C202"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "C202"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C209"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C209"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_105"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_11"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C125"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C202"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Teoria i praktyka strzelań (wyk)",
+                "short_name": "Tips (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_103"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "19:00-20:30",
+                "class_name": "Teoria i praktyka strzelań (wt)",
+                "short_name": "Tips (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "System zarządzania kryzysowego (wt)",
+                "short_name": "Szk (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Techniki interwencji (wt)",
+                "short_name": "Ti (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C228"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wt)",
+                "short_name": "Mnieabp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Ratownictwo i ochrona ludności (wt)",
+                "short_name": "Riol (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C209"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "System zarządzania kryzysowego (wyk)",
+                "short_name": "Szk (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i praktyka strzelań (wyk)",
+                "short_name": "Tips (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mniejszości narodowe i etniczne a bezpieczeństwo państwa (wyk)",
+                "short_name": "Mnieabp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ratownictwo i ochrona ludności (wyk)",
+                "short_name": "Riol (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C224"
+            }
+        ]
+    }
+}

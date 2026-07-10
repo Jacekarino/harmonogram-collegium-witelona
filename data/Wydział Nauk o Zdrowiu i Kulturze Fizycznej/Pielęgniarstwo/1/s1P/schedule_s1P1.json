@@ -1,0 +1,1960 @@
+{
+    "s1P1": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Promocja zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Bfwpzp (wyk)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "Online_100"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_42"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_42"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (ćw)",
+                "short_name": "Patol (ćw)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia (ćw)",
+                "short_name": "Patol (ćw)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_100"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Promocja zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_100"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_42"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "Online_42"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_03"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_100"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "Online_100"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (ćw)",
+                "short_name": "Patol (ćw)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia (ćw)",
+                "short_name": "Patol (ćw)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "Online_42"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "Online_42"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_104"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_101"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
+                "short_name": "Pipp (lab)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zakażenia szpitalne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_101"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badanie fizykalne w praktyce zawodowej pielęgniarki (lab)",
+                "short_name": "Bfwpzp (lab)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia (wyk)",
+                "short_name": "Patol (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Patologia (ćw)",
+                "short_name": "Patol (ćw)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zajęcia fakultatywne do wyboru: Telemedycyna i e-zdrowie* (ćw)",
+                "short_name": "ZfdwTie (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty przed egzaminem OSCE (ćw)",
+                "short_name": "WpeO (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Warsztaty przed egzaminem OSCE (ćw)",
+                "short_name": "WpeO (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Warsztaty przed egzaminem OSCE (ćw)",
+                "short_name": "WpeO (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Promocja zdrowia (zp)",
+                "short_name": "Pz (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_11"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_08"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (zp)",
+                "short_name": "Pp (zp)",
+                "teacher": "mgr Iwona Florek",
+                "room": "Szpital_Leg_09"
+            }
+        ]
+    }
+}

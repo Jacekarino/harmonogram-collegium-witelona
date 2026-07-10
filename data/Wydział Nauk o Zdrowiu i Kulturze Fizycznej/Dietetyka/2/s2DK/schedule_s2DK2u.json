@@ -1,0 +1,1503 @@
+{
+    "s2DK2u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A16"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C326"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_02"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_07"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_07"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)1h [x/-]",
+                "short_name": "Owi (wyk)1h [x/-]",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A142"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A145"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_101"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "D8"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia badań żywieniowych (wyk)1h [x/-]",
+                "short_name": "Mbż (wyk)1h [x/-]",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)1h [x/-]",
+                "short_name": "Sd (sem)1h [x/-]",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A141"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C205"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C205"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metodologia badań żywieniowych (ćw)1h [x/-]",
+                "short_name": "Mbż (ćw)1h [x/-]",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A16"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_04"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_04"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A145"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biotechnologia żywności (wyk)",
+                "short_name": "Bż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biotechnologia żywności (ćw)",
+                "short_name": "Bż (ćw)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A144"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_04"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)1h [-/x]",
+                "short_name": "Sd (sem)1h [-/x]",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_04"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "Online_04"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań żywieniowych (ćw)",
+                "short_name": "Mbż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metodologia badań żywieniowych (wyk)",
+                "short_name": "Mbż (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A31"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (ćw)",
+                "short_name": "Tżipd (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (wyk)",
+                "short_name": "Nnzeim (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nutrigenomika, nutrigenetyka z epigenetyką i mikrobiom (lab)",
+                "short_name": "Nnzeim (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C228"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (wyk)",
+                "short_name": "Fiilzż (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A2"
+            }
+        ]
+    }
+}

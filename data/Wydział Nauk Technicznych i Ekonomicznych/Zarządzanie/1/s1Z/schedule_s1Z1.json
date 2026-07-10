@@ -1,0 +1,68 @@
+{
+    "s1Z1": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy finansów (wyk)",
+                "short_name": "Pf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "E1"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka o organizacji (wyk)",
+                "short_name": "Noo (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C212"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ]
+    }
+}

@@ -1,0 +1,415 @@
+{
+    "s1INT2": {
+        "Środa 2026-02-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A32"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tax law (ćw)",
+                "short_name": "Tl (ćw)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_13"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Tax law (wyk)",
+                "short_name": "Tl (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A31"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tax law (ćw)",
+                "short_name": "Tl (ćw)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_103"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A141"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tax law (ćw)",
+                "short_name": "Tl (ćw)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A145"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tax law (wyk)",
+                "short_name": "Tl (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Crisis response in the EU (ćw)",
+                "short_name": "CritE (ćw)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Crisis response in the EU (wyk)",
+                "short_name": "CritE (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Tax law (wyk)",
+                "short_name": "Tl (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Human rights and systems for their protection (wyk)",
+                "short_name": "Hrasftp (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of criminal law (ćw)",
+                "short_name": "Bocl (ćw)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of criminal law (wyk)",
+                "short_name": "Bocl (wyk)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A16"
+            }
+        ]
+    }
+}

@@ -1,0 +1,848 @@
+{
+    "s4JMP1": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "A141"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)1h [-/x]",
+                "short_name": "Pk (wt)1h [-/x]",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_110"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A16"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_111"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes / prof. dr hab. Andrzej Panasiuk",
+                "room": "A12 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes / prof. dr hab. Andrzej Panasiuk",
+                "room": "A12 / A15"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe prywatne (wt)1h [x/-]",
+                "short_name": "Pmp (wt)1h [x/-]",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
+                "short_name": "Srswsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "Online_112"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo międzynarodowe prywatne (wyk)",
+                "short_name": "Pmp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A15"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Proseminarium (sem)",
+                "short_name": "Prose (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A145"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
+                "short_name": "Puir (wyk)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A31"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo budowlane* (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "C224"
+            }
+        ]
+    }
+}

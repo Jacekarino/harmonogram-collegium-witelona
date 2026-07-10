@@ -1,0 +1,1601 @@
+{
+    "s1MBW1u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C122"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C122"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C122"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C322"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr  Aneta Dzikowska-Janicka",
+                "room": "C227 / C329"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "C128"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_54"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_05 / Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_05 / Online_06"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_107"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C313"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C313"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Marek Czarkowski",
+                "room": "C111 / A16 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Marek Czarkowski",
+                "room": "C111 / A16 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_54"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)1h [x/-]",
+                "short_name": "Sd (sem)1h [x/-]",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_54"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C113"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C323"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
+                "room": "A141 / A16 / C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
+                "room": "A141 / A16 / C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_54"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_54"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_105"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_64"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_64"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_64"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_64"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "Online_107"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A33"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "A2 / C325"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "A2 / C325"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_64"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_64"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_64"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "D1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "D1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "D1"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kryminalistyka (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wt)",
+                "short_name": "Sb-tip (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Szkolenie strzeleckie (wt)",
+                "short_name": "Ss (wt)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C222"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kryminalistyka (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A14"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "C123 / C129 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "C123 / C129 / A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wyk)",
+                "short_name": "Bwcwuioi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja działań ratowniczych (wyk)",
+                "short_name": "Odr (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie kryzysowe (wyk)",
+                "short_name": "Zk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy bezzałogowe - teoria i praktyka (wyk)",
+                "short_name": "Sb-tip (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie strzeleckie (wyk)",
+                "short_name": "Ss (wyk)",
+                "teacher": "mgr Dariusz Stefaniak",
+                "room": "C125"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "A141 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Bezpieczeństwo w cyberprzestrzeni w ujęciu indywidualnym oraz instytucjonalnym (wt)",
+                "short_name": "Bwcwuioi (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Organizacja działań ratowniczych (wt)",
+                "short_name": "Odr (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie kryzysowe (wt)",
+                "short_name": "Zk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            }
+        ]
+    }
+}

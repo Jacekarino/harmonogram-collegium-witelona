@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmonogram Collegium Witelona</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="background-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <nav class="top-bar glass-panel">
+        <div class="logo">Harmonogram Collegium Witelona</div>
+        <div class="nav-actions">
+            <button id="nav-picker-btn" class="nav-btn" title="Wybór harmonogramu">📅</button>
+            <button id="nav-settings-btn" class="nav-btn" title="Ustawienia witryny">⚙️</button>
+            <button id="nav-about-btn" class="nav-btn" title="Informacje o projekcie">ℹ️</button>
+        </div>
+    </nav>
+
+    <main class="app-container">
+        <section class="schedule-container glass-panel hidden" id="schedule-container">
+            <div class="current-selection-path" id="current-selection-path">
+            </div>
+            <div class="date-navigator">
+                <button class="date-nav-btn" id="prev-day-btn">&lt;</button>
+                <div class="current-date" id="current-date-display">Wybierz datę</div>
+                <button class="date-nav-btn" id="next-day-btn">&gt;</button>
+            </div>
+
+            <div class="classes-list" id="classes-list">
+                <!-- inject js -->
+            </div>
+        </section>
+
+        <div class="empty-state glass-panel" id="empty-state">
+            <p>Najpierw wybierz harmonogram</p>
+        </div>
+    </main>
+
+    <div class="panel-overlay hidden" id="panel-overlay"></div>
+    <div class="side-panel glass-panel hidden" id="picker-panel">
+        <div class="panel-header">
+            <h2>Wybór Harmonogramu</h2>
+            <button class="close-panel-btn" data-target="picker-panel">&times;</button>
+        </div>
+        <div class="accordion">
+            <details class="acc-step" id="step-faculty" open>
+                <summary>1. Wydział</summary>
+                <div class="acc-content grid-btns" id="grid-faculty"></div>
+            </details>
+            <details class="acc-step" id="step-spec">
+                <summary>2. Kierunek</summary>
+                <div class="acc-content grid-btns" id="grid-spec"></div>
+            </details>
+            <details class="acc-step" id="step-year">
+                <summary>3. Rok</summary>
+                <div class="acc-content grid-btns" id="grid-year"></div>
+            </details>
+            <details class="acc-step" id="step-code">
+                <summary>4. Specjalizacja</summary>
+                <div class="acc-content grid-btns" id="grid-code"></div>
+            </details>
+            <details class="acc-step" id="step-subgroup">
+                <summary>5. Grupa</summary>
+                <div class="acc-content grid-btns" id="grid-subgroup"></div>
+            </details>
+        </div>
+    </div>
+
+    <div class="side-panel glass-panel hidden" id="settings-panel">
+        <div class="panel-header">
+            <h2>Ustawienia Witryny</h2>
+            <button class="close-panel-btn" data-target="settings-panel">&times;</button>
+        </div>
+        <div class="settings-content">
+            <div class="setting-row">
+                <span>Ciemny Motyw</span>
+                <label class="switch">
+                    <input type="checkbox" id="toggle-dark-mode">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="setting-row">
+                <span>Skrócone Nazwy Zajęć</span>
+                <label class="switch">
+                    <input type="checkbox" id="toggle-short-names">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="setting-row">
+                <span>Pomiń Puste Dni</span>
+                <label class="switch">
+                    <input type="checkbox" id="toggle-auto-skip">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="setting-row">
+                <span>Podświetl Trwające Zajęcia</span>
+                <label class="switch">
+                    <input type="checkbox" id="toggle-highlight-current">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="setting-row" style="border-bottom: none; margin-top: 1rem;">
+                <button id="export-ics-btn" class="pick-btn"
+                    style="width: 100%; text-align: center; padding: 0.75rem;">📅 Eksportuj do Kalendarza</button>
+            </div>
+            <div class="setting-row" style="border-bottom: none; margin-top: 0.5rem; justify-content: center;">
+                <details style="width: 100%;">
+                    <summary style="cursor: pointer; text-align: center; color: var(--accent-color); font-weight: 500;">
+                        Instrukcja: Jak dodać do kalendarza?</summary>
+                    <div
+                        style="margin-top: 1rem; font-size: 0.9rem; color: var(--text-secondary); line-height: 1.5; padding: 1rem; background: var(--glass-bg); border-radius: 8px;">
+                        <p><strong>Android [Google Kalendarz]:</strong> Kliknij eksport, pobierz plik i otwórz go -
+                            system zapyta, czy (i które) dodać wydarzenia do Twojego kalendarza.</p>
+                        <p style="margin-top: 0.5rem;"><strong>iOS [Apple Calendar]:</strong> Po kliknięciu eksportu
+                            plik otworzy się automatycznie i pozwoli jednym kliknięcie zaimportować wszystkie zajęcia.
+                        </p>
+                        <p style="margin-top: 0.5rem;"><strong>Inne aplikacje:</strong> Pobrany w formacie .ics plik
+                            można zaimportować w wielu aplikacjach i serwisach kalendarzowych.</p>
+                    </div>
+                </details>
+            </div>
+        </div>
+    </div>
+
+    <div class="side-panel glass-panel hidden" id="about-panel">
+        <div class="panel-header">
+            <h2>Informacje o Projekcie</h2>
+            <button class="close-panel-btn" data-target="about-panel">&times;</button>
+        </div>
+        <div class="about-content">
+            <p style="margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.5;">Jacek
+                Kowalczyk [44921]<br><br>Nieoficjalna, alternatywna aplikacja do wyświetlania harmonogramu zajęć uczelni
+                Collegium Witelona. Projekt powstał hobbistycznie, z frustracji oraz chęci poprawy czytelności i
+                dostępu do planów zajęć na urządzeniach mobilnych.<br><br>Z uwagi na architekturę projektu strona nie
+                jest aktualizowana na żywo,
+                a zmiany są widoczne po ręcznej aktualizacji przez administratora (mnie, w wolnej chwili).<br><br>Autor
+                nie odpowiada za zmiany i niezgodności w terminach lub salach zajęć. Pamiętaj, aby zweryfikować
+                zapowiedziane zmiany na oficjalnej stronie z planem uczelni.<br><br>Oryginalna
+                witryna:<br><a href="http://plan.pwsz.legnica.edu.pl/" target="_blank"
+                    style="color: var(--accent-color); text-decoration: none;">plan.pwsz.legnica.edu.pl</a><br><br>GitHub:
+                <br><a href="https://github.com/jacekarino" target="_blank"
+                    style="color: var(--accent-color); text-decoration: none;">github.com/jacekarino</a>
+            </p>
+        </div>
+    </div>
+
+    <div class="modal-overlay hidden" id="calendar-modal">
+        <div class="modal-content glass-panel">
+            <div class="modal-header">
+                <h2>Kalendarz</h2>
+                <button class="close-modal-btn" id="close-modal-btn">&times;</button>
+            </div>
+            <div class="calendar-nav">
+                <button id="cal-prev-month">&lt;</button>
+                <h3 id="cal-month-year">Luty 2026</h3>
+                <button id="cal-next-month">&gt;</button>
+            </div>
+            <div class="calendar-grid">
+                <div class="cal-day-header">Pn</div>
+                <div class="cal-day-header">Wt</div>
+                <div class="cal-day-header">Śr</div>
+                <div class="cal-day-header">Cz</div>
+                <div class="cal-day-header">Pt</div>
+                <div class="cal-day-header">Sb</div>
+                <div class="cal-day-header">Nd</div>
+                <!-- inject js -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

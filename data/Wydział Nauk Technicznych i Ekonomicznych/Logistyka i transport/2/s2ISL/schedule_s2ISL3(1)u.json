@@ -1,0 +1,1469 @@
+{
+    "s2ISL3(1)u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C125"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "D17 / C227"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A13"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A145"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C314"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C128"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C128"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_02 / Online_03"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A141"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do rynku T S L (wt)",
+                "short_name": "DdrTSL (wt)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A218"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy transportowe (p)",
+                "short_name": "St (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie projektami logistycznymi (wyk)",
+                "short_name": "Zpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy transportowe (wyk)",
+                "short_name": "St (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka międzynarodowa (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C203"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (wyk)",
+                "short_name": "Dgizfp (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dostęp do rynku T S L (wyk)",
+                "short_name": "DdrTSL (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo transportowe i celne (wyk)",
+                "short_name": "Ptic (wyk)",
+                "teacher": "dr Katarzyna Tarnowska",
+                "room": "C224"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C314"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy informatyczne w logistyce i w transporcie (lab)",
+                "short_name": "Siwliwt (lab)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C314"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Działalność gospodarcza i zarządzanie finansami przedsiębiorstwa (ćw)",
+                "short_name": "Dgizfp (ćw)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie projektami logistycznymi (p)",
+                "short_name": "Zpl (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich (lab)",
+                "short_name": "Kwpi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Filip Kostek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka międzynarodowa (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            }
+        ]
+    }
+}

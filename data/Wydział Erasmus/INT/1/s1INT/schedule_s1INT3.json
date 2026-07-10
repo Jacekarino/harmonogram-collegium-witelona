@@ -1,0 +1,513 @@
+{
+    "s1INT3": {
+        "Piątek 2026-02-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Macroeconomics (wyk)",
+                "short_name": "Macro (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Macroeconomics (ćw)",
+                "short_name": "Macro (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Financial Management (wyk)",
+                "short_name": "FM (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Financial Management (ćw)",
+                "short_name": "FM (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "C201"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_100"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of macroeconomics (wyk)",
+                "short_name": "Bom (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of macroeconomics (ćw)",
+                "short_name": "Bom (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Enterprise Finance (ćw)",
+                "short_name": "EF (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Enterprise Finance (wyk)",
+                "short_name": "EF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mathematics I I (wyk)",
+                "short_name": "MI (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Personal brandingII (wyk)",
+                "short_name": "PbII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Personal brandingII (lab)",
+                "short_name": "PbII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Computer Networks I I (wyk)",
+                "short_name": "CNII (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C209"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Financial Management (wyk)",
+                "short_name": "FM (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Financial Management (ćw)",
+                "short_name": "FM (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Enterprise Finance (wyk)",
+                "short_name": "EF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Enterprise Finance (ćw)",
+                "short_name": "EF (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Personal brandingII (wyk)",
+                "short_name": "PbII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of macroeconomics (wyk)",
+                "short_name": "Bom (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of macroeconomics (ćw)",
+                "short_name": "Bom (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Computer Networks I I (wyk)",
+                "short_name": "CNII (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mathematics I I (wyk)",
+                "short_name": "MI (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_107"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Computer Networks I I (lab)",
+                "short_name": "CNII (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Computer Networks I I (lab)",
+                "short_name": "CNII (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Personal brandingII (lab)",
+                "short_name": "PbII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Enterprise Finance (wyk)",
+                "short_name": "EF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Enterprise Finance (ćw)",
+                "short_name": "EF (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Personal brandingII (wyk)",
+                "short_name": "PbII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Personal brandingII (lab)",
+                "short_name": "PbII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of macroeconomics (wyk)",
+                "short_name": "Bom (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of macroeconomics (ćw)",
+                "short_name": "Bom (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Organization and management methods (wyk)",
+                "short_name": "Oamm (wyk)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "C201"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mathematics I I (wyk)",
+                "short_name": "MI (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organization and management methods (ćw)",
+                "short_name": "Oamm (ćw)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Enterprise Finance (wyk)",
+                "short_name": "EF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Enterprise Finance (ćw)",
+                "short_name": "EF (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Computer Networks I I (wyk)",
+                "short_name": "CNII (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Computer Networks I I (lab)",
+                "short_name": "CNII (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Macroeconomics (wyk)",
+                "short_name": "Macro (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Macroeconomics (ćw)",
+                "short_name": "Macro (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Financial Management (wyk)",
+                "short_name": "FM (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Financial Management (ćw)",
+                "short_name": "FM (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C203"
+            }
+        ]
+    }
+}

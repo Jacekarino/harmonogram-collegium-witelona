@@ -1,0 +1,1206 @@
+{
+    "s1PSYCH_W_1(2)u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)1h [x/-]",
+                "short_name": "BpzcII (ćw)1h [x/-]",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja społeczna (wyk)1h [x/-]",
+                "short_name": "Ks (wyk)1h [x/-]",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)1h [x/-]",
+                "short_name": "MdwMjpzwp (wyk)1h [x/-]",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_11"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logika (wyk)1h [x/-]",
+                "short_name": "Logik (wyk)1h [x/-]",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)1h [x/-]",
+                "short_name": "Ppp (wt)1h [x/-]",
+                "teacher": "mgr Mariusz Trela",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_106"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "C113 Leg / online FW"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36 Leg / online FW"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)1h [x/-]",
+                "short_name": "MdwMjpzwp (wt)1h [x/-]",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_05"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wyk)",
+                "short_name": "MdwMjpzwp (wyk)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Komunikacja społeczna (wyk)",
+                "short_name": "Ks (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "C113 Leg / online FW"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logika (wyk)",
+                "short_name": "Logik (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Komunikacja społeczna (ćw)",
+                "short_name": "Ks (ćw)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (ćw)",
+                "short_name": "BpzcII (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru: Mobbing jako patologiczne zjawisko w pracy* (wt)",
+                "short_name": "MdwMjpzwp (wt)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia emocji i motywacji (ćw)",
+                "short_name": "Peim (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (ćw)",
+                "short_name": "Prcwcż (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy pracy grupowej (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia emocji i motywacji (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia rozwoju człowieka w cyklu życia (wyk)",
+                "short_name": "Prcwcż (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I I (wyk)",
+                "short_name": "BpzcII (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_02"
+            }
+        ]
+    }
+}

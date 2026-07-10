@@ -1,0 +1,1363 @@
+{
+    "s2PSYCH4u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia bezpieczeństwa (wyk)1h [x/-]",
+                "short_name": "Pb (wyk)1h [x/-]",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C201"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C201"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C111"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C111"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia międzykulturowa (wyk)1h [x/-]",
+                "short_name": "Pm (wyk)1h [x/-]",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C122"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C126"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)1h [x/-]",
+                "short_name": "Ps (wyk)1h [x/-]",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_115"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C128"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C122"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C128"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A217"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A217"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_05"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia bezpieczeństwa (wyk)",
+                "short_name": "Pb (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C113 Leg / online FW"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia międzykulturowa (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr  Iga Palacz-Poborczyk",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "dr Beata Rajba",
+                "room": "C111"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C126"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_41 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "C212 Leg / online FW"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia stresu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr n. med. Agnieszka  Turkiewicz-Maligranda",
+                "room": "C212 Leg / online FW"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia bezpieczeństwa (ćw)",
+                "short_name": "Pb (ćw)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Interwencja kryzysowa (wyk)",
+                "short_name": "Ik (wyk)",
+                "teacher": "dr Kaja Kajdan",
+                "room": "Wrocław_sala / online Leg"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia różnic indywidualnych (wyk)",
+                "short_name": "Pri (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_42 / Online_43 / Online_44 / Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "Online_40 / Online_42 / Online_43 / Online_44 / Online_45"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Izabela Selera / mgr Zyta Howicka / mgr Monika Florek / mgr Sylwia Zajchowska",
+                "room": "C127 / A141 / C205 / A217 / C228 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia stresu (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Astrid Brojanowska",
+                "room": "A33"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C123"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia różnic indywidualnych (ćw)",
+                "short_name": "Pri (ćw)",
+                "teacher": "mgr Maciej Ługowski",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Interwencja kryzysowa (ćw)",
+                "short_name": "Ik (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia międzykulturowa (ćw)",
+                "short_name": "Pm (ćw)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A217"
+            }
+        ]
+    }
+}

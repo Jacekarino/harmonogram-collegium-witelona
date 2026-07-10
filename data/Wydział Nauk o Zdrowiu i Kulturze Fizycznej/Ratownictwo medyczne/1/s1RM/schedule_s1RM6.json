@@ -1,0 +1,1725 @@
+{
+    "s1RM6": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (wyk)",
+                "short_name": "Zeiso (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (wyk)",
+                "short_name": "Zeiso (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (ćw)",
+                "short_name": "Zeiso (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (ćw)",
+                "short_name": "Zeiso (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C113"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A13"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (wyk)",
+                "short_name": "Zeiso (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (wyk)",
+                "short_name": "Zeiso (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A314"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A314"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (ćw)",
+                "short_name": "Zeiso (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (ćw)",
+                "short_name": "Zeiso (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ginekologia i położnictwo (zp)",
+                "short_name": "Gip (zp)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (wyk)",
+                "short_name": "Zeiso (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zagrożenia epidemiologiczne i szczepienia ochronne (ćw)",
+                "short_name": "Zeiso (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A13"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia z toksykologią (wyk)",
+                "short_name": "Fzt (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo medyczne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A320"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (wyk)",
+                "short_name": "Fzefk (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C113"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A142"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy diagnostyki obrazowej* (ćw)",
+                "short_name": "Pdo (ćw)",
+                "teacher": "mgr Marta Soboń",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ginekologia i położnictwo (ćw)",
+                "short_name": "Gip (ćw)",
+                "teacher": "mgr Anna Santorowska",
+                "room": "A119 (MCSM-porodowa)"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywieniowa profilaktyka chorób* (ćw)",
+                "short_name": "Żpc (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A318"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (wyk)",
+                "short_name": "Prw (wyk)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ginekologia i położnictwo (wyk)",
+                "short_name": "Gip (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kwalifikowana pierwsza pomoc* (ćw)",
+                "short_name": "Kpp (ćw)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
+                "short_name": "Fzefk (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia z toksykologią (ćw)",
+                "short_name": "Fzt (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki zabiegów medycznych (ćw)",
+                "short_name": "Tzm (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe wewnątrzszpitalne (ćw)",
+                "short_name": "Prw (ćw)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A318"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            }
+        ]
+    }
+}

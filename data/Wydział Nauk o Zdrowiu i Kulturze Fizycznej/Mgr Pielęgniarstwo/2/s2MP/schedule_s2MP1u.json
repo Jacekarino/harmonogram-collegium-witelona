@@ -1,0 +1,909 @@
+{
+    "s2MP1u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A143"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A32"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "A143 / A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "A143 / A32"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A16"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A32"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A142"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (zp)",
+                "short_name": "Zm (zp)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaburzenia metaboliczne* (zp)",
+                "short_name": "Zm (zp)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zasady terapii w onkologii* (zp)",
+                "short_name": "Ztwo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zasady terapii w onkologii* (zp)",
+                "short_name": "Ztwo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zasady terapii w onkologii* (zp)",
+                "short_name": "Ztwo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A31"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A217"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A217"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zasady terapii w onkologii* (zp)",
+                "short_name": "Ztwo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zasady terapii w onkologii* (zp)",
+                "short_name": "Ztwo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "Online_02 / Online_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "Online_02 / Online_03"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia metaboliczne* (zp)",
+                "short_name": "Zm (zp)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaburzenia metaboliczne* (wyk)",
+                "short_name": "Zm (wyk)",
+                "teacher": "lek. Monika Karpiak",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "C125"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "C125"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "C125"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo w praktyce pielęgniarskiej (wyk)",
+                "short_name": "Pwpp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A16"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A13"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zasady terapii w onkologii* (wyk)",
+                "short_name": "Ztwo (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia metaboliczne* (zp)",
+                "short_name": "Zm (zp)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaburzenia metaboliczne* (zp)",
+                "short_name": "Zm (zp)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A143"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A12"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "mgr Anna Filipienko",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. Izabela Wróblewska / dr n. med. Jolanta Bielawska",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przygotowanie do egzaminu dyplomowego (sem)",
+                "short_name": "Pded (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "C113"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / dr hab. Izabela Wróblewska",
+                "room": "Online_01 / Online_02"
+            }
+        ]
+    }
+}

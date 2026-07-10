@@ -1,0 +1,1555 @@
+{
+    "s3EMU1(2)u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "E3"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "E4"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "E1"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D6"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A142 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A142 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C129"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C129"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_114"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_110"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "C128 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "C128 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C202"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C202"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A143 / C205"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A143 / C205"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C127"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A16 / C209"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A16 / C209"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_110"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "A141 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "A141 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "C205 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "C205 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_17"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "C205 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "C205 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C202"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C202"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_05"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Sylwia Zajchowska",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "D17 / C205"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "D17 / C205"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "C209"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "C209"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_17"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "Online_17"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "A217"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C127"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_111"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (p)",
+                "short_name": "Btmiu (p)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Systemy energetyczne i paliwowe (ćw)",
+                "short_name": "Seip (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D8"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Iwona Chrzan-Filipowska",
+                "room": "D17 / C227"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Iwona Chrzan-Filipowska",
+                "room": "D17 / C227"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C326"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (p)",
+                "short_name": "Icie (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C205"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wentylacja i klimatyzacja (ćw)",
+                "short_name": "Wik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C205"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Maszyny i urządzenia elektryczne (lab)",
+                "short_name": "Miue (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera",
+                "room": "A13 / C205"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy energetyczne i paliwowe (p)",
+                "short_name": "Seip (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C205"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechatronika w energetyce (p)",
+                "short_name": "Mwe (p)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C205"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wentylacja i klimatyzacja (wyk)",
+                "short_name": "Wik (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Instalacje ciepłownicze i elektroenergetyczne (wyk)",
+                "short_name": "Icie (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C224"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy energetyczne i paliwowe (wyk)",
+                "short_name": "Seip (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C203"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechatronika w energetyce (wyk)",
+                "short_name": "Mwe (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Maszyny i urządzenia elektryczne (wyk)",
+                "short_name": "Miue (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo techniczne maszyn i urządzeń (wyk)",
+                "short_name": "Btmiu (wyk)",
+                "teacher": "prof. dr hab. inż. Krzysztof Jesionek",
+                "room": "A36"
+            }
+        ]
+    }
+}

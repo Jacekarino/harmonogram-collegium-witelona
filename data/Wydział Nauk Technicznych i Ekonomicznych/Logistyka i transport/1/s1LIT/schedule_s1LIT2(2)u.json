@@ -1,0 +1,1202 @@
+{
+    "s1LIT2(2)u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "E1"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A32"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A31"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "A31"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C202"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie produkcją i usługami (wyk)",
+                "short_name": "Zpiu (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie produkcją i usługami (ćw)",
+                "short_name": "Zpiu (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie produkcją i usługami (ćw)",
+                "short_name": "Zpiu (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_07"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C227"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_04"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie produkcją i usługami (wyk)",
+                "short_name": "Zpiu (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C129"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie produkcją i usługami (wyk)",
+                "short_name": "Zpiu (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_02"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie produkcją i usługami (wyk)",
+                "short_name": "Zpiu (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka o przedsiębiorstwie (ćw)",
+                "short_name": "Nop (ćw)",
+                "teacher": "mgr Agnieszka Kryszkowska",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne i ekonometria (lab)",
+                "short_name": "Boie (lab)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
+                "short_name": "Wkimzwl (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C209"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C129"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C129"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "C326"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie produkcją i usługami (ćw)",
+                "short_name": "Zpiu (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C128"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie produkcją i usługami (ćw)",
+                "short_name": "Zpiu (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C128"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do logistyki (wyk)",
+                "short_name": "Wdl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
+                "short_name": "Lwp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie produkcją i usługami (ćw)",
+                "short_name": "Zpiu (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka o przedsiębiorstwie (wyk)",
+                "short_name": "Nop (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Finanse (wyk)",
+                "short_name": "Finan (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "E2"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne i ekonometria (wyk)",
+                "short_name": "Boie (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "E3"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
+                "short_name": "Ilit (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
+                "short_name": "Wkimzwl (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A32"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie produkcją i usługami (wyk)",
+                "short_name": "Zpiu (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Finanse (ćw)",
+                "short_name": "Finan (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "C329"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Infrastruktura logistyczna i transportowa (p)",
+                "short_name": "Ilit (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "C329"
+            }
+        ]
+    }
+}

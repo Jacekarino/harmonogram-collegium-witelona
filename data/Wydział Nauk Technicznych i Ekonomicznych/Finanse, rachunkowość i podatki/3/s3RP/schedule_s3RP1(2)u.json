@@ -1,0 +1,1092 @@
+{
+    "s3RP1(2)u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "E4"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "E4"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "E4"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A141 / D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A141 / D17 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C224"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C224"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka / prof. dr hab. Adam Kopiński",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "D17 / C209 / C210 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "D17 / C209 / C210 / D8"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński / dr Bożena Rudnicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "C128 / C129 / C205 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "C128 / C129 / C205 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A141 / A2 / C226 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Iwona Chrzan-Filipowska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A141 / A2 / C226 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "C113"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński / dr Bożena Rudnicka",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński / dr Bożena Rudnicka",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska",
+                "room": "D17 / C205 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska",
+                "room": "D17 / C205 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "C113"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka / prof. dr hab. Adam Kopiński",
+                "room": "Online_106 / Online_107"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Agnieszka Łakomska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A15 / D17 / A31 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Agnieszka Łakomska / mgr Izabela Selera / mgr Sylwia Zajchowska",
+                "room": "A15 / D17 / A31 / D8"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_04"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Izabela Selera / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska",
+                "room": "D17 / C205 / C326 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr Izabela Selera / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska",
+                "room": "D17 / C205 / C326 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki dochodowe (wyk)",
+                "short_name": "Pd (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka / prof. dr hab. Adam Kopiński",
+                "room": "Online_05 / Online_06"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość podatkowa (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość finansowa zaawansowana (wyk)",
+                "short_name": "Rfz (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podatki pośrednie oraz lokalne (wyk)",
+                "short_name": "Ppol (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ryzyko finansowe (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński / dr Bożena Rudnicka",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński / dr Bożena Rudnicka",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rozliczenia podatkowe i ewidencja podatkowa (wt)",
+                "short_name": "Rpiep (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Iwona Chrzan-Filipowska",
+                "room": "D17 / C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ryzyko finansowe (wt)",
+                "short_name": "Rf (wt)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podatki dochodowe (wt)",
+                "short_name": "Pd (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Międzynarodowe Standardy Sprawozdawczości Finansowej (wt)",
+                "short_name": "MSSF (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola celno-skarbowa i podatkowa (wt)",
+                "short_name": "Kcip (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A212"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1252 @@
+{
+    "s1MMAP1u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Partycypacja społeczna* (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "C125"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "C205 / A217 / C325"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "C205 / A217 / C325"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "C224"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "C202 / C329"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "C128"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Partycypacja społeczna* (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A144"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "C324 / C325"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "A2 / C324 / C325"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A2"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Partycypacja społeczna* (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Partycypacja społeczna* (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_45"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marcin Sieja / dr Waldemar Bochenek / dr Jakub Rzucidło",
+                "room": "C129 / A16 / C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marcin Sieja / dr Waldemar Bochenek / dr Jakub Rzucidło",
+                "room": "C129 / A16 / C324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A245"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "C126 / A2 / C325"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)1h [x/-]",
+                "short_name": "Sd (sem)1h [x/-]",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "C126 / A2 / C325"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Partycypacja społeczna* (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Komunikacja i public relations w administracji* (wyk)",
+                "short_name": "Kiprwa (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_25"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komunikacja i public relations w administracji* (wt)",
+                "short_name": "Kiprwa (wt)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne w administracji publicznej (wyk)",
+                "short_name": "Pcwap (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_01 / Online_04"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Odpowiedzialność osoby pełniącej funkcję publiczną (wyk)",
+                "short_name": "Oopfp (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "E2"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt* (wyk)",
+                "short_name": "Kia (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska / mgr  Aneta Dzikowska-Janicka",
+                "room": "C127 / A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Partycypacja społeczna* (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola i audyt* (wt)",
+                "short_name": "Kia (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "C125"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne w administracji publicznej (wt)",
+                "short_name": "Pcwap (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość (wt)",
+                "short_name": "Rachu (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            }
+        ]
+    }
+}

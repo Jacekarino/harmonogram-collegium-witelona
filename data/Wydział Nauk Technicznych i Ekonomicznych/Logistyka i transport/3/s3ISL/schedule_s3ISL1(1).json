@@ -1,0 +1,1434 @@
+{
+    "s3ISL1(1)": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "C201 / A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C212"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "C113"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A142"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A145"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_03"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "C203"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A145"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_101"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_103"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A15"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski / dr inż. Dariusz Michalski",
+                "room": "Online_07 / Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski / dr inż. Dariusz Michalski",
+                "room": "Online_07 / Online_08"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A217"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_103"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_102"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Infrastruktura techniczna magazynów (ćw)",
+                "short_name": "Itm (ćw)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_101"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A217"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (ćw)",
+                "short_name": "Zzm (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A217"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_04"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (p)",
+                "short_name": "Mplit (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja tras transportowych (p)",
+                "short_name": "Ott (p)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski",
+                "room": "Online_08 / Online_104"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zapasami magazynowymi (wyk)",
+                "short_name": "Zzm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A141"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Infrastruktura informacyjna magazynów (ćw)",
+                "short_name": "Iim (ćw)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Infrastruktura techniczna magazynów (wyk)",
+                "short_name": "Itm (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie procesów logistycznych i transportowych (wyk)",
+                "short_name": "Mplit (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C113"
+            }
+        ]
+    }
+}

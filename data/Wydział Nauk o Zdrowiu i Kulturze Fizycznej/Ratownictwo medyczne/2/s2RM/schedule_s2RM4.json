@@ -1,0 +1,1825 @@
+{
+    "s2RM4": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A142"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A31"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A318"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (ćw)",
+                "short_name": "Chiru (ćw)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia i toksykologia kliniczna (wyk)",
+                "short_name": "Fitk (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Łukasz Gruba",
+                "room": "A108 (MCSM-ZRM)"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Urologia (wyk)",
+                "short_name": "Urolo (wyk)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Urologia (ćw)",
+                "short_name": "Urolo (ćw)",
+                "teacher": "mgr Katarzyna Śliwińska",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (wyk)",
+                "short_name": "Mr (wyk)",
+                "teacher": "lek. Stanisław Biernacki",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Farmakologia i toksykologia kliniczna (ćw)",
+                "short_name": "Fitk (ćw)",
+                "teacher": "mgr Dorota Cieciak",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna ratunkowa (zp)",
+                "short_name": "Mr (zp)",
+                "teacher": "mgr Daria Guz",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (zp)",
+                "short_name": "Chiru (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (wyk)",
+                "short_name": "Oitnr (wyk)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (ćw)",
+                "short_name": "Oitnr (ćw)",
+                "teacher": "mgr Jakub Adamiak",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Laryngologia (ćw)",
+                "short_name": "Laryn (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (wyk)",
+                "short_name": "Bnwrm (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medyczne czynności ratunkowe (wyk)",
+                "short_name": "Mcr (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Laryngologia (wyk)",
+                "short_name": "Laryn (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ortopedia i traumatologia narządu ruchu (zp)",
+                "short_name": "Oitnr (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w ratownictwie medycznym (sem)",
+                "short_name": "Bnwrm (sem)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Jednostki dyspozytorni medycznych w strukturach systemu Państwowego Ratownictwa Medycznego* (ćw)",
+                "short_name": "JdmwssPRM (ćw)",
+                "teacher": "dr Aleksandra Wysowska",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            }
+        ]
+    }
+}

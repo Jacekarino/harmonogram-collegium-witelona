@@ -1,0 +1,890 @@
+{
+    "s5JMPED1": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C126"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C126"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C126"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C126"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C126"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C126"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C111"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Plastyczne warsztaty twórcze* (wt)",
+                "short_name": "PdwPwt (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C122"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C122"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C122"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przedmiot do wyboru: Małe formy teatralne* (wt)",
+                "short_name": "PdwMft (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C122"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (wyk)",
+                "short_name": "Ppiopis (wyk)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przedmiot do wyboru: Autoprezentacja* (wt)",
+                "short_name": "PdwA (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt edukacyjny w przedszkolu i klasach I-III (wt)",
+                "short_name": "PewpikI (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Innowacje pedagogiczne (ćw)",
+                "short_name": "Ip (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawne i organizacyjne przedszkola i szkoły (ćw)",
+                "short_name": "Ppiopis (ćw)",
+                "teacher": "dr Marek Kazimierowicz",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Kazimierowicz / dr Małgorzata Buchla",
+                "room": "C111 / C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Organizacja czasu wolnego dziecka (ćw)",
+                "short_name": "Ocwd (ćw)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie ścieżki własnego rozwoju zawodowego (wt)",
+                "short_name": "Pśwrz (wt)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C123"
+            }
+        ]
+    }
+}

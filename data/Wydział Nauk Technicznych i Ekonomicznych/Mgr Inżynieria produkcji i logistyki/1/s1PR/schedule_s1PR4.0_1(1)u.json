@@ -1,0 +1,1305 @@
+{
+    "s1PR4.0_1(1)u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Rafał Więcławek",
+                "room": "C127 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr Sylwia Zajchowska",
+                "room": "A141 / D17 / C326 / D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C113"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_101"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C226"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C203"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_113"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_08"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A141"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A15"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_03"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_06"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C314"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C314"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Modelowanie i optymalizacja produkcji (lab)",
+                "short_name": "Miop (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C314"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_23"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Izabela Selera / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C11"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Transport wewnętrzny (wyk)",
+                "short_name": "Tw (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie i optymalizacja produkcji (wyk)",
+                "short_name": "Miop (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Regulacja i sterowanie (wyk)",
+                "short_name": "Ris (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C113"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy wspomagania decyzji (wyk)",
+                "short_name": "Swd (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przetwarzanie i analiza danych (wyk)",
+                "short_name": "Piad (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektromobilność (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (wyk)",
+                "short_name": "Ntm-pik (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Koncepcja przemysłu 4 . 0 (wyk)",
+                "short_name": "Kp4.0 (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C125"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek / prof. dr hab. inż. Robert Burduk",
+                "room": "C129 / C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah / mgr Sylwia Zajchowska",
+                "room": "C205 / A217 / C228 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nowoczesne technologie mechaniczne - projektowanie i konstrukcje (p)",
+                "short_name": "Ntm-pik (p)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Regulacja i sterowanie (lab)",
+                "short_name": "Ris (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przetwarzanie i analiza danych (lab)",
+                "short_name": "Piad (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wizualizacje i poszerzona rzeczywistość (lab)",
+                "short_name": "Wipr (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Transport wewnętrzny (p)",
+                "short_name": "Tw (p)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium przemysłowe (sem)",
+                "short_name": "Sp (sem)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            }
+        ]
+    }
+}

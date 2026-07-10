@@ -1,0 +1,1384 @@
+{
+    "s2PAM1(1)": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "E1"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C314"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E1"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C314"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C314"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A143"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A12 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A12 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A143"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A217 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A217 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A15"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A32 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A32 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_25"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A244"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A244"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A217"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A32"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_13"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C314"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C314"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody numeryczne (ćw)",
+                "short_name": "Mn (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie systemów baz danych (p)",
+                "short_name": "Psbd (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A142"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (p)",
+                "short_name": "PipsiI (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "D17 / D8"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie systemów baz danych (wyk)",
+                "short_name": "Psbd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody numeryczne (wyk)",
+                "short_name": "Mn (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I (wyk)",
+                "short_name": "PipsiI (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E4"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A245"
+            }
+        ]
+    }
+}

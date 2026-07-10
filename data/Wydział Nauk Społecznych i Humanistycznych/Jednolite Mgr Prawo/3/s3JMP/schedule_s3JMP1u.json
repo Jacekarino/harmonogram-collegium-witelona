@@ -1,0 +1,887 @@
+{
+    "s3JMP1u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C129"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C129"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C129"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C129"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C111"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C111"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_15"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C126"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C111"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C111"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C128"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C111"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C111"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "Online1301"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anita Wawrzyniak",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C329"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C329"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C329"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C205"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C205"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C205"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C205"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)1h [x/-]",
+                "short_name": "Pais (wt)1h [x/-]",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C205"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C205"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C205"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_40"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C209"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)1h [x/-]",
+                "short_name": "Pais (wt)1h [x/-]",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)1h [x/-]",
+                "short_name": "Wdpz (wt)1h [x/-]",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C126"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Natalia Grosiak-Bącal",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ]
+    }
+}

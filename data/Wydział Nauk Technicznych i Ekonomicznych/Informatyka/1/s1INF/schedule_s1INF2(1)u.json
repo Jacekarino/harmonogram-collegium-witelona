@@ -1,0 +1,1387 @@
+{
+    "s1INF2(1)u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "C125"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E2"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A244"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C314"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C314"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_102"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C11"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_17"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C212"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Algorytmy i struktury danych (wyk)",
+                "short_name": "Aisd (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka dyskretna (wyk)",
+                "short_name": "Md (wyk)",
+                "teacher": "dr hab. inż. Wojciech Kordecki",
+                "room": "C212"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Architektura komputerów (wyk)",
+                "short_name": "Ak (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E4"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I (wyk)",
+                "short_name": "PoI (wyk)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektroniki i miernictwa (wyk)",
+                "short_name": "Peim (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka dyskretnaw (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie obiektowe I (lab)",
+                "short_name": "PoI (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Architektura komputerów (lab)",
+                "short_name": "Ak (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Algorytmy i struktury danych (lab)",
+                "short_name": "Aisd (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy elektroniki i miernictwa (lab)",
+                "short_name": "Peim (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka dyskretna (ćw)",
+                "short_name": "Md (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ]
+    }
+}

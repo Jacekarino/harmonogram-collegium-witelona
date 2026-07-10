@@ -1,0 +1,779 @@
+{
+    "s1A2u": {
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
+                "short_name": "Wdc (wyk)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody i techniki pracy menedżera (wyk)",
+                "short_name": "Mitpm (wyk)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
+                "short_name": "Wdc (wyk)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "Online_102"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C10"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody i techniki pracy menedżera (wyk)",
+                "short_name": "Mitpm (wyk)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C224"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody i techniki pracy menedżera (wyk)",
+                "short_name": "Mitpm (wyk)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
+                "short_name": "Wdc (wyk)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_11"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
+                "short_name": "Wdc (wt)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A12"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody i techniki pracy menedżera (wyk)",
+                "short_name": "Mitpm (wyk)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
+                "short_name": "Wdc (wyk)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_102"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
+                "short_name": "Ppcwa (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metody i techniki pracy menedżera (wt)",
+                "short_name": "Mitpm (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
+                "short_name": "Tpboodija (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
+                "short_name": "Ddipiodo (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
+                "short_name": "Ppcwa (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody i techniki pracy menedżera (wyk)",
+                "short_name": "Mitpm (wyk)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
+                "short_name": "Wdc (wyk)",
+                "teacher": "mgr inż. Robert Nowakowski",
+                "room": "A14"
+            }
+        ]
+    }
+}

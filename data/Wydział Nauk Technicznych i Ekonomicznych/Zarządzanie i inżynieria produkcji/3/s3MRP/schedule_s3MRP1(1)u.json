@@ -1,0 +1,1283 @@
+{
+    "s3MRP1(1)u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C129"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C226"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka",
+                "room": "D17 / A32 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka",
+                "room": "D17 / A32 / D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C202"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C226"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C209"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah",
+                "room": "A16 / D17 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah",
+                "room": "A16 / D17 / D8"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C209"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah / mgr Zyta Howicka",
+                "room": "C205 / C325 / D8"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah / mgr Zyta Howicka",
+                "room": "C205 / C325 / D8"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_102"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka",
+                "room": "C205 / C326 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka",
+                "room": "C205 / C326 / D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C226"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C226"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C128"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka / mgr Katarzyna Ben Abdallah",
+                "room": "C128 / C129 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Zyta Howicka / mgr Katarzyna Ben Abdallah",
+                "room": "C128 / C129 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C209"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie jakością (ćw)",
+                "short_name": "Zj (ćw)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / C227 / D8"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / C227 / D8"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (wyk)",
+                "short_name": "Apisa (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Roboty przemysłowe (wyk)",
+                "short_name": "Rp (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (wyk)",
+                "short_name": "Kmiup (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wyk)",
+                "short_name": "Zj (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie bezpieczeństwem (wyk)",
+                "short_name": "Zb (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C113"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie bezpieczeństwem (ćw)",
+                "short_name": "Zb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C226"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyka przemysłowa i systemy automatyki (lab)",
+                "short_name": "Apisa (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Konstrukcje maszyn i urządzeń precyzyjnych (p)",
+                "short_name": "Kmiup (p)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (p)",
+                "short_name": "Pa (p)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C224"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Zyta Howicka / mgr Iwona Chrzan-Filipowska / mgr Katarzyna Ben Abdallah",
+                "room": "C128 / A141 / A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Komputerowe wspomaganie prac inżynierskich CAM/CAD (lab)",
+                "short_name": "KwpiC (lab)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C326"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
+                "short_name": "Lwp (ćw)",
+                "teacher": "mgr inż. Julita  Drzazga-Wolff",
+                "room": "C326"
+            }
+        ]
+    }
+}

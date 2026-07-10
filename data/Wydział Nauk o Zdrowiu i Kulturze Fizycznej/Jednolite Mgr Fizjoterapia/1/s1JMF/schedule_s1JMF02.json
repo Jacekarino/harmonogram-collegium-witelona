@@ -1,0 +1,1722 @@
+{
+    "s1JMF02": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A6"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A6"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biologia medyczna (ćw)",
+                "short_name": "Bm (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A32"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biomechanika stosowana i ergonomia (ćw)",
+                "short_name": "Bsie (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A6"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (wyk)",
+                "short_name": "Pp(pwipmpcpp) (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (wyk)",
+                "short_name": "Pp(pwipmpcpp) (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (ćw)",
+                "short_name": "Pp(pwipmpcpp) (ćw)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (ćw)",
+                "short_name": "Pp(pwipmpcpp) (ćw)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Filozofia i bioetyka (wyk)",
+                "short_name": "Fib (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia i bioetyka (wyk)",
+                "short_name": "Fib (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Filozofia i bioetyka (wyk)",
+                "short_name": "Fib (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "C125"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biologia medyczna (wyk)",
+                "short_name": "Bm (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C14"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Filozofia i bioetyka (ćw)",
+                "short_name": "Fib (ćw)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Filozofia i bioetyka (ćw)",
+                "short_name": "Fib (ćw)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (wyk)",
+                "short_name": "Pp(pwipmpcpp) (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (wyk)",
+                "short_name": "Pp(pwipmpcpp) (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biologia medyczna (wyk)",
+                "short_name": "Bm (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biologia medyczna (ćw)",
+                "short_name": "Bm (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biologia medyczna (ćw)",
+                "short_name": "Bm (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (wyk)",
+                "short_name": "Bsie (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (wyk)",
+                "short_name": "Bsie (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Filozofia i bioetyka (wyk)",
+                "short_name": "Fib (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (wyk)",
+                "short_name": "Bsie (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (ćw)",
+                "short_name": "Bsie (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika stosowana i ergonomia (ćw)",
+                "short_name": "Bsie (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biologia medyczna (wyk)",
+                "short_name": "Bm (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologia medyczna (wyk)",
+                "short_name": "Bm (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Filozofia i bioetyka (wyk)",
+                "short_name": "Fib (wyk)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Filozofia i bioetyka (ćw)",
+                "short_name": "Fib (ćw)",
+                "teacher": "dr Kamila Morawska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (wyk)",
+                "short_name": "Pp(pwipmpcpp) (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biologia medyczna (wyk)",
+                "short_name": "Bm (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C113"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy prawa ( prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy ) (ćw)",
+                "short_name": "Pp(pwipmpcpp) (ćw)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (wyk)",
+                "short_name": "A(pif) (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia palpacyjna (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Masaż (wyk)",
+                "short_name": "Masaż (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (wyk)",
+                "short_name": "P(popkip) (wyk)",
+                "teacher": "dr Dorota Domińska-Werbel",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż (zp)",
+                "short_name": "Masaż (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychologia ( psychologia ogólna, psychologia kliniczna i psychoterapia ) (ćw)",
+                "short_name": "P(popkip) (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pierwsza pomoc (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Daria Guz",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (ćw)",
+                "short_name": "Bsie (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika stosowana i ergonomia (ćw)",
+                "short_name": "Bsie (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki relaksacyjne (ćw)",
+                "short_name": "Tr (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Małgorzata Szczybura",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia ( prawidłowa i funkcjonalna ) (ćw)",
+                "short_name": "A(pif) (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika stosowana i ergonomia (wyk)",
+                "short_name": "Bsie (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika stosowana i ergonomia (wyk)",
+                "short_name": "Bsie (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            }
+        ]
+    }
+}

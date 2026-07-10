@@ -1,0 +1,1404 @@
+{
+    "s1FIIN1u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "C203"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "A141 / C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C113"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C224"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C128"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C128"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_107"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A13"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C129"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C129"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C202"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C202"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_08"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A12"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C228"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C228"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C226"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A31"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_11"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_105"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A143"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C128"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C228"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C228"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C228"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C129"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie finansami (wt)",
+                "short_name": "Zf (wt)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C128"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C128"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "Online_06 / Online_07"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (ćw)",
+                "short_name": "Rz (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie projektami (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C129"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C129"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie strategiczne (wt)",
+                "short_name": "Zs (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "C127"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Portfel inwestycyjny (wyk)",
+                "short_name": "Pi (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Standardy sprawozdawczości finansowej (wyk)",
+                "short_name": "Ssf (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C113"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo finansowe i podatkowe (wyk)",
+                "short_name": "Pfip (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "C113"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie strategiczne (wyk)",
+                "short_name": "Zs (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Optymalizacja decyzji menedżerskich (wyk)",
+                "short_name": "Odm (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C113"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Zofia Łękawa",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie projektami (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C113"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Standardy sprawozdawczości finansowej (ćw)",
+                "short_name": "Ssf (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah",
+                "room": "A217 / C228"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Portfel inwestycyjny (wt)",
+                "short_name": "Pi (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C226"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Optymalizacja decyzji menedżerskich (lab)",
+                "short_name": "Odm (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "D8"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1157 @@
+{
+    "s3LM1": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A142"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C202"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C202"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A142"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_05"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_02"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_03"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_06"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "D8"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_03"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie wiedzą (wt)",
+                "short_name": "Zw (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "E-commerce jako kanał dystrybucji a LM (wt)",
+                "short_name": "EjkdaL (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Informatyka w zarządzaniu (wyk)",
+                "short_name": "Iwz (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wyk)",
+                "short_name": "ZpwaLM (wyk)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie logistyką (wt)",
+                "short_name": "Zl (wt)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie logistyką (p)",
+                "short_name": "Zl (p)",
+                "teacher": "mgr Paweł Macuga",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w procesach logistycznych (wyk)",
+                "short_name": "LMwpl (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka w zarządzaniu (ćw)",
+                "short_name": "Iwz (ćw)",
+                "teacher": "mgr inż. Józefa Górska-Zając",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean Management w procesach logistycznych (wt)",
+                "short_name": "LMwpl (wt)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie procesami wytwórczymi a Lean Manufacturing (wt)",
+                "short_name": "ZpwaLM (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Lean Management w pracy biurowej (wt)",
+                "short_name": "LMwpb (wt)",
+                "teacher": "dr Jarosław Szandurski",
+                "room": "C203"
+            }
+        ]
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "s1INT4": {
+        "Środa 2026-02-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Basic life support (wyk)",
+                "short_name": "Bls (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Basic life support (wyk)",
+                "short_name": "Bls (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Endoscopy (wyk)",
+                "short_name": "Endos (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Surgery (wyk)",
+                "short_name": "Surge (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "The basic of emergency medical services (wyk)",
+                "short_name": "Tboems (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "The basic of emergency medical services (ćw)",
+                "short_name": "Tboems (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "The basic of emergency medical services (ćw)",
+                "short_name": "Tboems (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A318"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Human physiology and exercise physiology (wyk)",
+                "short_name": "Hpaep (wyk)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A12"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Human physiology and exercise physiology (wyk)",
+                "short_name": "Hpaep (wyk)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A31"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "The basic of emergency medical services (wyk)",
+                "short_name": "Tboems (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "The basic of emergency medical services (ćw)",
+                "short_name": "Tboems (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "The basic of emergency medical services (ćw)",
+                "short_name": "Tboems (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Basic life support (wyk)",
+                "short_name": "Bls (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Surgery (wyk)",
+                "short_name": "Surge (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Surgery (ćw)",
+                "short_name": "Surge (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Endoscopy (ćw)",
+                "short_name": "Endos (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A31"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Surgery (wyk)",
+                "short_name": "Surge (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Endoscopy (wyk)",
+                "short_name": "Endos (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Human physiology and exercise physiology (wyk)",
+                "short_name": "Hpaep (wyk)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A145"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Human physiology and exercise physiology (wyk)",
+                "short_name": "Hpaep (wyk)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Human physiology and exercise physiology (ćw)",
+                "short_name": "Hpaep (ćw)",
+                "teacher": "dr Zygmunt Sawicki",
+                "room": "A32"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "The basic of emergency medical services (wyk)",
+                "short_name": "Tboems (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "The basic of emergency medical services (ćw)",
+                "short_name": "Tboems (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Surgery (wyk)",
+                "short_name": "Surge (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Surgery (ćw)",
+                "short_name": "Surge (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Endoscopy (ćw)",
+                "short_name": "Endos (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A31"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Basic life support (wyk)",
+                "short_name": "Bls (wyk)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basic life support (ćw)",
+                "short_name": "Bls (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Trauma first aid (ćw)",
+                "short_name": "Tfa (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A16"
+            }
+        ]
+    }
+}

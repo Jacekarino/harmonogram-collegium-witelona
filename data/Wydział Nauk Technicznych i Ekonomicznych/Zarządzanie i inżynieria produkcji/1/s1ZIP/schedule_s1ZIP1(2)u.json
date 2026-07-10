@@ -1,0 +1,983 @@
+{
+    "s1ZIP1(2)u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E2"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C212"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C314"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C314"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_108"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C11"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C11"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C314"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C314"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C313"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (lab)",
+                "short_name": "Gigi (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Informatyka - systemy komputerowe (lab)",
+                "short_name": "I-sk (lab)",
+                "teacher": "mgr inż. Piotr Pruszyński",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C212"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Makroekonomia (wyk)",
+                "short_name": "Makro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja procesów i systemów produkcyjnych (wyk)",
+                "short_name": "Npisp (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C212"
+            }
+        ]
+    }
+}

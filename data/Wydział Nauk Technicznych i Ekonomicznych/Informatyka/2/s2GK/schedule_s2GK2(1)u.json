@@ -1,0 +1,1442 @@
+{
+    "s2GK2(1)u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E1"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A145"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A143 / A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A143 / A15"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_25"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A16 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A16 / D8"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C313"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C313"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy kompozycji graficznych (lab)",
+                "short_name": "Pkg (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A141 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A141 / D8"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_24"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_24"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C313"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C313"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projektowanie i programowanie obiektowe (lab)",
+                "short_name": "Pipo (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A244"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_16"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A15 / D8"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie wizualne (wyk)",
+                "short_name": "Pw (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie obiektowe (wyk)",
+                "short_name": "Pipo (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "E4"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaawansowane techniki wizualizacji (wyk)",
+                "short_name": "Ztw (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy kompozycji graficznych (wyk)",
+                "short_name": "Pkg (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane metody grafiki komputerowej (wyk)",
+                "short_name": "Zmgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C201"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A245"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "C202 / C227"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zaawansowane metody grafiki komputerowej (lab)",
+                "short_name": "Zmgk (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C11"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane techniki wizualizacji (p)",
+                "short_name": "Ztw (p)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie wizualne (lab)",
+                "short_name": "Pw (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C314"
+            }
+        ]
+    }
+}

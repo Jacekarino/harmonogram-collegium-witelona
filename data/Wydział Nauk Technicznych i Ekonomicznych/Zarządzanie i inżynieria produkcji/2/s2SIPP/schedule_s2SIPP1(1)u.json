@@ -1,0 +1,1387 @@
+{
+    "s2SIPP1(1)u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "C224"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C224"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Anna Świerczyńska",
+                "room": "D17 / C205"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Anna Świerczyńska",
+                "room": "D17 / C205"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A32"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C125"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C127"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_106"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-03-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C128"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C326"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C326"
+            }
+        ],
+        "Niedziela 2026-03-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C226"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C228"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C228"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_100"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C127"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A143"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Lean Manufacturing (sem)",
+                "short_name": "LM (sem)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C128"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Procesy i techniki produkcyjne (lab)",
+                "short_name": "Pitp (lab)",
+                "teacher": "mgr inż. Jakub Wisłocki",
+                "room": "C128"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C128"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_07"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_03"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-05-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy rachunkowości (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy rachunkowości (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_100"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie finansami (wyk)",
+                "short_name": "Zf (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Badania operacyjne (wyk)",
+                "short_name": "Bo (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze (wyk)",
+                "short_name": "Pg (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mapowanie procesów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A13"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procesy i techniki produkcyjne (wyk)",
+                "short_name": "Pitp (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska / mgr Izabela Selera",
+                "room": "C127 / C205"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie finansami (ćw)",
+                "short_name": "Zf (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wybrane problemy sterowania produkcją (wyk)",
+                "short_name": "Wpsp (wyk)",
+                "teacher": "mgr inż. Dawid Kucuk",
+                "room": "C224"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C202"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wybrane problemy sterowania produkcją (ćw)",
+                "short_name": "Wpsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (lab)",
+                "short_name": "Peie (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Badania operacyjne (ćw)",
+                "short_name": "Bo (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mapowanie procesów (p)",
+                "short_name": "Mp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A32"
+            }
+        ]
+    }
+}

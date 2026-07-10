@@ -1,0 +1,1326 @@
+{
+    "s1E1(1)u": {
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "E4"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E2"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C20"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_113"
+            }
+        ],
+        "Sobota 2026-03-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C113"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            }
+        ],
+        "Niedziela 2026-03-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C313"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C313"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A141"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            }
+        ],
+        "Sobota 2026-04-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            }
+        ],
+        "Niedziela 2026-04-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_112"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D7"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_17"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_112"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_18"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "D16"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy zarządzania i marketingu (p)",
+                "short_name": "Pzim (p)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A142"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A142"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_18"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_112"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_18"
+            }
+        ],
+        "Sobota 2026-05-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A142"
+            }
+        ],
+        "Niedziela 2026-05-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i programowanie (lab)",
+                "short_name": "Iip (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania i marketingu (wyk)",
+                "short_name": "Pzim (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Marek Gorzelańczyk",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metrologia i techniki eksperymentu (wyk)",
+                "short_name": "Mite (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Elektrotechnika (wyk)",
+                "short_name": "1E (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-06-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Termodynamika techniczna (wyk)",
+                "short_name": "Tt (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka - wybrane zagadnienia (wyk)",
+                "short_name": "F-wz (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
+                "short_name": "Wdpz (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka - wybrane zagadnienia (lab)",
+                "short_name": "F-wz (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Elektrotechnika (lab)",
+                "short_name": "1E (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka i programowanie (ćw)",
+                "short_name": "Iip (ćw)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C224"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C113"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Termodynamika techniczna (ćw)",
+                "short_name": "Tt (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C113"
+            }
+        ]
+    }
+}

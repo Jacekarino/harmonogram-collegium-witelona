@@ -1,0 +1,893 @@
+{
+    "s3JMP_W_2u": {
+        "Wtorek 2026-02-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala4"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)1h [x/-]",
+                "short_name": "Pais (wt)1h [x/-]",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_15"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_108"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie cywilne (wt)1h [x/-]",
+                "short_name": "Pc (wt)1h [x/-]",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala4"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_30"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala4"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_45"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_45"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_45"
+            }
+        ],
+        "Sobota 2026-04-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)1h [x/-]",
+                "short_name": "Wdpz (wt)1h [x/-]",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala3"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala3"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala3"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Sobota 2026-05-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            }
+        ],
+        "Niedziela 2026-05-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala4"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Wrocław_sala4"
+            }
+        ],
+        "Wtorek 2026-05-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_47"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Wrocław_sala1"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            }
+        ],
+        "Wtorek 2026-06-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
+                "short_name": "Pais (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - zobowiązania i prawo spadkowe (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_26"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_32"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "Wrocław_sala1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Postępowanie cywilne (wt)",
+                "short_name": "Pc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Wrocław_sala5"
+            }
+        ]
+    }
+}

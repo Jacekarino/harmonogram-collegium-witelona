@@ -1,0 +1,1555 @@
+{
+    "s2P13": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-02-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A12 / D17"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A31"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A12 / D17"
+            }
+        ],
+        "Środa 2026-03-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "lek. Przemysław Zarzeczny",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_01"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "dr n. med. Karolina Czerwińska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Monika Florek",
+                "room": "A13 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar",
+                "room": "D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Monika Florek",
+                "room": "A15 / A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar",
+                "room": "D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A115 (MCSM-Deb.)"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr Anna Gil-Gumowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr Anna Gil-Gumowska",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr  Magdalena Berdys",
+                "room": "A13 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (wyk)",
+                "short_name": "Cipc (wyk)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            }
+        ],
+        "Czwartek 2026-04-30": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Anna Pączkowska",
+                "room": "A115 (MCSM-Deb.)"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Monika Florek",
+                "room": "A15 / A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Współpraca w zespołach opieki zdrowotnej* (ćw)",
+                "short_name": "Wwzoz (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
+                "short_name": "Cipc (zp)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "RCZ_Lubin_02"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Monika Florek",
+                "room": "A13 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (wyk)",
+                "short_name": "Cwipi (wyk)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
+                "short_name": "Pipp (wyk)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Piątek 2026-05-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Lucyna Nuckowska-Miśków",
+                "room": "RCZ_Lubin_03"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Patryk Moździoch",
+                "room": "RCZ_Lubin_03"
+            }
+        ]
+    }
+}

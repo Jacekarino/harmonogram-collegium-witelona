@@ -1,0 +1,1571 @@
+{
+    "s3JMF3": {
+        "Środa 2026-02-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "mgr Anna Gil-Gumowska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "mgr Anna Gil-Gumowska",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-02-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-02-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-02-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-03-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-03-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-03-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            }
+        ],
+        "Wtorek 2026-03-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-03-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            }
+        ],
+        "Wtorek 2026-03-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-03-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-03-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-03-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (wyk)",
+                "short_name": "Fkwgip (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A36"
+            }
+        ],
+        "Środa 2026-03-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (wyk)",
+                "short_name": "2Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "2 Fizjoterapia  kliniczna w psychiatrii (zp)",
+                "short_name": "2Fkwp (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            }
+        ],
+        "Środa 2026-04-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-04-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-04-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (zp)",
+                "short_name": "Fkwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-04-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Czwartek 2026-04-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-04-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Wtorek 2026-04-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_03"
+            }
+        ],
+        "Środa 2026-04-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (wyk)",
+                "short_name": "Fkwoit (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-04-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Wtorek 2026-04-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (wyk)",
+                "short_name": "Fkwoimp (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
+            }
+        ],
+        "Wtorek 2026-05-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w onkologii i medycynie paliatywnej (zp)",
+                "short_name": "Fkwoimp (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Środa 2026-05-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (wyk)",
+                "short_name": "1Fkwp (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (wyk)",
+                "short_name": "Fkwnin (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_03"
+            }
+        ],
+        "Wtorek 2026-05-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
+                "short_name": "Fkwnin (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Środa 2026-05-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_06"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_06"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Fizjoterapia kliniczna w pediatrii (zp)",
+                "short_name": "1Fkwp (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Środa 2026-05-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Wtorek 2026-05-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (zp)",
+                "short_name": "Fkwr (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Wtorek 2026-06-02": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w reumatologii (wyk)",
+                "short_name": "Fkwr (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w geriatrii (wyk)",
+                "short_name": "Fkwg (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / A2"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ginekologii i położnictwie (zp)",
+                "short_name": "Fkwgip (zp)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "Szpital_Leg_06"
+            }
+        ]
+    }
+}

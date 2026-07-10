@@ -1,0 +1,514 @@
+{
+    "faculties": [
+        {
+            "faculty_id": "7",
+            "faculty_name": "Wydział Nauk o Zdrowiu i Kulturze Fizycznej",
+            "specializations": [
+                {
+                    "full_name": "Dietetyka 1- studia stacjonarne (s1D)",
+                    "name": "Dietetyka",
+                    "year": "1",
+                    "code": "s1D"
+                },
+                {
+                    "full_name": "Dietetyka 2- studia stacjonarne (s2D)",
+                    "name": "Dietetyka",
+                    "year": "2",
+                    "code": "s2DK"
+                },
+                {
+                    "full_name": "Dietetyka 3- studia stacjonarne (s3D)",
+                    "name": "Dietetyka",
+                    "year": "3",
+                    "code": "s3DK"
+                },
+                {
+                    "full_name": "Jednolite Mgr Fizjoterapia 1- studia stacjonarne (s1JMF)",
+                    "name": "Jednolite Mgr Fizjoterapia",
+                    "year": "1",
+                    "code": "s1JMF"
+                },
+                {
+                    "full_name": "Jednolite Mgr Fizjoterapia 2- studia stacjonarne (s2JMF)",
+                    "name": "Jednolite Mgr Fizjoterapia",
+                    "year": "2",
+                    "code": "s2JMF"
+                },
+                {
+                    "full_name": "Jednolite Mgr Fizjoterapia 3- studia stacjonarne (s3JMF)",
+                    "name": "Jednolite Mgr Fizjoterapia",
+                    "year": "3",
+                    "code": "s3JMF"
+                },
+                {
+                    "full_name": "Jednolite Mgr Fizjoterapia 4- studia stacjonarne (s4JMF)",
+                    "name": "Jednolite Mgr Fizjoterapia",
+                    "year": "4",
+                    "code": "s4JMF"
+                },
+                {
+                    "full_name": "Jednolite Mgr Fizjoterapia 5- studia stacjonarne (s5JMF)",
+                    "name": "Jednolite Mgr Fizjoterapia",
+                    "year": "5",
+                    "code": "s5JMF"
+                },
+                {
+                    "full_name": "Kosmetologia 2- studia stacjonarne (s2K)",
+                    "name": "Kosmetologia",
+                    "year": "2",
+                    "code": "s2K"
+                },
+                {
+                    "full_name": "Mgr Pielęgniarstwo 1- studia stacjonarne (s1MP)",
+                    "name": "Mgr Pielęgniarstwo",
+                    "year": "1",
+                    "code": "s1MP"
+                },
+                {
+                    "full_name": "Mgr Pielęgniarstwo 2- studia stacjonarne (s2MP)",
+                    "name": "Mgr Pielęgniarstwo",
+                    "year": "2",
+                    "code": "s2MP"
+                },
+                {
+                    "full_name": "Mgr Zdrowie publiczne 1- studia stacjonarne (s1MZP)",
+                    "name": "Mgr Zdrowie publiczne",
+                    "year": "1",
+                    "code": "s1MZP"
+                },
+                {
+                    "full_name": "Pielęgniarstwo 1- studia stacjonarne (s1P)",
+                    "name": "Pielęgniarstwo",
+                    "year": "1",
+                    "code": "s1P"
+                },
+                {
+                    "full_name": "Pielęgniarstwo 2- studia stacjonarne (s2P)",
+                    "name": "Pielęgniarstwo",
+                    "year": "2",
+                    "code": "s2P"
+                },
+                {
+                    "full_name": "Pielęgniarstwo 3- studia stacjonarne (s3P)",
+                    "name": "Pielęgniarstwo",
+                    "year": "3",
+                    "code": "s3P"
+                },
+                {
+                    "full_name": "Położnictwo 2- studia stacjonarne (s2POŁ)",
+                    "name": "Położnictwo",
+                    "year": "2",
+                    "code": "s2POŁ"
+                },
+                {
+                    "full_name": "Położnictwo 3- studia stacjonarne (s3POŁ)",
+                    "name": "Położnictwo",
+                    "year": "3",
+                    "code": "s3POŁ"
+                },
+                {
+                    "full_name": "Ratownictwo medyczne 1- studia stacjonarne (s1RM)",
+                    "name": "Ratownictwo medyczne",
+                    "year": "1",
+                    "code": "s1RM"
+                },
+                {
+                    "full_name": "Ratownictwo medyczne 2- studia stacjonarne (s2RM)",
+                    "name": "Ratownictwo medyczne",
+                    "year": "2",
+                    "code": "s2RM"
+                },
+                {
+                    "full_name": "Ratownictwo medyczne 3- studia stacjonarne (s3RM)",
+                    "name": "Ratownictwo medyczne",
+                    "year": "3",
+                    "code": "s3RM"
+                }
+            ]
+        },
+        {
+            "faculty_id": "1",
+            "faculty_name": "Wydział Nauk Technicznych i Ekonomicznych",
+            "specializations": [
+                {
+                    "full_name": "Energetyka 1- studia stacjonarne (s1E)",
+                    "name": "Energetyka",
+                    "year": "1",
+                    "code": "s1E"
+                },
+                {
+                    "full_name": "Energetyka 2- studia stacjonarne (s2E)",
+                    "name": "Energetyka",
+                    "year": "2",
+                    "code": "s2EMU"
+                },
+                {
+                    "full_name": "Energetyka 3- studia stacjonarne (s3E)",
+                    "name": "Energetyka",
+                    "year": "3",
+                    "code": "s3EMU"
+                },
+                {
+                    "full_name": "Energetyka 3- studia stacjonarne (s3E)",
+                    "name": "Energetyka",
+                    "year": "3",
+                    "code": "s3EŹO"
+                },
+                {
+                    "full_name": "Finanse, rachunkowość i podatki 1- studia stacjonarne (s1FRP)",
+                    "name": "Finanse, rachunkowość i podatki",
+                    "year": "1",
+                    "code": "s1FRP"
+                },
+                {
+                    "full_name": "Finanse, rachunkowość i podatki 2- studia stacjonarne (s2FRP)",
+                    "name": "Finanse, rachunkowość i podatki",
+                    "year": "2",
+                    "code": "s2RP"
+                },
+                {
+                    "full_name": "Finanse, rachunkowość i podatki 3- studia stacjonarne (s3FRP)",
+                    "name": "Finanse, rachunkowość i podatki",
+                    "year": "3",
+                    "code": "s3RP"
+                },
+                {
+                    "full_name": "Informatyka 1- studia stacjonarne (s1INF)",
+                    "name": "Informatyka",
+                    "year": "1",
+                    "code": "s1INF"
+                },
+                {
+                    "full_name": "Informatyka 2- studia stacjonarne (s2INF)",
+                    "name": "Informatyka",
+                    "year": "2",
+                    "code": "s2GK"
+                },
+                {
+                    "full_name": "Informatyka 2- studia stacjonarne (s2INF)",
+                    "name": "Informatyka",
+                    "year": "2",
+                    "code": "s2PAM"
+                },
+                {
+                    "full_name": "Informatyka 3- studia stacjonarne (s3INF)",
+                    "name": "Informatyka",
+                    "year": "3",
+                    "code": "s3PAM"
+                },
+                {
+                    "full_name": "Logistyka i transport 1- studia stacjonarne (s1LIT)",
+                    "name": "Logistyka i transport",
+                    "year": "1",
+                    "code": "s1LIT"
+                },
+                {
+                    "full_name": "Logistyka i transport 2- studia stacjonarne (s2LIT)",
+                    "name": "Logistyka i transport",
+                    "year": "2",
+                    "code": "s2ISL"
+                },
+                {
+                    "full_name": "Logistyka i transport 3- studia stacjonarne (s3LIT)",
+                    "name": "Logistyka i transport",
+                    "year": "3",
+                    "code": "s3ISL"
+                },
+                {
+                    "full_name": "Mgr Finanse i zarządzanie w przedsiębiorstwie 1- studia stacjonarne (s1MFZ)",
+                    "name": "Mgr Finanse i zarządzanie w przedsiębiorstwie",
+                    "year": "1",
+                    "code": "s1FIIN"
+                },
+                {
+                    "full_name": "Mgr Finanse i zarządzanie w przedsiębiorstwie 1- studia stacjonarne (s1MFZ)",
+                    "name": "Mgr Finanse i zarządzanie w przedsiębiorstwie",
+                    "year": "1",
+                    "code": "s1ZPK"
+                },
+                {
+                    "full_name": "Mgr Finanse i zarządzanie w przedsiębiorstwie 2- studia stacjonarne (s2MFZ)",
+                    "name": "Mgr Finanse i zarządzanie w przedsiębiorstwie",
+                    "year": "2",
+                    "code": "s2FIIN"
+                },
+                {
+                    "full_name": "Mgr Finanse i zarządzanie w przedsiębiorstwie 2- studia stacjonarne (s2MFZ)",
+                    "name": "Mgr Finanse i zarządzanie w przedsiębiorstwie",
+                    "year": "2",
+                    "code": "s2ZIIN"
+                },
+                {
+                    "full_name": "Mgr Inżynieria produkcji i logistyki 1- studia stacjonarne (s1MIPL)",
+                    "name": "Mgr Inżynieria produkcji i logistyki",
+                    "year": "1",
+                    "code": "s1PR"
+                },
+                {
+                    "full_name": "Mgr Inżynieria produkcji i logistyki 1- studia stacjonarne (s1MIPL)",
+                    "name": "Mgr Inżynieria produkcji i logistyki",
+                    "year": "1",
+                    "code": "s1SL"
+                },
+                {
+                    "full_name": "Mgr Inżynieria produkcji i logistyki 2- studia stacjonarne (s2MIPL)",
+                    "name": "Mgr Inżynieria produkcji i logistyki",
+                    "year": "2",
+                    "code": "s2PR"
+                },
+                {
+                    "full_name": "Mgr Inżynieria produkcji i logistyki 2- studia stacjonarne (s2MIPL)",
+                    "name": "Mgr Inżynieria produkcji i logistyki",
+                    "year": "2",
+                    "code": "s2SL"
+                },
+                {
+                    "full_name": "Zarządzanie 1- studia stacjonarne (s1Z)",
+                    "name": "Zarządzanie",
+                    "year": "1",
+                    "code": "s1Z"
+                },
+                {
+                    "full_name": "Zarządzanie 2- studia stacjonarne (s2Z)",
+                    "name": "Zarządzanie",
+                    "year": "2",
+                    "code": "s2LM"
+                },
+                {
+                    "full_name": "Zarządzanie 2- studia stacjonarne (s2Z)",
+                    "name": "Zarządzanie",
+                    "year": "2",
+                    "code": "s2ZZL"
+                },
+                {
+                    "full_name": "Zarządzanie 3- studia stacjonarne (s3Z)",
+                    "name": "Zarządzanie",
+                    "year": "3",
+                    "code": "s3LM"
+                },
+                {
+                    "full_name": "Zarządzanie 3- studia stacjonarne (s3Z)",
+                    "name": "Zarządzanie",
+                    "year": "3",
+                    "code": "s3ZZL"
+                },
+                {
+                    "full_name": "Zarządzanie i inżynieria produkcji 1- studia stacjonarne (s1ZIP)",
+                    "name": "Zarządzanie i inżynieria produkcji",
+                    "year": "1",
+                    "code": "s1ZIP"
+                },
+                {
+                    "full_name": "Zarządzanie i inżynieria produkcji 2- studia stacjonarne (s2ZIP)",
+                    "name": "Zarządzanie i inżynieria produkcji",
+                    "year": "2",
+                    "code": "s2MRP"
+                },
+                {
+                    "full_name": "Zarządzanie i inżynieria produkcji 2- studia stacjonarne (s2ZIP)",
+                    "name": "Zarządzanie i inżynieria produkcji",
+                    "year": "2",
+                    "code": "s2SIPP"
+                },
+                {
+                    "full_name": "Zarządzanie i inżynieria produkcji 3- studia stacjonarne (s3ZIP)",
+                    "name": "Zarządzanie i inżynieria produkcji",
+                    "year": "3",
+                    "code": "s3MRP"
+                },
+                {
+                    "full_name": "Zarządzanie i inżynieria produkcji 3- studia stacjonarne (s3ZIP)",
+                    "name": "Zarządzanie i inżynieria produkcji",
+                    "year": "3",
+                    "code": "s3SIPP"
+                }
+            ]
+        },
+        {
+            "faculty_id": "2",
+            "faculty_name": "Wydział Nauk Społecznych i Humanistycznych",
+            "specializations": [
+                {
+                    "full_name": "Administracja 1- studia stacjonarne (s1A)",
+                    "name": "Administracja",
+                    "year": "1",
+                    "code": "s1A"
+                },
+                {
+                    "full_name": "Administracja 2- studia stacjonarne (s2A)",
+                    "name": "Administracja",
+                    "year": "2",
+                    "code": "s2A"
+                },
+                {
+                    "full_name": "Administracja 3- studia stacjonarne (s3A)",
+                    "name": "Administracja",
+                    "year": "3",
+                    "code": "s3A"
+                },
+                {
+                    "full_name": "Bezpieczeństwo wewnętrzne 1- studia stacjonarne (s1BW)",
+                    "name": "Bezpieczeństwo wewnętrzne",
+                    "year": "1",
+                    "code": "s1BW"
+                },
+                {
+                    "full_name": "Bezpieczeństwo wewnętrzne 2- studia stacjonarne (s2BW)",
+                    "name": "Bezpieczeństwo wewnętrzne",
+                    "year": "2",
+                    "code": "s2BW"
+                },
+                {
+                    "full_name": "Bezpieczeństwo wewnętrzne 3- studia stacjonarne (s3BW)",
+                    "name": "Bezpieczeństwo wewnętrzne",
+                    "year": "3",
+                    "code": "s3BW"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo 1- studia stacjonarne (s1JMP)",
+                    "name": "Jednolite Mgr Prawo",
+                    "year": "1",
+                    "code": "s1JMP"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo 2- studia stacjonarne (s2JMP)",
+                    "name": "Jednolite Mgr Prawo",
+                    "year": "2",
+                    "code": "s2JMP"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo 3- studia stacjonarne (s3JMP)",
+                    "name": "Jednolite Mgr Prawo",
+                    "year": "3",
+                    "code": "s3JMP"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo 4- studia stacjonarne (s4JMP)",
+                    "name": "Jednolite Mgr Prawo",
+                    "year": "4",
+                    "code": "s4JMP"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo 5- studia stacjonarne (s5JMP)",
+                    "name": "Jednolite Mgr Prawo",
+                    "year": "5",
+                    "code": "s5JMP"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia 1- studia stacjonarne (s1PSYCH)",
+                    "name": "Jednolite Mgr Psychologia",
+                    "year": "1",
+                    "code": "s1PSYCH"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia 2- studia stacjonarne (s2PSYCH)",
+                    "name": "Jednolite Mgr Psychologia",
+                    "year": "2",
+                    "code": "s2PSYCH"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia 3- studia stacjonarne (s3PSYCH)",
+                    "name": "Jednolite Mgr Psychologia",
+                    "year": "3",
+                    "code": "s3PSYCH"
+                },
+                {
+                    "full_name": "Mgr Bezpieczeństwo wewnętrzne 1- studia stacjonarne (s1MBW)",
+                    "name": "Mgr Bezpieczeństwo wewnętrzne",
+                    "year": "1",
+                    "code": "s1MBW"
+                },
+                {
+                    "full_name": "Mgr Bezpieczeństwo wewnętrzne 2- studia stacjonarne (s2MBW)",
+                    "name": "Mgr Bezpieczeństwo wewnętrzne",
+                    "year": "2",
+                    "code": "s2MBW"
+                },
+                {
+                    "full_name": "Mgr Menedżer administracji publicznej 1- studia stacjonarne (s1MMAP)",
+                    "name": "Mgr Menedżer administracji publicznej",
+                    "year": "1",
+                    "code": "s1MMAP"
+                },
+                {
+                    "full_name": "Mgr Menedżer administracji publicznej 2- studia stacjonarne (s2MMAP)",
+                    "name": "Mgr Menedżer administracji publicznej",
+                    "year": "2",
+                    "code": "s2MMAP"
+                },
+                {
+                    "full_name": "Pedagogika przedszkolna i wczesnoszkolna 5- studia stacjonarne (s5JMPED)",
+                    "name": "Pedagogika przedszkolna i wczesnoszkolna",
+                    "year": "5",
+                    "code": "s5JMPED"
+                }
+            ]
+        },
+        {
+            "faculty_id": "10",
+            "faculty_name": "Wydział Erasmus",
+            "specializations": [
+                {
+                    "full_name": "INT 1- studia stacjonarne (s1INT)",
+                    "name": "INT",
+                    "year": "1",
+                    "code": "s1INT"
+                }
+            ]
+        },
+        {
+            "faculty_id": "11",
+            "faculty_name": "Wychowanie fizyczne",
+            "specializations": [
+                {
+                    "full_name": "Wychowanie fizyczne 1- studia stacjonarne (s1WF)",
+                    "name": "Wychowanie fizyczne",
+                    "year": "1",
+                    "code": "s1WF"
+                }
+            ]
+        },
+        {
+            "faculty_id": "12",
+            "faculty_name": "Filia we Wrocławiu",
+            "specializations": [
+                {
+                    "full_name": "Jednolite Mgr Prawo - Wrocław 1- studia stacjonarne (s1JMP_W_)",
+                    "name": "Jednolite Mgr Prawo - Wrocław",
+                    "year": "1",
+                    "code": "s1JMP_W_"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo - Wrocław 2- studia stacjonarne (s2JMP_W_)",
+                    "name": "Jednolite Mgr Prawo - Wrocław",
+                    "year": "2",
+                    "code": "s2JMP_W_"
+                },
+                {
+                    "full_name": "Jednolite Mgr Prawo - Wrocław 3- studia stacjonarne (s3JMP_W_)",
+                    "name": "Jednolite Mgr Prawo - Wrocław",
+                    "year": "3",
+                    "code": "s3JMP_W_"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia - Wrocław 1- studia stacjonarne (s1PSYCH_W_)",
+                    "name": "Jednolite Mgr Psychologia - Wrocław",
+                    "year": "1",
+                    "code": "s1PSYCH_W_"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia - Wrocław 2- studia stacjonarne (s2PSYCH_W_)",
+                    "name": "Jednolite Mgr Psychologia - Wrocław",
+                    "year": "2",
+                    "code": "s2PSYCH_W_"
+                },
+                {
+                    "full_name": "Jednolite Mgr Psychologia - Wrocław 3- studia stacjonarne (s3PSYCH_W_)",
+                    "name": "Jednolite Mgr Psychologia - Wrocław",
+                    "year": "3",
+                    "code": "s3PSYCH_W_"
+                }
+            ]
+        }
+    ]
+}

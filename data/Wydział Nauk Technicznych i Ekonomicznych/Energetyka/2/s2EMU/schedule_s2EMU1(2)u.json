@@ -1,0 +1,1427 @@
+{
+    "s2EMU1(2)u": {
+        "Poniedziałek 2026-02-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C224"
+            }
+        ],
+        "Środa 2026-02-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "E3"
+            }
+        ],
+        "Czwartek 2026-02-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C125"
+            }
+        ],
+        "Sobota 2026-02-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C202"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Niedziela 2026-02-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Poniedziałek 2026-02-23": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Czwartek 2026-02-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-02-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2026-02-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Katarzyna Ben Abdallah",
+                "room": "C205 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C11"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C11"
+            }
+        ],
+        "Niedziela 2026-03-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            }
+        ],
+        "Poniedziałek 2026-03-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Czwartek 2026-03-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-03-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Piątek 2026-03-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2026-03-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C226"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            }
+        ],
+        "Niedziela 2026-03-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Poniedziałek 2026-03-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-03-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-03-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Czwartek 2026-03-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-03-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2026-03-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C203"
+            }
+        ],
+        "Niedziela 2026-03-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Miernictwo energetyczne (lab)",
+                "short_name": "Me (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-03-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Wtorek 2026-03-31": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-04-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-04-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Poniedziałek 2026-04-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-04-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_16"
+            }
+        ],
+        "Sobota 2026-04-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            }
+        ],
+        "Niedziela 2026-04-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "BAL WITELONA (wt)",
+                "short_name": "BW (wt)",
+                "teacher": "BAL WITELONA",
+                "room": "Inne_Bal Witelona"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C224"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C224"
+            }
+        ],
+        "Poniedziałek 2026-04-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Czwartek 2026-04-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Niedziela 2026-04-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "D6"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "D6"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C224"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Poniedziałek 2026-04-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-04-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-05-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-05-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-05-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2026-05-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C125"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C125"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            }
+        ],
+        "Niedziela 2026-05-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Konwersja energii (lab)",
+                "short_name": "Ke (lab)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "D6"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-05-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Czwartek 2026-05-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-05-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            }
+        ],
+        "Czwartek 2026-05-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-05-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2026-05-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "C202"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyka (lab)",
+                "short_name": "Autom (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Poniedziałek 2026-05-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-05-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-05-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-06-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_109"
+            }
+        ],
+        "Środa 2026-06-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-06-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika i wytrzymałość materiałów (wyk)",
+                "short_name": "Miwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-06-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Miernictwo energetyczne (wyk)",
+                "short_name": "Me (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            }
+        ],
+        "Czwartek 2026-06-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Elektronika (wyk)",
+                "short_name": "Elekt (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Konwersja energii (wyk)",
+                "short_name": "Ke (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            }
+        ],
+        "Sobota 2026-06-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika i wytrzymałość materiałów (p)",
+                "short_name": "Miwm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechanika i wytrzymałość materiałów (lab)",
+                "short_name": "Miwm (lab)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C21"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Miernictwo energetyczne (ćw)",
+                "short_name": "Me (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C202"
+            }
+        ],
+        "Niedziela 2026-06-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera / mgr Katarzyna Ben Abdallah",
+                "room": "D17 / A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metodologia pracy inżynierskiej (sem)",
+                "short_name": "Mpi (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A32"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Elektronika (lab)",
+                "short_name": "Elekt (lab)",
+                "teacher": "mgr inż. Jan Bernecki",
+                "room": "C232"
+            }
+        ]
+    }
+}
