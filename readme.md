@@ -1,6 +1,6 @@
 # Web app description:
 
-Unofficial, alternative web app for viewing Collegium Witelona's class schedule.
+Unofficial, alternative web app for viewing Collegium Witelona's class schedule. Work in progress, don't rely on it.
 
 # User interface:
 ![User Interface](./thumbnail.png)
