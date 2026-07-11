@@ -1,6 +1,6 @@
 # Web app description:
 
-Unofficial, alternative web app for viewing Collegium Witelona's class schedule.
+Unofficial, alternative web app for viewing Collegium Witelona's class schedule. Work in progress, don't rely on it.
 
 # User interface:
 ![User Interface](./thumbnail.png)
@@ -16,8 +16,6 @@ To scrape for a new schedule, run python script:
 ```bash
 python scraper.py 
 ```
-
-# CLI flags:
 
 You can use these flags after `scraper.py` to narrow the scope of scraping.
 
