@@ -1,20 +1,30 @@
 document.addEventListener('DOMContentLoaded', () => {
     // UI Elements
-    const navPickerBtn = document.getElementById('nav-picker-btn');
-    const navSettingsBtn = document.getElementById('nav-settings-btn');
-    const navAboutBtn = document.getElementById('nav-about-btn');
+    const navMenuBtn = document.getElementById('nav-menu-btn');
 
     const panelOverlay = document.getElementById('panel-overlay');
+    const menuPanel = document.getElementById('menu-panel');
     const pickerPanel = document.getElementById('picker-panel');
     const settingsPanel = document.getElementById('settings-panel');
     const aboutPanel = document.getElementById('about-panel');
+    const filterPanel = document.getElementById('filter-panel');
+    const progressPanel = document.getElementById('progress-panel');
+    const professorsPanel = document.getElementById('professors-panel');
+
+    const menuPickerBtn = document.getElementById('menu-picker-btn');
+    const menuFilterBtn = document.getElementById('menu-filter-btn');
+    const menuProgressBtn = document.getElementById('menu-progress-btn');
+    const menuProfessorsBtn = document.getElementById('menu-professors-btn');
+    const menuSettingsBtn = document.getElementById('menu-settings-btn');
+    const menuAboutBtn = document.getElementById('menu-about-btn');
     const closeBtns = document.querySelectorAll('.close-panel-btn');
 
     const toggleDarkMode = document.getElementById('toggle-dark-mode');
-    const toggleShortNames = document.getElementById('toggle-short-names');
+    const toggleCompactMode = document.getElementById('toggle-compact-mode');
     const toggleAutoSkip = document.getElementById('toggle-auto-skip');
     const toggleHighlightCurrent = document.getElementById('toggle-highlight-current');
     const toggleShowGaps = document.getElementById('toggle-show-gaps');
+    const toggleStrikePast = document.getElementById('toggle-strike-past');
     const exportIcsBtn = document.getElementById('export-ics-btn');
 
     // Accordeon Menu
@@ -62,10 +72,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let settings = {
         darkMode: false,
-        shortNames: false,
+        compactMode: false,
+        strikePast: false,
+        showGaps: true,
         autoSkip: true,
         highlightCurrent: true,
-        showGaps: false
     };
 
     // Init
@@ -81,23 +92,43 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function closeAllPanels() {
+        menuPanel.classList.remove('open');
         pickerPanel.classList.remove('open');
         settingsPanel.classList.remove('open');
         aboutPanel.classList.remove('open');
+        filterPanel.classList.remove('open');
+        progressPanel.classList.remove('open');
+        professorsPanel.classList.remove('open');
         setTimeout(() => {
+            menuPanel.classList.add('hidden');
             pickerPanel.classList.add('hidden');
             settingsPanel.classList.add('hidden');
             aboutPanel.classList.add('hidden');
+            filterPanel.classList.add('hidden');
+            progressPanel.classList.add('hidden');
+            professorsPanel.classList.add('hidden');
             panelOverlay.classList.add('hidden');
         }, 300);
     }
 
-    navPickerBtn.addEventListener('click', () => {
+    navMenuBtn.addEventListener('click', () => openPanel(menuPanel));
+
+    menuPickerBtn.addEventListener('click', () => {
         updateAccordionLockStates();
         openPanel(pickerPanel);
     });
-    navSettingsBtn.addEventListener('click', () => openPanel(settingsPanel));
-    navAboutBtn.addEventListener('click', () => openPanel(aboutPanel));
+    menuSettingsBtn.addEventListener('click', () => openPanel(settingsPanel));
+    menuAboutBtn.addEventListener('click', () => openPanel(aboutPanel));
+    menuFilterBtn.addEventListener('click', () => {
+        updateFilterPanel();
+        openPanel(filterPanel);
+    });
+    menuProgressBtn.addEventListener('click', () => {
+        updateSemesterProgress();
+        openPanel(progressPanel);
+    });
+    menuProfessorsBtn.addEventListener('click', () => openPanel(professorsPanel));
+
     panelOverlay.addEventListener('click', closeAllPanels);
     closeBtns.forEach(btn => {
         btn.addEventListener('click', () => {
@@ -105,7 +136,10 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById(targetId).classList.remove('open');
             setTimeout(() => {
                 document.getElementById(targetId).classList.add('hidden');
-                panelOverlay.classList.add('hidden');
+                const openPanels = document.querySelectorAll('.side-panel.open');
+                if (openPanels.length === 0) {
+                    panelOverlay.classList.add('hidden');
+                }
             }, 300);
         });
     });
@@ -180,10 +214,11 @@ document.addEventListener('DOMContentLoaded', () => {
             document.documentElement.removeAttribute('data-theme');
             toggleDarkMode.checked = false;
         }
-        toggleShortNames.checked = settings.shortNames;
+        toggleCompactMode.checked = settings.compactMode;
         toggleAutoSkip.checked = settings.autoSkip;
         toggleHighlightCurrent.checked = settings.highlightCurrent;
         toggleShowGaps.checked = settings.showGaps;
+        toggleStrikePast.checked = settings.strikePast;
         updateHighlights();
     }
 
@@ -192,8 +227,8 @@ document.addEventListener('DOMContentLoaded', () => {
         saveSettings();
     });
 
-    toggleShortNames.addEventListener('change', (e) => {
-        settings.shortNames = e.target.checked;
+    toggleCompactMode.addEventListener('change', (e) => {
+        settings.compactMode = e.target.checked;
         saveSettings();
     });
 
@@ -211,6 +246,42 @@ document.addEventListener('DOMContentLoaded', () => {
         settings.showGaps = e.target.checked;
         saveSettings();
     });
+
+    toggleStrikePast.addEventListener('change', (e) => {
+        settings.strikePast = e.target.checked;
+        saveSettings();
+    });
+
+    function formatRoom(room) {
+        if (!room) return '—';
+        const r = room.trim();
+        if (r.toLowerCase().startsWith('inne_') || r.toLowerCase() === 'inne') {
+            return '—';
+        }
+        return r;
+    }
+
+    function getClassType(className) {
+        const lowerName = className.toLowerCase();
+        if (lowerName.includes('(wyk') || lowerName.includes('wykład')) {
+            return 'wykład';
+        }
+        if (lowerName.includes('(ćw') || lowerName.includes('ćwiczenia')) {
+            return 'ćwiczenia';
+        }
+        if (lowerName.includes('(lab') || lowerName.includes('laboratori')) {
+            return 'laboratorium';
+        }
+        if (lowerName.includes('(p)') || lowerName.includes('projekt')) {
+            return 'projekt';
+        }
+        return 'inne';
+    }
+
+    function cleanClassName(className) {
+        if (!className) return '';
+        return className.replace(/\s*\((wyk|ćw|lab|p|wykład|ćwiczenia|laboratorium|projekt)\)/gi, '').trim();
+    }
 
     // Persistence Logic
     function loadSavedPath() {
@@ -484,6 +555,8 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             renderScheduleForDate(currentDate);
+            updateSemesterProgress();
+            updateFilterPanel();
 
         } catch (e) {
             classesList.innerHTML = '<i style="color:var(--danger)">Nie można załadować danych.</i>';
@@ -516,7 +589,18 @@ document.addEventListener('DOMContentLoaded', () => {
             };
         }
 
-        const classes = [...currentSchedule[dateStr]].sort((a, b) => {
+        // Helper to check if class has already passed
+        function isClassPast(timeInfo) {
+            if (!timeInfo) return false;
+            const todayStr = new Date().toISOString().split('T')[0];
+            if (dateStr < todayStr) return true;
+            if (dateStr > todayStr) return false;
+            const now = new Date();
+            const currentMinutes = now.getHours() * 60 + now.getMinutes();
+            return currentMinutes > timeInfo.endMins;
+        }
+
+        let classes = [...currentSchedule[dateStr]].sort((a, b) => {
             const timeA = parseClassTime(a.time);
             const timeB = parseClassTime(b.time);
             if (!timeA || !timeB) return 0;
@@ -533,8 +617,11 @@ document.addEventListener('DOMContentLoaded', () => {
             if (settings.showGaps && prevEndMins !== null && timeInfo !== null) {
                 const gapMinutes = timeInfo.startMins - prevEndMins;
                 if (gapMinutes > 20) {
+                    const gapTimeInfo = { endMins: timeInfo.startMins };
+                    const isGapPast = isClassPast(gapTimeInfo);
+                    const gapPastClass = (settings.strikePast && isGapPast) ? ' past-class' : '';
+
                     const gapCard = document.createElement('div');
-                    gapCard.className = 'class-card class-gap';
 
                     const hours = Math.floor(gapMinutes / 60);
                     const mins = gapMinutes % 60;
@@ -545,13 +632,31 @@ document.addEventListener('DOMContentLoaded', () => {
                         durationText = `${mins} min.`;
                     }
 
-                    gapCard.innerHTML = `
-                        <div class="class-time">${prevEndStr} - ${timeInfo.startStr}</div>
-                        <div class="class-details">
-                            <div class="class-name">Okienko (${durationText})</div>
-                            <div class="class-teacher">Czas wolny</div>
-                        </div>
-                    `;
+                    if (settings.compactMode) {
+                        gapCard.className = `class-card class-gap compact-card${gapPastClass}`;
+                        gapCard.innerHTML = `
+                            <div class="compact-line">
+                                <span class="time-item">${prevEndStr}</span>
+                                <span class="room-item">—</span>
+                            </div>
+                        `;
+                    } else {
+                        gapCard.className = `class-card class-gap${gapPastClass}`;
+                        gapCard.innerHTML = `
+                            <div class="class-time">
+                                <span class="time-item">
+                                    <svg class="icon icon-clock" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                                    <span>${prevEndStr} - ${timeInfo.startStr}</span>
+                                </span>
+                            </div>
+                            <div class="class-details">
+                                <div class="class-name">
+                                    <svg class="icon icon-coffee" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1"></path><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path><line x1="6" y1="2" x2="6" y2="4"></line><line x1="10" y1="2" x2="10" y2="4"></line><line x1="14" y1="2" x2="14" y2="4"></line></svg>
+                                    <span>Okienko (${durationText})</span>
+                                </div>
+                            </div>
+                        `;
+                    }
                     classesList.appendChild(gapCard);
                 }
             }
@@ -561,19 +666,64 @@ document.addEventListener('DOMContentLoaded', () => {
                 prevEndStr = timeInfo.endStr;
             }
 
+            const isPast = isClassPast(timeInfo);
+            const pastClass = (settings.strikePast && isPast) ? ' past-class' : '';
+
             const card = document.createElement('div');
-            card.className = 'class-card';
 
-            const displayName = settings.shortNames && cls.short_name ? cls.short_name : cls.class_name;
+            if (timeInfo) {
+                card.setAttribute('data-start-mins', timeInfo.startMins);
+                card.setAttribute('data-end-mins', timeInfo.endMins);
+            }
 
-            card.innerHTML = `
-                <div class="class-time">${cls.time}</div>
-                <div class="class-details">
-                    <div class="class-name">${displayName}</div>
-                    <div class="class-teacher">${cls.teacher}</div>
-                    <div class="class-room">Sala: ${cls.room}</div>
-                </div>
-            `;
+            const displayName = settings.compactMode && cls.short_name ? cls.short_name : cls.class_name;
+            const isOnline = cls.room && cls.room.toLowerCase().includes('online');
+            const roomText = isOnline ? 'Online' : formatRoom(cls.room);
+
+            if (settings.compactMode) {
+                card.className = `class-card compact-card${pastClass}`;
+                const startTime = cls.time.split('-')[0].trim();
+                card.innerHTML = `
+                    <div class="compact-line">
+                        <span class="time-item">${startTime}</span>
+                        <span class="room-item">${roomText}</span>
+                        <span class="class-name">${displayName}</span>
+                    </div>
+                `;
+            } else {
+                card.className = `class-card${pastClass}`;
+                const roomHtml = isOnline ? `
+                    <span class="room-item">
+                        <svg class="icon icon-globe" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                        <span>Online</span>
+                    </span>
+                ` : `
+                    <span class="room-item">
+                        <svg class="icon icon-pin" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                        <span> ${formatRoom(cls.room)}</span>
+                    </span>
+                `;
+
+                card.innerHTML = `
+                    <div class="class-time">
+                        <span class="time-item">
+                            <svg class="icon icon-clock" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                            <span>${cls.time}</span>
+                        </span>
+                        ${roomHtml}
+                    </div>
+                    <div class="class-details">
+                        <div class="class-name">
+                            <svg class="icon icon-book" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+                            <span>${displayName}</span>
+                        </div>
+                        <div class="class-teacher">
+                            <svg class="icon icon-user" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                            <span>${cls.teacher}</span>
+                        </div>
+                    </div>
+                `;
+            }
             classesList.appendChild(card);
         });
 
@@ -693,23 +843,287 @@ document.addEventListener('DOMContentLoaded', () => {
                 card.classList.remove('active-class');
                 return;
             }
-            const timeDiv = card.querySelector('.class-time');
-            if (!timeDiv) return;
-            const timeText = timeDiv.textContent.trim();
-            const [start, end] = timeText.split('-');
-            if (!start || !end) return;
+            const startMinsAttr = card.getAttribute('data-start-mins');
+            const endMinsAttr = card.getAttribute('data-end-mins');
+            if (!startMinsAttr || !endMinsAttr) return;
 
-            const [sh, sm] = start.split(':').map(Number);
-            const [eh, em] = end.split(':').map(Number);
-
-            const startMins = sh * 60 + sm;
-            const endMins = eh * 60 + em;
+            const startMins = Number(startMinsAttr);
+            const endMins = Number(endMinsAttr);
 
             if (currentMinutes >= startMins && currentMinutes <= endMins) {
                 card.classList.add('active-class');
             } else {
                 card.classList.remove('active-class');
             }
+        });
+    }
+
+    function updateSemesterProgress() {
+        const progressPanelContent = document.getElementById('progress-panel-content');
+        if (!progressPanelContent) return;
+
+        if (!currentSchedule || Object.keys(currentSchedule).length === 0) {
+            progressPanelContent.innerHTML = `
+                <div class="empty-panel-state">
+                    <p class="empty-panel-desc">Wybierz najpierw grupę, aby zobaczyć postęp semestru.</p>
+                </div>
+            `;
+            return;
+        }
+
+        const now = new Date();
+        const todayStr = now.toISOString().split('T')[0];
+        const currentMinutes = now.getHours() * 60 + now.getMinutes();
+
+        let totalClassesCount = 0;
+        let passedClassesCount = 0;
+
+        const categories = {
+            'wykład': {},
+            'ćwiczenia': {},
+            'laboratorium': {},
+            'projekt': {},
+            'inne': {}
+        };
+
+        const categoryLabels = {
+            'wykład': 'Wykłady',
+            'ćwiczenia': 'Ćwiczenia',
+            'laboratorium': 'Laboratorium',
+            'projekt': 'Projekty',
+            'inne': 'Inne'
+        };
+
+
+
+        for (const [dateStr, classes] of Object.entries(currentSchedule)) {
+            classes.forEach(cls => {
+                totalClassesCount++;
+
+                let hasPassed = false;
+                if (dateStr < todayStr) {
+                    hasPassed = true;
+                } else if (dateStr > todayStr) {
+                    hasPassed = false;
+                } else {
+                    const parts = cls.time.split('-');
+                    if (parts.length === 2) {
+                        const endStr = parts[1].trim();
+                        const endParts = endStr.split(':').map(Number);
+                        if (endParts.length === 2) {
+                            const endMins = endParts[0] * 60 + endParts[1];
+                            hasPassed = currentMinutes > endMins;
+                        }
+                    }
+                }
+
+                if (hasPassed) {
+                    passedClassesCount++;
+                }
+
+                const rawName = cls.class_name;
+                const cat = getClassType(rawName);
+                const cName = cleanClassName(rawName);
+
+                if (!categories[cat][cName]) {
+                    categories[cat][cName] = { total: 0, passed: 0 };
+                }
+                categories[cat][cName].total++;
+                if (hasPassed) {
+                    categories[cat][cName].passed++;
+                }
+            });
+        }
+
+        const overallPercentage = totalClassesCount > 0 ? Math.round((passedClassesCount / totalClassesCount) * 100) : 0;
+
+        let html = `
+            <div class="progress-section">
+                <div class="progress-bar-container">
+                    <div class="progress-bar" style="width: ${overallPercentage}%">
+                        <span class="progress-bar-text">${passedClassesCount} / ${totalClassesCount} (${overallPercentage}%)</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-list-section">
+        `;
+
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'inne'];
+
+        categoryOrder.forEach(cat => {
+            const catClasses = categories[cat];
+            const classNames = Object.keys(catClasses);
+            if (classNames.length === 0) return;
+
+            classNames.sort();
+
+            html += `
+                <div class="progress-category-group">
+                    <h2 class="progress-category-title">${categoryLabels[cat]}</h2>
+                    <div class="progress-classes-list">
+            `;
+
+            classNames.forEach(cName => {
+                const stats = catClasses[cName];
+                const pct = stats.total > 0 ? Math.round((stats.passed / stats.total) * 100) : 0;
+                html += `
+                    <div class="progress-class-row">
+                        <div class="progress-class-info">
+                            <span class="progress-class-name">${cName}</span>
+                            <span class="progress-class-counter">${stats.passed} / ${stats.total} (${pct}%)</span>
+                        </div>
+                        <div class="progress-class-bar-mini">
+                            <div class="progress-class-bar-fill" style="width: ${pct}%"></div>
+                        </div>
+                    </div>
+                `;
+            });
+
+            html += `
+                    </div>
+                </div>
+            `;
+        });
+
+        html += `
+            </div>
+        `;
+
+        progressPanelContent.innerHTML = html;
+    }
+
+    function updateFilterPanel() {
+        const filterPanelContent = document.getElementById('filter-panel-content');
+        if (!filterPanelContent) return;
+
+        if (!currentSchedule || Object.keys(currentSchedule).length === 0) {
+            filterPanelContent.innerHTML = `
+                <div class="empty-panel-state">
+                    <p class="empty-panel-desc">Wybierz najpierw grupę, aby zobaczyć filtry zajęć.</p>
+                </div>
+            `;
+            return;
+        }
+
+        const categories = {
+            'wykład': {},
+            'ćwiczenia': {},
+            'laboratorium': {},
+            'projekt': {},
+            'inne': {}
+        };
+
+        const categoryLabels = {
+            'wykład': 'Wykłady',
+            'ćwiczenia': 'Ćwiczenia',
+            'laboratorium': 'Laboratorium',
+            'projekt': 'Projekty',
+            'inne': 'Inne'
+        };
+
+        for (const [dateStr, classes] of Object.entries(currentSchedule)) {
+            classes.forEach(cls => {
+                const rawName = cls.class_name;
+                const cat = getClassType(rawName);
+                const cName = cleanClassName(rawName);
+                
+                if (!categories[cat][cName]) {
+                    categories[cat][cName] = [];
+                }
+                categories[cat][cName].push({
+                    dateStr,
+                    time: cls.time,
+                    room: cls.room
+                });
+            });
+        }
+
+        for (const cat of Object.keys(categories)) {
+            for (const cName of Object.keys(categories[cat])) {
+                categories[cat][cName].sort((a, b) => {
+                    if (a.dateStr !== b.dateStr) {
+                        return a.dateStr.localeCompare(b.dateStr);
+                    }
+                    const [startA] = a.time.split('-');
+                    const [startB] = b.time.split('-');
+                    return startA.localeCompare(startB);
+                });
+            }
+        }
+
+        filterPanelContent.innerHTML = '';
+
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'inne'];
+        const allDetails = [];
+
+        categoryOrder.forEach(cat => {
+            const catClasses = categories[cat];
+            const classNames = Object.keys(catClasses);
+            if (classNames.length === 0) return;
+
+            classNames.sort();
+
+            const catGroupDiv = document.createElement('div');
+            catGroupDiv.className = 'filter-category-group';
+
+            const h2 = document.createElement('h2');
+            h2.className = 'filter-category-title';
+            h2.textContent = categoryLabels[cat];
+            catGroupDiv.appendChild(h2);
+
+            const accordionDiv = document.createElement('div');
+            accordionDiv.className = 'accordion filter-accordion';
+
+            classNames.forEach(cName => {
+                const instances = catClasses[cName];
+                const details = document.createElement('details');
+                details.className = 'acc-step filter-step';
+
+                const summary = document.createElement('summary');
+                summary.textContent = cName;
+                details.appendChild(summary);
+
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'acc-content filter-instances-list';
+
+                let listHtml = `<ul class="instance-list">`;
+                instances.forEach(inst => {
+                    const dateObj = new Date(inst.dateStr);
+                    const dateFormatted = dateObj.toLocaleDateString('pl-PL', { weekday: 'long', month: 'long', day: 'numeric' });
+                    const isOnline = inst.room && inst.room.toLowerCase().includes('online');
+                    const roomLabel = isOnline ? 'Online' : formatRoom(inst.room);
+
+                    listHtml += `
+                        <li class="instance-item">
+                            <div class="instance-meta">
+                                <span class="instance-date">${dateFormatted}</span>
+                                <span class="instance-time">${inst.time}</span>
+                            </div>
+                            <span class="instance-room">${roomLabel}</span>
+                        </li>
+                    `;
+                });
+                listHtml += `</ul>`;
+
+                contentDiv.innerHTML = listHtml;
+                details.appendChild(contentDiv);
+
+                allDetails.push(details);
+                accordionDiv.appendChild(details);
+            });
+
+            catGroupDiv.appendChild(accordionDiv);
+            filterPanelContent.appendChild(catGroupDiv);
+        });
+
+        allDetails.forEach(details => {
+            details.addEventListener('toggle', (e) => {
+                if (details.open) {
+                    allDetails.forEach(d => {
+                        if (d !== details) d.removeAttribute('open');
+                    });
+                }
+            });
         });
     }
 

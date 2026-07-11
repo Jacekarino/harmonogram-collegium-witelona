@@ -20,9 +20,14 @@
     <nav class="top-bar glass-panel">
         <div class="logo">Harmonogram Collegium Witelona</div>
         <div class="nav-actions">
-            <button id="nav-picker-btn" class="nav-btn" title="Wybór harmonogramu">📅</button>
-            <button id="nav-settings-btn" class="nav-btn" title="Ustawienia witryny">⚙️</button>
-            <button id="nav-about-btn" class="nav-btn" title="Informacje o projekcie">ℹ️</button>
+            <button id="nav-menu-btn" class="nav-btn" title="Menu">
+                <svg class="nav-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+            </button>
         </div>
     </nav>
 
@@ -32,7 +37,7 @@
             </div>
             <div class="date-navigator">
                 <button class="date-nav-btn" id="prev-day-btn">&lt;</button>
-                <div class="current-date" id="current-date-display">Wybierz datę</div>
+                <div class="current-date" id="current-date-display">Wybierz Datę</div>
                 <button class="date-nav-btn" id="next-day-btn">&gt;</button>
             </div>
 
@@ -42,14 +47,116 @@
         </section>
 
         <div class="empty-state glass-panel" id="empty-state">
-            <p>Najpierw wybierz harmonogram</p>
+            <p>Wybierz grupę, aby zobaczyć jej harmonogram.</p>
         </div>
     </main>
 
     <div class="panel-overlay hidden" id="panel-overlay"></div>
+
+    <div class="side-panel glass-panel hidden" id="menu-panel">
+        <div class="panel-header">
+            <h2>Menu</h2>
+            <button class="close-panel-btn" data-target="menu-panel">&times;</button>
+        </div>
+        <div class="menu-content">
+            <button id="menu-picker-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                </svg>
+                <span>Wybierz Grupę</span>
+            </button>
+            <button id="menu-filter-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                </svg>
+                <span>Filtruj Zajęcia</span>
+            </button>
+            <button id="menu-progress-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="20" x2="18" y2="10"></line>
+                    <line x1="12" y1="20" x2="12" y2="4"></line>
+                    <line x1="6" y1="20" x2="6" y2="14"></line>
+                </svg>
+                <span>Postęp Semestru</span>
+            </button>
+            <button id="menu-professors-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                </svg>
+                <span>Pracownicy Uczelni</span>
+            </button>
+            <button id="menu-settings-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <path
+                        d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z">
+                    </path>
+                </svg>
+                <span>Ustawienia witryny</span>
+            </button>
+            <button id="menu-about-btn" class="menu-item-btn">
+                <svg class="menu-icon-svg" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <line x1="12" y1="16" x2="12" y2="12"></line>
+                    <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                </svg>
+                <span>Informacje o Projekcie</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="side-panel glass-panel hidden" id="filter-panel">
+        <div class="panel-header">
+            <h2>Filtruj Zajęcia</h2>
+            <button class="close-panel-btn" data-target="filter-panel">&times;</button>
+        </div>
+        <div id="filter-panel-content">
+            <div class="empty-panel-state">
+                <p class="empty-panel-desc">Wybierz najpierw grupę, aby zobaczyć filtry zajęć.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="side-panel glass-panel hidden" id="progress-panel">
+        <div class="panel-header">
+            <h2>Postęp Semestru</h2>
+            <button class="close-panel-btn" data-target="progress-panel">&times;</button>
+        </div>
+        <div id="progress-panel-content">
+            <div class="empty-panel-state">
+                <p class="empty-panel-desc">Wybierz najpierw grupę, aby zobaczyć postęp semestru.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="side-panel glass-panel hidden" id="professors-panel">
+        <div class="panel-header">
+            <h2>Pracownicy Uczelni</h2>
+            <button class="close-panel-btn" data-target="professors-panel">&times;</button>
+        </div>
+        <div class="placeholder-content">
+            <div class="placeholder-icon">👨‍🏫</div>
+            <p class="placeholder-title">Pracownicy Uczelni</p>
+            <p class="placeholder-desc">Ta funkcja jest planowana w przyszłych aktualizacjach. Umożliwi wyszukiwanie i
+                podgląd planów zajęć poszczególnych wykładowców uczelni.</p>
+        </div>
+    </div>
+
     <div class="side-panel glass-panel hidden" id="picker-panel">
         <div class="panel-header">
-            <h2>Wybór Harmonogramu</h2>
+            <h2>Wybierz Grupę</h2>
             <button class="close-panel-btn" data-target="picker-panel">&times;</button>
         </div>
         <div class="accordion">
@@ -90,9 +197,16 @@
                 </label>
             </div>
             <div class="setting-row">
-                <span>Skrócone Nazwy Zajęć</span>
+                <span>Tryb Kompaktowy</span>
                 <label class="switch">
-                    <input type="checkbox" id="toggle-short-names">
+                    <input type="checkbox" id="toggle-compact-mode">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <div class="setting-row">
+                <span>Zaznacz Minione Zajęcia</span>
+                <label class="switch">
+                    <input type="checkbox" id="toggle-strike-past">
                     <span class="slider round"></span>
                 </label>
             </div>
@@ -111,7 +225,7 @@
                 </label>
             </div>
             <div class="setting-row">
-                <span>Podświetl Trwające Zajęcia</span>
+                <span>Podświetl Trwające Teraz</span>
                 <label class="switch">
                     <input type="checkbox" id="toggle-highlight-current">
                     <span class="slider round"></span>
@@ -119,12 +233,20 @@
             </div>
             <div class="setting-row" style="border-bottom: none; margin-top: 1rem;">
                 <button id="export-ics-btn" class="pick-btn"
-                    style="width: 100%; text-align: center; padding: 0.75rem;">📅 Eksportuj do Kalendarza</button>
+                    style="width: 100%; text-align: center; padding: 0.75rem; display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;"><svg
+                        class="btn-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                    </svg>Eksportuj do Kalendarza</button>
             </div>
             <div class="setting-row" style="border-bottom: none; margin-top: 0.5rem; justify-content: center;">
                 <details style="width: 100%;">
                     <summary style="cursor: pointer; text-align: center; color: var(--accent-color); font-weight: 500;">
-                        Instrukcja: Jak dodać do kalendarza?</summary>
+                        Instrukcja...</summary>
                     <div
                         style="margin-top: 1rem; font-size: 0.9rem; color: var(--text-secondary); line-height: 1.5; padding: 1rem; background: var(--glass-bg); border-radius: 8px;">
                         <p><strong>Android [Google Kalendarz]:</strong> Kliknij eksport, pobierz plik i otwórz go -
@@ -146,17 +268,19 @@
             <button class="close-panel-btn" data-target="about-panel">&times;</button>
         </div>
         <div class="about-content">
-            <p style="margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.5;">Jacek
-                Kowalczyk [44921]<br><br>Nieoficjalna, alternatywna aplikacja do wyświetlania harmonogramu zajęć uczelni
+            <p style="margin-bottom: 1rem; color: var(--text-secondary); line-height: 1.5;">2026, Jacek Kowalczyk
+                [44921]<br>jacek.kowalczyk.inf@studenci.collegiumwitelona.pl<br>jacekarino@duck.com<br><br>Nieoficjalna,
+                alternatywna aplikacja do wyświetlania harmonogramu zajęć uczelni
                 Collegium Witelona. Projekt powstał hobbistycznie, z frustracji oraz chęci poprawy czytelności i
-                dostępu do planów zajęć na urządzeniach mobilnych.<br><br>Z uwagi na architekturę projektu strona nie
-                jest aktualizowana na żywo,
-                a zmiany są widoczne po ręcznej aktualizacji przez administratora (mnie, w wolnej chwili).<br><br>Autor
-                nie odpowiada za zmiany i niezgodności w terminach lub salach zajęć. Pamiętaj, aby zweryfikować
-                zapowiedziane zmiany na oficjalnej stronie z planem uczelni.<br><br>Oryginalna
-                witryna:<br><a href="http://plan.pwsz.legnica.edu.pl/" target="_blank"
-                    style="color: var(--accent-color); text-decoration: none;">plan.pwsz.legnica.edu.pl</a><br><br>GitHub:
-                <br><a href="https://github.com/jacekarino" target="_blank"
+                dostępu do planów zajęć na urządzeniach mobilnych.<br><br>Prace nad aplikacją wciąż trwają, a strona
+                obecnie nie jest aktualizowana na żywo - zmiany są widoczne po ręcznej aktualizacji przez
+                twórcę (w wolnej chwili).<br><br>Autor nie odpowiada za zmiany i niezgodności w terminach
+                lub salach zajęć. Pamiętaj, aby zweryfikować zapowiedziane zmiany na oficjalnej stronie z planem
+                uczelni.<br><br>Jeśli jesteś pracownikiem uczelni i masz zastrzeżenia, proszę o kontakt mailowy na
+                adres studencki. Studenci z pytaniami lub sugestiami proszeni są o pisanie na adres prywatny.
+                <br><br>Oryginalna witryna uczelni:<br><a href="http://plan.pwsz.legnica.edu.pl/" target="_blank"
+                    style="color: var(--accent-color); text-decoration: none;">plan.pwsz.legnica.edu.pl</a><br><br>Kod
+                źródłowy aplikacji:<br><a href="https://github.com/jacekarino" target="_blank"
                     style="color: var(--accent-color); text-decoration: none;">github.com/jacekarino</a>
             </p>
         </div>

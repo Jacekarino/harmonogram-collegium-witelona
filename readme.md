@@ -17,8 +17,6 @@ To scrape for a new schedule, run python script:
 python scraper.py 
 ```
 
-# CLI flags:
-
 You can use these flags after `scraper.py` to narrow the scope of scraping.
 
 Python script downloads list_faculties.json every time, then it does the files for the selected filters. 
