@@ -203,6 +203,8 @@ document.addEventListener('DOMContentLoaded', () => {
         applySettings();
         if (currentSchedule) {
             renderScheduleForDate(currentDate);
+            updateFilterPanel();
+            updateSemesterProgress();
         }
     }
 
@@ -261,6 +263,59 @@ document.addEventListener('DOMContentLoaded', () => {
         return r;
     }
 
+    // 1h [x/-] & 1h [-/x] fixes
+    function adjustHalfClassTime(timeStr, type) {
+        const parts = timeStr.split('-');
+        if (parts.length !== 2) return timeStr;
+        const [startStr, endStr] = parts.map(p => p.trim());
+
+        const [sh, sm] = startStr.split(':').map(Number);
+        const [eh, em] = endStr.split(':').map(Number);
+        if (isNaN(sh) || isNaN(sm) || isNaN(eh) || isNaN(em)) return timeStr;
+
+        const startMins = sh * 60 + sm;
+        const endMins = eh * 60 + em;
+
+        let newStartMins = startMins;
+        let newEndMins = endMins;
+
+        if (type === 'first') {
+            newEndMins = startMins + 45;
+        } else if (type === 'second') {
+            newStartMins = startMins + 45;
+        }
+
+        const formatTime = (mins) => {
+            const h = Math.floor(mins / 60);
+            const m = mins % 60;
+            return `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`;
+        };
+
+        return `${formatTime(newStartMins)}-${formatTime(newEndMins)}`;
+    }
+
+    function processHalfClass(cls) {
+        if (!cls.class_name) return;
+
+        const firstHalfRegex = /\s*1h\s*\[x\/-\]/i;
+        const secondHalfRegex = /\s*1h\s*\[-\/x\]/i;
+
+        let type = null;
+        if (firstHalfRegex.test(cls.class_name)) {
+            type = 'first';
+        } else if (secondHalfRegex.test(cls.class_name)) {
+            type = 'second';
+        }
+
+        if (type) {
+            cls.time = adjustHalfClassTime(cls.time, type);
+            cls.class_name = cls.class_name.replace(firstHalfRegex, '').replace(secondHalfRegex, '').trim();
+            if (cls.short_name) {
+                cls.short_name = cls.short_name.replace(firstHalfRegex, '').replace(secondHalfRegex, '').trim();
+            }
+            cls.isHalfClass = true;
+        }
+    }
     function getClassType(className) {
         const lowerName = className.toLowerCase();
         if (lowerName.includes('(wyk') || lowerName.includes('wykład')) {
@@ -275,12 +330,33 @@ document.addEventListener('DOMContentLoaded', () => {
         if (lowerName.includes('(p)') || lowerName.includes('projekt')) {
             return 'projekt';
         }
+        if (lowerName.includes('(sem') || lowerName.includes('seminarium')) {
+            return 'seminarium';
+        }
         return 'inne';
     }
 
     function cleanClassName(className) {
         if (!className) return '';
-        return className.replace(/\s*\((wyk|ćw|lab|p|wykład|ćwiczenia|laboratorium|projekt)\)/gi, '').trim();
+        return className.replace(/\s*\((wyk|ćw|lab|p|sem|wykład|ćwiczenia|laboratorium|projekt|seminarium)\)/gi, '').trim();
+    }
+
+    function isInstancePast(dateStr, timeStr) {
+        if (!dateStr || !timeStr) return false;
+        const todayStr = new Date().toISOString().split('T')[0];
+        if (dateStr < todayStr) return true;
+        if (dateStr > todayStr) return false;
+
+        const parts = timeStr.split('-');
+        if (parts.length !== 2) return false;
+        const endStr = parts[1].trim();
+        const endParts = endStr.split(':').map(Number);
+        if (endParts.length !== 2) return false;
+
+        const now = new Date();
+        const currentMinutes = now.getHours() * 60 + now.getMinutes();
+        const endMins = endParts[0] * 60 + endParts[1];
+        return currentMinutes > endMins;
     }
 
     // Persistence Logic
@@ -538,6 +614,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 const dateMatch = dayString.match(/\d{4}-\d{2}-\d{2}/);
                 if (dateMatch) {
                     const d = dateMatch[0];
+                    classes.forEach(cls => {
+                        processHalfClass(cls);
+                    });
                     currentSchedule[d] = classes;
                     scheduleDays.push(d);
                 }
@@ -683,9 +762,10 @@ document.addEventListener('DOMContentLoaded', () => {
             if (settings.compactMode) {
                 card.className = `class-card compact-card${pastClass}`;
                 const startTime = cls.time.split('-')[0].trim();
+                const timeDisplay = cls.isHalfClass ? `${startTime} (!)` : startTime;
                 card.innerHTML = `
                     <div class="compact-line">
-                        <span class="time-item">${startTime}</span>
+                        <span class="time-item">${timeDisplay}</span>
                         <span class="room-item">${roomText}</span>
                         <span class="class-name">${displayName}</span>
                     </div>
@@ -708,7 +788,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="class-time">
                         <span class="time-item">
                             <svg class="icon icon-clock" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-                            <span>${cls.time}</span>
+                            <span>${cls.isHalfClass ? `${cls.time} (!)` : cls.time}</span>
                         </span>
                         ${roomHtml}
                     </div>
@@ -883,18 +963,18 @@ document.addEventListener('DOMContentLoaded', () => {
             'ćwiczenia': {},
             'laboratorium': {},
             'projekt': {},
+            'seminarium': {},
             'inne': {}
         };
 
         const categoryLabels = {
             'wykład': 'Wykłady',
             'ćwiczenia': 'Ćwiczenia',
-            'laboratorium': 'Laboratorium',
+            'laboratorium': 'Laboratoria',
             'projekt': 'Projekty',
+            'seminarium': 'Seminaria',
             'inne': 'Inne'
         };
-
-
 
         for (const [dateStr, classes] of Object.entries(currentSchedule)) {
             classes.forEach(cls => {
@@ -948,7 +1028,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="progress-list-section">
         `;
 
-        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'inne'];
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'inne'];
 
         categoryOrder.forEach(cat => {
             const catClasses = categories[cat];
@@ -1010,14 +1090,16 @@ document.addEventListener('DOMContentLoaded', () => {
             'ćwiczenia': {},
             'laboratorium': {},
             'projekt': {},
+            'seminarium': {},
             'inne': {}
         };
 
         const categoryLabels = {
             'wykład': 'Wykłady',
             'ćwiczenia': 'Ćwiczenia',
-            'laboratorium': 'Laboratorium',
+            'laboratorium': 'Laboratoria',
             'projekt': 'Projekty',
+            'seminarium': 'Seminaria',
             'inne': 'Inne'
         };
 
@@ -1026,21 +1108,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 const rawName = cls.class_name;
                 const cat = getClassType(rawName);
                 const cName = cleanClassName(rawName);
-                
+
                 if (!categories[cat][cName]) {
-                    categories[cat][cName] = [];
+                    categories[cat][cName] = {
+                        instances: [],
+                        shortName: cleanClassName(cls.short_name) || cName
+                    };
                 }
-                categories[cat][cName].push({
+                categories[cat][cName].instances.push({
                     dateStr,
                     time: cls.time,
-                    room: cls.room
+                    room: cls.room,
+                    isHalfClass: cls.isHalfClass
                 });
             });
         }
 
         for (const cat of Object.keys(categories)) {
             for (const cName of Object.keys(categories[cat])) {
-                categories[cat][cName].sort((a, b) => {
+                categories[cat][cName].instances.sort((a, b) => {
                     if (a.dateStr !== b.dateStr) {
                         return a.dateStr.localeCompare(b.dateStr);
                     }
@@ -1053,34 +1139,47 @@ document.addEventListener('DOMContentLoaded', () => {
 
         filterPanelContent.innerHTML = '';
 
-        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'inne'];
-        const allDetails = [];
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'inne'];
+        const outerAccordionDiv = document.createElement('div');
+        outerAccordionDiv.className = 'accordion filter-outer-accordion';
+        const topLevelDetails = [];
 
         categoryOrder.forEach(cat => {
             const catClasses = categories[cat];
             const classNames = Object.keys(catClasses);
             if (classNames.length === 0) return;
 
-            classNames.sort();
+            classNames.sort((a, b) => {
+                const nameA = settings.compactMode ? catClasses[a].shortName : a;
+                const nameB = settings.compactMode ? catClasses[b].shortName : b;
+                return nameA.localeCompare(nameB);
+            });
 
-            const catGroupDiv = document.createElement('div');
-            catGroupDiv.className = 'filter-category-group';
+            const catDetails = document.createElement('details');
+            catDetails.className = 'acc-step category-step';
 
-            const h2 = document.createElement('h2');
-            h2.className = 'filter-category-title';
-            h2.textContent = categoryLabels[cat];
-            catGroupDiv.appendChild(h2);
+            const catSummary = document.createElement('summary');
+            catSummary.textContent = categoryLabels[cat];
+            catDetails.appendChild(catSummary);
 
-            const accordionDiv = document.createElement('div');
-            accordionDiv.className = 'accordion filter-accordion';
+            const catContentDiv = document.createElement('div');
+            catContentDiv.className = 'acc-content category-content';
+
+            const innerAccordionDiv = document.createElement('div');
+            innerAccordionDiv.className = 'accordion filter-inner-accordion';
+
+            const catInnerDetails = [];
 
             classNames.forEach(cName => {
-                const instances = catClasses[cName];
+                const catData = catClasses[cName];
+                const instances = catData.instances;
+                const displayName = settings.compactMode ? catData.shortName : cName;
+
                 const details = document.createElement('details');
                 details.className = 'acc-step filter-step';
 
                 const summary = document.createElement('summary');
-                summary.textContent = cName;
+                summary.textContent = displayName;
                 details.appendChild(summary);
 
                 const contentDiv = document.createElement('div');
@@ -1092,12 +1191,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     const dateFormatted = dateObj.toLocaleDateString('pl-PL', { weekday: 'long', month: 'long', day: 'numeric' });
                     const isOnline = inst.room && inst.room.toLowerCase().includes('online');
                     const roomLabel = isOnline ? 'Online' : formatRoom(inst.room);
+                    const isPast = isInstancePast(inst.dateStr, inst.time);
+                    const pastClass = (settings.strikePast && isPast) ? ' past-class' : '';
 
                     listHtml += `
-                        <li class="instance-item">
+                        <li class="instance-item${pastClass}">
                             <div class="instance-meta">
                                 <span class="instance-date">${dateFormatted}</span>
-                                <span class="instance-time">${inst.time}</span>
+                                <span class="instance-time">${inst.isHalfClass ? `${inst.time} (!)` : inst.time}</span>
                             </div>
                             <span class="instance-room">${roomLabel}</span>
                         </li>
@@ -1108,23 +1209,36 @@ document.addEventListener('DOMContentLoaded', () => {
                 contentDiv.innerHTML = listHtml;
                 details.appendChild(contentDiv);
 
-                allDetails.push(details);
-                accordionDiv.appendChild(details);
+                details.addEventListener('toggle', (e) => {
+                    if (details.open) {
+                        catInnerDetails.forEach(d => {
+                            if (d !== details) d.removeAttribute('open');
+                        });
+                    }
+                });
+
+                catInnerDetails.push(details);
+                innerAccordionDiv.appendChild(details);
             });
 
-            catGroupDiv.appendChild(accordionDiv);
-            filterPanelContent.appendChild(catGroupDiv);
+            catContentDiv.appendChild(innerAccordionDiv);
+            catDetails.appendChild(catContentDiv);
+
+            topLevelDetails.push(catDetails);
+            outerAccordionDiv.appendChild(catDetails);
         });
 
-        allDetails.forEach(details => {
+        topLevelDetails.forEach(details => {
             details.addEventListener('toggle', (e) => {
                 if (details.open) {
-                    allDetails.forEach(d => {
+                    topLevelDetails.forEach(d => {
                         if (d !== details) d.removeAttribute('open');
                     });
                 }
             });
         });
+
+        filterPanelContent.appendChild(outerAccordionDiv);
     }
 
     setInterval(updateHighlights, 60000);

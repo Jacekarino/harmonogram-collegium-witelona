@@ -982,6 +982,15 @@ input:checked+.slider:before {
     border-bottom: 1px dashed var(--glass-border);
 }
 
+.instance-item.past-class {
+    opacity: 0.55;
+}
+
+.instance-item.past-class .instance-date,
+.instance-item.past-class .instance-time {
+    text-decoration: line-through;
+}
+
 .instance-item:last-child {
     border-bottom: none;
     padding-bottom: 0;
@@ -1015,6 +1024,29 @@ input:checked+.slider:before {
     border-radius: 6px;
     border: 1px solid var(--glass-border);
     white-space: nowrap;
+}
+
+/* Double Accordion In Filter Panel */
+.filter-inner-accordion {
+    margin-top: 0.5rem;
+}
+
+.filter-inner-accordion .filter-step {
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.filter-inner-accordion .filter-step summary {
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem;
+}
+
+.filter-inner-accordion .filter-step summary::after {
+    top: 0.75rem;
+    font-size: 1.1rem;
+}
+
+.filter-inner-accordion .acc-content {
+    padding: 0.75rem 1rem;
 }
 
 @media (max-width: 600px) {
