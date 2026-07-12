@@ -121,7 +121,8 @@ body {
 /* Top Bar */
 .top-bar {
     width: 100%;
-    padding: 1rem 2rem;
+    height: 70px;
+    padding: 0 2rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -227,7 +228,7 @@ body {
 
 .current-date {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     cursor: pointer;
     padding: 0.5rem 1rem;
     border-radius: 8px;
@@ -427,18 +428,20 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.4);
-    backdrop-filter: blur(2px);
+    background: transparent;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
     z-index: 45;
+    pointer-events: none;
 }
 
 .side-panel {
     position: fixed;
-    top: 0;
+    top: 70px;
     right: -450px;
     width: 100%;
     max-width: 400px;
-    height: 100vh;
+    height: calc(100vh - 70px);
     background: var(--panel-bg);
     z-index: 50;
     padding: 2rem;
@@ -552,6 +555,44 @@ body {
     border-color: var(--accent-color);
 }
 
+#picker-panel .grid-btns {
+    flex-direction: column;
+}
+
+#picker-panel .pick-btn {
+    width: 100%;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+/* Year buttons: 5 columns layout */
+#picker-panel #grid-year {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.25rem;
+}
+
+#picker-panel #grid-year .pick-btn {
+    width: auto;
+    padding: 0.5rem 0.1rem;
+    font-size: 0.7rem;
+}
+
+/* Specialization and subgroup buttons: 3 columns layout */
+#picker-panel #grid-code,
+#picker-panel #grid-subgroup {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.25rem;
+}
+
+#picker-panel #grid-code .pick-btn,
+#picker-panel #grid-subgroup .pick-btn {
+    width: auto;
+    padding: 0.5rem 0.15rem;
+    font-size: 0.7rem;
+}
+
 /* Settings Panel */
 .setting-row {
     display: flex;
@@ -659,12 +700,15 @@ input:checked+.slider:before {
     width: 100%;
     max-width: 400px;
     padding: 1.5rem;
+    border-radius: 24px;
 }
 
 .modal-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-bottom: 1px solid var(--glass-border);
+    padding-bottom: 0.75rem;
     margin-bottom: 1.5rem;
 }
 
@@ -674,6 +718,30 @@ input:checked+.slider:before {
     color: var(--text-secondary);
     font-size: 2rem;
     cursor: pointer;
+}
+
+.welcome-content {
+    margin-top: 1rem;
+    line-height: 1.6;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+}
+
+.welcome-content p {
+    margin-bottom: 1rem;
+}
+
+.welcome-content p:last-child {
+    margin-bottom: 0;
+}
+
+.welcome-footer {
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    border-top: 1px solid var(--glass-border);
+    padding-top: 1rem;
+    text-align: center;
 }
 
 .calendar-nav {
@@ -1049,9 +1117,30 @@ input:checked+.slider:before {
     padding: 0.75rem 1rem;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 800px) {
+    .app-container {
+        transition: transform 0.3s ease-in-out, max-width 0.3s ease-in-out;
+    }
+
+    body.panel-open .app-container {
+        transform: translateX(-200px);
+        max-width: min(800px, calc(100vw - 400px));
+        min-width: 400px;
+    }
+}
+
+@media (max-width: 799.99px) {
+    .side-panel {
+        max-width: 100% !important;
+        right: -100% !important;
+    }
+
+    .side-panel.open {
+        right: 0 !important;
+    }
+
     .current-date {
-        font-size: 0.85rem;
+        font-size: 0.75rem;
         padding: 0.5rem 0.25rem;
         white-space: nowrap;
     }

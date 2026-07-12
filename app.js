@@ -50,6 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentDateDisplay = document.getElementById('current-date-display');
     const calendarModal = document.getElementById('calendar-modal');
     const closeModalBtn = document.getElementById('close-modal-btn');
+    const welcomeModal = document.getElementById('welcome-modal');
+    const closeWelcomeBtn = document.getElementById('close-welcome-btn');
     const calPrevMonth = document.getElementById('cal-prev-month');
     const calNextMonth = document.getElementById('cal-next-month');
     const calMonthYear = document.getElementById('cal-month-year');
@@ -84,14 +86,33 @@ document.addEventListener('DOMContentLoaded', () => {
     loadSavedPath();
     fetchFaculties();
 
+    // Welcome Pop Up for new users
+    if (!localStorage.getItem('welcomeShown')) {
+        welcomeModal.classList.remove('hidden');
+    }
+
+    function closeWelcomeModal() {
+        welcomeModal.classList.add('hidden');
+        localStorage.setItem('welcomeShown', 'true');
+    }
+
+    closeWelcomeBtn.addEventListener('click', closeWelcomeModal);
+    welcomeModal.addEventListener('click', (e) => {
+        if (e.target === welcomeModal) {
+            closeWelcomeModal();
+        }
+    });
+
     // Panel Logic
     function openPanel(panel) {
+        document.body.classList.add('panel-open');
         panelOverlay.classList.remove('hidden');
         panel.classList.remove('hidden');
         setTimeout(() => panel.classList.add('open'), 10);
     }
 
     function closeAllPanels() {
+        document.body.classList.remove('panel-open');
         menuPanel.classList.remove('open');
         pickerPanel.classList.remove('open');
         settingsPanel.classList.remove('open');
@@ -111,7 +132,13 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 300);
     }
 
-    navMenuBtn.addEventListener('click', () => openPanel(menuPanel));
+    navMenuBtn.addEventListener('click', () => {
+        if (menuPanel.classList.contains('open')) {
+            closeAllPanels();
+        } else {
+            openPanel(menuPanel);
+        }
+    });
 
     menuPickerBtn.addEventListener('click', () => {
         updateAccordionLockStates();
@@ -133,9 +160,17 @@ document.addEventListener('DOMContentLoaded', () => {
     closeBtns.forEach(btn => {
         btn.addEventListener('click', () => {
             const targetId = btn.getAttribute('data-target');
-            document.getElementById(targetId).classList.remove('open');
+            const targetPanel = document.getElementById(targetId);
+            targetPanel.classList.remove('open');
+
+            const remainingOpen = Array.from(document.querySelectorAll('.side-panel.open'))
+                .filter(p => p !== targetPanel);
+            if (remainingOpen.length === 0) {
+                document.body.classList.remove('panel-open');
+            }
+
             setTimeout(() => {
-                document.getElementById(targetId).classList.add('hidden');
+                targetPanel.classList.add('hidden');
                 const openPanels = document.querySelectorAll('.side-panel.open');
                 if (openPanels.length === 0) {
                     panelOverlay.classList.add('hidden');
@@ -255,10 +290,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     function formatRoom(room) {
-        if (!room) return '—';
+        if (!room) return '?';
         const r = room.trim();
         if (r.toLowerCase().startsWith('inne_') || r.toLowerCase() === 'inne') {
-            return '—';
+            return '?';
         }
         return r;
     }
@@ -333,12 +368,18 @@ document.addEventListener('DOMContentLoaded', () => {
         if (lowerName.includes('(sem') || lowerName.includes('seminarium')) {
             return 'seminarium';
         }
+        if (lowerName.includes('(wt') || lowerName.includes('warsztat')) {
+            return 'warsztaty';
+        }
+        if (lowerName.includes('(lek') || lowerName.includes('lektorat')) {
+            return 'lektoraty';
+        }
         return 'inne';
     }
 
     function cleanClassName(className) {
         if (!className) return '';
-        return className.replace(/\s*\((wyk|ćw|lab|p|sem|wykład|ćwiczenia|laboratorium|projekt|seminarium)\)/gi, '').trim();
+        return className.replace(/\s*\((wyk|ćw|lab|p|sem|wt|lek|wykład|ćwiczenia|laboratorium|projekt|seminarium|warsztaty|lektoraty)\)/gi, '').trim();
     }
 
     function isInstancePast(dateStr, timeStr) {
@@ -471,7 +512,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function buildFacultyGrid() {
         gridFaculty.innerHTML = '';
-        facultiesData.forEach(fac => {
+        const sortedFaculties = [...facultiesData].sort((a, b) => a.faculty_name.localeCompare(b.faculty_name, 'pl'));
+        sortedFaculties.forEach(fac => {
             const btn = createPickBtn(fac.faculty_name, () => {
                 selectionState.faculty = fac;
                 selectionState.specName = null;
@@ -487,6 +529,14 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             gridFaculty.appendChild(btn);
         });
+
+        if (facultiesData.length === 1) {
+            const onlyFac = facultiesData[0];
+            selectionState.faculty = onlyFac;
+            gridFaculty.querySelector('.pick-btn').classList.add('active');
+            savePath();
+            buildSpecGrid();
+        }
     }
 
     function buildSpecGrid() {
@@ -496,7 +546,7 @@ document.addEventListener('DOMContentLoaded', () => {
         gridSubgroup.innerHTML = '';
 
         const specs = selectionState.faculty.specializations;
-        const uniqueNames = [...new Set(specs.map(s => s.name))];
+        const uniqueNames = [...new Set(specs.map(s => s.name))].sort((a, b) => a.localeCompare(b, 'pl'));
 
         uniqueNames.forEach(name => {
             const btn = createPickBtn(name, () => {
@@ -511,7 +561,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if (selectionState.specName === name) btn.classList.add('active');
             gridSpec.appendChild(btn);
         });
-        openAccordionStep(stepSpec);
+
+        if (uniqueNames.length === 1) {
+            selectionState.specName = uniqueNames[0];
+            gridSpec.querySelector('.pick-btn').classList.add('active');
+            savePath();
+            buildYearGrid();
+        } else {
+            openAccordionStep(stepSpec);
+        }
     }
 
     function buildYearGrid() {
@@ -520,7 +578,7 @@ document.addEventListener('DOMContentLoaded', () => {
         gridSubgroup.innerHTML = '';
 
         const specs = selectionState.faculty.specializations.filter(s => s.name === selectionState.specName);
-        const uniqueYears = [...new Set(specs.map(s => s.year))];
+        const uniqueYears = [...new Set(specs.map(s => s.year))].sort((a, b) => String(a).localeCompare(String(b), 'pl'));
 
         uniqueYears.forEach(year => {
             const btn = createPickBtn(year, () => {
@@ -534,7 +592,15 @@ document.addEventListener('DOMContentLoaded', () => {
             if (selectionState.year === year) btn.classList.add('active');
             gridYear.appendChild(btn);
         });
-        openAccordionStep(stepYear);
+
+        if (uniqueYears.length === 1) {
+            selectionState.year = uniqueYears[0];
+            gridYear.querySelector('.pick-btn').classList.add('active');
+            savePath();
+            buildCodeGrid();
+        } else {
+            openAccordionStep(stepYear);
+        }
     }
 
     function buildCodeGrid() {
@@ -542,8 +608,9 @@ document.addEventListener('DOMContentLoaded', () => {
         gridSubgroup.innerHTML = '';
 
         const specs = selectionState.faculty.specializations.filter(s => s.name === selectionState.specName && s.year === selectionState.year);
+        const sortedSpecs = [...specs].sort((a, b) => a.code.localeCompare(b.code, 'pl'));
 
-        specs.forEach(spec => {
+        sortedSpecs.forEach(spec => {
             const btn = createPickBtn(spec.code, () => {
                 selectionState.code = spec.code;
                 selectionState.subgroup = null;
@@ -554,11 +621,18 @@ document.addEventListener('DOMContentLoaded', () => {
             if (selectionState.code === spec.code) btn.classList.add('active');
             gridCode.appendChild(btn);
         });
-        openAccordionStep(stepCode);
+
+        if (specs.length === 1) {
+            selectionState.code = specs[0].code;
+            gridCode.querySelector('.pick-btn').classList.add('active');
+            savePath();
+            fetchSubgroups();
+        } else {
+            openAccordionStep(stepCode);
+        }
     }
 
     async function fetchSubgroups() {
-        openAccordionStep(stepSubgroup);
         gridSubgroup.innerHTML = '<i>Ładowanie...</i>';
 
         try {
@@ -566,9 +640,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const res = await fetch(`data/${path}/subgroups.json`);
             if (!res.ok) throw new Error("No subgroups");
             const subgroups = await res.json();
+            const sortedSubgroups = [...subgroups].sort((a, b) => a.localeCompare(b, 'pl'));
 
             gridSubgroup.innerHTML = '';
-            subgroups.forEach(sg => {
+            sortedSubgroups.forEach(sg => {
                 const btn = createPickBtn(sg, () => {
                     selectionState.subgroup = sg;
                     updatePickerButtons(gridSubgroup, btn);
@@ -579,7 +654,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (selectionState.subgroup === sg) btn.classList.add('active');
                 gridSubgroup.appendChild(btn);
             });
+
+            if (subgroups.length === 1) {
+                selectionState.subgroup = subgroups[0];
+                gridSubgroup.querySelector('.pick-btn').classList.add('active');
+                savePath();
+                closeAllPanels();
+                fetchSchedule();
+            } else {
+                openAccordionStep(stepSubgroup);
+            }
         } catch (e) {
+            openAccordionStep(stepSubgroup);
             gridSubgroup.innerHTML = '<i style="color:var(--danger)">Brak harmonogramu.</i>';
         }
     }
@@ -844,6 +930,12 @@ document.addEventListener('DOMContentLoaded', () => {
         calendarModal.classList.add('hidden');
     });
 
+    calendarModal.addEventListener('click', (e) => {
+        if (e.target === calendarModal) {
+            calendarModal.classList.add('hidden');
+        }
+    });
+
     calPrevMonth.addEventListener('click', () => {
         calDisplayDate.setMonth(calDisplayDate.getMonth() - 1);
         renderCalendar();
@@ -964,6 +1056,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'laboratorium': {},
             'projekt': {},
             'seminarium': {},
+            'warsztaty': {},
+            'lektoraty': {},
             'inne': {}
         };
 
@@ -973,6 +1067,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'laboratorium': 'Laboratoria',
             'projekt': 'Projekty',
             'seminarium': 'Seminaria',
+            'warsztaty': 'Warsztaty',
+            'lektoraty': 'Lektoraty',
             'inne': 'Inne'
         };
 
@@ -1028,7 +1124,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="progress-list-section">
         `;
 
-        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'inne'];
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'warsztaty', 'lektoraty', 'inne'];
 
         categoryOrder.forEach(cat => {
             const catClasses = categories[cat];
@@ -1091,6 +1187,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'laboratorium': {},
             'projekt': {},
             'seminarium': {},
+            'warsztaty': {},
+            'lektoraty': {},
             'inne': {}
         };
 
@@ -1100,6 +1198,8 @@ document.addEventListener('DOMContentLoaded', () => {
             'laboratorium': 'Laboratoria',
             'projekt': 'Projekty',
             'seminarium': 'Seminaria',
+            'warsztaty': 'Warsztaty',
+            'lektoraty': 'Lektoraty',
             'inne': 'Inne'
         };
 
@@ -1139,7 +1239,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         filterPanelContent.innerHTML = '';
 
-        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'inne'];
+        const categoryOrder = ['wykład', 'ćwiczenia', 'laboratorium', 'projekt', 'seminarium', 'warsztaty', 'lektoraty', 'inne'];
         const outerAccordionDiv = document.createElement('div');
         outerAccordionDiv.className = 'accordion filter-outer-accordion';
         const topLevelDetails = [];
