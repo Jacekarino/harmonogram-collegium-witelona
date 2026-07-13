@@ -304,7 +304,7 @@ def main():
                         pass
                         
                 with open(subgroups_filename, 'w', encoding='utf-8') as f:
-                    json.dump(subgroups_list, f, ensure_ascii=False, indent=4)
+                    json.dump(sorted(subgroups_list), f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
     main()
