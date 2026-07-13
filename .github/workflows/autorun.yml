@@ -28,7 +28,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scraper.py -all
+        run: python scraper.py --all
 
       - name: Commit and push
         run: |
