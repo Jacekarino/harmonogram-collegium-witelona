@@ -555,6 +555,33 @@ body {
     border-color: var(--accent-color);
 }
 
+.pe-group-code {
+    font-size: 1rem;
+    color: var(--text-primary);
+    transition: color 0.2s;
+}
+
+.pe-teacher {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    transition: color 0.2s;
+}
+
+.pe-activity {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    transition: color 0.2s;
+}
+
+.pick-btn.active .pe-group-code {
+    color: white;
+}
+
+.pick-btn.active .pe-teacher,
+.pick-btn.active .pe-activity {
+    color: rgba(255, 255, 255, 0.8);
+}
+
 #picker-panel .grid-btns {
     flex-direction: column;
 }

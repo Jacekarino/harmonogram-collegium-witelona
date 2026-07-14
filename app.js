@@ -10,11 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterPanel = document.getElementById('filter-panel');
     const progressPanel = document.getElementById('progress-panel');
     const exportPanel = document.getElementById('export-panel');
+    const pePanel = document.getElementById('pe-panel');
 
     const menuPickerBtn = document.getElementById('menu-picker-btn');
     const menuFilterBtn = document.getElementById('menu-filter-btn');
     const menuProgressBtn = document.getElementById('menu-progress-btn');
     const menuSettingsBtn = document.getElementById('menu-settings-btn');
+    const menuPeBtn = document.getElementById('menu-pe-btn');
     const menuExportBtn = document.getElementById('menu-export-btn');
     const menuAboutBtn = document.getElementById('menu-about-btn');
     const closeBtns = document.querySelectorAll('.close-panel-btn');
@@ -39,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const gridYear = document.getElementById('grid-year');
     const gridCode = document.getElementById('grid-code');
     const gridSubgroup = document.getElementById('grid-subgroup');
+    const gridPe = document.getElementById('grid-pe');
 
     const scheduleContainer = document.getElementById('schedule-container');
     const emptyState = document.getElementById('empty-state');
@@ -69,7 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
         specName: null,
         year: null,
         code: null,
-        subgroup: null
+        subgroup: null,
+        peGroup: null
     };
 
     let settings = {
@@ -120,6 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
         filterPanel.classList.remove('open');
         progressPanel.classList.remove('open');
         exportPanel.classList.remove('open');
+        pePanel.classList.remove('open');
         setTimeout(() => {
             menuPanel.classList.add('hidden');
             pickerPanel.classList.add('hidden');
@@ -128,6 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
             filterPanel.classList.add('hidden');
             progressPanel.classList.add('hidden');
             exportPanel.classList.add('hidden');
+            pePanel.classList.add('hidden');
             panelOverlay.classList.add('hidden');
         }, 300);
     }
@@ -145,6 +151,10 @@ document.addEventListener('DOMContentLoaded', () => {
         openPanel(pickerPanel);
     });
     menuSettingsBtn.addEventListener('click', () => openPanel(settingsPanel));
+    menuPeBtn.addEventListener('click', () => {
+        fetchPeGroups();
+        openPanel(pePanel);
+    });
     menuExportBtn.addEventListener('click', () => openPanel(exportPanel));
     menuAboutBtn.addEventListener('click', () => openPanel(aboutPanel));
     menuFilterBtn.addEventListener('click', () => {
@@ -468,7 +478,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const data = await res.json();
             facultiesData = data.faculties.filter(f => {
                 const name = f.faculty_name.toLowerCase();
-                return !name.includes("erasmus") && !name.includes("wrocław");
+                return !name.includes("erasmus") && !name.includes("wrocław") && name !== "wychowanie fizyczne";
             });
 
             buildFacultyGrid();
@@ -497,7 +507,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         specName: null,
                         year: null,
                         code: null,
-                        subgroup: null
+                        subgroup: null,
+                        peGroup: null
                     };
                     savePath();
                 }
@@ -670,6 +681,85 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    async function fetchPeGroups() {
+        if (gridPe.innerHTML !== '') return;
+        try {
+            gridPe.innerHTML = '<i style="color:var(--text-secondary)">Ładowanie...</i>';
+            const res = await fetch('data/Wychowanie fizyczne/Wychowanie fizyczne/1/s1WF/subgroups.json');
+            if (!res.ok) throw new Error("No PE subgroups");
+            const subgroups = await res.json();
+            const sortedSubgroups = [...subgroups].sort((a, b) => a.localeCompare(b, 'pl'));
+
+            const peDetailsList = await Promise.all(sortedSubgroups.map(async sg => {
+                try {
+                    const sgRes = await fetch(`data/Wychowanie fizyczne/Wychowanie fizyczne/1/s1WF/schedule_${sanitize(sg)}.json`);
+                    if (sgRes.ok) {
+                        const sgData = await sgRes.json();
+                        const groupData = sgData[sg];
+                        if (groupData) {
+                            for (const day of Object.values(groupData)) {
+                                if (day.length > 0) {
+                                    const cls = day[0];
+                                    let activity = cls.class_name || "";
+                                    activity = activity.replace(/\(ćw\)/i, "").trim();
+                                    return {
+                                        sg,
+                                        teacher: cls.teacher || "Nieznany prowadzący",
+                                        activity: activity
+                                    };
+                                }
+                            }
+                        }
+                    }
+                } catch (e) { }
+                return { sg, teacher: "Nieznany prowadzący", activity: "WF" };
+            }));
+
+            gridPe.innerHTML = '';
+
+            const brakBtn = document.createElement('button');
+            brakBtn.className = 'pick-btn';
+            brakBtn.innerHTML = `<strong>Brak</strong>`;
+            brakBtn.style.padding = '1rem';
+            brakBtn.addEventListener('click', () => {
+                selectionState.peGroup = null;
+                updatePickerButtons(gridPe, brakBtn);
+                savePath();
+                if (selectionState.subgroup) fetchSchedule();
+            });
+            if (!selectionState.peGroup) brakBtn.classList.add('active');
+            gridPe.appendChild(brakBtn);
+
+            peDetailsList.forEach(details => {
+                const btn = document.createElement('button');
+                btn.className = 'pick-btn';
+                btn.style.display = 'flex';
+                btn.style.flexDirection = 'column';
+                btn.style.alignItems = 'center';
+                btn.style.gap = '0.25rem';
+                btn.style.padding = '1rem';
+
+                btn.innerHTML = `
+                    <strong class="pe-group-code">${details.sg}</strong>
+                    <span class="pe-teacher">${details.teacher}</span>
+                    <span class="pe-activity">${details.activity}</span>
+                `;
+
+                btn.addEventListener('click', () => {
+                    selectionState.peGroup = details.sg;
+                    updatePickerButtons(gridPe, btn);
+                    savePath();
+                    if (selectionState.subgroup) fetchSchedule();
+                });
+                if (selectionState.peGroup === details.sg) btn.classList.add('active');
+                gridPe.appendChild(btn);
+            });
+        } catch (e) {
+            gridPe.innerHTML = '<i style="color:var(--danger)">Nie udało się załadować grup WF.</i>';
+        }
+    }
+
+
     function updatePickerButtons(container, activeBtn) {
         container.querySelectorAll('.pick-btn').forEach(b => b.classList.remove('active'));
         if (activeBtn) activeBtn.classList.add('active');
@@ -705,6 +795,35 @@ document.addEventListener('DOMContentLoaded', () => {
                     });
                     currentSchedule[d] = classes;
                     scheduleDays.push(d);
+                }
+            }
+
+            if (selectionState.peGroup) {
+                try {
+                    const peFile = `schedule_${sanitize(selectionState.peGroup)}.json`;
+                    const peRes = await fetch(`data/Wychowanie fizyczne/Wychowanie fizyczne/1/s1WF/${peFile}`);
+                    if (peRes.ok) {
+                        const peData = await peRes.json();
+                        const peGroupData = peData[selectionState.peGroup];
+                        if (peGroupData) {
+                            for (const [dayString, classes] of Object.entries(peGroupData)) {
+                                const dateMatch = dayString.match(/\d{4}-\d{2}-\d{2}/);
+                                if (dateMatch) {
+                                    const d = dateMatch[0];
+                                    classes.forEach(cls => {
+                                        processHalfClass(cls);
+                                    });
+                                    if (!currentSchedule[d]) {
+                                        currentSchedule[d] = [];
+                                        if (!scheduleDays.includes(d)) scheduleDays.push(d);
+                                    }
+                                    currentSchedule[d].push(...classes);
+                                }
+                            }
+                        }
+                    }
+                } catch (e) {
+                    console.error("Failed to load PE schedule", e);
                 }
             }
 
@@ -1099,7 +1218,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const rawName = cls.class_name;
                 const cat = getClassType(rawName);
-                const cName = cleanClassName(rawName);
+                let cName = cleanClassName(rawName);
+
+                if (settings.compactMode && cls.short_name) {
+                    cName = cleanClassName(cls.short_name);
+                }
 
                 if (!categories[cat][cName]) {
                     categories[cat][cName] = { total: 0, passed: 0 };
