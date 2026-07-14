@@ -9,12 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const aboutPanel = document.getElementById('about-panel');
     const filterPanel = document.getElementById('filter-panel');
     const progressPanel = document.getElementById('progress-panel');
-    const professorsPanel = document.getElementById('professors-panel');
 
     const menuPickerBtn = document.getElementById('menu-picker-btn');
     const menuFilterBtn = document.getElementById('menu-filter-btn');
     const menuProgressBtn = document.getElementById('menu-progress-btn');
-    const menuProfessorsBtn = document.getElementById('menu-professors-btn');
     const menuSettingsBtn = document.getElementById('menu-settings-btn');
     const menuAboutBtn = document.getElementById('menu-about-btn');
     const closeBtns = document.querySelectorAll('.close-panel-btn');
@@ -119,7 +117,6 @@ document.addEventListener('DOMContentLoaded', () => {
         aboutPanel.classList.remove('open');
         filterPanel.classList.remove('open');
         progressPanel.classList.remove('open');
-        professorsPanel.classList.remove('open');
         setTimeout(() => {
             menuPanel.classList.add('hidden');
             pickerPanel.classList.add('hidden');
@@ -127,7 +124,6 @@ document.addEventListener('DOMContentLoaded', () => {
             aboutPanel.classList.add('hidden');
             filterPanel.classList.add('hidden');
             progressPanel.classList.add('hidden');
-            professorsPanel.classList.add('hidden');
             panelOverlay.classList.add('hidden');
         }, 300);
     }
@@ -154,7 +150,6 @@ document.addEventListener('DOMContentLoaded', () => {
         updateSemesterProgress();
         openPanel(progressPanel);
     });
-    menuProfessorsBtn.addEventListener('click', () => openPanel(professorsPanel));
 
     panelOverlay.addEventListener('click', closeAllPanels);
     closeBtns.forEach(btn => {
