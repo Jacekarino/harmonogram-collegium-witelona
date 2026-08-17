@@ -35,7 +35,7 @@
 
 Aplikacja całkowicie eliminuje problemy z brakiem responsywności i archaicznym interfejsem na urządzeniach mobilnych, oferując intuicyjną estetykę *Glassmorphism*, błyskawiczne filtrowanie, dynamiczny wskaźnik postępu semestru oraz bezpośredni eksport terminów do zewnętrznych kalendarzy (Google Calendar, Apple Calendar, Outlook).
 
-> [!NOTE] Projekt ma charakter pomocniczy i open-source. W przypadku nagłych zmian sal lub odwołanych zajęć zaleca się weryfikację z oficjalnym komunikatem uczelni.
+> Projekt ma charakter pomocniczy i open-source. W przypadku nagłych zmian sal lub odwołanych zajęć zaleca się weryfikację z oficjalnym komunikatem uczelni.
 
 ---
 
