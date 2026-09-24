@@ -1,0 +1,877 @@
+{
+    "s2D1u": {
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C322"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A141"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A13 / A2"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie człowieka (lab)1h [x/-]",
+                "short_name": "Żc (lab)1h [x/-]",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A16"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pracownia żywienia i dietetyki (wyk)",
+                "short_name": "Pżid (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pracownia żywienia i dietetyki (lab)",
+                "short_name": "Pżid (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A16"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pracownia żywienia i dietetyki (wyk)",
+                "short_name": "Pżid (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_114"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_112"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychodietetyka (wyk)1h [x/-]",
+                "short_name": "Psych (wyk)1h [x/-]",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pracownia żywienia i dietetyki (wyk)",
+                "short_name": "Pżid (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_111"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A143 / A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A143 / A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A16 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A16 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_102"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pracownia żywienia i dietetyki (lab)",
+                "short_name": "Pżid (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (lab)",
+                "short_name": "Tżipd (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_19"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_105"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / mgr Monika Florek",
+                "room": "A16 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / mgr Monika Florek",
+                "room": "A16 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka (lab)",
+                "short_name": "Żc (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C14"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pracownia żywienia i dietetyki (wyk)",
+                "short_name": "Pżid (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)1h [x/-]",
+                "short_name": "Ep/Ezd (ćw)1h [x/-]",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A15"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / mgr Monika Florek",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / mgr Monika Florek",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)1h [x/-]",
+                "short_name": "Fiilzż (ćw)1h [x/-]",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka (wyk)",
+                "short_name": "Żc (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka pracy* / Etyka zawodu dietetyka* (ćw)",
+                "short_name": "Ep/Ezd (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A13"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A141 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (wyk)",
+                "short_name": "Eżipż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pracownia żywienia i dietetyki (wyk)",
+                "short_name": "Pżid (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychodietetyka (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Technologia żywności i potraw dietetycznych (wyk)",
+                "short_name": "Tżipd (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "D17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "D17"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
+                "room": "A15 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Edukacja żywieniowa i poradnictwo żywieniowe (ćw)",
+                "short_name": "Eżipż (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Pierwsza pomoc (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pracownia żywienia i dietetyki (lab)",
+                "short_name": "Pżid (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pracownia żywienia i dietetyki (lab)",
+                "short_name": "Pżid (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Pracownia żywienia i dietetyki (lab)",
+                "short_name": "Pżid (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)",
+                "short_name": "Fiilzż (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Farmaceutyki i interakcje leków z żywnością (ćw)1h [x/-]",
+                "short_name": "Fiilzż (ćw)1h [x/-]",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "D17"
+            }
+        ]
+    }
+}

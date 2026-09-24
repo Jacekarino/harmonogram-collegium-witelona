@@ -1,994 +1,1139 @@
 {
     "s1D2u": {
-        "Środa 2026-02-18": [
+        "Sobota 2026-10-03": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "C322"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
                 "room": "A36"
             },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "D17"
-            }
-        ],
-        "Piątek 2026-02-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            }
-        ],
-        "Sobota 2026-02-21": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Pracownia żywienia i dietetyki (wyk)",
-                "short_name": "Pżid (wyk)",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "D17"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Promocja zdrowia (ćw)1h [x/-]",
+                "short_name": "Pz (ćw)1h [x/-]",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "C14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "C14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
                 "room": "A14"
             }
         ],
-        "Niedziela 2026-02-22": [
+        "Środa 2026-10-21": [
             {
-                "time": "17:15-18:45",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_04"
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A36"
             },
             {
-                "time": "19:00-20:30",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_04"
-            }
-        ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Komunikacja interpersonalna (ćw)",
-                "short_name": "Ki (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
+                "time": "17:00-18:30",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
                 "room": "C322"
             },
             {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
                 "time": "11:45-13:15",
-                "class_name": "Pracownia żywienia i dietetyki (lab)",
-                "short_name": "Pżid (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A15"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Pracownia żywienia i dietetyki (lab)",
-                "short_name": "Pżid (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A15"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A15"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_101"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_101"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_104"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_09"
+                "room": "Online_111"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Pracownia żywienia i dietetyki (wyk)",
-                "short_name": "Pżid (wyk)",
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_111"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_09"
-            }
-        ],
-        "Sobota 2026-03-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
-                "short_name": "Wdpz (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A212"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Pracownia żywienia i dietetyki (lab)",
-                "short_name": "Pżid (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Komunikacja interpersonalna (ćw)",
-                "short_name": "Ki (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C322"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "C11"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "C11"
-            }
-        ],
-        "Niedziela 2026-03-15": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_06"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_06"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_04"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
+                "room": "Online_108"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_101"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_101"
-            }
-        ],
-        "Sobota 2026-03-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_105"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_104"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_102"
-            }
-        ],
-        "Sobota 2026-03-28": [
-            {
-                "time": "13:45-15:15",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "C314"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "C314"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A32"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
-                "short_name": "Wdpz (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A36"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_105"
-            }
-        ],
-        "Piątek 2026-04-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
                 "room": "Online_108"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Surowce i dodatki do żywności (wyk)1h [x/-]",
-                "short_name": "Siddż (wyk)1h [x/-]",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
                 "room": "Online_108"
             }
         ],
-        "Sobota 2026-04-11": [
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A31"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-10-25": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A244"
+                "class_name": "Anatomia (wyk)1h [-/x]",
+                "short_name": "Anato (wyk)1h [-/x]",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "Online_08"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C322"
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "Online_08"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Pracownia żywienia i dietetyki (lab)",
-                "short_name": "Pżid (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A217"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_107"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_107"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (ćw)1h [x/-]",
-                "short_name": "Siddż (ćw)1h [x/-]",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_104"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_104"
-            }
-        ],
-        "Piątek 2026-04-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_09"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_09"
-            }
-        ],
-        "Sobota 2026-05-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
-                "short_name": "Wdpz (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Pracownia żywienia i dietetyki (lab)",
-                "short_name": "Pżid (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Komunikacja interpersonalna (ćw)",
-                "short_name": "Ki (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C322"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Komunikacja interpersonalna (ćw)",
-                "short_name": "Ki (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "A143"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_100"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_103"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pracownia żywienia i dietetyki (wyk)",
-                "short_name": "Pżid (wyk)",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pracownia żywienia i dietetyki (wyk)",
-                "short_name": "Pżid (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_07"
-            }
-        ],
-        "Sobota 2026-05-16": [
-            {
-                "time": "13:45-15:15",
-                "class_name": "Pracownia żywienia i dietetyki (wyk)",
-                "short_name": "Pżid (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C113"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A212"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A212"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A212"
-            }
-        ],
-        "Sobota 2026-05-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Komunikacja interpersonalna (ćw)",
-                "short_name": "Ki (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C322"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A242"
+                "room": "Online_08"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Żywienie człowieka (lab)",
-                "short_name": "Żc (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A242"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
-                "short_name": "Wdpz (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A144"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wprowadzenie do praktyki zawodowej (ćw)",
-                "short_name": "Wdpz (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A144"
-            }
-        ],
-        "Środa 2026-05-27": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (ćw)",
-                "short_name": "Kzc (ćw)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            }
-        ],
-        "Piątek 2026-05-29": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
                 "room": "Online_08"
             }
         ],
-        "Środa 2026-06-03": [
+        "Środa 2026-10-28": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A14"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "A144"
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Kliniczny zarys chorób (wyk)",
-                "short_name": "Kzc (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "A144"
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
             }
         ],
-        "Środa 2026-06-10": [
+        "Piątek 2026-10-30": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (ćw)",
-                "short_name": "Bitż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A144"
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Surowce i dodatki do żywności (ćw)",
-                "short_name": "Siddż (ćw)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A144"
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
             }
         ],
-        "Czwartek 2026-06-11": [
+        "Środa 2026-11-04": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka (wyk)",
-                "short_name": "Żc (wyk)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "A36"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo i toksykologia żywności (wyk)",
-                "short_name": "Bitż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A144"
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Surowce i dodatki do żywności (wyk)",
-                "short_name": "Siddż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A144"
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
             }
         ],
-        "Sobota 2026-06-13": [
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_112"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "Online_112"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
             {
                 "time": "11:45-13:15",
-                "class_name": "Biochemia ogólna i żywności (lab)",
-                "short_name": "Boiż (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_104"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A32"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C314"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Promocja zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Agnieszka Bukowska",
+                "room": "D17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_109"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "D17"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_109"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "Online_110"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
                 "room": "D1"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Biochemia ogólna i żywności (wyk)",
-                "short_name": "Boiż (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C322"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia żywienia (wyk)",
+                "short_name": "Fż (wyk)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chemia ogólna i żywności (wyk)",
+                "short_name": "Coiż (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy żywienia zbiorowego (wyk)",
+                "short_name": "Pżz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A31"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chemia ogólna i żywności (lab)",
+                "short_name": "Coiż (lab)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "D1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikrobiologia ogólna i żywności (lab)",
+                "short_name": "Moiż (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pracownia antropometryczna (ćw)",
+                "short_name": "Pa (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C15"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia żywienia (ćw)",
+                "short_name": "Fż (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C14"
             }
         ]
     }

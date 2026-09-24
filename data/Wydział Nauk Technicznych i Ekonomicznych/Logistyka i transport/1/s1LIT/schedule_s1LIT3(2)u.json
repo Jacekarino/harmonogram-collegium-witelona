@@ -1,0 +1,1253 @@
+{
+    "s1LIT3(2)u": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "E1"
+            }
+        ],
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "C113"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A245 / A36"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C113"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_109"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A242"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_108"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C113"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A14 / C212"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            }
+        ]
+    }
+}

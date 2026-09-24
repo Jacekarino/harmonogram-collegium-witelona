@@ -1,0 +1,1009 @@
+{
+    "s1BW2": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (ćw)",
+                "short_name": "S-Wswpk (ćw)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C322"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologiip (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologiip (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy socjologii (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A13"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_112"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_112"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_09"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_09"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologiip (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A320"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy socjologii (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy socjologii (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_09"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_114"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_101"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologiip (wt)",
+                "short_name": "Ppp (wt)",
+                "teacher": "mgr Mirosław Walaszczyk",
+                "room": "A318"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A15"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_109"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_109"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_08"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_09"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_103"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_109"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy socjologii (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy socjologii (wt)",
+                "short_name": "Ps (wt)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_05"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A15"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy zarządzania (wt)",
+                "short_name": "Pz (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Międzynarodowe stosunki polityczne (wyk)",
+                "short_name": "Msp (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wyk)",
+                "short_name": "Pbw (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            }
+        ]
+    }
+}

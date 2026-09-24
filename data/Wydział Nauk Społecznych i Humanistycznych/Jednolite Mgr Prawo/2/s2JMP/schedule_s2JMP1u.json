@@ -1,0 +1,1521 @@
+{
+    "s2JMP1u": {
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski / mgr Anna Świerczyńska",
+                "room": "A12 / A13 / A15"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_03 / Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_03 / Online_102"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_03 / Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_03 / Online_102"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr Kacper Bielawski",
+                "room": "Online_06 / Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr Kacper Bielawski",
+                "room": "Online_06 / Online_08"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "E1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "E1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo administracyjne (wt)1h [x/-]",
+                "short_name": "Pa (wt)1h [x/-]",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Kacper Bielawski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Kacper Bielawski",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C128"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C128"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C128"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo administracyjne (wyk)1h [x/-]",
+                "short_name": "Pa (wyk)1h [x/-]",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_07"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_16 / Online_17 / Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_16 / Online_17 / Online_18"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "Tymczasowa06"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C113"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)1h [x/-]",
+                "short_name": "Pap (wt)1h [x/-]",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C125"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_16 / Online_17 / Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_16 / Online_17 / Online_18"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_100"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo administracyjne (wyk)",
+                "short_name": "Pa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka* (wyk)",
+                "short_name": "Krymi (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "Online_16 / Online_17 / Online_18"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
+                "short_name": "Pc-coipr (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A141"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
+                "short_name": "Pap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A141"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "C14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo administracyjne (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "C14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C14"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo administracyjne (wyk)1h [x/-]",
+                "short_name": "Pa (wyk)1h [x/-]",
+                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wyk)",
+                "short_name": "Pc-coipr (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kryminalistyka* (wyk)1h [x/-]",
+                "short_name": "Krymi (wyk)1h [x/-]",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo karne i prawo wykroczeń (wyk)",
+                "short_name": "Pkipw (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawno-ekonomiczne aspekty projektów (wyk)",
+                "short_name": "Pap (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A12"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo gospodarcze publiczne (wt)",
+                "short_name": "Pgp (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo karne i prawo wykroczeń (wt)",
+                "short_name": "Pkipw (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (lek)",
+                "short_name": "Jo (lek)",
+                "teacher": "mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Kacper Bielawski",
+                "room": "A15 / A16 / A31"
+            }
+        ]
+    }
+}

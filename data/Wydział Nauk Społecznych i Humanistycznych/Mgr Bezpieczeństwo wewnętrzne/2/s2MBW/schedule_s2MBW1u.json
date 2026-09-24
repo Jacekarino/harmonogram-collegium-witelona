@@ -1,616 +1,1260 @@
 {
     "s2MBW1u": {
-        "Wtorek 2026-02-17": [
+        "Piątek 2026-10-02": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "C224"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C113"
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A13"
             }
         ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
-            }
-        ],
-        "Sobota 2026-03-14": [
+        "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "C129 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański",
-                "room": "A2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            }
-        ],
-        "Niedziela 2026-03-15": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
+                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "C111 / C202 / C324"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C127 / A141 / A16 / A2"
+                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Marek Czarkowski",
+                "room": "C111 / C202 / C324"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C127 / A141 / A16 / A2"
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C125"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr inż. Paweł Dąbrowa / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C127 / A141 / A16 / A2"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
-            }
-        ],
-        "Sobota 2026-03-28": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Jerzy Buczko / dr Andrzej Szczepański / dr inż. Paweł Dąbrowa",
-                "room": "A143 / A2 / A217 / C324"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Jerzy Buczko / dr Andrzej Szczepański / dr inż. Paweł Dąbrowa",
-                "room": "A143 / A2 / A217 / C324"
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C125"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Jerzy Buczko / dr Andrzej Szczepański / dr inż. Paweł Dąbrowa",
-                "room": "A143 / A2 / A217 / C324"
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C125"
             }
         ],
-        "Niedziela 2026-03-29": [
+        "Niedziela 2026-10-04": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
                 "room": "C323"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
                 "room": "C323"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
                 "room": "C323"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański",
-                "room": "A32"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański",
-                "room": "A32"
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
             }
         ],
-        "Wtorek 2026-03-31": [
+        "Czwartek 2026-10-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "E1"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
             }
         ],
-        "Wtorek 2026-04-07": [
+        "Wtorek 2026-10-13": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "A36"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
-            }
-        ],
-        "Sobota 2026-04-11": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
+                "time": "17:00-18:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "A245"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A245"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            }
-        ],
-        "Niedziela 2026-04-12": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C126 / A141 / A2 / A217"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C126 / A141 / A2 / A217"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Andrzej Szczepański / dr Agnieszka Kos",
-                "room": "C126 / A141 / A2 / A217"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
+                "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "A36"
             }
         ],
-        "Sobota 2026-04-18": [
+        "Środa 2026-10-14": [
             {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "A14"
             },
             {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "time": "17:00-18:30",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_105"
             }
         ],
-        "Niedziela 2026-04-19": [
+        "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C125"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C125"
             }
         ],
-        "Wtorek 2026-04-21": [
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C125"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "C125"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C125"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_03"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_21"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_21"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_06"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_100"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_11"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
                 "room": "Online_106"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_106"
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_03"
             }
         ],
-        "Sobota 2026-04-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "C113"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
-            }
-        ],
-        "Niedziela 2026-04-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wt)",
-                "short_name": "Wrwzk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C323"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr inż. Paweł Dąbrowa / dr Jerzy Buczko",
-                "room": "A143 / A2 / C325"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr inż. Paweł Dąbrowa / dr Jerzy Buczko",
-                "room": "A143 / A2 / C325"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr inż. Paweł Dąbrowa / dr Jerzy Buczko",
-                "room": "A143 / A2 / C325"
-            }
-        ],
-        "Wtorek 2026-04-28": [
+        "Czwartek 2026-11-05": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
                 "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
+                "room": "Online_02"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_10"
             }
         ],
-        "Wtorek 2026-05-05": [
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A15"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A31"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A31"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_37"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_37"
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
             }
         ],
-        "Czwartek 2026-05-07": [
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_107"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wyk)",
-                "short_name": "Sbp (wyk)",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
                 "teacher": "dr Jerzy Buczko",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C212"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wt)",
+                "short_name": "Odoiin (wt)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
                 "room": "A144"
             }
         ],
-        "Wtorek 2026-05-12": [
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_101"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Wirtualna rzeczywistość w zarządzaniu kryzysowym* (wyk)",
-                "short_name": "Wrwzk (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A245"
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_04"
             }
         ],
-        "Sobota 2026-05-16": [
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_21"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_21"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_21"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            }
+        ],
+        "Sobota 2026-11-28": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Marek Czarkowski / dr Jerzy Buczko",
+                "room": "A142 / A143 / C224"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Strategia bezpieczeństwa państwa* (wt)",
-                "short_name": "Sbp (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C113"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Paweł Dąbrowa / dr Marek Czarkowski / dr Jerzy Buczko",
+                "room": "A142 / A143 / C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia zarządzania kryzysowego (wt)",
+                "short_name": "Pzk (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C224"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C224"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C224"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C224"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Andrzej Szczepański / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
-                "room": "A2 / A32 / C324 / C325"
+                "teacher": "dr Marek Czarkowski / dr inż. Paweł Dąbrowa / dr Jerzy Buczko",
+                "room": "A142 / A15 / C224"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Andrzej Szczepański / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
-                "room": "A2 / A32 / C324 / C325"
+                "teacher": "dr Marek Czarkowski / dr inż. Paweł Dąbrowa / dr Jerzy Buczko",
+                "room": "A142 / A15 / C224"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C224"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_03 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Andrzej Szczepański / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
-                "room": "A2 / A32 / C324 / C325"
+                "teacher": "dr Jerzy Buczko / dr Marek Czarkowski / dr inż. Paweł Dąbrowa",
+                "room": "C125 / A15 / A36"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A33"
+                "class_name": "Seminarium dyplomowe (sem)1h [x/-]",
+                "short_name": "Sd (sem)1h [x/-]",
+                "teacher": "dr Jerzy Buczko / dr Marek Czarkowski / dr inż. Paweł Dąbrowa",
+                "room": "C125 / A15 / A36"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Taktyka i technika interwencji (wt)",
-                "short_name": "Titi (wt)",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_03"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek / mgr Agnieszka Łakomska",
+                "room": "Online_04 / Online_05 / Online_06"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C125"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Proces karny (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "C125"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "C125"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C125"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia zarządzania kryzysowego (wyk)",
+                "short_name": "Pzk (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
+                "short_name": "Odoiin (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
+                "short_name": "Zpz (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "A33"
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo militarne państwa (wyk)",
+                "short_name": "Bmp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Proces karny (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Tymczasowa06"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Agnieszka Łakomska / mgr Filip Kostek",
+                "room": "A16 / A31 / A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wt)",
+                "short_name": "Mmpwsk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry decyzyjne w systemie zarządzania kryzysowego (wt)",
+                "short_name": "Gdwszk (wt)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "C323"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
+                "short_name": "Roapwsk (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Bezpieczeństwo militarne państwa (wt)",
+                "short_name": "Bmp (wt)",
+                "teacher": "Wakat_6_WS",
+                "room": "Tymczasowa06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
+                "short_name": "Zpz (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa06"
             }
         ]
     }

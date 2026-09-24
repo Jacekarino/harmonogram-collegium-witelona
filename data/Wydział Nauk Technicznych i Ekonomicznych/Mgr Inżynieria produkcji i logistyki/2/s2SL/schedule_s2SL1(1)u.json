@@ -1,1417 +1,1419 @@
 {
     "s2SL1(1)u": {
-        "Poniedziałek 2026-02-16": [
+        "Piątek 2026-10-02": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "15:15-16:45",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A36"
             }
         ],
-        "Wtorek 2026-02-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-02-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
+        "Poniedziałek 2026-10-05": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
                 "room": "C224"
-            }
-        ],
-        "Piątek 2026-02-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "A143"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A142"
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C125"
             }
         ],
-        "Poniedziałek 2026-02-23": [
+        "Środa 2026-10-07": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "C125"
             }
         ],
-        "Wtorek 2026-02-24": [
+        "Czwartek 2026-10-08": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "E2"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_03"
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C203"
             }
         ],
-        "Piątek 2026-02-27": [
+        "Sobota 2026-10-10": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "C127 / C324"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Daniel Dębowski",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
                 "room": "Online_09"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "Online_08"
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_09"
             }
         ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A16"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A16"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C314"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C314"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "C314"
-            }
-        ],
-        "Niedziela 2026-03-01": [
+        "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A242"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
                 "room": "A242"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C209"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C209"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
                 "room": "C202"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C313"
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C203"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C313"
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C202"
             }
         ],
-        "Poniedziałek 2026-03-02": [
+        "Niedziela 2026-10-18": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C11"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "13:45-15:15",
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C11"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A32"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A32"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C327"
             }
         ],
-        "Wtorek 2026-03-03": [
+        "Wtorek 2026-10-20": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_08"
-            }
-        ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_09"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_07"
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
                 "room": "Online_03"
             }
         ],
-        "Niedziela 2026-03-08": [
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_114"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_12"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_112"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_13"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A145"
+            },
             {
                 "time": "15:30-17:00",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A217"
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A217"
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A143"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A145"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
                 "teacher": "mgr inż. Piotr Motyka",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Gry symulacyjne (wt)",
+                "short_name": "Gs (wt)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A145"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
                 "room": "A218"
             }
         ],
-        "Poniedziałek 2026-03-09": [
+        "Wtorek 2026-11-17": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Piątek 2026-03-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
+                "time": "15:15-16:45",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_105"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_102"
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_106"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "Online_06"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_106"
             }
         ],
-        "Poniedziałek 2026-03-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
+        "Poniedziałek 2026-11-23": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_08"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
                 "room": "Online_01"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_01"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI",
-                "room": "Praktyki1"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_06"
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_06"
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
             }
         ],
-        "Czwartek 2026-04-09": [
+        "Czwartek 2026-11-26": [
             {
-                "time": "18:45-20:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_04"
-            }
-        ],
-        "Piątek 2026-04-10": [
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_03"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_05"
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_03"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "Online_101"
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_02"
             }
         ],
-        "Sobota 2026-04-11": [
+        "Sobota 2026-11-28": [
             {
-                "time": "17:15-18:45",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
+                "time": "08:15-09:45",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
                 "room": "C313"
             },
             {
-                "time": "19:00-20:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
+                "time": "10:00-11:30",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
                 "room": "C313"
-            }
-        ],
-        "Sobota 2026-04-18": [
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
             {
                 "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C11"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C11"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C313"
             }
         ],
-        "Niedziela 2026-04-19": [
+        "Niedziela 2026-11-29": [
             {
                 "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Czwartek 2026-04-23": [
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
             {
-                "time": "18:45-20:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_05"
+                "time": "11:45-13:15",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A143"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A145"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A145"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A143"
             }
         ],
-        "Piątek 2026-04-24": [
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_09"
+            },
             {
                 "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Daniel Dębowski",
                 "room": "Online_09"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "Online_10"
             }
         ],
-        "Sobota 2026-04-25": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C226"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C226"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C10"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C10"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_03"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "Online_03"
-            }
-        ],
-        "Piątek 2026-05-08": [
+        "Poniedziałek 2026-12-07": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_06"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_105"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_06"
+                "room": "Online_106"
             }
         ],
-        "Poniedziałek 2026-05-11": [
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_03"
+            },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
                 "room": "Online_03"
             }
         ],
-        "Środa 2026-05-13": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (wyk)",
-                "short_name": "Zsiz (wyk)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "A245"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Cyfryzacja w logistyce (wyk)",
-                "short_name": "Cwl (wyk)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A143"
-            }
-        ],
-        "Sobota 2026-05-16": [
+        "Sobota 2026-12-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "A244"
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A143"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "A244"
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A213"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Cyfryzacja w logistyce (lab)",
-                "short_name": "Cwl (lab)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C313"
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A145"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C202"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C129"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
                 "room": "C202"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Piotr Motyka",
                 "room": "C202"
             }
         ],
-        "Niedziela 2026-05-17": [
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_115"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_115"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_115"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_112"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_112"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_109"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "A244"
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zintegrowane systemy informatyczne zarządzania (lab)",
-                "short_name": "Zsiz (lab)",
-                "teacher": "mgr inż. Dawid Kucuk",
-                "room": "A244"
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A213"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Rola współczesnego menedżera w przemyśle 4.0 (wt)",
-                "short_name": "Rwmwp4 (wt)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C202"
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A213"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C10"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "1 Coboty w logistyce (lab)",
-                "short_name": "1Cwl (lab)",
-                "teacher": "mgr inż. Jakub Wisłocki",
-                "room": "D6"
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C11"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
+                "room": "Online_01 / Online_02 / Online_09"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Katarzyna Ben Abdallah / mgr Sylwia Zajchowska",
+                "room": "A2 / C324 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (ćw)",
+                "short_name": "Ntm-w (ćw)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A31"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (lab)",
+                "short_name": "Aibsl (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C305"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy informatyczne w logistyce (lab)",
+                "short_name": "Siwl (lab)",
+                "teacher": "mgr inż. Zdzisław Pawelec",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C227"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyczne sterowanie procesem (lab)",
+                "short_name": "Ssp (lab)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C314"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Innowacje (wt)",
+                "short_name": "Innow (wt)",
+                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
+                "room": "C227"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Automatyzacja i robotyzacja (lab)",
+                "short_name": "Air (lab)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C313"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autonomiczne i bezzałogowe statki latające (wyk)",
+                "short_name": "Aibsl (wyk)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "C122"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Utrzymanie ruchu maszyn i urządzeń (wyk)",
+                "short_name": "Urmiu (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Lean production (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny* / społeczny* (wyk)",
+                "short_name": "Mh/s (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Automatyzacja i robotyzacja (wyk)",
+                "short_name": "Air (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne technologie mechaniczne - wytwarzanie (wyk)",
+                "short_name": "Ntm-w (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyczne sterowanie procesem (wyk)",
+                "short_name": "Ssp (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C224"
             }
         ]
     }

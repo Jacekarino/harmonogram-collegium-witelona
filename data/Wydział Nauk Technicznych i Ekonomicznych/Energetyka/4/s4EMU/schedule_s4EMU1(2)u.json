@@ -1,0 +1,801 @@
+{
+    "s4EMU1(2)u": {
+        "Niedziela 2026-10-04": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C129"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C129"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A12"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E3"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A217"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_18"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_103"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_18"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_115"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_103"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_113"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_115"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_12"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A143"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_12"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_108"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_22"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_22"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C202"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "C202"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Audyting energetyczny (p)",
+                "short_name": "Ae (p)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_22"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_12"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_22"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_108"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_22"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_19"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_114"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A144"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C327"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A12"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Eksploatacja systemów energetycznych (wyk)",
+                "short_name": "Ese (wyk)",
+                "teacher": "mgr inż. Sebastian Kowalski",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A15"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A144"
+            }
+        ]
+    }
+}

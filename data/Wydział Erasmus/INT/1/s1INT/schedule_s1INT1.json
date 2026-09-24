@@ -1,357 +1,543 @@
 {
     "s1INT1": {
-        "Wtorek 2026-02-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "C122"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social psychology (wyk)1h [x/-]",
-                "short_name": "Sp (wyk)1h [x/-]",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
+        "Wtorek 2026-10-13": [
             {
                 "time": "13:30-15:00",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
                 "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A31"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A31"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C126"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C126"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social psychology (ćw)1h [x/-]",
-                "short_name": "Sp (ćw)1h [x/-]",
-                "teacher": "mgr Oskar Madej",
-                "room": "C126"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C126"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C126"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C126"
-            }
-        ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A12"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A12"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A15"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A13"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A13"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A13"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A13"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C123"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A13"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A13"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A13"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "A13"
+                "room": "A143"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
                 "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A16"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_12"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_06"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A12"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A142"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A142"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "A142"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A16"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Basics of psychology (wyk)",
+                "short_name": "Bop (wyk)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "C203"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Basics of psychology (ćw)",
+                "short_name": "Bop (ćw)",
+                "teacher": "mgr  Maria Kurpaska",
+                "room": "C203"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Crisis intervention (wyk)",
+                "short_name": "Ci (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Crisis intervention (ćw)",
+                "short_name": "Ci (ćw)",
+                "teacher": "dr Anna Kowal-Orczykowska",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A31"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
                 "room": "A13"
             }
         ],
-        "Wtorek 2026-06-02": [
+        "Piątek 2027-01-22": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "C111"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Personal branding (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska",
-                "room": "C111"
-            }
-        ],
-        "Środa 2026-06-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Social psychology (wyk)",
-                "short_name": "Sp (wyk)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Social psychology (ćw)",
-                "short_name": "Sp (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "C123"
-            }
-        ],
-        "Wtorek 2026-06-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Basics of group work (ćw)",
-                "short_name": "Bogw (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             }
         ]
     }

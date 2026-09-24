@@ -1,0 +1,855 @@
+{
+    "n1K2": {
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "A16"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja interpersonalna (ćw)1h [x/-]",
+                "short_name": "Ki (ćw)1h [x/-]",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komunikacja interpersonalna (ćw)",
+                "short_name": "Ki (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A15"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia zdrowia (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "Online_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "Online_05"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "Online_05"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wizaż i stylizacja (wyk)",
+                "short_name": "Wis (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A15"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kosmetologia pielęgnacyjna (wyk)",
+                "short_name": "Kp (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kosmetologia pielęgnacyjna (wyk)1h [-/x]",
+                "short_name": "Kp (wyk)1h [-/x]",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "Online_08"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kosmetologia pielęgnacyjna (wyk)",
+                "short_name": "Kp (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "Online_08"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kosmetologia pielęgnacyjna (wyk)",
+                "short_name": "Kp (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "Online_08"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_08"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "Online_08"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_114"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C314"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (lab)",
+                "short_name": "Anato (lab)",
+                "teacher": "prof. dr hab. Jarosław Domaracki",
+                "room": "C314"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kosmetologia pielęgnacyjna (lab)",
+                "short_name": "Kp (lab)",
+                "teacher": "mgr Zofia Nitka",
+                "room": "A322"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wizaż i stylizacja (wyk)",
+                "short_name": "Wis (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_11"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja interpersonalna (ćw)",
+                "short_name": "Ki (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kosmetologia pielęgnacyjna (wyk)",
+                "short_name": "Kp (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wizaż i stylizacja (ćw)",
+                "short_name": "Wis (ćw)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A322"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia (lab)",
+                "short_name": "Fizjo (lab)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizjologia (wyk)",
+                "short_name": "Fizjo (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "A13"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy chemii z biochemią (ćw)",
+                "short_name": "Pczb (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia zdrowia (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A2"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wizaż i stylizacja (wyk)",
+                "short_name": "Wis (wyk)",
+                "teacher": "mgr Beata Anaya Diaz",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "A32"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy chemii z biochemią (wyk)",
+                "short_name": "Pczb (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy biologii człowieka (lab)",
+                "short_name": "Pbc (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (wyk)",
+                "short_name": "Mzhipz (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikrobiologia z higieną i profilaktyką zawodową (lab)",
+                "short_name": "Mzhipz (lab)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D18"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1309 @@
+{
+    "s1MP01u": {
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (ćw)",
+                "short_name": "S-Wswpk (ćw)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 09.00-10.30",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Spotkanie organizacyjne (wt)",
+                "short_name": "So (wt)",
+                "teacher": "Spotkanie organizacyjne 11.00-12.30",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Spotkanie organizacyjne (wt)",
+                "short_name": "So (wt)",
+                "teacher": "Spotkanie organizacyjne 11.00-12.30",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (wyk)",
+                "short_name": "Szżwpoo (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Tymczasowa07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (wyk)",
+                "short_name": "Szżwpoo (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Tymczasowa07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "Tymczasowa07"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (wyk)",
+                "short_name": "Fiopl (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "Tymczasowa07"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Tymczasowa07"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Tymczasowa07"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (wyk)",
+                "short_name": "Fiopl (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C326"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "C326"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych (wyk)",
+                "short_name": "Pzpondn (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne( (wyk)",
+                "short_name": "Zzr( (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Online_05"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne( (wyk)",
+                "short_name": "Zzr( (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Online_05"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Zwpzp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Tymczasowa01"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_09"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (zp)",
+                "short_name": "Zwpzp (zp)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (zp)",
+                "short_name": "Zwpzp (zp)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (wyk)",
+                "short_name": "Fiopl (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (ćw)",
+                "short_name": "MD-Oliwr (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (ćw)",
+                "short_name": "Szżwpoo (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (ćw)",
+                "short_name": "Szżwpoo (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (ćw)",
+                "short_name": "Szżwpoo (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A31"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych (ćw)",
+                "short_name": "Pzpondn (ćw)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "E2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (ćw)",
+                "short_name": "Szżwpoo (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (ćw)",
+                "short_name": "Szżwpoo (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "E2"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dydaktyka medyczna (zp)",
+                "short_name": "Dm (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A32"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych( (wyk)",
+                "short_name": "Pzpondn( (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_06"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (zp)",
+                "short_name": "Oietwcp (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (zp)",
+                "short_name": "Zwpzp (zp)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (zp)",
+                "short_name": "Zwpzp (zp)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (zp)",
+                "short_name": "Zwpzp (zp)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C123"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (wyk)",
+                "short_name": "Fiopl (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C123"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C123"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C123"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (zp)",
+                "short_name": "Dm (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dydaktyka medyczna (zp)",
+                "short_name": "Dm (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C224"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (ćw)",
+                "short_name": "Oietwcp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A32"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych( (wyk)",
+                "short_name": "Pzpondn( (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych( (wyk)",
+                "short_name": "Pzpondn( (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_02"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_02"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Zwpzp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Tymczasowa01"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych (ćw)",
+                "short_name": "Pzpondn (ćw)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych (ćw)",
+                "short_name": "Pzpondn (ćw)",
+                "teacher": "dr hab. Izabela Wróblewska",
+                "room": "E2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (wyk)",
+                "short_name": "Zzr (wyk)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "E2"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Praktyka zawodowa pielęgniarki oparta na dowodach naukowych (wyk)",
+                "short_name": "Pzpondn (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (wyk)",
+                "short_name": "Szżwpoo (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "E4"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informacja naukowa (ćw)",
+                "short_name": "In (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "E2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (wyk)",
+                "short_name": "Fiopl (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (wyk)",
+                "short_name": "MD-Oliwr (wyk)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "MODUŁ DODATKOWY - Ordynowanie leków i wystawianie recept (ćw)",
+                "short_name": "MD-Oliwr (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "E2"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka medyczna( (wyk)",
+                "short_name": "Dm( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej( (wyk)",
+                "short_name": "Szżwpoo( (wyk)",
+                "teacher": "lek. Damian Cycak",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki( (wyk)",
+                "short_name": "Zwpzp( (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Bnwpzp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C126"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Farmakologia i ordynowanie produktów leczniczych (ćw)",
+                "short_name": "Fiopl (ćw)",
+                "teacher": "dr Marcin Stolarczyk",
+                "room": "C126"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Zwpzp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C126"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (wyk)",
+                "short_name": "Zwpzp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
+                "short_name": "Zwpzp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C126"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A114 (MCSM-OSCE)"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (MCSM-WW) (zp)",
+                "short_name": "Oietwcp( (zp)",
+                "teacher": "mgr Aneta Stężycka",
+                "room": "A114 (MCSM-OSCE)"
+            }
+        ]
+    }
+}

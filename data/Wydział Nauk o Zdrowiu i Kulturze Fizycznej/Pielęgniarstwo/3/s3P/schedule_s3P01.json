@@ -1,2439 +1,2084 @@
 {
     "s3P01": {
-        "Poniedziałek 2026-02-16": [
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C212"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A104 (MCSM-UP)"
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A104 (MCSM-UP)"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
             }
         ],
-        "Wtorek 2026-02-17": [
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "C113"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
             {
                 "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
                 "room": "A117 (MCSM-ALS/BLS)"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
+                "class_name": "Podstawy rehabilitacji (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Joanna Medyk-Stefaniuk",
+                "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "E2"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "E2"
+                "class_name": "Podstawy rehabilitacji (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Joanna Medyk-Stefaniuk",
+                "room": "A104 (MCSM-UP)"
             }
         ],
-        "Środa 2026-02-18": [
+        "Czwartek 2026-10-08": [
             {
-                "time": "13:30-15:00",
+                "time": "08:15-09:45",
                 "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
                 "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
                 "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_01"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A116 (MCSM-WW)"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
                 "short_name": "Aipwzż (zp)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Szpital_Leg_04"
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A117 (MCSM-ALS/BLS)"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
                 "short_name": "Aipwzż (zp)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Szpital_Leg_04"
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A116 (MCSM-WW)"
             }
         ],
-        "Czwartek 2026-02-19": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A115 (MCSM-Deb.)"
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Piątek 2026-02-20": [
+        "Wtorek 2026-10-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "A118 (MCSM-UT)"
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "A118 (MCSM-UT)"
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A212"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "Tymczasowa01"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            }
-        ],
-        "Poniedziałek 2026-02-23": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A316"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr n. med. Joanna Żółtańska / mgr Anna Filipienko / mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak",
-                "room": "A141 / A142 / A143 / A31"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A316"
             }
         ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
-            }
-        ],
-        "Środa 2026-02-25": [
+        "Środa 2026-10-14": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C113"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_06"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_06"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A114 (MCSM-OSCE)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
                 "room": "A114 (MCSM-OSCE)"
             }
         ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            }
-        ],
-        "Piątek 2026-02-27": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A36"
-            }
-        ],
-        "Poniedziałek 2026-03-02": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak / mgr Anna Filipienko",
-                "room": "A12 / A142 / A15 / A31"
-            }
-        ],
-        "Wtorek 2026-03-03": [
+        "Środa 2026-10-21": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
                 "room": "A144"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
                 "room": "A144"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska / mgr Anna Filipienko / mgr  Renata Hołowiak",
-                "room": "A115 (MCSM-Deb.) / A12 / A143 / A32"
-            }
-        ],
-        "Środa 2026-03-04": [
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_05"
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "C212"
             }
         ],
-        "Czwartek 2026-03-05": [
+        "Czwartek 2026-10-22": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            }
-        ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
                 "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
                 "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "A104 (MCSM-UP)"
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A104 (MCSM-UP) / A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A104 (MCSM-UP) / A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A32"
             }
         ],
-        "Poniedziałek 2026-03-09": [
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Wtorek 2026-10-27": [
             {
                 "time": "08:15-09:45",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "teacher": "mgr Wanda Hurej",
                 "room": "P.FAM.Rzec116_01"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "teacher": "mgr Wanda Hurej",
                 "room": "P.FAM.Rzec116_01"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "teacher": "mgr Wanda Hurej",
                 "room": "P.FAM.Rzec116_01"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "teacher": "mgr Wanda Hurej",
                 "room": "P.FAM.Rzec116_01"
             }
         ],
-        "Wtorek 2026-03-10": [
+        "Środa 2026-10-28": [
             {
                 "time": "10:00-11:30",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "Tymczasowa01"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Badania naukowe w położnictwie (wyk)",
+                "short_name": "Bnwp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A144"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Czwartek 2026-03-12": [
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska / mgr Anna Filipienko",
-                "room": "A141 / A15 / A31 / A316"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska / mgr Anna Filipienko",
-                "room": "A141 / A15 / A31 / A316"
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
             }
         ],
-        "Piątek 2026-03-13": [
+        "Piątek 2026-10-30": [
             {
                 "time": "10:00-11:30",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A118 (MCSM-UT)"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_05"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A118 (MCSM-UT)"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_05"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A118 (MCSM-UT)"
             }
         ],
-        "Poniedziałek 2026-03-16": [
+        "Wtorek 2026-11-03": [
             {
-                "time": "13:30-15:00",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
                 "room": "A116 (MCSM-WW)"
             },
             {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
                 "room": "A116 (MCSM-WW)"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A116 (MCSM-WW)"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "MCSM - Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "M-Aipwzż (zp)",
-                "teacher": "dr n. med. Joanna Żółtańska",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
                 "room": "A115 (MCSM-Deb.)"
             }
         ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
+        "Czwartek 2026-11-05": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
                 "room": "A144"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
                 "room": "A144"
             }
         ],
-        "Czwartek 2026-03-19": [
+        "Poniedziałek 2026-11-09": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Badania naukowe w położnictwie (wyk)",
+                "short_name": "Bnwp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
+                "class_name": "Badania naukowe w położnictwie (ćw)",
+                "short_name": "Bnwp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy rehabilitacji (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Joanna Medyk-Stefaniuk",
+                "room": "A104 (MCSM-UP)"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Podstawy rehabilitacji (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Joanna Medyk-Stefaniuk",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Piotr Zieliński",
+                "room": "Szpital_Leg_03"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w położnictwie (wyk)",
+                "short_name": "Bnwp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Badania naukowe w położnictwie (ćw)",
+                "short_name": "Bnwp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A114 (MCSM-OSCE)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A114 (MCSM-OSCE)"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A116 (MCSM-WW)"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "A212"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
                 "room": "A212"
             }
         ],
-        "Piątek 2026-03-20": [
+        "Piątek 2026-11-27": [
             {
                 "time": "10:00-11:30",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "MCSM - Podstawowa opieka zdrowotna (zp)",
-                "short_name": "M-Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / dr Dorota Milecka / mgr  Renata Hołowiak",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w położnictwie (wyk)",
+                "short_name": "Bnwp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy rehabilitacji (ćw)",
+                "short_name": "Pr (ćw)",
+                "teacher": "mgr Joanna Medyk-Stefaniuk",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "P.FAM.Rzec116_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A119 (MCSM-porodowa)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Franciszka Czepiel-Kloc",
+                "room": "A118 (MCSM-UT)"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_08"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / mgr  Renata Hołowiak / dr Dorota Milecka / dr n. med. Jolanta Bielawska",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / mgr  Renata Hołowiak / dr Dorota Milecka / dr n. med. Jolanta Bielawska",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Filipienko / mgr Anna Pączkowska / mgr  Renata Hołowiak / dr Dorota Milecka / dr n. med. Jolanta Bielawska",
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145 / A32"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Badania naukowe w położnictwie (wyk)",
+                "short_name": "Bnwp (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Badania naukowe w położnictwie (ćw)",
+                "short_name": "Bnwp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
+                "short_name": "Aipwzż (zp)",
+                "teacher": "mgr Edyta Mikołajek",
                 "room": "A115 (MCSM-Deb.)"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "A13 / A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (wyk)",
+                "short_name": "Poz (wyk)",
+                "teacher": "mgr Wanda Hurej",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy rehabilitacji (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
+                "short_name": "Gipg (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
+                "teacher": "prof. dr hab. n. med. Grażyna Durek",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr  Renata Hołowiak / dr Dorota Milecka / mgr Anna Filipienko",
+                "room": "A104 (MCSM-UP) / A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr  Renata Hołowiak / dr Dorota Milecka / mgr Anna Filipienko",
+                "room": "A104 (MCSM-UP) / A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr  Renata Hołowiak / dr Dorota Milecka / mgr Anna Filipienko",
+                "room": "A104 (MCSM-UP) / A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A12 / A145"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
                 "room": "A116 (MCSM-WW)"
-            },
+            }
+        ],
+        "Piątek 2027-01-08": [
             {
                 "time": "17:00-18:30",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A116 (MCSM-WW)"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
+                "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "MCSM - Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "M-Pipp (zp)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A115 (MCSM-Deb.)"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
+                "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
             }
         ],
-        "Wtorek 2026-03-24": [
+        "Poniedziałek 2027-01-11": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
-            },
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Czwartek 2027-01-14": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
+                "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "mgr  Renata Hołowiak / mgr Anna Filipienko / mgr Małgorzata Słupska-Kartaczowska / dr n. med. Joanna Żółtańska",
-                "room": "A13 / A15 / A2 / A318"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "Aipwzż (zp)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Szpital_Leg_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "Aipwzż (zp)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Szpital_Leg_04"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (zp)",
-                "short_name": "Aipwzż (zp)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Szpital_Leg_04"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Katarzyna Śliwińska",
-                "room": "P.FAM.Rzec116_01"
-            }
-        ],
-        "Poniedziałek 2026-03-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            }
-        ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A36"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Marzena Miłosz",
-                "room": "OLU.ul.Choj.81_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska / dr n. med. Joanna Żółtańska",
-                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A116 (MCSM-WW) / A12"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska / dr n. med. Joanna Żółtańska",
-                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A116 (MCSM-WW) / A12"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychiatria i pielęgniarstwo psychiatryczne (wyk)",
-                "short_name": "Pipp (wyk)",
-                "teacher": "mgr Anna Filipienko",
-                "room": "A144"
-            }
-        ],
-        "Czwartek 2026-04-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-04-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-04-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska",
-                "room": "Online_10 / Online_100 / Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska",
-                "room": "Online_10 / Online_100 / Online_101"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-04-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Poniedziałek 2026-04-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr n. med. Joanna Żółtańska / mgr Anna Filipienko / mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_03 / Online_04 / Online_06 / Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr n. med. Joanna Żółtańska / mgr Anna Filipienko / mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_03 / Online_04 / Online_06 / Online_101"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_106 / Online_107 / Online_110 / Online_111"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / mgr  Renata Hołowiak / dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_106 / Online_107 / Online_110 / Online_111"
-            }
-        ],
-        "Piątek 2026-04-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-04-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak",
-                "room": "Online_08 / Online_09 / Online_10 / Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Anna Filipienko / dr n. med. Joanna Żółtańska / mgr Małgorzata Słupska-Kartaczowska / mgr  Renata Hołowiak",
-                "room": "Online_08 / Online_09 / Online_10 / Online_100"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_106"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr Małgorzata Słupska-Kartaczowska",
-                "room": "Online_106"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-05-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-05-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska / mgr Anna Filipienko / dr n. med. Joanna Żółtańska",
-                "room": "A12 / A145 / A15 / A32"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "mgr  Renata Hołowiak / mgr Małgorzata Słupska-Kartaczowska / mgr Anna Filipienko / dr n. med. Joanna Żółtańska",
-                "room": "A12 / A145 / A15 / A32"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-05-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Wtorek 2026-05-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-05-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-05-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-05-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-05-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-05-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-05-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Wtorek 2026-06-02": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-06-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Poniedziałek 2026-06-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Wtorek 2026-06-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Środa 2026-06-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Czwartek 2026-06-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            }
-        ],
-        "Piątek 2026-06-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_3",
-                "room": "Praktyki3"
+                "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
+                "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
             }
         ]
     }

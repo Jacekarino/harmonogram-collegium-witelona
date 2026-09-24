@@ -1,0 +1,1266 @@
+{
+    "s2E1(2)u": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C201"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C329"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C329"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Iwona Chrzan-Filipowska",
+                "room": "D8 / Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr Iwona Chrzan-Filipowska",
+                "room": "D8 / Online_03"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "E2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "E2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "E2"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A143"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C312"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_112"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_11"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_115"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_115"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_21"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A31"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_13"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A217"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "C325"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A142"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Metrologia i techniki eksperymentu (lab)",
+                "short_name": "Mite (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C232"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_111"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_13"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Automatyka (ćw)",
+                "short_name": "Autom (ćw)",
+                "teacher": "mgr inż. Bartosz Podsiadły",
+                "room": "C312"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunek kosztów dla inżynierów (ćw)",
+                "short_name": "Rkdi (ćw)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Grafika inżynierska (CAD) (p)",
+                "short_name": "Gi( (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C127"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Automatyka (wyk)",
+                "short_name": "Autom (wyk)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "C224"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (CAD) (wyk)",
+                "short_name": "Gi( (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunek kosztów dla inżynierów (wyk)",
+                "short_name": "Rkdi (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "A16"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mechanika płynów (lab)",
+                "short_name": "Mp (lab)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "D5"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy konstrukcji maszyn (p)",
+                "short_name": "Pkm (p)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mechanika płynów (ćw)",
+                "short_name": "Mp (ćw)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "A13"
+            }
+        ]
+    }
+}

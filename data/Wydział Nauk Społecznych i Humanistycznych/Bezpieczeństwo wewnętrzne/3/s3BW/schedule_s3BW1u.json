@@ -1,941 +1,988 @@
 {
     "s3BW1u": {
-        "Czwartek 2026-02-19": [
+        "Środa 2026-10-07": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A245"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A245"
-            }
-        ],
-        "Piątek 2026-02-20": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Sobota 2026-02-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr Andrzej Szczepański / dr Wojciech Mucha",
-                "room": "C127 / A31 / C324"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C125"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C125"
-            }
-        ],
-        "Niedziela 2026-02-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański",
-                "room": "A2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański / dr Jerzy Buczko",
-                "room": "A2 / C325"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański / dr Jerzy Buczko",
-                "room": "A2 / C325"
-            }
-        ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_101"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "A245"
+                "room": "C225"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "A245"
+                "room": "C225"
             }
         ],
-        "Piątek 2026-02-27": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            }
-        ],
-        "Środa 2026-03-04": [
+        "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
                 "teacher": "dr Jerzy Buczko",
-                "room": "Online_100"
+                "room": "A13"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_12"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_12"
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C123"
             }
         ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Sobota 2026-03-07": [
+        "Sobota 2026-10-10": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Wojciech Mucha",
-                "room": "C228 / C324"
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Tymczasowa03"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Wojciech Mucha",
-                "room": "C228 / C324"
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Tymczasowa03"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "C228"
-            }
-        ],
-        "Niedziela 2026-03-08": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C227"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Agnieszka Łakomska",
+                "room": "A12 / A31"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C227"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A31"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa01 / Tymczasowa02"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_101"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa01 / Tymczasowa02"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_101"
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa01 / Tymczasowa02"
             }
         ],
-        "Piątek 2026-03-13": [
+        "Niedziela 2026-10-11": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C324"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C324"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C324"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C324"
             }
         ],
-        "Środa 2026-03-18": [
+        "Środa 2026-10-14": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
                 "teacher": "dr Marek Czarkowski",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C228 / C324"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C228 / C324"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C228 / C324"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C228"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C126"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_13"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "D17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "D17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "D17"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
                 "room": "Online_115"
             },
             {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_115"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            },
+            {
                 "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "Online_103"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
+                "room": "Online_111"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Sobota 2026-03-21": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A217"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "C122"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr Andrzej Szczepański / dr inż. Paweł Dąbrowa / dr Wojciech Mucha",
-                "room": "C122 / A2 / A217 / C324"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr Andrzej Szczepański / dr inż. Paweł Dąbrowa / dr Wojciech Mucha",
-                "room": "C122 / A2 / A217 / C324"
-            }
-        ],
-        "Niedziela 2026-03-22": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A217"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A217"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A217"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_103"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_101"
+                "room": "Online_07"
             }
         ],
-        "Środa 2026-04-08": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_112"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "Online_112"
-            }
-        ],
-        "Czwartek 2026-04-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_104"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_104"
-            }
-        ],
-        "Piątek 2026-04-10": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            }
-        ],
-        "Sobota 2026-04-11": [
+        "Niedziela 2026-11-15": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A15"
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A15"
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A15"
-            }
-        ],
-        "Niedziela 2026-04-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jerzy Buczko / dr Andrzej Szczepański / dr Wojciech Mucha",
-                "room": "A141 / A2 / C324"
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Andrzej Szczepański / dr Wojciech Mucha",
-                "room": "C126 / A141 / A2 / C324"
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C212"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
                 "room": "C212"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C212"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
                 "teacher": "dr Jerzy Buczko",
-                "room": "Online_01"
+                "room": "C212"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_10"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "Online_11"
+                "room": "Online_100"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_11"
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_02"
             }
         ],
-        "Piątek 2026-04-17": [
+        "Piątek 2026-11-20": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_45"
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
             }
         ],
-        "Sobota 2026-04-18": [
+        "Wtorek 2026-11-24": [
             {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
+                "time": "15:15-16:45",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
                 "teacher": "dr Jerzy Buczko",
                 "room": "Online_108"
             },
             {
+                "time": "17:00-18:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_104"
+            },
+            {
                 "time": "18:45-20:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "C212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wyk)",
+                "short_name": "Siobp (wyk)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "E1"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_01"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy i organizacje bezpieczeństwa państwa (wt)",
+                "short_name": "Siobp (wt)",
+                "teacher": "dr Jerzy Buczko",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C123 / C228"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C123 / C228"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "C123 / C228"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wyk)",
+                "short_name": "Pizp (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "E1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wyk)",
+                "short_name": "Siiswb (wyk)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "E1"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska / dr Lilia Omelan",
+                "room": "Online_08 / Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
                 "room": "Online_10"
             }
         ],
-        "Sobota 2026-04-25": [
+        "Sobota 2026-12-19": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Wojciech Mucha",
-                "room": "C122 / C123 / C324"
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa04"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Paweł Dąbrowa / dr Jerzy Buczko / dr Wojciech Mucha",
-                "room": "C122 / C123 / C324"
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa04"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
                 "teacher": "mgr Edward Polakiewicz",
-                "room": "C122"
+                "room": "Tymczasowa04"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wt)",
-                "short_name": "Bt (wt)",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
                 "teacher": "mgr Edward Polakiewicz",
-                "room": "C122"
+                "room": "Tymczasowa04"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "C122"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            }
-        ],
-        "Niedziela 2026-04-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "C123"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "Online_11"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wyk)",
-                "short_name": "Oomoio (wyk)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zarządzanie ryzykiem* (wyk)",
-                "short_name": "Zr (wyk)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A144"
-            }
-        ],
-        "Piątek 2026-05-08": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo terrorystyczne* (wyk)",
-                "short_name": "Bt (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wyk)",
-                "short_name": "Wzb (wyk)",
-                "teacher": "dr Marek Czarkowski",
-                "room": "A144"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anita Wawrzyniak / mgr Iwona Chrzan-Filipowska / mgr Magdalena Szylar",
-                "room": "Online1301 / Online1302 / Online1303"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "Online_43"
-            }
-        ],
-        "Sobota 2026-05-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska",
-                "room": "D8"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Iwona Chrzan-Filipowska / mgr Anita Wawrzyniak / mgr Magdalena Szylar",
-                "room": "A12 / A16 / D17"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A16"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A16"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa04 / Tymczasowa05"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Wojciech Mucha / dr Andrzej Szczepański / dr Jerzy Buczko / dr inż. Paweł Dąbrowa",
-                "room": "C227 / A32 / C324 / C325"
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa04 / Tymczasowa05"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Andrzej Szczepański / dr inż. Paweł Dąbrowa",
-                "room": "A32 / C325"
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa04 / Tymczasowa05"
             }
         ],
-        "Niedziela 2026-05-17": [
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Służby inspekcje i straże w bezpieczeństwie* (wt)",
+                "short_name": "Siiswb (wt)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan",
+                "room": "A13"
+            },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "C123"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zarządzanie ryzykiem* (wt)",
-                "short_name": "Zr (wt)",
-                "teacher": "dr Jerzy Buczko",
-                "room": "A16"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Marek Czarkowski",
+                "room": "C123 / C128"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A12"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Marek Czarkowski",
+                "room": "C123 / C128"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Współczesne zagrożenia bezpieczeństwa* (wt)",
-                "short_name": "Wzb (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A12"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "C128"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Ochrona osób, mienia, obiektów i obszarów (wt)",
-                "short_name": "Oomoio (wt)",
-                "teacher": "mgr Dariusz Stefaniak",
-                "room": "A12"
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wyk)",
+                "short_name": "Pkizr (wyk)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "E1"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
+                "short_name": "Pkizr (wt)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
+                "short_name": "Pizp (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski",
+                "room": "Tymczasowa04"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
+                "room": "Tymczasowa04 / Tymczasowa05"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
             }
         ]
     }

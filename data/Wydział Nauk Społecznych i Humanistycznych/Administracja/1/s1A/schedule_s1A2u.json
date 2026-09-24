@@ -1,778 +1,1285 @@
 {
     "s1A2u": {
-        "Czwartek 2026-02-26": [
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (wt)",
+                "short_name": "So (wt)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            }
+        ],
+        "Piątek 2026-10-09": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A144"
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A245"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
-                "short_name": "Wdc (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A144"
-            }
-        ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A244"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A244"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A12"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A12"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A16"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            }
-        ],
-        "Niedziela 2026-03-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A244"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A244"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            }
-        ],
-        "Poniedziałek 2026-03-09": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A14"
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Metody i techniki pracy menedżera (wyk)",
-                "short_name": "Mitpm (wyk)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A14"
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
             }
         ],
-        "Czwartek 2026-03-12": [
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "E1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "E1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "E4"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_03"
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
-                "short_name": "Wdc (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_102"
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A36"
             }
         ],
-        "Sobota 2026-03-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A16"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A16"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A16"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C10"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C10"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C10"
-            }
-        ],
-        "Niedziela 2026-03-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A15"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metody i techniki pracy menedżera (wyk)",
-                "short_name": "Mitpm (wyk)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "Online_100"
-            }
-        ],
-        "Czwartek 2026-03-26": [
+        "Środa 2026-10-14": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_02"
-            },
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_04"
+            }
+        ],
+        "Piątek 2026-10-16": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_02"
-            }
-        ],
-        "Sobota 2026-03-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C323"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "C323"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A12"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A12"
-            }
-        ],
-        "Niedziela 2026-03-29": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metody i techniki pracy menedżera (wyk)",
-                "short_name": "Mitpm (wyk)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "Online_101"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
-                "short_name": "Wdc (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_101"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_11"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A16"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A16"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
-                "short_name": "Wdc (wt)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "A213"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A16"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A16"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A12"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A12"
-            }
-        ],
-        "Poniedziałek 2026-04-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_09"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metody i techniki pracy menedżera (wyk)",
-                "short_name": "Mitpm (wyk)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "Online_09"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_08"
-            }
-        ],
-        "Sobota 2026-05-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A12"
-            }
-        ],
-        "Niedziela 2026-05-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A31"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A15"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A15"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A31"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A13"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A13"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
-                "short_name": "Wdc (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-05-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
-                "teacher": "dr Rafał Kubik",
-                "room": "Online_08"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "Online_102"
-            }
-        ],
-        "Sobota 2026-05-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo administracyjne (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A145"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy prawa cywilnego w administracji (wt)",
-                "short_name": "Ppcwa (wt)",
-                "teacher": "dr Rafał Kubik",
-                "room": "A145"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            }
-        ],
-        "Niedziela 2026-05-31": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A13"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Metody i techniki pracy menedżera (wt)",
-                "short_name": "Mitpm (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A13"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Techniki pracy biurowej oraz obieg dokumentacji i jej archiwizacja (wt)",
-                "short_name": "Tpboodija (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A16"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A16"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy prawa cywilnego w administracji (wyk)",
-                "short_name": "Ppcwa (wyk)",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
                 "teacher": "dr Rafał Kubik",
                 "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Metody i techniki pracy menedżera (wyk)",
-                "short_name": "Mitpm (wyk)",
-                "teacher": "mgr Marlena Gniewosz",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
                 "room": "A36"
             }
         ],
-        "Poniedziałek 2026-06-08": [
+        "Sobota 2026-10-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "E4"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "E4"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Prawo administracyjne (wyk)",
-                "short_name": "Pa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A14"
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_02"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
-                "short_name": "Wdc (wyk)",
-                "teacher": "mgr inż. Robert Nowakowski",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_106"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_10"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A217"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A217"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_22"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A6"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A6"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "E4"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "A16"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_108"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
                 "room": "A14"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "E2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "E2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_100"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_02"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy ekonomii (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nauka organizacji i zarządzania (wyk)",
+                "short_name": "Noiz (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Najnowsza historia Polski (wyk)",
+                "short_name": "NhP (wyk)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wyk)",
+                "short_name": "PmiUE (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "A36"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty poprawności językowej w pismach urzędowych (wt)",
+                "short_name": "Wpjwpu (wt)",
+                "teacher": "mgr Witold Łakomski",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka administracji (wt)",
+                "short_name": "Na (wt)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy ekonomii (wt)",
+                "short_name": "Pe (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "E1"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Tworzenie i stosowanie prawa (wt)",
+                "short_name": "Tisp (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tworzenie i stosowanie prawa (wyk)",
+                "short_name": "Tisp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "E1"
             }
         ]
     }

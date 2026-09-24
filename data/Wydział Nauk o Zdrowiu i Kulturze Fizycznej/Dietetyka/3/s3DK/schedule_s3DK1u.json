@@ -1,1664 +1,1825 @@
 {
     "s3DK1u": {
-        "Środa 2026-02-18": [
+        "Czwartek 2026-10-01": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "A141"
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A145"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A16"
+            }
+        ],
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
                 "teacher": "mgr Marzena Witek",
                 "room": "C322"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "C113"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            }
-        ],
-        "Piątek 2026-02-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            }
-        ],
-        "Sobota 2026-02-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C126 / C326"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C126 / C326"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Żywienie w sporcie* (wyk)",
-                "short_name": "Żws (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
                 "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            }
-        ],
-        "Niedziela 2026-02-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_04"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_04"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_04"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
                 "teacher": "mgr Marzena Witek",
-                "room": "Online_04"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_04"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_04"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_04"
-            }
-        ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            }
-        ],
-        "Piątek 2026-02-27": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            }
-        ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A218"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A218"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C205 / D8"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C205 / D8"
-            }
-        ],
-        "Niedziela 2026-03-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_05"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_05"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_05"
+                "room": "C322"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_05"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            }
-        ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A12"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A12"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A12"
-            }
-        ],
-        "Sobota 2026-03-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C203 / D8"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C203 / D8"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_102 / Online_11"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A213"
-            }
-        ],
-        "Piątek 2026-03-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            }
-        ],
-        "Sobota 2026-03-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A244"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A244"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "A31 / D8"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "A31 / D8"
-            }
-        ],
-        "Niedziela 2026-03-15": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_07"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_07"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_07"
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_07"
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
             }
         ],
-        "Środa 2026-03-18": [
+        "Środa 2026-10-07": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_105"
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "A31"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_105"
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "A31"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_105"
+                "room": "A31"
             }
         ],
-        "Czwartek 2026-03-19": [
+        "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "A2"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_06"
-            }
-        ],
-        "Sobota 2026-03-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
-                "room": "D17"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C325 / D8"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C325 / D8"
-            }
-        ],
-        "Niedziela 2026-03-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_05"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_05"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
                 "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie w sporcie* (wyk)",
-                "short_name": "Żws (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_101"
+                "room": "A213"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_101"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
                 "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "A213"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
                 "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "A213"
             }
         ],
-        "Piątek 2026-03-27": [
+        "Piątek 2026-10-09": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
             }
         ],
-        "Sobota 2026-03-28": [
+        "Sobota 2026-10-10": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
                 "room": "A218"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
                 "room": "A218"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C129 / D8"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C129 / D8"
-            }
-        ],
-        "Niedziela 2026-03-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_04"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_04"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_03"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_03"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_03"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_03"
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "D18"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_03"
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "D18"
             }
         ],
-        "Środa 2026-04-01": [
+        "Środa 2026-10-14": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Żywienie w sporcie* (wyk)",
-                "short_name": "Żws (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_03"
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_03"
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_03"
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
             }
         ],
-        "Środa 2026-04-08": [
+        "Czwartek 2026-10-15": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "Online_02"
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_104 / Online_111"
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_104"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "Online_104"
             }
         ],
-        "Piątek 2026-04-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_10"
-            }
-        ],
-        "Sobota 2026-04-11": [
+        "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C205 / D8"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Katarzyna Ben Abdallah",
-                "room": "C205 / D8"
-            }
-        ],
-        "Niedziela 2026-04-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_05"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_05"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "Online_05"
-            },
-            {
-                "time": "15:30-17:00",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_05"
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "D17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_05"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_05"
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
             }
         ],
-        "Środa 2026-04-15": [
+        "Niedziela 2026-10-18": [
             {
-                "time": "15:15-16:45",
+                "time": "08:15-09:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "A141"
+                "room": "Online_05"
             },
             {
-                "time": "17:00-18:30",
+                "time": "10:00-11:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "A141"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)1h [x/-]",
-                "short_name": "Pdwpilcd (lab)1h [x/-]",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "C15"
-            }
-        ],
-        "Piątek 2026-04-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fitoterapia* (ćw)",
-                "short_name": "Fitot (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Fitoterapia* (wyk)",
-                "short_name": "Fitot (wyk)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
+                "room": "Online_05"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Żywienie w sporcie* (wyk)",
-                "short_name": "Żws (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
+                "class_name": "Żywienie kliniczneciwol (wyk)1h [x/-]",
+                "short_name": "Żkciwol (wyk)1h [x/-]",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "Online_03"
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
                 "teacher": "mgr Marzena Witek",
-                "room": "Online_03"
+                "room": "Online_06"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
                 "teacher": "mgr Marzena Witek",
-                "room": "Online_03"
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
             }
         ],
-        "Środa 2026-04-22": [
+        "Środa 2026-10-21": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_115"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_115"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_115"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_101"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "A2"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy organizacji i zarządzania (ćw)",
-                "short_name": "Poiz (ćw)",
-                "teacher": "mgr Jolanta Woźniak",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "A2"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Podstawy organizacji i zarządzania (wyk)",
-                "short_name": "Poiz (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "A14"
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
             }
         ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diety niekonwencjonalne (wyk)",
-                "short_name": "Dn (wyk)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "D17"
-            }
-        ],
-        "Sobota 2026-04-25": [
+        "Sobota 2026-10-24": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
-                "room": "A2"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Diety niekonwencjonalne (lab)",
-                "short_name": "Dn (lab)",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_109"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "C127"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_105"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
                 "teacher": "mgr Katarzyna Traczuk-Bernat",
                 "room": "A2"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
+                "time": "19:00-20:30",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
                 "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_07"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_11"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Diagnostyka laboratoryjna (ćw)1h [x/-]",
+                "short_name": "Dl (ćw)1h [x/-]",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "C322"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka pediatryczna (ćw)",
+                "short_name": "Żidp (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_05"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczneciwol (lab)",
+                "short_name": "Żkciwol (lab)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A213"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A2"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
                 "room": "A244"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (lab)",
-                "short_name": "Pdwpilcd (lab)",
-                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
                 "room": "A244"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Język angielski* (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Monika Florek",
-                "room": "C205 / D8"
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "A2"
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Postępowanie dietetyczne w profilaktyce i leczeniu chorób dietozależnych (wyk)",
-                "short_name": "Pdwpilcd (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "A2"
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
             }
         ],
-        "Poniedziałek 2026-04-27": [
+        "Niedziela 2026-12-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "Online_06"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski / dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06 / Online_07"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
+                "time": "13:45-15:15",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_06"
             },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Piątek 2026-05-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Poniedziałek 2026-05-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki1"
-            }
-        ],
-        "Sobota 2026-05-16": [
             {
                 "time": "15:30-17:00",
-                "class_name": "Żywienie w sporcie* (wyk)",
-                "short_name": "Żws (wyk)",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
+                "room": "Online_06"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Żywienie w sporcie* (ćw)",
-                "short_name": "Żws (ćw)",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
+                "room": "Online_06"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A32"
             },
             {
-                "time": "19:00-20:30",
+                "time": "17:00-18:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof.dr hab.inż. Ryszard Pisarski",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "Online_102"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C021 (Kuchnia)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie kliniczne (ćw)",
+                "short_name": "Żk (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "C021 (Kuchnia)"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C14"
+                "room": "C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Diagnostyka laboratoryjna (ćw)",
+                "short_name": "Dl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Alergeny pokarmowe (wyk)",
+                "short_name": "Ap (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zaburzenia odżywiania (wyk)",
+                "short_name": "Zo (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C224"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A244"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A2"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A2"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A2"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "A2"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)1h [x/-]",
+                "short_name": "Żwzm (lab)1h [x/-]",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)1h [x/-]",
+                "short_name": "Żcwca (lab)1h [x/-]",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "C10"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)",
+                "short_name": "Żcwca (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
+                "short_name": "Żwzm (lab)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A218"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie i dietetyka pediatryczna (wyk)",
+                "short_name": "Żidp (wyk)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A142"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Alergeny pokarmowe (ćw)",
+                "short_name": "Ap (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zaburzenia odżywiania (ćw)",
+                "short_name": "Zo (ćw)",
+                "teacher": "mgr Katarzyna Traczuk-Bernat",
+                "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie i dietetyka geriatryczna (ćw)",
+                "short_name": "Żidg (ćw)",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (lab)1h [x/-]",
+                "short_name": "Żwzm (lab)1h [x/-]",
+                "teacher": "mgr Ewa Popowicz",
+                "room": "A142"
             }
         ]
     }

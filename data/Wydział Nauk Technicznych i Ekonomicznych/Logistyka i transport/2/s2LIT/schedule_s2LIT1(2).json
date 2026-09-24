@@ -1,0 +1,1196 @@
+{
+    "s2LIT1(2)": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C125"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C224"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "C224"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A145"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "C113"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A16"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_104"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A142"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_110"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_109"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_103"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_111"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A217"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_103"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy elektrotechniki i elektroniki (ćw)",
+                "short_name": "Peie (ćw)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A217"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_04"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A13"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka dystrybucji (wyk)",
+                "short_name": "Ld (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C125"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo cywilne (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C221a"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_102"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C125"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Maszynoznawstwo (ćw)",
+                "short_name": "Maszy (ćw)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Maszynoznawstwo (wyk)",
+                "short_name": "Maszy (wyk)",
+                "teacher": "dr inż. Zygmunt Domagała",
+                "room": "Tymczasowa02"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Podstawy mechaniki (lab)",
+                "short_name": "2Pm (lab)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C20"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C328"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A12"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
+                "short_name": "Peie (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Podstawy metrologii (wyk)",
+                "short_name": "1Pm (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A16"
+            }
+        ]
+    }
+}

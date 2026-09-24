@@ -1,981 +1,1336 @@
 {
     "s3PSYCH1": {
-        "Środa 2026-02-18": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychologia zdrowia (wyk)1h [x/-]",
-                "short_name": "Pz (wyk)1h [x/-]",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_10"
-            }
-        ],
-        "Poniedziałek 2026-02-23": [
+        "Piątek 2026-10-02": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
                 "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
+                "room": "A15"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
                 "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
+                "room": "A15"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A32"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A32"
             }
         ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_09"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_09"
-            }
-        ],
-        "Poniedziałek 2026-03-02": [
+        "Piątek 2026-10-09": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "11:45-13:15",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "A2 / D8"
             },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_115"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_10"
-            }
-        ],
-        "Poniedziałek 2026-03-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            }
-        ],
-        "Środa 2026-03-18": [
             {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "A2 / D8"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_101"
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "E1"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "Online_102"
+                "room": "E1"
             }
         ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_08"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)1h [x/-]",
-                "short_name": "Ep-pi (wt)1h [x/-]",
-                "teacher": "mgr  Robert Gajewski",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
                 "room": "C122"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
-                "teacher": "mgr  Robert Gajewski",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
                 "room": "C122"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
-            }
-        ],
-        "Poniedziałek 2026-03-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "A13"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "A13"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_100"
-            }
-        ],
-        "Poniedziałek 2026-04-13": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "D17"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "D17"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_100"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Poniedziałek 2026-04-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
-            }
-        ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_09"
-            }
-        ],
-        "Poniedziałek 2026-04-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
                 "room": "C123"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
                 "room": "C123"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C122"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C122"
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
             }
         ],
-        "Środa 2026-04-29": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_101"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "C113 Leg / online FW"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
-            }
-        ],
-        "Poniedziałek 2026-05-11": [
+        "Wtorek 2026-10-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
                 "room": "C122"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
                 "room": "C122"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C111"
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C111"
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C111"
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
             }
         ],
-        "Środa 2026-05-13": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A2 / D8"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychologia zdrowia (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr  Iga Palacz-Poborczyk",
-                "room": "Wrocław_sala / online Leg"
-            }
-        ],
-        "Czwartek 2026-05-14": [
+        "Środa 2026-10-14": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_13"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "E4"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Online_09"
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "E4"
             }
         ],
-        "Poniedziałek 2026-05-18": [
+        "Piątek 2026-10-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C126"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
                 "room": "C126"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
                 "room": "C126"
-            }
-        ],
-        "Środa 2026-05-20": [
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_100"
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
             }
         ],
-        "Czwartek 2026-05-21": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C113 Leg / online FW"
-            }
-        ],
-        "Poniedziałek 2026-05-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Esej psychologiczny - projekt indywidualny (wt)",
-                "short_name": "Ep-pi (wt)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C122"
-            },
+        "Wtorek 2026-10-20": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C122"
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_18"
             }
         ],
-        "Środa 2026-05-27": [
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_110"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "A2 / D8"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Monika Florek",
-                "room": "A13 / A2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Monika Florek",
-                "room": "A13 / A2"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C113 Leg / online FW"
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "A2 / D8"
             }
         ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychoterapia - metody i procesy (wyk)",
-                "short_name": "P-mip (wyk)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "Wrocław_sala / online Leg"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
+        "Poniedziałek 2026-10-26": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Diagnoza psychologiczna (ćw)",
-                "short_name": "Dp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
                 "room": "C123"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C126"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
                 "room": "C122"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
                 "room": "C122"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C126"
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
                 "room": "C122"
             }
         ],
-        "Środa 2026-06-03": [
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_110"
+            },
             {
                 "time": "18:45-20:15",
-                "class_name": "Etyka zawodu psychologa (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "Wrocław_sala / online Leg"
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_110"
             }
         ],
-        "Poniedziałek 2026-06-08": [
+        "Piątek 2026-10-30": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Etyka zawodu psychologa (ćw)",
-                "short_name": "Ezp (ćw)",
-                "teacher": "dr Kaja Kajdan",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C322"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychoterapia - metody i procesy (ćw)",
-                "short_name": "P-mip (ćw)",
-                "teacher": "mgr  Agnieszka Grabarczyk",
-                "room": "C122"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Psychologia zdrowia (ćw)",
-                "short_name": "Pz (ćw)",
-                "teacher": "mgr  Maria Kurpaska",
-                "room": "C322"
-            }
-        ],
-        "Środa 2026-06-10": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
                 "room": "A2"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "dr Małgorzata Szudrowicz-Garstka",
-                "room": "D8"
+                "time": "10:00-11:30",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
             }
         ],
-        "Czwartek 2026-06-11": [
+        "Wtorek 2026-11-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A32"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_10"
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Diagnoza psychologiczna (wyk)",
-                "short_name": "Dp (wyk)",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "Online_10"
+                "room": "Online_110"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A143"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C126"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_16"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_109"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C126"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_18"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_18"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A16"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_110"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C126"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "C122"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_112"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_110"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C126"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Magdalena Szylar",
+                "room": "A2 / A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Magdalena Szylar",
+                "room": "A2 / A31"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C122"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C123"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_102"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "A2 / D8"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C122"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C122"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C122"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "E4"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "E4"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "1 Język obcy (ćw)",
+                "short_name": "1Jo (ćw)",
+                "teacher": "mgr  Magdalena Berdys",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
+                "room": "D17 / A2 / D8"
             }
         ]
     }

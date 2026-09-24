@@ -1,0 +1,1821 @@
+{
+    "s2JMF13": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja kliniczna (wyk)",
+                "short_name": "Kk (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika kliniczna (ćw)",
+                "short_name": "Bk (ćw)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika kliniczna (ćw)",
+                "short_name": "Bk (ćw)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A6"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A322"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (ćw)",
+                "short_name": "Pdl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (ćw)",
+                "short_name": "Pdl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (ćw)",
+                "short_name": "Pdl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D1"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika kliniczna (wyk)",
+                "short_name": "Bk (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Farmakologia w fizjoterapii (wyk)",
+                "short_name": "Fwf (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika kliniczna (wyk)",
+                "short_name": "Bk (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A146"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika kliniczna (ćw)",
+                "short_name": "Bk (ćw)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biomechanika kliniczna (ćw)",
+                "short_name": "Bk (ćw)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A6"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia rentgenowska (wyk)",
+                "short_name": "Ar (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biomechanika kliniczna (wyk)",
+                "short_name": "Bk (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie (wt)",
+                "short_name": "Szkol (wt)",
+                "teacher": "(-)",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Szkolenie (wt)",
+                "short_name": "Szkol (wt)",
+                "teacher": "(-)",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Szkolenie (wt)",
+                "short_name": "Szkol (wt)",
+                "teacher": "(-)",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Szkolenie (wt)",
+                "short_name": "Szkol (wt)",
+                "teacher": "(-)",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Szkolenie (wt)",
+                "short_name": "Szkol (wt)",
+                "teacher": "(-)",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "E1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biomechanika kliniczna (wyk)",
+                "short_name": "Bk (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (wyk)",
+                "short_name": "Pdl (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Farmakologia w fizjoterapii (wyk)",
+                "short_name": "Fwf (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biomechanika kliniczna (wyk)",
+                "short_name": "Bk (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "Inne_WF_Hala 2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (ćw)",
+                "short_name": "Pdl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (ćw)",
+                "short_name": "Pdl (ćw)",
+                "teacher": "mgr Agnieszka Mikołejko",
+                "room": "D1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia rentgenowska (wyk)",
+                "short_name": "Ar (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Anatomia rentgenowska (ćw)",
+                "short_name": "Ar (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia rentgenowska (ćw)",
+                "short_name": "Ar (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja kliniczna (wyk)",
+                "short_name": "Kk (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (wyk)",
+                "short_name": "Pdl (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (wyk)",
+                "short_name": "Kinez (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja kliniczna (wyk)",
+                "short_name": "Kk (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (wyk)",
+                "short_name": "Pdl (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Farmakologia w fizjoterapii (ćw)",
+                "short_name": "Fwf (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A15 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A146"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - odnowa biologiczna (wyk)",
+                "short_name": "Mf-ob (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (wyk)",
+                "short_name": "Krimnr (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (wyk)",
+                "short_name": "Pliszmudid (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (wyk)",
+                "short_name": "Pdl (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy diagnostyki laboratoryjnej (wyk)",
+                "short_name": "Pdl (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Farmakologia w fizjoterapii (ćw)",
+                "short_name": "Fwf (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Farmakologia w fizjoterapii (ćw)",
+                "short_name": "Fwf (ćw)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
+                "short_name": "F(fofwffbdf) (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biomechanika kliniczna (ćw)",
+                "short_name": "Bk (ćw)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A6"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy terapii zajęciowej (wyk)",
+                "short_name": "Ptz (wyk)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (ćw)",
+                "short_name": "F(fofwffbdf) (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia rentgenowska (wyk)",
+                "short_name": "Ar (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy terapii zajęciowej (ćw)",
+                "short_name": "Ptz (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy logopedii*/Analiza i synteza zaburzeń mowy u dzieci i dorosłych* (ćw)",
+                "short_name": "Pliszmudid (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A12 / D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
+                "short_name": "Krimnr (ćw)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A33"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Autoprezentacja - zarządzanie wizerunkiem (wyk)",
+                "short_name": "A-zw (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Anatomia rentgenowska (ćw)",
+                "short_name": "Ar (ćw)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Medycyna fizykalna - fizykoterapia (zp)",
+                "short_name": "Mf-f (zp)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A326"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Farmakologia w fizjoterapii (wyk)",
+                "short_name": "Fwf (wyk)",
+                "teacher": "mgr Małgorzata Krzemień",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy pinopresury*/Podstawy refleksoterapii* (ćw)",
+                "short_name": "Ppr (ćw)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A326"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Komunikacja kliniczna (ćw)",
+                "short_name": "Kk (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Kinezyterapia (zp)",
+                "short_name": "Kinez (zp)",
+                "teacher": "mgr Joanna Oleś",
+                "room": "A324"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1456 @@
+{
+    "s3RP2u": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "C129 / A2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A141"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A13"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C227"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_08"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_109"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "D8 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "D8 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_113"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_109"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C212"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "Online_05"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_106"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_01 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_01 / Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_114"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Sylwia Zajchowska",
+                "room": "A16 / D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Tymczasowa03"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Tymczasowa03"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "Tymczasowa03"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_01 / Online_04 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska / mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_01 / Online_04 / Online_05"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_110"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Filip Kostek",
+                "room": "Online_04 / Online_05"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_113"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_114"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Analiza finansowa (wt)",
+                "short_name": "Af (wt)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_105"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rachunkowość jednostek non-profit (wt)",
+                "short_name": "Rjn (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "Tymczasowa02"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_107"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Online_110"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_107"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_110"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)1h [x/-]",
+                "short_name": "Wwjo (wt)1h [x/-]",
+                "teacher": "mgr Sylwia Zajchowska",
+                "room": "D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Filip Kostek / mgr  Aneta Dzikowska-Janicka",
+                "room": "A31 / A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość zarządcza (wt)",
+                "short_name": "Rz (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A143"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Warsztaty w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka",
+                "room": "C324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Komputerowe systemy rachunkowości (lab)",
+                "short_name": "Ksr (lab)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A145"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A145"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "3 Seminarium dyplomowe (sem)",
+                "short_name": "3Sd (sem)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Analiza finansowa (wyk)",
+                "short_name": "Af (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość zarządcza (wyk)",
+                "short_name": "Rz (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Controlling (wyk)",
+                "short_name": "Contr (wyk)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "A14"
+            }
+        ]
+    }
+}

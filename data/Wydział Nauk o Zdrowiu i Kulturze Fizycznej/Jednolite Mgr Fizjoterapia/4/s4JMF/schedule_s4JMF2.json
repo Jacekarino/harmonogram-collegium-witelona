@@ -1,729 +1,118 @@
 {
     "s4JMF2": {
-        "Poniedziałek 2026-02-16": [
+        "Czwartek 2026-10-01": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A32"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A32"
-            }
-        ],
-        "Środa 2026-02-18": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A245"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A6"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A6"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "A143"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A143"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A14"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A141"
-            }
-        ],
-        "Poniedziałek 2026-02-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A245"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A245"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A245"
-            }
-        ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "C14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "C14"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A245"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A245"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A146"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A146"
-            }
-        ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A32"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A32"
-            }
-        ],
-        "Piątek 2026-02-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "P.ul.Klonowa_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "P.ul.Klonowa_01"
-            }
-        ],
-        "Poniedziałek 2026-03-02": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A324"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
                 "room": "A245"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A245"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A36"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A31"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A31"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A36"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A36"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A245"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A245"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A6"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A6"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A144"
-            }
-        ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "P.ul.Klonowa_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "P.ul.Klonowa_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "P.ul.Klonowa_01"
-            }
-        ],
-        "Poniedziałek 2026-03-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A245"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
                 "room": "A14"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A245"
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A14"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A245"
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
             }
         ],
-        "Środa 2026-03-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A6"
-            },
+        "Piątek 2026-10-02": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (wyk)",
+                "short_name": "Gk/Kwp (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
                 "room": "A324"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
                 "time": "10:00-11:30",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_103"
-            }
-        ],
-        "Poniedziałek 2026-03-16": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
                 "teacher": "mgr Monika Kamieniecka",
                 "room": "A326"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A326"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_03"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_03"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A217"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A217"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "A146"
+                "class_name": "Metodologia badań naukowych (wyk)",
+                "short_name": "Mbn (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-10-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "A146"
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
             }
         ],
-        "Środa 2026-03-18": [
+        "Środa 2026-10-07": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
+                "room": "A144"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A326"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A145"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A145"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A145"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_107"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_107"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A326"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A326"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A326"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A14"
+                "room": "A144"
             },
             {
                 "time": "11:45-13:15",
@@ -731,724 +120,1774 @@
                 "short_name": "Aafisozn (wyk)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A14"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
             },
             {
                 "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "08:15-09:45",
                 "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
                 "short_name": "Aafisozn (wyk)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A14"
-            }
-        ],
-        "Poniedziałek 2026-03-30": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_10"
-            }
-        ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "DS ul.Mickiewicza10"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_104"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A13"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A13"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
+                "short_name": "Aafisozn (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
                 "room": "A14"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A31"
-            },
-            {
                 "time": "11:45-13:15",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
                 "teacher": "mgr Jakub Mitka",
-                "room": "A324"
+                "room": "Szpital_Leg_06"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
                 "teacher": "mgr Jakub Mitka",
-                "room": "A324"
+                "room": "Szpital_Leg_06"
             }
         ],
-        "Czwartek 2026-04-09": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A144"
-            }
-        ],
-        "Piątek 2026-04-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A15"
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A245"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A15"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A15"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "A146"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "A146"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A36"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A36"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A16"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A16"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A326"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy pinopresury* (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A324"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A144"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A144"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A144"
-            }
-        ],
-        "Piątek 2026-04-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A144"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A144"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawy logopedii* (ćw)",
-                "short_name": "Pl (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A144"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A324"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (wyk)",
-                "short_name": "Msf-mrprnn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A212"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
-                "short_name": "Pfwcw (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "A212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A13"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A13"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A145"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A145"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            }
-        ],
-        "Poniedziałek 2026-05-18": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Wytw_Ruchu1"
-            }
-        ],
-        "Wtorek 2026-05-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Wyroby medyczne (ćw)",
-                "short_name": "Wm (ćw)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A6"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A144"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A32"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A32"
-            }
-        ],
-        "Środa 2026-05-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej,  reedukacji nerwowo-mięśniowej, neuro (ćw)",
-                "short_name": "Msf-mrprnn (ćw)",
-                "teacher": "mgr Jakub Mitka",
-                "room": "A324"
-            }
-        ],
-        "Piątek 2026-05-29": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "FizjoDuo01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
                 "teacher": "mgr Monika Kamieniecka",
                 "room": "FizjoDuo01"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
-                "short_name": "Pfwdur (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "A324"
-            }
-        ],
-        "Wtorek 2026-06-02": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Katarzyna Gajewska",
-                "room": "Caritas_Leg_01"
-            }
-        ],
-        "Środa 2026-06-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
-                "short_name": "Aafisozn (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            }
-        ],
-        "Czwartek 2026-06-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
-                "short_name": "Pfwdur (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A212"
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Wyroby medyczne (wyk)",
-                "short_name": "Wm (wyk)",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "FizjoDuo01"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A146"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A146"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C224"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "E1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "A322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metodologia badań naukowych (wyk)",
+                "short_name": "Mbn (wyk)",
+                "teacher": "dr Dariusz Lewera",
                 "room": "A212"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak / dr Grzegorz Konieczny",
-                "room": "A145 / A31"
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A6"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A6"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (wyk)",
+                "short_name": "Gk/Kwp (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "A324"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A145"
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "E1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "E1"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (wyk)",
+                "short_name": "Gk/Kwp (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (wyk)",
+                "short_name": "Gk/Kwp (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
+                "short_name": "Aafisozn (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (wyk)",
+                "short_name": "Fkwms (wyk)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A326"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metodologia badań naukowych (wyk)",
+                "short_name": "Mbn (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (wyk)",
+                "short_name": "Gk/Kwp (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
+                "short_name": "Aafisozn (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metodologia badań naukowych (wyk)",
+                "short_name": "Mbn (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C113"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A6"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A6"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Terapia manualna (wyk)",
+                "short_name": "Tm (wyk)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Weronika Siewiera",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Weronika Siewiera",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w medycynie sportowej (zp)",
+                "short_name": "Fkwms (zp)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "Szpital_Leg_05"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
+                "short_name": "Fkwwr (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metodologia badań naukowych (wyk)",
+                "short_name": "Mbn (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_10"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (ćw)",
+                "short_name": "Aafisozn (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy zawodowy (ćw)",
+                "short_name": "Joz (ćw)",
+                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
+                "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (zp)",
+                "short_name": "Fkwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "P.ul.Klonowa_01"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Dfwdur (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (zp)",
+                "short_name": "Dfwcw (zp)",
+                "teacher": "mgr Katarzyna Gajewska",
+                "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "Szpital_Leg_04"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A146"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A146"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Dfwdur (zp)",
+                "teacher": "mgr Łukasz Zajkowski",
+                "room": "A6"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             }
         ]
     }

@@ -1,1231 +1,1582 @@
 {
     "s1JMP2u": {
-        "Środa 2026-02-18": [
+        "Czwartek 2026-10-01": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_02"
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_02"
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_02"
+                "room": "A212"
             }
         ],
-        "Sobota 2026-02-21": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C128"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C128"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C128"
-            }
-        ],
-        "Niedziela 2026-02-22": [
+        "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C111"
+                "class_name": "Spotkanie organizacyjne (wt)",
+                "short_name": "So (wt)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "C113"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C111"
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
             }
         ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_102"
-            }
-        ],
-        "Środa 2026-02-25": [
+        "Poniedziałek 2026-10-05": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
                 "teacher": "dr Przemysław Charzewski",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_08"
+                "room": "A245"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_08"
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "A245"
             }
         ],
-        "Czwartek 2026-02-26": [
+        "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_01"
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
             }
         ],
-        "Wtorek 2026-03-03": [
+        "Piątek 2026-10-09": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A144"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A245"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_102"
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A144"
             }
         ],
-        "Środa 2026-03-04": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_08"
-            }
-        ],
-        "Sobota 2026-03-07": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C111"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C111"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C123"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C123"
-            }
-        ],
-        "Niedziela 2026-03-08": [
+        "Sobota 2026-10-10": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C123"
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C123"
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C123"
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C122"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C122"
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
             }
         ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "Online_09"
-            },
+        "Wtorek 2026-10-13": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_07"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_102"
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_07"
             }
         ],
-        "Środa 2026-03-11": [
+        "Środa 2026-10-14": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
                 "room": "Online_104"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_08"
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_104"
             }
         ],
-        "Sobota 2026-03-21": [
+        "Czwartek 2026-10-15": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "time": "15:15-16:45",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
             },
             {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
                 "time": "11:45-13:15",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C113"
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C125"
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
                 "room": "A243"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             }
         ],
-        "Niedziela 2026-03-22": [
+        "Poniedziałek 2026-10-26": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C122"
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_102"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C122"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C122"
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_102"
             }
         ],
-        "Wtorek 2026-03-24": [
+        "Wtorek 2026-10-27": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
                 "teacher": "dr Przemysław Charzewski",
                 "room": "Online_09"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_101"
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
             }
         ],
-        "Wtorek 2026-03-31": [
+        "Środa 2026-10-28": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
                 "room": "Online_100"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_101"
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
             }
         ],
-        "Środa 2026-04-01": [
+        "Czwartek 2026-10-29": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_08"
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_02"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
+                "class_name": "Prawo rzymskieawo (wyk)",
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_08"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
                 "room": "Online_103"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "Online_103"
             }
         ],
-        "Sobota 2026-04-11": [
+        "Środa 2026-11-04": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
+                "time": "15:15-16:45",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C122"
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
             },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_09"
+            }
+        ],
+        "Sobota 2026-11-07": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "C122"
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A12"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C123"
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
                 "room": "A243"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
             }
         ],
-        "Niedziela 2026-04-12": [
+        "Niedziela 2026-11-22": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C122"
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C122"
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C122"
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
                 "room": "A36"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
                 "room": "A36"
             }
         ],
-        "Wtorek 2026-04-14": [
+        "Środa 2026-11-25": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_101"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_07"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_07"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_100"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_101"
-            }
-        ],
-        "Sobota 2026-05-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A13"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A13"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A13"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C202"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C202"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C202"
-            }
-        ],
-        "Niedziela 2026-05-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawne podstawy wykonywania zawodów prawniczych (wt)",
-                "short_name": "Ppwzp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C122"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C122"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C122"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C226"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metodologia badań w naukach społecznych (wt)",
-                "short_name": "Mbwns (wt)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "C226"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
                 "room": "Online_10"
             }
         ],
-        "Wtorek 2026-05-19": [
+        "Czwartek 2026-11-26": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_100"
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "Online_100"
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_103"
             }
         ],
-        "Środa 2026-05-20": [
+        "Piątek 2026-11-27": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Prawoznawstwo (wyk)",
+                "class_name": "Prawo rzymskieawo (wyk)",
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_10"
+                "room": "Online_103"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Online_102"
-            }
-        ],
-        "Czwartek 2026-05-21": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_05"
-            }
-        ],
-        "Sobota 2026-05-23": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Informatyka prawnicza (wt)",
-                "short_name": "Ip (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
                 "teacher": "dr Przemysław Charzewski",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawa człowieka i systemy ich ochrony (wyk)",
-                "short_name": "Pcisio (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_10"
-            }
-        ],
-        "Środa 2026-05-27": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawoznawstwo (wyk)",
-                "short_name": "Prawo (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_101"
-            }
-        ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "Online_08"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wyk)",
-                "short_name": "Ddipiodo (wyk)",
-                "teacher": "mgr Zbigniew Wróblewski",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
                 "room": "Online_08"
             }
         ],
-        "Sobota 2026-05-30": [
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-12-05": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C127"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C127"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C127"
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A13"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "room": "A13"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_09"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A13"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_10"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C222"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C222"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C222"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Dostęp do informacji publicznej i ochrona danych osobowych (wt)",
-                "short_name": "Ddipiodo (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A13"
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C222"
             }
         ],
-        "Niedziela 2026-05-31": [
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_100"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_03"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2027-01-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Prawoznawstwo (wt)",
-                "short_name": "Prawo (wt)",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Tworzenie i stosowanie prawa (wt)",
-                "short_name": "Tisp (wt)",
+                "class_name": "Prawo konstytucyjne (wt)",
+                "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A243"
+                "room": "A36"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C128"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zajęcia do wyboru w języku obcym o tematyce związanej z kierunkiem studiów: Administracyjnoprawne as (wt)",
-                "short_name": "ZdwwjootzzksAa (wt)",
-                "teacher": "mgr Witold Łakomski",
-                "room": "C128"
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
             }
         ],
-        "Wtorek 2026-06-02": [
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
+                "short_name": "Aiwp (wt)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy języka łacińskiego dla prawników (wt)",
+                "short_name": "Pjłdp (wt)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Wrocław_sala1 / online Leg"
+                "class_name": "Podstawy socjologii (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A245"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Wrocław_sala1 / online Leg"
-            }
-        ],
-        "Poniedziałek 2026-06-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy ekonomii dla prawników (wyk)",
-                "short_name": "Pedp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "A144 Leg / online FW"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
                 "teacher": "dr Przemysław Charzewski",
-                "room": "A144 Leg / online FW"
-            }
-        ],
-        "Wtorek 2026-06-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "Wrocław_sala / online Leg"
+                "room": "A245"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Tworzenie i stosowanie prawa (wyk)",
-                "short_name": "Tisp (wyk)",
+                "time": "18:45-20:15",
+                "class_name": "Prawo konstytucyjne (wyk)",
+                "short_name": "Pk (wyk)",
                 "teacher": "dr Przemysław Charzewski",
-                "room": "Wrocław_sala / online Leg"
+                "room": "A245"
             }
         ],
-        "Piątek 2026-06-12": [
+        "Czwartek 2027-01-21": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "E3 Leg / online FW"
+                "class_name": "Teoria i filozofia prawa (wyk)",
+                "short_name": "Tifp (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy psychologii w biznesie* (wyk)",
-                "short_name": "Ppwb (wyk)",
-                "teacher": "mgr Maciej Ługowski",
-                "room": "E3 Leg / online FW"
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo rzymskie (wyk)",
+                "short_name": "Pr (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo rzymskieawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Autoprezentacja i wystąpienia publiczne* (wyk)",
+                "short_name": "Aiwp (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Filozofia (wyk)",
+                "short_name": "Filoz (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A36"
             }
         ]
     }

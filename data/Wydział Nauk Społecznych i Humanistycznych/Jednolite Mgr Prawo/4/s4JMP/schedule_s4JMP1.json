@@ -1,847 +1,1229 @@
 {
     "s4JMP1": {
-        "Wtorek 2026-02-17": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "A141"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A31"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            }
-        ],
-        "Poniedziałek 2026-02-23": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "A36"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "A14"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            },
+        "Piątek 2026-10-02": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "C125"
             }
         ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
+        "Poniedziałek 2026-10-05": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_112"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Postępowanie karne (wt)1h [-/x]",
-                "short_name": "Pk (wt)1h [-/x]",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A16"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A16"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A16"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
                 "room": "A13"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A13"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_112"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A141"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A141"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "Online_110"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A31"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A31"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-04-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A36"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_110"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_112"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
                 "room": "A13"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A12"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
                 "room": "A13"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
                 "room": "A13"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
-            }
-        ],
-        "Czwartek 2026-04-23": [
-            {
                 "time": "13:30-15:00",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
                 "room": "A16"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
                 "room": "A16"
             }
         ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A15"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A13"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A13"
-            }
-        ],
-        "Wtorek 2026-05-12": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A212"
-            },
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_03"
+            }
+        ],
+        "Wtorek 2026-10-13": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A212"
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A14"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A212"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Online_111"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "A14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
                 "room": "A14"
             }
         ],
-        "Wtorek 2026-05-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes / prof. dr hab. Andrzej Panasiuk",
-                "room": "A12 / A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes / prof. dr hab. Andrzej Panasiuk",
-                "room": "A12 / A15"
-            }
-        ],
-        "Czwartek 2026-05-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo międzynarodowe prywatne (wt)1h [x/-]",
-                "short_name": "Pmp (wt)1h [x/-]",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
-            },
+        "Środa 2026-10-14": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A145"
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_106"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A145"
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_106"
             }
         ],
-        "Piątek 2026-05-22": [
+        "Piątek 2026-10-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A14"
+            },
             {
                 "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_107"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A245"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie karne (wyk)1h [x/-]",
+                "short_name": "Pk (wyk)1h [x/-]",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_102"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A245"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_04"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_105"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_102"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_101"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_107"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A15"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A143"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_04"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_04"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Postępowanie karne (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "dr Izabela Bernatek-Zaguła",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach administracyjnych (wt)",
+                "short_name": "Sppopigwsa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zamówienia publiczne (wt)",
+                "short_name": "Zp (wt)",
+                "teacher": "Wakat_1_WS",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A36"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie karne (wyk)1h [x/-]",
+                "short_name": "Pk (wyk)1h [x/-]",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_114"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie karne (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "Wakat_5_WS",
+                "room": "Online_106"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Sporządzanie pism procesowych opinii prawnych i glos w sprawach cywilnych (wt)",
+                "short_name": "Sppopigwsc (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
                 "room": "A13"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "A36"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Symulacja rozprawy sądowej w sprawach cywilnych (wt)",
-                "short_name": "Srswsc (wt)",
-                "teacher": "mgr Andrzej Marek",
+                "class_name": "Zamówienia publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "Wakat_1_WS",
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo celne* (wyk)",
+                "short_name": "Pc (wyk)",
+                "teacher": "mgr Wojciech Pinkos",
                 "room": "A36"
             }
         ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_112"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_112"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "Online_112"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Prawo międzynarodowe prywatne (wyk)",
-                "short_name": "Pmp (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "Online_01"
-            }
-        ],
-        "Wtorek 2026-06-02": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "prof. dr hab. Andrzej Panasiuk",
-                "room": "A15"
-            }
-        ],
-        "Środa 2026-06-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Proseminarium (sem)",
-                "short_name": "Prose (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A145"
-            },
+        "Piątek 2027-01-22": [
             {
                 "time": "11:45-13:15",
                 "class_name": "Postępowanie karne (wt)",
                 "short_name": "Pk (wt)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
+                "room": "A36"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Postępowanie karne (wt)",
                 "short_name": "Pk (wt)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
+                "room": "A36"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Postępowanie karne (wyk)",
                 "short_name": "Pk (wyk)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A145"
-            }
-        ],
-        "Czwartek 2026-06-11": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo upadłościowe i restrukturyzacyjne (wyk)",
-                "short_name": "Puir (wyk)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "A36"
+                "teacher": "Wakat_5_WS",
+                "room": "A13"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Postępowanie karne (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A31"
-            }
-        ],
-        "Piątek 2026-06-12": [
-            {
                 "time": "17:00-18:30",
-                "class_name": "Prawo budowlane* (wyk)",
-                "short_name": "Pb (wyk)",
-                "teacher": "dr Katarzyna Tarnowska",
-                "room": "C224"
+                "class_name": "Prawo Unii Europejskiej (wyk)",
+                "short_name": "PUE (wyk)",
+                "teacher": "dr Rafał Kubik",
+                "room": "E1"
             }
         ]
     }

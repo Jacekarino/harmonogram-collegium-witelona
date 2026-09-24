@@ -1,1201 +1,1252 @@
 {
     "s1LIT3(1)u": {
-        "Wtorek 2026-02-17": [
+        "Czwartek 2026-10-01": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "C212"
-            }
-        ],
-        "Środa 2026-02-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "E2"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
                 "room": "E1"
             }
         ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "A14"
-            }
-        ],
-        "Sobota 2026-02-21": [
+        "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C24"
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "C212"
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A31"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A31"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A32"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A32"
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
             }
         ],
-        "Niedziela 2026-02-22": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "C202"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "A31"
-            }
-        ],
-        "Poniedziałek 2026-02-23": [
+        "Poniedziałek 2026-10-05": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A144"
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A144"
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "A36"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A144"
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "C113"
             }
         ],
-        "Środa 2026-02-25": [
+        "Środa 2026-10-07": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Zarządzanie produkcją i usługami (wyk)",
-                "short_name": "Zpiu (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "A14"
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A245 / A36"
             }
         ],
-        "Poniedziałek 2026-03-02": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
-            },
+        "Czwartek 2026-10-08": [
             {
                 "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A36"
             }
         ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_05"
-            }
-        ],
-        "Sobota 2026-03-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "A15"
-            },
+        "Sobota 2026-10-10": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Zarządzanie produkcją i usługami (ćw)",
-                "short_name": "Zpiu (ćw)",
-                "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A31"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Zarządzanie produkcją i usługami (ćw)",
-                "short_name": "Zpiu (ćw)",
-                "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A31"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A145"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zarządzanie produkcją i usługami (ćw)",
-                "short_name": "Zpiu (ćw)",
-                "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A31"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zarządzanie produkcją i usługami (ćw)",
-                "short_name": "Zpiu (ćw)",
-                "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A31"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_04"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_07"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_07"
-            }
-        ],
-        "Poniedziałek 2026-03-16": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "Online_04"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_05"
-            }
-        ],
-        "Sobota 2026-03-21": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C227"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C227"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C24"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C24"
-            }
-        ],
-        "Niedziela 2026-03-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A143"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A142"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "A142"
-            }
-        ],
-        "Poniedziałek 2026-03-30": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
-            }
-        ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "Online_08"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_03"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_05"
-            }
-        ],
-        "Sobota 2026-04-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A142"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A143"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A143"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "A143"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "A143"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C24"
-            }
-        ],
-        "Poniedziałek 2026-04-13": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "Online_04"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zarządzanie produkcją i usługami (wyk)",
-                "short_name": "Zpiu (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_104"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_05"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_03"
-            }
-        ],
-        "Sobota 2026-04-25": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C24"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A143"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A143"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A31"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "A31"
-            }
-        ],
-        "Niedziela 2026-04-26": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C129"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C129"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C127"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C127"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_05"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_05"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zarządzanie produkcją i usługami (wyk)",
-                "short_name": "Zpiu (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_100"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_02"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_02"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "Online_05"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_08"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_05"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zarządzanie produkcją i usługami (wyk)",
-                "short_name": "Zpiu (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_03"
-            }
-        ],
-        "Sobota 2026-05-16": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "C210"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "C210"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            }
-        ],
-        "Niedziela 2026-05-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Badania operacyjne i ekonometria (lab)",
-                "short_name": "Boie (lab)",
-                "teacher": "dr Karol Selwat",
-                "room": "C322"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (ćw)",
-                "short_name": "Wkimzwl (ćw)",
-                "teacher": "mgr inż. Piotr Motyka",
-                "room": "C202"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C209"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C209"
-            }
-        ],
-        "Poniedziałek 2026-05-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "Online_05"
-            }
-        ],
-        "Wtorek 2026-05-19": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            }
-        ],
-        "Środa 2026-05-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "Online_05"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_08"
-            }
-        ],
-        "Czwartek 2026-05-28": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "Online_07"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "Online_07"
-            }
-        ],
-        "Sobota 2026-05-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C21"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż.  Stefan Kozerski",
-                "room": "C21"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "C129"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Nauka o przedsiębiorstwie (ćw)",
-                "short_name": "Nop (ćw)",
-                "teacher": "mgr Agnieszka Kryszkowska",
-                "room": "C129"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zarządzanie produkcją i usługami (ćw)",
-                "short_name": "Zpiu (ćw)",
-                "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "C128"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "C326"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Infrastruktura logistyczna i transportowa (p)",
-                "short_name": "Ilit (p)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "C326"
-            }
-        ],
-        "Środa 2026-06-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do logistyki (wyk)",
-                "short_name": "Wdl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
                 "room": "C203"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "C212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Logistyka w przedsiębiorstwie (wyk)",
-                "short_name": "Lwp (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "A36"
-            }
-        ],
-        "Poniedziałek 2026-06-08": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr inż. Mariola Drozda",
-                "room": "A36"
-            }
-        ],
-        "Wtorek 2026-06-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "E1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka o przedsiębiorstwie (wyk)",
-                "short_name": "Nop (wyk)",
-                "teacher": "dr Jarosław Szandurski",
-                "room": "A36"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Leszek Kędzierski",
-                "room": "E2"
-            }
-        ],
-        "Środa 2026-06-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Badania operacyjne i ekonometria (wyk)",
-                "short_name": "Boie (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "E3"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Infrastruktura logistyczna i transportowa (wyk)",
-                "short_name": "Ilit (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A32"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Współczesne koncepcje i metody zarządzania w logistyce (wyk)",
-                "short_name": "Wkimzwl (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A32"
-            }
-        ],
-        "Czwartek 2026-06-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zarządzanie produkcją i usługami (wyk)",
-                "short_name": "Zpiu (wyk)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "A245"
-            }
-        ],
-        "Niedziela 2026-06-14": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "mgr Jerzy Ulewski",
-                "room": "C226"
-            },
-            {
                 "time": "11:45-13:15",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C326"
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Logistyka w przedsiębiorstwie (ćw)",
-                "short_name": "Lwp (ćw)",
-                "teacher": "mgr inż. Julita  Drzazga-Wolff",
-                "room": "C326"
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "C113"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A14"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A242"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_109"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "Online_108"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Grafika inżynierska (lab)",
+                "short_name": "Gi (lab)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A213"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "mgr Jan Łużny",
+                "room": "C25"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_102 / Online_103"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_101"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Grafika inżynierska (wyk)",
+                "short_name": "Gi (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizyka (wyk)",
+                "short_name": "Fizyk (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "C113"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A14 / C212"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikro i makroekonomia (ćw)",
+                "short_name": "Mim (ćw)",
+                "teacher": "mgr Jerzy Ulewski",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A143"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "Tymczasowa17"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Rachunkowość (ćw)",
+                "short_name": "Rachu (ćw)",
+                "teacher": "mgr Barbara Kurkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (ćw)",
+                "short_name": "Pz (ćw)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Tymczasowa17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C203"
             }
         ]
     }

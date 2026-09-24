@@ -1,852 +1,1138 @@
 {
     "s2MMAP1u": {
-        "Wtorek 2026-02-17": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A144"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_07"
-            }
-        ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "C224"
-            },
+        "Sobota 2026-10-03": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "C224"
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Agnieszka Łakomska / dr Małgorzata Szudrowicz-Garstka",
+                "room": "C129 / C202 / C205"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
                 "room": "C224"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
                 "room": "C224"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            }
-        ],
-        "Niedziela 2026-03-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "A15 / A32"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "A15 / A32"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Sobota 2026-03-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "C129 / C324 / C325"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "C129 / C324 / C325"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "C129 / C324 / C325"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Sobota 2026-03-28": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Eugeniusz Szydłowski / dr Agnieszka Kos / dr Jakub Rzucidło",
-                "room": "C14 / A143 / C205"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Eugeniusz Szydłowski / dr Agnieszka Kos / dr Jakub Rzucidło",
-                "room": "C14 / A143 / C205"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Eugeniusz Szydłowski / dr Agnieszka Kos / dr Jakub Rzucidło",
-                "room": "C14 / A143 / C205"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            }
-        ],
-        "Niedziela 2026-03-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "C224"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "C224"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło / dr Agnieszka Kos",
-                "room": "C209 / C210"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło / dr Agnieszka Kos",
-                "room": "C209 / C210"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "C224"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "C224"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "C224"
-            }
-        ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_07"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_07"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_06"
-            }
-        ],
-        "Sobota 2026-04-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C224"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "A144"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "A144"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "A144"
-            }
-        ],
-        "Niedziela 2026-04-12": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski",
-                "room": "A217 / C325"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski",
-                "room": "A217 / C325"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski",
-                "room": "A217 / C325"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "C125"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "C125"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Sobota 2026-04-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A245"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A245"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A245"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "A245"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
                 "room": "A245"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "A36"
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A245"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
-                "room": "A36"
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A144"
             }
         ],
-        "Niedziela 2026-04-26": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski",
-                "room": "A143 / C228"
-            },
+        "Niedziela 2026-10-04": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski",
-                "room": "A143 / C228"
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło",
-                "room": "C228"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło",
-                "room": "C228"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło",
-                "room": "C228"
-            }
-        ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_103"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            }
-        ],
-        "Wtorek 2026-05-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "Online_06"
-            }
-        ],
-        "Czwartek 2026-05-14": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wyk)",
-                "short_name": "Gmk (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
                 "room": "A14"
             },
             {
-                "time": "18:45-20:15",
-                "class_name": "Partnerstwo publiczno-prywatne (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Aleksandra Nowicka",
+                "time": "15:30-17:00",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
                 "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C224"
             }
         ],
-        "Sobota 2026-05-16": [
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_01 / Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_01 / Online_02"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "A13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "D17"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_09"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_108"
+            }
+        ],
+        "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "A2 / C324 / C325"
+                "teacher": "dr Marcin Sieja",
+                "room": "A12"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Agnieszka Kos / dr Eugeniusz Szydłowski / dr Jakub Rzucidło",
-                "room": "A2 / C324 / C325"
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C113"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C125"
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C113"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Etyka profesjonalizmu urzędnika (wt)",
-                "short_name": "Epu (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C125"
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C125"
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Gospodarowanie mieniem komunalnym* (wt)",
-                "short_name": "Gmk (wt)",
-                "teacher": "dr Aleksandra Nowicka",
-                "room": "C125"
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C113"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wyk)",
-                "short_name": "PzpE (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "A36"
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C113"
             }
         ],
-        "Niedziela 2026-05-17": [
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C113"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C113"
+            },
             {
                 "time": "11:45-13:15",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C113"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C113"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_105"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_110"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_112"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_104"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_105"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_106"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)1h [x/-]",
+                "short_name": "Zrm (wyk)1h [x/-]",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)1h [x/-]",
+                "short_name": "Lm (wyk)1h [x/-]",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_106"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C212"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_113"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_106"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "A12 / A15 / C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek / dr Marcin Sieja",
+                "room": "A12 / A15 / C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)1h [x/-]",
+                "short_name": "Sd (sem)1h [x/-]",
+                "teacher": "dr Marcin Sieja",
+                "room": "C212"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_113"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "A13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A15"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek",
+                "room": "A13 / A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Waldemar Bochenek",
+                "room": "A13 / A15"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
                 "room": "A36"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Prawo zamówień publicznych. E-Zamówienia (wt)",
-                "short_name": "PzpE (wt)",
-                "teacher": "mgr Natalia Grosiak-Bącal",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "A36"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C212"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "C212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "C212"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "A36"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A36"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Waldemar Bochenek / dr Jakub Rzucidło / dr Marcin Sieja",
+                "room": "A12 / A13 / A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Waldemar Bochenek / dr Jakub Rzucidło / dr Marcin Sieja",
+                "room": "A12 / A13 / A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A144"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "A144"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Partnerstwo publiczno-prywatne (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Grzegorz Majewicz",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "A144"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka",
+                "room": "Online_03 / Online_04"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_03"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr Agnieszka Łakomska / mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Tymczasowa13"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Zarządzanie jakością (wt)",
+                "short_name": "Zj (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Tymczasowa13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "A12 / A13 / A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "A12 / A13 / A15"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A31"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (wt)",
+                "short_name": "Jo (wt)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
+                "room": "A16 / A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Negocjacje i mediacje (wt)",
+                "short_name": "Nim (wt)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A31"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logistyka miejska (wt)",
+                "short_name": "Lm (wt)",
+                "teacher": "mgr Aldona Sondej",
+                "room": "A243"
             }
         ]
     }

@@ -1,414 +1,542 @@
 {
     "s1INT2": {
-        "Środa 2026-02-25": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A32"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A32"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_04"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_04"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A12"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A12"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Tax law (ćw)",
-                "short_name": "Tl (ćw)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A16"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_13"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_13"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Tax law (wyk)",
-                "short_name": "Tl (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "A31"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A143"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A143"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_07"
-            }
-        ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_09"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_09"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
-            }
-        ],
-        "Piątek 2026-04-10": [
+        "Piątek 2026-10-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            }
-        ],
-        "Wtorek 2026-04-14": [
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
+            },
             {
-                "time": "17:00-18:30",
-                "class_name": "Tax law (ćw)",
-                "short_name": "Tl (ćw)",
-                "teacher": "mgr Marlena Gniewosz",
+                "time": "11:45-13:15",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
                 "room": "A15"
             }
         ],
-        "Czwartek 2026-04-16": [
+        "Czwartek 2026-10-22": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_08"
+                "time": "08:15-09:45",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_08"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
+                "time": "10:00-11:30",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
-            }
-        ],
-        "Środa 2026-04-22": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A12"
-            }
-        ],
-        "Piątek 2026-04-24": [
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_103"
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_103"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A141"
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A141"
+                "time": "18:45-20:15",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
             }
         ],
-        "Poniedziałek 2026-05-04": [
+        "Piątek 2026-10-23": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Tax law (ćw)",
-                "short_name": "Tl (ćw)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A145"
-            }
-        ],
-        "Wtorek 2026-05-05": [
+                "time": "10:00-11:30",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
             {
-                "time": "15:15-16:45",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
+                "time": "11:45-13:15",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
+                "room": "Online_08"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Tax law (wyk)",
-                "short_name": "Tl (wyk)",
+                "time": "15:15-16:45",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "Online_108"
+                "room": "Online_08"
             }
         ],
-        "Środa 2026-05-13": [
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A16"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_101"
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "Online_101"
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
             }
         ],
-        "Czwartek 2026-05-14": [
+        "Piątek 2026-11-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A16"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_10"
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
                 "room": "Online_10"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_10"
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_11"
             }
         ],
-        "Wtorek 2026-05-19": [
+        "Piątek 2026-11-27": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_102"
+                "time": "08:15-09:45",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
-                "teacher": "dr Agnieszka Kos",
-                "room": "Online_102"
-            }
-        ],
-        "Środa 2026-05-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A145"
+                "time": "10:00-11:30",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A145"
-            }
-        ],
-        "Piątek 2026-05-22": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_09"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_08"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_08"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_09"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_108"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "Online_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A15"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A15"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
+                "teacher": "dr Agnieszka Kos",
+                "room": "A15"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "International and EU law (wyk)",
+                "short_name": "IaEl (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "A13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Commercial law (wyk)",
+                "short_name": "Cl (wyk)",
+                "teacher": "Wakat_2_WS",
                 "room": "A13"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
+                "class_name": "Commercial law (ćw)",
+                "short_name": "Cl (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "International and EU law (ćw)",
+                "short_name": "IaEl (ćw)",
+                "teacher": "Wakat_2_WS",
                 "room": "A13"
             }
         ],
-        "Środa 2026-06-03": [
+        "Piątek 2027-01-15": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Crisis response in the EU (ćw)",
-                "short_name": "CritE (ćw)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A141"
+                "time": "08:15-09:45",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Crisis response in the EU (wyk)",
-                "short_name": "CritE (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "A141"
+                "time": "10:00-11:30",
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             }
         ],
-        "Wtorek 2026-06-09": [
+        "Piątek 2027-01-22": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Tax law (wyk)",
-                "short_name": "Tl (wyk)",
+                "time": "10:00-11:30",
+                "class_name": "Administrative law (wyk)",
+                "short_name": "Al (wyk)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "A141"
+                "room": "A15"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Human rights and systems for their protection (wyk)",
-                "short_name": "Hrasftp (wyk)",
+                "time": "11:45-13:15",
+                "class_name": "Administrative law (ćw)",
+                "short_name": "Al (ćw)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "A141"
-            }
-        ],
-        "Środa 2026-06-10": [
+                "room": "A15"
+            },
             {
                 "time": "13:30-15:00",
-                "class_name": "Basics of criminal law (ćw)",
-                "short_name": "Bocl (ćw)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A16"
+                "class_name": "Self-presentation and public speaking (wyk)",
+                "short_name": "Saps (wyk)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Basics of criminal law (wyk)",
-                "short_name": "Bocl (wyk)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A16"
+                "class_name": "Self-presentation and public speaking (ćw)",
+                "short_name": "Saps (ćw)",
+                "teacher": "dr Dawid Kutryn",
+                "room": "A15"
             }
         ]
     }

@@ -1,512 +1,92 @@
 {
     "s1WF04": {
-        "Wtorek 2026-03-17": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-03-31": [
+        "Poniedziałek 2026-10-19": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-04-14": [
+        "Poniedziałek 2026-10-26": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-04-21": [
+        "Poniedziałek 2026-11-09": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-04-28": [
+        "Poniedziałek 2026-11-30": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-05-05": [
+        "Poniedziałek 2026-12-07": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-05-12": [
+        "Poniedziałek 2026-12-14": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-05-19": [
+        "Poniedziałek 2026-12-21": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-05-26": [
+        "Poniedziałek 2027-01-11": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Wtorek 2026-06-09": [
+        "Poniedziałek 2027-01-18": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Trening ogólnorozwojowy (ćw)",
-                "short_name": "To (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Grażyna Sondel",
                 "room": "DS ul.Mickiewicza10"
             }
         ]

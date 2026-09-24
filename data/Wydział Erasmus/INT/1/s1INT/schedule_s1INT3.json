@@ -1,512 +1,858 @@
 {
     "s1INT3": {
-        "Piątek 2026-02-27": [
+        "Poniedziałek 2026-10-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Macroeconomics (wyk)",
-                "short_name": "Macro (wyk)",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
                 "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "room": "C201"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Macroeconomics (ćw)",
-                "short_name": "Macro (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Databases (wyk)",
+                "short_name": "Datab (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C201"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Financial Management (wyk)",
-                "short_name": "FM (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Databases (wyk)",
+                "short_name": "Datab (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C201"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Financial Management (ćw)",
-                "short_name": "FM (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Poniedziałek 2026-03-02": [
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C201"
+            },
             {
-                "time": "08:15-09:45",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
+                "time": "15:15-16:45",
+                "class_name": "Computer Networks I (wyk)",
+                "short_name": "CNI (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
                 "room": "C201"
             }
         ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_100"
-            }
-        ],
-        "Poniedziałek 2026-03-09": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of macroeconomics (wyk)",
-                "short_name": "Bom (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Basics of macroeconomics (ćw)",
-                "short_name": "Bom (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
-            }
-        ],
-        "Wtorek 2026-03-10": [
+        "Wtorek 2026-10-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Enterprise Finance (ćw)",
-                "short_name": "EF (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Enterprise Finance (wyk)",
-                "short_name": "EF (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Piątek 2026-03-13": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Mathematics I I (wyk)",
-                "short_name": "MI (wyk)",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
                 "teacher": "dr Karol Selwat",
-                "room": "C322"
-            }
-        ],
-        "Poniedziałek 2026-03-16": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Personal brandingII (wyk)",
-                "short_name": "PbII (wyk)",
-                "teacher": "dr Aleksander Klosow",
-                "room": "C203"
+                "room": "C201"
             },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Personal brandingII (lab)",
-                "short_name": "PbII (lab)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "C10"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_104"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Computer Networks I I (wyk)",
-                "short_name": "CNII (wyk)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "C209"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Financial Management (wyk)",
-                "short_name": "FM (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Financial Management (ćw)",
-                "short_name": "FM (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Enterprise Finance (wyk)",
-                "short_name": "EF (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Enterprise Finance (ćw)",
-                "short_name": "EF (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Wtorek 2026-03-24": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Personal brandingII (wyk)",
-                "short_name": "PbII (wyk)",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "C201"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_105"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
                 "teacher": "dr Aleksander Klosow",
-                "room": "Online_01"
+                "room": "Online_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_04"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_09"
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_106"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "Online_09"
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_106"
             }
         ],
-        "Czwartek 2026-03-26": [
+        "Środa 2026-10-21": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Basics of macroeconomics (wyk)",
-                "short_name": "Bom (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A143"
+                "time": "15:15-16:45",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_111"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Basics of macroeconomics (ćw)",
-                "short_name": "Bom (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A143"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
+                "time": "17:00-18:30",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_111"
             },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
-            }
-        ],
-        "Czwartek 2026-04-09": [
             {
                 "time": "18:45-20:15",
-                "class_name": "Computer Networks I I (wyk)",
-                "short_name": "CNII (wyk)",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_111"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "(-) (wyk)",
+                "short_name": "(-) (wyk)",
+                "teacher": "(-)",
+                "room": "--"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Computer Networks I (wyk)",
+                "short_name": "CNI (wyk)",
                 "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_108"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_106"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Computer Networks I (lab)",
+                "short_name": "CNI (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Computer Networks I (lab)",
+                "short_name": "CNI (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "Online_103"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_10"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_11"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Databases (lab)",
+                "short_name": "Datab (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Databases (lab)",
+                "short_name": "Datab (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A213"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Computer Networks I (lab)",
+                "short_name": "CNI (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_11"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_04"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_04"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Engineering Statistics (ćw)",
+                "short_name": "ES (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C201"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_04"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_04"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_03"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
                 "room": "Online_03"
             }
         ],
-        "Piątek 2026-04-10": [
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Mathematics I I (wyk)",
-                "short_name": "MI (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "Online_107"
-            }
-        ],
-        "Poniedziałek 2026-04-13": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Computer Networks I I (lab)",
-                "short_name": "CNII (lab)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "C10"
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Computer Networks I I (lab)",
-                "short_name": "CNII (lab)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "C10"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Personal brandingII (lab)",
-                "short_name": "PbII (lab)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "C10"
+                "time": "18:45-20:15",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "Online_108"
             }
         ],
-        "Poniedziałek 2026-04-20": [
+        "Wtorek 2026-12-22": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Czwartek 2026-04-23": [
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
             {
                 "time": "11:45-13:15",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
             }
         ],
-        "Poniedziałek 2026-05-11": [
+        "Poniedziałek 2027-01-11": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Enterprise Finance (wyk)",
-                "short_name": "EF (wyk)",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "C201"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Enterprise Finance (ćw)",
-                "short_name": "EF (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C201"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Personal brandingII (wyk)",
-                "short_name": "PbII (wyk)",
+                "class_name": "Programming basic I (wyk)",
+                "short_name": "PbI (wyk)",
                 "teacher": "dr Aleksander Klosow",
                 "room": "C201"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Personal brandingII (lab)",
-                "short_name": "PbII (lab)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "C10"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
-            },
-            {
                 "time": "11:45-13:15",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
-            }
-        ],
-        "Piątek 2026-05-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Basics of macroeconomics (wyk)",
-                "short_name": "Bom (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Production and service management (wyk)",
+                "short_name": "Pasm (wyk)",
+                "teacher": "dr Włodzimierz Mischke",
+                "room": "C201"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Basics of macroeconomics (ćw)",
-                "short_name": "Bom (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            }
-        ],
-        "Wtorek 2026-05-19": [
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
+                "room": "C201"
+            },
             {
-                "time": "08:15-09:45",
-                "class_name": "Organization and management methods (wyk)",
-                "short_name": "Oamm (wyk)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
+                "time": "15:15-16:45",
+                "class_name": "Production and service management (ćw)",
+                "short_name": "Pasm (ćw)",
+                "teacher": "mgr inż. Maciej Pietrowicz",
                 "room": "C201"
             }
         ],
-        "Poniedziałek 2026-05-25": [
+        "Wtorek 2027-01-12": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Mathematics I I (wyk)",
-                "short_name": "MI (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "C203"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Organization and management methods (ćw)",
-                "short_name": "Oamm (ćw)",
-                "teacher": "mgr Paweł Macuga",
-                "room": "C203"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Enterprise Finance (wyk)",
-                "short_name": "EF (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Enterprise Finance (ćw)",
-                "short_name": "EF (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Finanse (wyk)",
-                "short_name": "Finan (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Finanse (ćw)",
-                "short_name": "Finan (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "A145"
-            }
-        ],
-        "Czwartek 2026-06-11": [
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
             {
                 "time": "15:15-16:45",
-                "class_name": "Computer Networks I I (wyk)",
-                "short_name": "CNII (wyk)",
+                "class_name": "Programming basic I (lab)",
+                "short_name": "PbI (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mathematics I (wyk)",
+                "short_name": "Mathe (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mathematics I (ćw)",
+                "short_name": "Mathe (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Computer Networks I (wyk)",
+                "short_name": "CNI (wyk)",
                 "teacher": "mgr inż. Karol Zygadło",
+                "room": "C201"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Engineering Statistics (wyk)",
+                "short_name": "ES (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
                 "room": "C201"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Computer Networks I I (lab)",
-                "short_name": "CNII (lab)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "C10"
-            }
-        ],
-        "Piątek 2026-06-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Macroeconomics (wyk)",
-                "short_name": "Macro (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Macroeconomics (ćw)",
-                "short_name": "Macro (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Financial Management (wyk)",
-                "short_name": "FM (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Financial Management (ćw)",
-                "short_name": "FM (ćw)",
-                "teacher": "dr Joanna Kenc",
-                "room": "C203"
+                "class_name": "Production Logistics (ćw)",
+                "short_name": "PL (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "C201"
             }
         ]
     }

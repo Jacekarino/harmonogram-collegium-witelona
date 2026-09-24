@@ -1,0 +1,1033 @@
+{
+    "s4ISL1(1)": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C125"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "A14"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E3"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "C113"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_06"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A142"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A142"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_107"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A145"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A143"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A32"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A32"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_113"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_01"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_113"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_106"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_105"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_104"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A143"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_104"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A217"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A217"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_101"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A143"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A143"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A143"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A143"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekologistyka (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wyk)",
+                "short_name": "Pt (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "C113"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A141"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A16"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A16"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_105"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "C113"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Warsztat w języku obcym (wt)",
+                "short_name": "Wwjo (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "A142"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A142"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A142"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Polityka transportowa (wt)",
+                "short_name": "Pt (wt)",
+                "teacher": "mgr inż. Mariola Drozda",
+                "room": "A141"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1670 @@
+{
+    "s1RM09": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (wt)",
+                "short_name": "So (wt)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "A36"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (ćw)",
+                "short_name": "S-Wswpk (ćw)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biofizyka (wyk)",
+                "short_name": "Biofi (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A245"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A318"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
+                "short_name": "Ezrm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A36"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (ćw)",
+                "short_name": "Eizwoz (ćw)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia z elementami chemii (wyk)",
+                "short_name": "Bzec (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biochemia z elementami chemii (wyk)",
+                "short_name": "Bzec (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A318"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A318"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biologia i mikrobiologia (wyk)",
+                "short_name": "Bim (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C224"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (ćw)",
+                "short_name": "Eizwoz (ćw)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biochemia z elementami chemii (ćw)",
+                "short_name": "Bzec (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A320"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A320"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
+                "short_name": "Ezrm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biologia i mikrobiologia (wyk)",
+                "short_name": "Bim (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia z elementami chemii (ćw)",
+                "short_name": "Bzec (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
+                "short_name": "Ezrm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia z elementami chemii (wyk)",
+                "short_name": "Bzec (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biofizyka (wyk)",
+                "short_name": "Biofi (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Informatyka i biostatystyka (ćw)",
+                "short_name": "Iib (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "A218"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "C113"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biochemia z elementami chemii (ćw)",
+                "short_name": "Bzec (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia z elementami chemii (ćw)",
+                "short_name": "Bzec (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biofizyka (wyk)",
+                "short_name": "Biofi (wyk)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A058 - Siłownia"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
+                "short_name": "Ezrm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A108 (MCSM-ZRM)"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C224"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (ćw)",
+                "short_name": "Eizwoz (ćw)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia z elementami chemii (ćw)",
+                "short_name": "Bzec (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biofizyka (ćw)",
+                "short_name": "Biofi (ćw)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biofizyka (ćw)",
+                "short_name": "Biofi (ćw)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biologia i mikrobiologia (wyk)",
+                "short_name": "Bim (wyk)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (ćw)",
+                "short_name": "Eizwoz (ćw)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
+                "short_name": "Ezrm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biofizyka (ćw)",
+                "short_name": "Biofi (ćw)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Biofizyka (ćw)",
+                "short_name": "Biofi (ćw)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Samoobrona* / Podstawy sportów walki * (ćw)",
+                "short_name": "S/Psw* (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Współpraca i komunikacja w zespole (ćw)",
+                "short_name": "Wikwz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
+                "short_name": "Prp (wyk)",
+                "teacher": "dr Wiesław Zielonka",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (ćw)",
+                "short_name": "Anato (ćw)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A108 (MCSM-ZRM)"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Małgorzata Buchla",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pierwsza pomoc* / Ratownictwo przedmedyczne* (ćw)",
+                "short_name": "Pp/Rp (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A320"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biofizyka (ćw)",
+                "short_name": "Biofi (ćw)",
+                "teacher": "dr Witold Urbanik",
+                "room": "A32"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (ćw)",
+                "short_name": "Eizwoz (ćw)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Procedury ratunkowe przedszpitalne (ćw)",
+                "short_name": "Prp (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A108 (MCSM-ZRM)"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Anatomia (wyk)",
+                "short_name": "Anato (wyk)",
+                "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Socjologia medycyny (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
+                "short_name": "Ezrm (wyk)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Stanisław Napierała",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A318"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (ćw)",
+                "short_name": "Pzm (ćw)",
+                "teacher": "mgr Maciej Hellmut",
+                "room": "A318"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
+                "short_name": "Eizwoz (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            }
+        ]
+    }
+}

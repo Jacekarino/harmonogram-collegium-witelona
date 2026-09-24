@@ -1,0 +1,721 @@
+{
+    "n1ZIP1(1)": {
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C224"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A14 / C224"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C327"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Informatyka - bazy danych (lab)",
+                "short_name": "I-bd (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "E3"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "E3"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka - bazy danych (lab)",
+                "short_name": "I-bd (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_103 / Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_103 / Online_104"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (sem)",
+                "short_name": "Pz (sem)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (sem)",
+                "short_name": "Pz (sem)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Informatyka - bazy danych (lab)",
+                "short_name": "I-bd (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A212"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_103 / Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "Online_103 / Online_104"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_01"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Informatyka - bazy danych (lab)",
+                "short_name": "I-bd (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Informatyka - bazy danych (lab)",
+                "short_name": "I-bd (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A242"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł humanistyczny/społeczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
+                "room": "A14 / A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (sem)",
+                "short_name": "Pz (sem)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy zarządzania (sem)",
+                "short_name": "Pz (sem)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "Online_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_02"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy zarządzania (sem)",
+                "short_name": "Pz (sem)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "A245"
+            }
+        ],
+        "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chemia (wyk)",
+                "short_name": "Chemi (wyk)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A36"
+            }
+        ]
+    }
+}

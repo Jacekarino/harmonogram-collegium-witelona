@@ -1,0 +1,914 @@
+{
+    "s4SIPP1(2)u": {
+        "Środa 2026-10-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A141"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A141"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "C209 / C210"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E3"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2026-10-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C125"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_101"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_111"
+            }
+        ],
+        "Niedziela 2026-10-25": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_113"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_113"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_107"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_114 / Online_115"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_114 / Online_115"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_112"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_112"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_107"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_114 / Online_115"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_114 / Online_115"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_11"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_113"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "Online_108"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_03"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nowoczesne systemy przemysłowe (ćw)",
+                "short_name": "Nsp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Sterowanie przepływem produkcji (ćw)",
+                "short_name": "Spp (ćw)",
+                "teacher": "mgr inż. Piotr Motyka",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (ćw)",
+                "short_name": "Srikp (ćw)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C210"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedmiot w języku obcym do wyboru (ćw)",
+                "short_name": "Pwjodw (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (ćw)",
+                "short_name": "Mdw (ćw)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "C210"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_14 / Online_15"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Strategie rozwoju i konkurencji przedsiębiorstwa (wyk)",
+                "short_name": "Srikp (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Tymczasowa05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bezpieczeństwo wyrobów (wyk)",
+                "short_name": "Bw (wyk)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo wyrobów (ćw)",
+                "short_name": "Bw (ćw)",
+                "teacher": "dr hab. inż. Grzegorz Lesiuk",
+                "room": "C210"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Tomasz Stechnij",
+                "room": "A144"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C201"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "C209 / C210"
+            }
+        ]
+    }
+}

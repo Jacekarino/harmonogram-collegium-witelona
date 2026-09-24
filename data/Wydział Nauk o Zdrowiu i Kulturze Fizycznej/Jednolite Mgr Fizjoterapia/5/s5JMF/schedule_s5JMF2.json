@@ -1,1936 +1,1806 @@
 {
     "s5JMF2": {
-        "Czwartek 2026-02-19": [
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A145"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "A13"
+                "room": "A32"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A31"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_09"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_09"
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A324"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A326"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A326"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A145"
+            },
+            {
+                "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "A13"
+                "room": "A31"
             }
         ],
-        "Piątek 2026-02-20": [
+        "Piątek 2026-10-09": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A324"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A6"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A6"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A6"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A31"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A31"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A32"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A245"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "Online_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "Online_03"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "Online_02"
+                "room": "A31"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "Online_02"
+                "room": "A31"
             }
         ],
-        "Poniedziałek 2026-02-23": [
+        "Wtorek 2026-10-27": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             }
         ],
-        "Wtorek 2026-02-24": [
+        "Środa 2026-10-28": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A326"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A326"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
             }
         ],
-        "Środa 2026-02-25": [
+        "Czwartek 2026-10-29": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "A33"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-02-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Piątek 2026-02-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Poniedziałek 2026-03-02": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-03-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Julia Jurczyk",
+                "room": "A33"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
+                "room": "A31"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
+                "room": "A31"
             }
         ],
-        "Piątek 2026-03-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
+        "Piątek 2026-10-30": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A212"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
+                "short_name": "Dgwf/Swf (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
             },
             {
                 "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A32"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_102"
+                "room": "Online_114"
             }
         ],
-        "Poniedziałek 2026-03-09": [
+        "Środa 2026-11-04": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_01"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Dydaktyka fizjoterapii (ćw)",
+                "short_name": "Df (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Dydaktyka fizjoterapii (ćw)",
+                "short_name": "Df (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_01"
             }
         ],
-        "Wtorek 2026-03-10": [
+        "Czwartek 2026-11-05": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "FizjoDuo01"
             }
         ],
-        "Środa 2026-03-11": [
+        "Piątek 2026-11-06": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_07"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
             },
             {
                 "time": "15:15-16:45",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A14"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_02"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_104"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_104"
-            }
-        ],
-        "Piątek 2026-03-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "room": "A32"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A326"
             }
         ],
-        "Poniedziałek 2026-03-16": [
+        "Piątek 2026-11-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A326"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A326"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A32"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A32"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_101"
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A144"
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "10:00-11:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_101"
+                "teacher": "dr Monika Sobolak",
+                "room": "A32"
             }
         ],
-        "Środa 2026-03-18": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
+        "Czwartek 2026-11-19": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-03-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Piątek 2026-03-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Poniedziałek 2026-03-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_02"
+                "room": "Online_106"
             }
         ],
-        "Piątek 2026-03-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
+        "Piątek 2026-11-20": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Terapia przeciwobrzękowa (wyk)",
+                "short_name": "Tp (wyk)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A142"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
             }
         ],
-        "Poniedziałek 2026-03-30": [
+        "Wtorek 2026-11-24": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A324"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
+                "short_name": "Pfwwr (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A324"
             }
         ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
+        "Środa 2026-11-25": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Wytw_Ruchu1"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_11"
+                "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (ćw)",
+                "short_name": "Dgwf/Swf (ćw)",
+                "teacher": "dr Joanna Kenc",
+                "room": "A145"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_11"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
             }
         ],
-        "Środa 2026-04-08": [
+        "Czwartek 2026-11-26": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-04-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_102"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
             }
         ],
-        "Piątek 2026-04-10": [
+        "Wtorek 2026-12-01": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A245"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A245"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A326"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Poniedziałek 2026-04-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A326"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "Online_09"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "room": "A31"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_108"
+                "room": "Online_05"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_108"
+                "room": "Online_05"
             }
         ],
-        "Piątek 2026-04-17": [
+        "Piątek 2026-12-04": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
             }
         ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
+        "Wtorek 2026-12-08": [
             {
                 "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Poniedziałek 2026-04-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A324"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
             },
             {
                 "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A6"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "A143"
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A32"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "A143"
-            }
-        ],
-        "Środa 2026-04-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
             },
             {
+                "time": "18:45-20:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
             }
         ],
-        "Czwartek 2026-04-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
+        "Poniedziałek 2026-12-14": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Piątek 2026-04-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_1",
-                "room": "Praktyki2"
-            }
-        ],
-        "Poniedziałek 2026-04-27": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
             },
             {
                 "time": "15:15-16:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "mgr Jakub Mitka",
+                "room": "A146"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A320"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A320"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka fizjoterapii (ćw)",
+                "short_name": "Df (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A142"
+                "room": "A31"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
+                "short_name": "Aa/Pk (ćw)",
+                "teacher": "mgr  Mateusz Wierzbicki",
+                "room": "Inne_WF_Basen"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Dydaktyka fizjoterapii (ćw)",
+                "short_name": "Df (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Dydaktyka fizjoterapii (wyk)",
+                "short_name": "Df (wyk)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (ćw)",
+                "short_name": "Msf-mrprnn (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Terapia przeciwobrzękowa (ćw)",
+                "short_name": "Tp (ćw)",
+                "teacher": "mgr Anna Czapulak-Jabłońska",
+                "room": "A324"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specjalne fizjoterapii - metody reedukacji posturalnej  reedukacji nerwowo-mięśniowej neurore (wyk)",
+                "short_name": "Msf-mrprnn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A324"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny / dr Monika Sobolak",
+                "room": "Online_07 / Online_08"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "A32"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A32"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
+                "short_name": "Pfwdur (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A144"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
+                "short_name": "Pfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Dydaktyka fizjoterapii (ćw)",
+                "short_name": "Df (ćw)",
+                "teacher": "dr Dariusz Lewera",
+                "room": "A31"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A142"
+                "room": "Online_102"
             }
         ],
-        "Wtorek 2026-04-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
+        "Poniedziałek 2027-01-11": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-04-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-04-30": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Poniedziałek 2026-05-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Środa 2026-05-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            }
-        ],
-        "Czwartek 2026-05-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A142"
-            }
-        ],
-        "Piątek 2026-05-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "room": "A32"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A32"
             }
         ],
-        "Poniedziałek 2026-05-11": [
+        "Wtorek 2027-01-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A324"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (zp)",
+                "short_name": "Pfwdur (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "A324"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_01"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "Szpital_Leg_01"
             }
         ],
-        "Wtorek 2026-05-12": [
+        "Środa 2027-01-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             }
         ],
-        "Środa 2026-05-13": [
+        "Czwartek 2027-01-14": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             }
         ],
-        "Czwartek 2026-05-14": [
+        "Piątek 2027-01-15": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             }
         ],
-        "Piątek 2026-05-15": [
+        "Poniedziałek 2027-01-18": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praktyki (zp)",
-                "short_name": "Prakt (zp)",
-                "teacher": "PRAKTYKI_2",
-                "room": "Praktyki2"
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Praktyki (ćw)",
+                "short_name": "Prakt (ćw)",
+                "teacher": "PRAKTYKI_1",
+                "room": "Praktyki1"
             }
         ]
     }

@@ -1,0 +1,1092 @@
+{
+    "s3A2u": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E1"
+            }
+        ],
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C128"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A15"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A141"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Aleksandra Nowicka / dr Przemysław Charzewski",
+                "room": "C210 / C329 / A6"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Aleksandra Nowicka / dr Przemysław Charzewski",
+                "room": "C210 / C329 / A6"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Aleksandra Nowicka / dr Przemysław Charzewski",
+                "room": "C210 / C329 / A6"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Aleksandra Nowicka / dr Przemysław Charzewski",
+                "room": "C210 / C329 / A6"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C128"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "A14"
+            }
+        ],
+        "Środa 2026-10-07": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "A12 / A2"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Jacek Skrzypek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_07 / Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_07 / Online_08"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_105"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A16"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Jacek Skrzypek",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_09"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Jacek Skrzypek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / dr Lilia Omelan",
+                "room": "Online_03 / Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / dr Lilia Omelan",
+                "room": "Online_03 / Online_10"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_105"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_105"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_104"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_100"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C126"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C126"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C126"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C126"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Jacek Skrzypek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / dr Lilia Omelan",
+                "room": "Online_03 / Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / dr Lilia Omelan",
+                "room": "Online_03 / Online_08"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_108"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Tymczasowa13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Tymczasowa13"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "D8"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "D8"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "D8"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "D8"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Aleksandra Nowicka / dr Wojciech Mucha",
+                "room": "A2 / C224 / C324"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Aleksandra Nowicka / dr Wojciech Mucha",
+                "room": "A2 / C224 / C324"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Aleksandra Nowicka / dr Wojciech Mucha",
+                "room": "A2 / C224 / C324"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Aleksandra Nowicka / dr Wojciech Mucha",
+                "room": "A2 / C224 / C324"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C224"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr  Jacek Skrzypek",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_09"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_09"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_103"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "Online_10"
+            }
+        ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C122"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "C122"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "C122"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C122"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C122"
+            }
+        ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "E4"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "E4"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Wojciech Mucha / dr Aleksandra Nowicka",
+                "room": "A2 / C324 / E4"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Wojciech Mucha / dr Aleksandra Nowicka",
+                "room": "A2 / C324 / E4"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski / dr Wojciech Mucha / dr Aleksandra Nowicka",
+                "room": "A2 / C324 / E4"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo migracyjne (wyk)",
+                "short_name": "Pm (wyk)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A36"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_100"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Publiczne prawo gospodarcze (wt)",
+                "short_name": "Ppg (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "A16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A16"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",
+                "short_name": "Ppius (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C122"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C122"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "Online_01 / Online_05"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "Online_08"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Kacper Bielawski / dr Lilia Omelan",
+                "room": "Online_05 / Online_10"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Publiczne prawo gospodarcze (wyk)",
+                "short_name": "Ppg (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "A13 / A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Przemysław Charzewski",
+                "room": "Tymczasowa04 / C128"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Wojciech Mucha / dr Przemysław Charzewski",
+                "room": "Tymczasowa04 / C128"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wyk)",
+                "short_name": "Amrs (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A144"
+            }
+        ],
+        "Sobota 2027-01-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Agnieszka Łakomska",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C210"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Kontrola i audyt w administracji (wt)",
+                "short_name": "Kiawa (wt)",
+                "teacher": "dr Aleksandra Nowicka",
+                "room": "C210"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Tymczasowa03"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "Tymczasowa03"
+            }
+        ]
+    }
+}

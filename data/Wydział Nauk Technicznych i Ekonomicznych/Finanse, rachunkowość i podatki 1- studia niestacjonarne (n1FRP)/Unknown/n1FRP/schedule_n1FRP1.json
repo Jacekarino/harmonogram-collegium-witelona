@@ -1,0 +1,592 @@
+{
+    "n1FRP1": {
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "C212"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona własności  intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona własności  intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C322"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C313"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł humanistyczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "1 Socjologia organizacji (wyk)",
+                "short_name": "1So (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_01"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ochrona własności  intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ochrona własności  intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł humanistyczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł humanistyczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "Online_02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_03"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "Online_03"
+            }
+        ],
+        "Sobota 2026-12-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            }
+        ],
+        "Niedziela 2026-12-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Socjologia organizacji (wyk)",
+                "short_name": "1So (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Ochrona własności  intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A218"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A244"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "1 Socjologia organizacji (wyk)",
+                "short_name": "1So (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska / dr Krzysztof Radkowski",
+                "room": "A144 / A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Irena Izbiańska / dr Krzysztof Radkowski",
+                "room": "A144 / A212"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo (wyk)",
+                "short_name": "Prawo (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł humanistyczny (wyk)",
+                "short_name": "Mh (wyk)",
+                "teacher": "dr Leszek Kędzierski",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "1 Socjologia organizacji (wyk)",
+                "short_name": "1So (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
+                "short_name": "Tiisi (lab)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Mikroekonomia (ćw)",
+                "short_name": "Mikro (ćw)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "A212"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka (ćw)",
+                "short_name": "Staty (ćw)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A212"
+            }
+        ]
+    }
+}
