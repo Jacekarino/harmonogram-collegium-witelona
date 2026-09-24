@@ -1,842 +1,271 @@
 {
     "s3PAM2(1)u": {
-        "Wtorek 2026-02-17": [
+        "Czwartek 2026-10-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A142"
+            }
+        ],
+        "Piątek 2026-10-02": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "C125"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "C113"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "C125"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "C202"
-            }
-        ],
-        "Środa 2026-02-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
                 "room": "C224"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "C202"
-            }
-        ],
-        "Czwartek 2026-02-19": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / A2"
-            },
-            {
                 "time": "18:45-20:15",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / A2"
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "E1"
             }
         ],
-        "Poniedziałek 2026-02-23": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "A36"
-            }
-        ],
-        "Wtorek 2026-02-24": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_23"
-            }
-        ],
-        "Środa 2026-02-25": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_16"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_16"
-            }
-        ],
-        "Sobota 2026-02-28": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A145"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C11"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C209"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A218"
-            }
-        ],
-        "Wtorek 2026-03-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_24"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_24"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_24"
-            }
-        ],
-        "Środa 2026-03-04": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Wtorek 2026-03-10": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_109"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-03-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
-            }
-        ],
-        "Czwartek 2026-03-12": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
-                "room": "A142 / D8"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
-                "room": "A142 / D8"
-            }
-        ],
-        "Sobota 2026-03-14": [
+        "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C314"
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C314"
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C203"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C203"
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C11"
+            }
+        ],
+        "Niedziela 2026-10-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
+                "room": "A2 / D8"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
                 "room": "A244"
             }
         ],
-        "Niedziela 2026-03-15": [
+        "Czwartek 2026-10-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C113"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C314"
+            }
+        ],
+        "Niedziela 2026-10-18": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A12"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
                 "room": "A218"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "C327"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A13"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A13"
-            }
-        ],
-        "Wtorek 2026-03-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_24"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-03-18": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
                 "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Wtorek 2026-03-24": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_109"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-03-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_16"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_16"
-            }
-        ],
-        "Czwartek 2026-03-26": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / A31"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / A31"
-            }
-        ],
-        "Sobota 2026-03-28": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A142"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A142"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
                 "room": "A218"
             },
             {
-                "time": "19:00-20:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            }
-        ],
-        "Niedziela 2026-03-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
                 "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C10"
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C314"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C10"
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C314"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C203"
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
             }
         ],
-        "Wtorek 2026-03-31": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_109"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-04-01": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Wtorek 2026-04-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_109"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-04-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_113"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_16"
-            }
-        ],
-        "Sobota 2026-04-11": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C10"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C10"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C203"
-            }
-        ],
-        "Niedziela 2026-04-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A213"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C128"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "C203"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "C203"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "C203"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "C203"
-            }
-        ],
-        "Wtorek 2026-04-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_24"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-04-15": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Czwartek 2026-04-16": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A15 / D17"
-            }
-        ],
-        "Sobota 2026-04-18": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Niedziela 2026-04-19": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "BAL WITELONA (wt)",
-                "short_name": "BW (wt)",
-                "teacher": "BAL WITELONA",
-                "room": "Inne_Bal Witelona"
-            }
-        ],
-        "Wtorek 2026-04-21": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
-            }
-        ],
-        "Środa 2026-04-22": [
+        "Wtorek 2026-10-20": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
@@ -846,499 +275,840 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_16"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
                 "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_16"
-            }
-        ],
-        "Sobota 2026-04-25": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C314"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C314"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C125"
-            }
-        ],
-        "Niedziela 2026-04-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
-                "room": "A13 / D8"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
-                "room": "A13 / D8"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A12"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A145"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A145"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A218"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A218"
-            }
-        ],
-        "Wtorek 2026-05-05": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_14"
+                "room": "Online_13"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_14"
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
             }
         ],
-        "Środa 2026-05-06": [
+        "Piątek 2026-10-23": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_16"
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_11"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_16"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_13"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_16"
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "Online_08"
             }
         ],
-        "Sobota 2026-05-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "D17 / D8"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "D17 / D8"
-            },
+        "Sobota 2026-10-24": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A31"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A31"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
                 "teacher": "mgr inż. Marcin Tracz",
-                "room": "C11"
+                "room": "C10"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "C313"
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A244"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "Online_08"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A213"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
                 "room": "A242"
             }
         ],
-        "Niedziela 2026-05-10": [
+        "Niedziela 2026-11-08": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A13"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A13"
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A244"
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A244"
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A145"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A217"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A217"
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C314"
             }
         ],
-        "Poniedziałek 2026-05-11": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_10"
-            }
-        ],
-        "Wtorek 2026-05-12": [
+        "Wtorek 2026-11-10": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_104"
-            }
-        ],
-        "Środa 2026-05-13": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Poniedziałek 2026-05-18": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_09"
-            }
-        ],
-        "Wtorek 2026-05-19": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            }
-        ],
-        "Środa 2026-05-20": [
-            {
-                "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_16"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "Online_08"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
                 "room": "Online_102"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "Online_16"
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
                 "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
                 "room": "Online_16"
             }
         ],
-        "Sobota 2026-05-23": [
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            }
+        ],
+        "Niedziela 2026-11-22": [
             {
                 "time": "08:15-09:45",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "D17 / D8"
+                "room": "A12 / A2"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "D17 / D8"
+                "room": "A12 / A2"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A213"
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C313"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A244"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C11"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C313"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "A244"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "Online_13"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C314"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C11"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A213"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_14"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (lab)",
+                "short_name": "Wdzpd (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (p)",
+                "short_name": "PipsiII (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C11"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projektowanie interfejsów graficznych (p)",
+                "short_name": "Pig (p)",
+                "teacher": "mgr inż. Kamil Piech",
                 "room": "A213"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A218"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A218"
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A13"
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
             }
         ],
-        "Poniedziałek 2026-05-25": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_05"
-            }
-        ],
-        "Wtorek 2026-05-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_23"
-            },
+        "Wtorek 2027-01-19": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
-                "room": "Online_02"
-            }
-        ],
-        "Środa 2026-05-27": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
+                "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
+                "short_name": "Wdzpd (wyk)",
                 "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_15"
-            }
-        ],
-        "Poniedziałek 2026-06-01": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "Online_01"
+                "room": "A245"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
+                "class_name": "Projektowanie i programowanie systemów internetowych I I (wyk)",
+                "short_name": "PipsiII (wyk)",
                 "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "Online_01"
+                "room": "A245"
             }
         ],
-        "Środa 2026-06-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
-            }
-        ],
-        "Wtorek 2026-06-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zaawansowane metody programowania (wyk)",
-                "short_name": "Zmp (wyk)",
-                "teacher": "mgr inż. Krzysztof Rewak",
-                "room": "A36"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (wyk)",
-                "short_name": "Piwsi (wyk)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "C224"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Robert Burduk",
-                "room": "C202"
-            }
-        ],
-        "Środa 2026-06-10": [
+        "Czwartek 2027-01-21": [
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
@@ -1347,73 +1117,27 @@
                 "room": "A141"
             }
         ],
-        "Czwartek 2026-06-11": [
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A14"
+            },
             {
                 "time": "17:00-18:30",
-                "class_name": "Podstawy symulacji komputerowej (wyk)",
-                "short_name": "Psk (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A36"
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A14"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo systemów informatycznych (wyk)",
-                "short_name": "Bsi (wyk)",
-                "teacher": "dr inż. Dariusz Eljasz",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
                 "room": "C125"
-            }
-        ],
-        "Sobota 2026-06-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Bezpieczeństwo systemów informatycznych (p)",
-                "short_name": "Bsi (p)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy symulacji komputerowej (lab)",
-                "short_name": "Psk (lab)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A242"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Zaawansowane metody programowania (lab)",
-                "short_name": "Zmp (lab)",
-                "teacher": "mgr inż. Marcin Tracz",
-                "room": "C10"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Projektowanie i wdrażanie systemów informatycznych (sem)",
-                "short_name": "Piwsi (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A15"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Język angielski (ćw)",
-                "short_name": "Ja (ćw)",
-                "teacher": "mgr Filip Kostek / mgr Katarzyna Ben Abdallah",
-                "room": "D17 / C228"
-            }
-        ],
-        "Niedziela 2026-06-14": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Przedsiębiorczość akademicka (p)",
-                "short_name": "Pa (p)",
-                "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "A145"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Metody sztucznej inteligencji (sem)",
-                "short_name": "Msi (sem)",
-                "teacher": "mgr inż. Zdzisław Pawelec",
-                "room": "A242"
             }
         ]
     }

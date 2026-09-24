@@ -1,0 +1,1236 @@
+{
+    "s3GK1(1)": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A142"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A145"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "E1"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C314"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A218"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "E1"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Poniedziałek 2026-10-19": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_109"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_13"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-10-28": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_17"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            }
+        ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "A213"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_16"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_13"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "A213"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_14"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Cyfrowy montaż i obróbka plików multimedialnych (lab)",
+                "short_name": "Cmiopm (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programy graficzne i DTP (lab)",
+                "short_name": "PgiD (lab)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A213"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programy graficzne i DTP (wyk)",
+                "short_name": "PgiD (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Modelowanie graficzne oraz druk 3D (wyk)",
+                "short_name": "Mgod3 (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C224"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (lab)",
+                "short_name": "Tmisw (lab)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metody sztucznej inteligencji (lab)",
+                "short_name": "Msi (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C11"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
+                "room": "A12 / A2"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy mobilne (p)",
+                "short_name": "Sm (p)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C10"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy mobilne (wyk)",
+                "short_name": "Sm (wyk)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metody sztucznej inteligencji (wyk)",
+                "short_name": "Msi (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C125"
+            }
+        ]
+    }
+}

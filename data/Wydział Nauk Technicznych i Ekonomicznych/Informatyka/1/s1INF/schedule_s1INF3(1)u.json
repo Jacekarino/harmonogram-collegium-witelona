@@ -1,34 +1,6 @@
 {
-    "s1INF1(1)": {
+    "s1INF3(1)u": {
         "Czwartek 2026-10-01": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Spotkanie organizacyjne (ćw)",
-                "short_name": "So (ćw)",
-                "teacher": "Spotkanie organizacyjne 09.00-10.30",
-                "room": "C113"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
-                "short_name": "S-Wswpk (wt)",
-                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
-                "room": "E2"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (ćw)",
-                "short_name": "S-Wswpk (ćw)",
-                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
-                "room": "E2"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
-            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Podstawy programowania (wyk)",
@@ -67,6 +39,29 @@
                 "room": "A36"
             }
         ],
+        "Sobota 2026-10-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
+                "teacher": "Spotkanie organizacyjne 09.00-10.30",
+                "room": "E1"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Szkolenie - Wsparcie studentów w procesie kształcenia (wt)",
+                "short_name": "S-Wswpk (wt)",
+                "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
+                "room": "E2"
+            }
+        ],
         "Środa 2026-10-07": [
             {
                 "time": "15:15-16:45",
@@ -88,50 +83,6 @@
                 "short_name": "Wdt (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "A212"
-            }
-        ],
-        "Czwartek 2026-10-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "C203"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
             }
         ],
         "Wtorek 2026-10-13": [
@@ -166,36 +117,6 @@
                 "room": "Online_14"
             }
         ],
-        "Czwartek 2026-10-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
-            }
-        ],
         "Piątek 2026-10-16": [
             {
                 "time": "15:15-16:45",
@@ -210,6 +131,108 @@
                 "short_name": "Pti (wyk)",
                 "teacher": "dr inż. Ryszard Rębowski",
                 "room": "Online_14"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A245"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C313"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A144"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -258,50 +281,6 @@
                 "room": "Online_14"
             }
         ],
-        "Czwartek 2026-10-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
-            }
-        ],
         "Wtorek 2026-10-27": [
             {
                 "time": "15:15-16:45",
@@ -339,36 +318,6 @@
                 "short_name": "Wdt (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "Online_14"
-            }
-        ],
-        "Czwartek 2026-10-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A145"
             }
         ],
         "Piątek 2026-10-30": [
@@ -433,13 +382,64 @@
                 "room": "Online_14"
             }
         ],
-        "Czwartek 2026-11-05": [
+        "Sobota 2026-11-07": [
             {
                 "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Tymczasowa01"
+            },
+            {
+                "time": "15:30-17:00",
                 "class_name": "Podstawy programowania (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C212"
+            }
+        ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
             },
             {
                 "time": "10:00-11:30",
@@ -453,28 +453,35 @@
                 "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
                 "short_name": "Wdik (ćw)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
+                "room": "A144"
             },
             {
-                "time": "13:30-15:00",
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
+                "room": "A144"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A144"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -514,43 +521,6 @@
                 "short_name": "Fizyk (wyk)",
                 "teacher": "dr Witold Urbanik",
                 "room": "Online_14"
-            }
-        ],
-        "Czwartek 2026-11-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
             }
         ],
         "Piątek 2026-11-13": [
@@ -615,48 +585,55 @@
                 "room": "Online_03"
             }
         ],
-        "Czwartek 2026-11-19": [
+        "Sobota 2026-11-21": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A245"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C127"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
                 "short_name": "Wdik (ćw)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
+                "room": "C127"
             },
             {
-                "time": "13:30-15:00",
+                "time": "13:45-15:15",
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
+                "room": "A245"
             },
             {
-                "time": "15:15-16:45",
+                "time": "15:30-17:00",
                 "class_name": "Wprowadzenie do techniki (ćw)",
                 "short_name": "Wdt (ćw)",
                 "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
+                "room": "C127"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
+                "time": "17:15-18:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
             }
         ],
         "Wtorek 2026-11-24": [
@@ -703,43 +680,6 @@
                 "short_name": "Wdt (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "Online_14"
-            }
-        ],
-        "Czwartek 2026-11-26": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
             }
         ],
         "Piątek 2026-11-27": [
@@ -797,48 +737,106 @@
                 "room": "Online_100"
             }
         ],
-        "Czwartek 2026-12-03": [
+        "Sobota 2026-12-05": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
                 "class_name": "Fizyka (lab)",
                 "short_name": "Fizyk (lab)",
                 "teacher": "dr Witold Urbanik",
                 "room": "C25"
             },
             {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
                 "short_name": "Wdik (ćw)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
+                "room": "A245"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A245"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
             },
             {
-                "time": "17:00-18:30",
+                "time": "17:15-18:45",
                 "class_name": "Podstawy grafiki komputerowej (lab)",
                 "short_name": "Pgk (lab)",
                 "teacher": "mgr inż. Roman Hojniak",
                 "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            }
+        ],
+        "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
             }
         ],
         "Wtorek 2026-12-08": [
@@ -885,50 +883,6 @@
                 "short_name": "Wdt (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "Online_14"
-            }
-        ],
-        "Czwartek 2026-12-10": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A217"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C221"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C221"
             }
         ],
         "Piątek 2026-12-11": [
@@ -993,48 +947,106 @@
                 "room": "Online_09"
             }
         ],
-        "Czwartek 2026-12-17": [
+        "Sobota 2026-12-19": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
                 "class_name": "Fizyka (lab)",
                 "short_name": "Fizyk (lab)",
                 "teacher": "dr Witold Urbanik",
                 "room": "C25"
             },
             {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
                 "short_name": "Wdik (ćw)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
+                "room": "A245"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A245"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
+                "time": "15:30-17:00",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
             },
             {
-                "time": "17:00-18:30",
+                "time": "17:15-18:45",
                 "class_name": "Podstawy grafiki komputerowej (lab)",
                 "short_name": "Pgk (lab)",
                 "teacher": "mgr inż. Roman Hojniak",
                 "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C325"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C325"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A144"
             }
         ],
         "Wtorek 2026-12-22": [
@@ -1058,36 +1070,6 @@
                 "short_name": "Fizyk (wyk)",
                 "teacher": "dr Witold Urbanik",
                 "room": "Online_14"
-            }
-        ],
-        "Czwartek 2027-01-07": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
             }
         ],
         "Wtorek 2027-01-12": [
@@ -1136,50 +1118,6 @@
                 "room": "Online_14"
             }
         ],
-        "Czwartek 2027-01-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy programowania (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr inż. Renata Supranowicz",
-                "room": "A242"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A142"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
-            }
-        ],
         "Piątek 2027-01-15": [
             {
                 "time": "15:15-16:45",
@@ -1194,6 +1132,101 @@
                 "short_name": "Pti (wyk)",
                 "teacher": "dr inż. Ryszard Rębowski",
                 "room": "Online_17"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C123"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy programowania (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr inż. Marcin Tracz",
+                "room": "C10"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C326"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Fizyka (lab)",
+                "short_name": "Fizyk (lab)",
+                "teacher": "dr Witold Urbanik",
+                "room": "C25"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy grafiki komputerowej (lab)",
+                "short_name": "Pgk (lab)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "A244"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A245"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C125"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wprowadzenie do techniki (ćw)",
+                "short_name": "Wdt (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C125"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C123"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
+                "short_name": "Wdik (ćw)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "C123"
             }
         ],
         "Wtorek 2027-01-19": [
@@ -1240,43 +1273,6 @@
                 "short_name": "Mh (wyk)",
                 "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
                 "room": "A14 / C212"
-            }
-        ],
-        "Czwartek 2027-01-21": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Fizyka (lab)",
-                "short_name": "Fizyk (lab)",
-                "teacher": "dr Witold Urbanik",
-                "room": "C25"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Wprowadzenie do inżynierii komputerowej (ćw)",
-                "short_name": "Wdik (ćw)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wprowadzenie do techniki (ćw)",
-                "short_name": "Wdt (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A141"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy grafiki komputerowej (lab)",
-                "short_name": "Pgk (lab)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "A244"
             }
         ],
         "Piątek 2027-01-22": [

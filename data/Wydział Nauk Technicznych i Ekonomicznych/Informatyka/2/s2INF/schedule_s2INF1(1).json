@@ -1,0 +1,1105 @@
+{
+    "s2INF1(1)": {
+        "Czwartek 2026-10-01": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A141"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-10-02": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "E1"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A36"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C203"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-10-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_14"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C224"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "C224"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-10-23": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A145"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_16"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-11-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_16"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            }
+        ],
+        "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A217"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "A242"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "A242"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_11"
+            }
+        ],
+        "Czwartek 2026-12-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_15"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C10"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Programowanie obiektowe I I (lab)",
+                "short_name": "PoII (lab)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (lab)",
+                "short_name": "Sk (lab)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "C11"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "Online_15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_15"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Systemy operacyjne (lab)",
+                "short_name": "So (lab)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C10"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bazy danych (lab)",
+                "short_name": "Bd (lab)",
+                "teacher": "mgr inż. Kamil Piech",
+                "room": "C10"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy operacyjne (wyk)",
+                "short_name": "So (wyk)",
+                "teacher": "dr inż. Arkadiusz Grzybowski",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Bazy danych (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie obiektowe I I (wyk)",
+                "short_name": "PoII (wyk)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C125"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Filip Kostek",
+                "room": "A2"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Sieci komputerowe (wyk)",
+                "short_name": "Sk (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C125"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (wyk)",
+                "short_name": "Pmpis (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "C212"
+            }
+        ]
+    }
+}

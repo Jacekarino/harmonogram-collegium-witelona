@@ -1,0 +1,766 @@
+{
+    "s4PAM2(2)u": {
+        "Czwartek 2026-10-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C212"
+            }
+        ],
+        "Wtorek 2026-10-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A142"
+            }
+        ],
+        "Środa 2026-10-14": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_05"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_17"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_17"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_17"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            }
+        ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A244"
+            }
+        ],
+        "Wtorek 2026-10-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Czwartek 2026-10-29": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_115"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_06"
+            }
+        ],
+        "Sobota 2026-11-07": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A217"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A217"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A244"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_106"
+            }
+        ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_18"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_18"
+            }
+        ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
+        "Środa 2026-11-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_103"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C227"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C227"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C227"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A213"
+            }
+        ],
+        "Niedziela 2026-11-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "A244"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_18"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_102"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-12-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_13"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_07"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_13"
+            }
+        ],
+        "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C227"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C227"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C227"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C227"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_102"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "Online_13"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "Online_100"
+            }
+        ],
+        "Sobota 2027-01-16": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C314"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            }
+        ],
+        "Niedziela 2027-01-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt zespołowy (p)",
+                "short_name": "Pz (p)",
+                "teacher": "mgr inż. Krzysztof Rewak",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Moduł do wyboru (sem)",
+                "short_name": "Mdw (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C127"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C313"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Programowanie urządzeń mobilnych (lab)",
+                "short_name": "Pum (lab)",
+                "teacher": "mgr inż. Karol Zygadło",
+                "room": "C313"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A142"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł do wyboru (wyk)",
+                "short_name": "Mdw (wyk)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "E1"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A245"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Programowanie urządzeń mobilnych (wyk)",
+                "short_name": "Pum (wyk)",
+                "teacher": "dr inż. Przemysław Ryba",
+                "room": "C224"
+            }
+        ]
+    }
+}
