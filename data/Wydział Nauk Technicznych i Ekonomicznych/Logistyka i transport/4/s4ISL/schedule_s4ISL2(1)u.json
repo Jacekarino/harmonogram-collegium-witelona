@@ -25,13 +25,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "C203"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A212"
             }
         ],
         "Czwartek 2026-10-08": [
@@ -58,6 +51,13 @@
             }
         ],
         "Sobota 2026-10-10": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C113"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Ekonomika transportu (wt)",
@@ -174,13 +174,6 @@
         ],
         "Poniedziałek 2026-10-19": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "Online_06"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -280,13 +273,6 @@
         ],
         "Poniedziałek 2026-10-26": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "Online_08"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -326,13 +312,6 @@
         ],
         "Czwartek 2026-11-05": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "Online_114"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Polityka transportowa (wyk)",
                 "short_name": "Pt (wyk)",
@@ -340,12 +319,21 @@
                 "room": "Online_107"
             }
         ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C113"
+            }
+        ],
         "Czwartek 2026-11-12": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
                 "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "Online_09"
             },
             {
@@ -388,20 +376,6 @@
         ],
         "Sobota 2026-11-14": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
-                "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A142"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
-                "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "A142"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Polityka transportowa (wt)",
                 "short_name": "Pt (wt)",
@@ -414,6 +388,13 @@
                 "short_name": "Pt (wt)",
                 "teacher": "mgr inż. Mariola Drozda",
                 "room": "A141"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A142"
             },
             {
                 "time": "17:15-18:45",
@@ -568,6 +549,22 @@
                 "room": "Online_106"
             }
         ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_109"
+            }
+        ],
         "Poniedziałek 2026-11-30": [
             {
                 "time": "15:15-16:45",
@@ -575,13 +572,6 @@
                 "short_name": "Bd (wyk)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "Online_08"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "Online_105"
             },
             {
                 "time": "18:45-20:15",
@@ -660,6 +650,31 @@
                 "room": "Online_104"
             }
         ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_06"
+            }
+        ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
+                "short_name": "Ntitad (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_109"
+            }
+        ],
         "Sobota 2026-12-12": [
             {
                 "time": "08:15-09:45",
@@ -679,14 +694,14 @@
                 "time": "11:45-13:15",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
                 "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A142"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
                 "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A142"
             },
             {
@@ -716,14 +731,14 @@
                 "time": "08:15-09:45",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
                 "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A142"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
                 "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A142"
             },
             {
@@ -772,13 +787,6 @@
             }
         ],
         "Wtorek 2026-12-15": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
-                "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "Online_107"
-            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Prawo podatkowe (wyk)",
@@ -831,7 +839,7 @@
                 "time": "15:15-16:45",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
                 "short_name": "Ntitad (wyk)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "C113"
             },
             {
@@ -902,17 +910,10 @@
         ],
         "Niedziela 2027-01-10": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Ekologistyka (p)",
-                "short_name": "Ekolo (p)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "A141"
-            },
-            {
                 "time": "11:45-13:15",
-                "class_name": "Ekologistyka (p)",
-                "short_name": "Ekolo (p)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A141"
             },
             {
@@ -1049,17 +1050,10 @@
         ],
         "Sobota 2027-01-23": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
-                "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "C326"
-            },
-            {
                 "time": "10:00-11:30",
-                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
-                "short_name": "Ntitad (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
+                "class_name": "Ekologistyka (p)",
+                "short_name": "Ekolo (p)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
                 "room": "C326"
             },
             {
@@ -1075,6 +1069,20 @@
                 "short_name": "Wwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
                 "room": "C212"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "C325"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
+                "short_name": "Ntitad (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "C325"
             }
         ]
     }

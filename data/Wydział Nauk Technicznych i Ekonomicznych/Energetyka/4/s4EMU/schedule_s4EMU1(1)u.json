@@ -71,13 +71,6 @@
         ],
         "Piątek 2026-10-09": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Chłodnictwo i kriogenika (wyk)",
-                "short_name": "Cik (wyk)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "A141"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Audyting energetyczny (wyk)",
                 "short_name": "Ae (wyk)",
@@ -110,18 +103,11 @@
         ],
         "Piątek 2026-10-16": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Audyting energetyczny (wyk)",
-                "short_name": "Ae (wyk)",
-                "teacher": "dr inż. Jerzy Kuś",
-                "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Audyting energetyczny (wyk)",
-                "short_name": "Ae (wyk)",
-                "teacher": "dr inż. Jerzy Kuś",
-                "room": "Online_103"
+                "time": "15:15-16:45",
+                "class_name": "Chłodnictwo i kriogenika (wyk)",
+                "short_name": "Cik (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A217"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -138,6 +124,15 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Online_101"
+            }
+        ],
+        "Środa 2026-10-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_20"
             }
         ],
         "Piątek 2026-10-23": [
@@ -416,6 +411,13 @@
         "Poniedziałek 2026-11-23": [
             {
                 "time": "17:00-18:30",
+                "class_name": "Audyting energetyczny (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr inż. Jerzy Kuś",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Audyting energetyczny (wyk)",
                 "short_name": "Ae (wyk)",
                 "teacher": "dr inż. Jerzy Kuś",

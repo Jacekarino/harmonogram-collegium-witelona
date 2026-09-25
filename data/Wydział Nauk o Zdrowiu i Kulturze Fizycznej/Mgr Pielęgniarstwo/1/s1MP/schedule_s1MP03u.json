@@ -99,6 +99,29 @@
                 "room": "Tymczasowa07"
             }
         ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_06"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
+                "short_name": "Szżwpoo (zp)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "Szpital_Leg_06"
+            }
+        ],
         "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
@@ -419,6 +442,22 @@
                 "room": "A31"
             }
         ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
+                "short_name": "Zzr (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A117 (MCSM-ALS/BLS)"
+            }
+        ],
         "Sobota 2026-11-14": [
             {
                 "time": "08:15-09:45",
@@ -548,20 +587,6 @@
                 "room": "E2"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
-                "short_name": "Zzr (zp)",
-                "teacher": "mgr Dorota Zajdel",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Zaawansowane zabiegi resuscytacyjne (zp)",
-                "short_name": "Zzr (zp)",
-                "teacher": "mgr Dorota Zajdel",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Zarządzanie w praktyce zawodowej pielęgniarki (ćw)",
                 "short_name": "Zwpzp (ćw)",
@@ -625,29 +650,6 @@
                 "short_name": "Zwpzp( (wyk)",
                 "teacher": "mgr Beata Łabowicz",
                 "room": "Online_06"
-            }
-        ],
-        "Środa 2026-11-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
-                "short_name": "Szżwpoo (zp)",
-                "teacher": "mgr Barbara Golicz",
-                "room": "Szpital_Leg_06"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
-                "short_name": "Szżwpoo (zp)",
-                "teacher": "mgr Barbara Golicz",
-                "room": "Szpital_Leg_06"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Stany zagrożenia życia w pielęgniarskiej opiece onkologicznej (zp)",
-                "short_name": "Szżwpoo (zp)",
-                "teacher": "mgr Barbara Golicz",
-                "room": "Szpital_Leg_06"
             }
         ],
         "Czwartek 2026-11-26": [

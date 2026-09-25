@@ -104,6 +104,20 @@
                 "short_name": "Gipg (wyk)",
                 "teacher": "prof. dr hab. n. med. Maria Boratyńska",
                 "room": "C113"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Ewa Draczyńska",
+                "room": "A115 (MCSM-Deb.)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Ewa Draczyńska",
+                "room": "A316"
             }
         ],
         "Czwartek 2026-10-08": [
@@ -973,18 +987,11 @@
                 "room": "A15"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Ewa Draczyńska",
-                "room": "A116 (MCSM-WW)"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
                 "short_name": "Gipg (zp)",
                 "teacher": "mgr Ewa Draczyńska",
-                "room": "A116 (MCSM-WW)"
+                "room": "A115 (MCSM-Deb.)"
             },
             {
                 "time": "17:00-18:30",
@@ -1422,13 +1429,6 @@
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Magdalena Szylar",
                 "room": "A16 / D17"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Ewa Draczyńska",
-                "room": "A117 (MCSM-ALS/BLS)"
             },
             {
                 "time": "15:15-16:45",

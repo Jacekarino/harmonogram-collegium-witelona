@@ -899,20 +899,6 @@
                 "short_name": "Oietwcp (wyk)",
                 "teacher": "mgr Anna Filipienko",
                 "room": "A31"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "2 Zaawansowana opieka pielęgniarska w otolaryngologii (ćw)",
-                "short_name": "2Zopwo (ćw)",
-                "teacher": "mgr Edyta Mikołajek",
-                "room": "A31"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "2 Zaawansowana opieka pielęgniarska w otolaryngologii (ćw)",
-                "short_name": "2Zopwo (ćw)",
-                "teacher": "mgr Edyta Mikołajek",
-                "room": "A31"
             }
         ],
         "Sobota 2026-12-12": [
@@ -1100,6 +1086,20 @@
                 "short_name": "Pwp (ćw)",
                 "teacher": "dr hab. Izabela Wróblewska",
                 "room": "Tymczasowa03"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "2 Zaawansowana opieka pielęgniarska w otolaryngologii (ćw)",
+                "short_name": "2Zopwo (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "2 Zaawansowana opieka pielęgniarska w otolaryngologii (ćw)",
+                "short_name": "2Zopwo (ćw)",
+                "teacher": "mgr Edyta Mikołajek",
+                "room": "A144"
             }
         ],
         "Czwartek 2027-01-07": [

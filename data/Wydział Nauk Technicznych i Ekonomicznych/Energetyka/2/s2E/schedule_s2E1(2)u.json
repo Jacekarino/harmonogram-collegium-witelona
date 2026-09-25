@@ -90,13 +90,6 @@
                 "short_name": "Mp (wyk)",
                 "teacher": "dr inż. Jerzy Kuś",
                 "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy konstrukcji maszyn (wyk)",
-                "short_name": "Pkm (wyk)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "A212"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -152,6 +145,15 @@
                 "short_name": "Wf (ćw)",
                 "teacher": "mgr  Mateusz Wierzbicki",
                 "room": "Online_10"
+            }
+        ],
+        "Piątek 2026-10-16": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy konstrukcji maszyn (wyk)",
+                "short_name": "Pkm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "A217"
             }
         ],
         "Sobota 2026-10-17": [

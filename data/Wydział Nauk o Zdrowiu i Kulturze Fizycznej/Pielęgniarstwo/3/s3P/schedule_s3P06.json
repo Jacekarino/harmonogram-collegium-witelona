@@ -1338,23 +1338,30 @@
                 "short_name": "Bnwp (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Dorota Zajdel",
+                "room": "A104 (MCSM-UP)"
             }
         ],
         "Wtorek 2026-11-24": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Dorota Zajdel",
-                "room": "A116 (MCSM-WW)"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Dorota Zajdel",
-                "room": "A116 (MCSM-WW)"
-            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Podstawy rehabilitacji (ćw)",
@@ -1933,13 +1940,6 @@
             }
         ],
         "Środa 2026-12-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Dorota Zajdel",
-                "room": "A116 (MCSM-WW)"
-            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
