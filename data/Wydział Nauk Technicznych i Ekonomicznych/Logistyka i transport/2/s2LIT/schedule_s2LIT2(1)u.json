@@ -23,15 +23,6 @@
                 "room": "C125"
             }
         ],
-        "Piątek 2026-10-02": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "2 Podstawy mechaniki (wyk)",
-                "short_name": "2Pm (wyk)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "C224"
-            }
-        ],
         "Poniedziałek 2026-10-05": [
             {
                 "time": "15:15-16:45",
@@ -80,13 +71,6 @@
         ],
         "Niedziela 2026-10-11": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Logistyka zaopatrzenia (p)",
-                "short_name": "Lz (p)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "A32"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -132,24 +116,10 @@
         "Poniedziałek 2026-10-12": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
-                "short_name": "Zzlwliwt (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
-                "short_name": "Zzlwliwt (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
                 "class_name": "2 Podstawy mechaniki (wyk)",
                 "short_name": "2Pm (wyk)",
                 "teacher": "dr inż. Dariusz Michalski",
-                "room": "Online_102"
+                "room": "A245"
             }
         ],
         "Wtorek 2026-10-13": [
@@ -237,15 +207,6 @@
                 "short_name": "1Pm (wyk)",
                 "teacher": "dr hab. inż. Bogumiła Wnukowska",
                 "room": "Online_104"
-            }
-        ],
-        "Piątek 2026-10-23": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka produkcji (wyk)",
-                "short_name": "Lp (wyk)",
-                "teacher": "dr Tomasz Janiak",
-                "room": "Online_10"
             }
         ],
         "Sobota 2026-10-24": [
@@ -382,6 +343,29 @@
                 "room": "Online_110"
             }
         ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_107"
+            }
+        ],
         "Wtorek 2026-11-03": [
             {
                 "time": "17:00-18:30",
@@ -431,6 +415,13 @@
             }
         ],
         "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_112"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "1 Podstawy metrologii (wyk)",
@@ -1073,6 +1064,13 @@
             },
             {
                 "time": "11:45-13:15",
+                "class_name": "Logistyka zaopatrzenia (p)",
+                "short_name": "Lz (p)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
                 "class_name": "Logistyka dystrybucji (p)",
                 "short_name": "Ld (p)",
                 "teacher": "dr Tomasz Janiak",

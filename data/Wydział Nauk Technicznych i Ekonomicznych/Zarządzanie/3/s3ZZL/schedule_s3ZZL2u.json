@@ -20,13 +20,6 @@
         ],
         "Sobota 2026-10-03": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Przedsiębiorczość akademicka (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "A16"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Warsztaty w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
@@ -53,6 +46,13 @@
                 "short_name": "Zsk-p (wt)",
                 "teacher": "dr Agnieszka Koryś",
                 "room": "A218"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A217"
             }
         ],
         "Niedziela 2026-10-04": [
@@ -829,13 +829,6 @@
                 "short_name": "Pa (wt)",
                 "teacher": "dr Sławomir Kłosowski",
                 "room": "A142"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zintegrowany system kadrowo - płacowy (wt)",
-                "short_name": "Zsk-p (wt)",
-                "teacher": "dr Agnieszka Koryś",
-                "room": "A218"
             }
         ],
         "Poniedziałek 2026-12-07": [
@@ -949,6 +942,13 @@
             },
             {
                 "time": "15:30-17:00",
+                "class_name": "Zintegrowany system kadrowo - płacowy (wt)",
+                "short_name": "Zsk-p (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A213"
+            },
+            {
+                "time": "17:15-18:45",
                 "class_name": "Zintegrowany system kadrowo - płacowy (wt)",
                 "short_name": "Zsk-p (wt)",
                 "teacher": "dr Agnieszka Koryś",

@@ -75,30 +75,30 @@
             },
             {
                 "time": "13:45-15:15",
+                "class_name": "Coaching i mentoring w organizacji (wt)",
+                "short_name": "Cimwo (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Coaching i mentoring w organizacji (wt)",
+                "short_name": "Cimwo (wt)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
                 "class_name": "Pracownicy samorządowi/Służba cywilna (wyk)",
                 "short_name": "Psc (wyk)",
                 "teacher": "mgr Grzegorz Majewicz",
                 "room": "C113"
             },
             {
-                "time": "15:30-17:00",
+                "time": "19:00-20:30",
                 "class_name": "Smart City (wt)",
                 "short_name": "SC (wt)",
                 "teacher": "mgr Grzegorz Majewicz",
-                "room": "C113"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Coaching i mentoring w organizacji (wt)",
-                "short_name": "Cimwo (wt)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C113"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Coaching i mentoring w organizacji (wt)",
-                "short_name": "Cimwo (wt)",
-                "teacher": "dr Tadeusz Kowalski",
                 "room": "C113"
             }
         ],

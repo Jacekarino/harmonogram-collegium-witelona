@@ -43,7 +43,7 @@
                 "class_name": "Zarządzanie zasobami ludzkimi (sem)",
                 "short_name": "Zzl (sem)",
                 "teacher": "dr Sławomir Kłosowski",
-                "room": "A15"
+                "room": "A217"
             },
             {
                 "time": "13:45-15:15",
@@ -57,7 +57,7 @@
                 "class_name": "Strategia rozwoju organizacji (wt)",
                 "short_name": "Sro (wt)",
                 "teacher": "dr Sławomir Kłosowski",
-                "room": "C127"
+                "room": "A217"
             },
             {
                 "time": "17:15-18:45",
@@ -65,13 +65,6 @@
                 "short_name": "Fp (ćw)",
                 "teacher": "dr Przemysław Siudak",
                 "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "2 Prawo gospodarcze (ćw)",
-                "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "C129"
             }
         ],
         "Niedziela 2026-10-04": [
@@ -201,6 +194,13 @@
             }
         ],
         "Sobota 2026-10-17": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "2 Prawo gospodarcze (ćw)",
+                "short_name": "2Pg (ćw)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C209"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Finanse przedsiębiorstwa (ćw)",

@@ -161,6 +161,13 @@
         ],
         "Wtorek 2026-10-13": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A142"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
                 "short_name": "Wdzpd (wyk)",
@@ -369,6 +376,15 @@
                 "room": "D16"
             }
         ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_110"
+            }
+        ],
         "Piątek 2026-10-30": [
             {
                 "time": "15:15-16:45",
@@ -386,6 +402,13 @@
             }
         ],
         "Wtorek 2026-11-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_101"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
@@ -512,6 +535,15 @@
                 "short_name": "Pig (p)",
                 "teacher": "mgr inż. Kamil Piech",
                 "room": "A244"
+            }
+        ],
+        "Wtorek 2026-11-10": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
             }
         ],
         "Piątek 2026-11-13": [
@@ -648,6 +680,15 @@
                 "short_name": "PipsiII (p)",
                 "teacher": "mgr inż. Krzysztof Rewak",
                 "room": "C10"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
             }
         ],
         "Czwartek 2026-11-26": [
@@ -800,6 +841,15 @@
                 "short_name": "PipsiII (p)",
                 "teacher": "mgr inż. Krzysztof Rewak",
                 "room": "A244"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
             }
         ],
         "Czwartek 2026-12-10": [
@@ -968,6 +1018,15 @@
                 "room": "C10"
             }
         ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_07"
+            }
+        ],
         "Piątek 2027-01-08": [
             {
                 "time": "18:45-20:15",
@@ -975,6 +1034,15 @@
                 "short_name": "Msi (wyk)",
                 "teacher": "dr inż. Piotr Nadybski",
                 "room": "Online_16"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A15"
             }
         ],
         "Piątek 2027-01-15": [

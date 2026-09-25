@@ -6,37 +6,37 @@
                 "class_name": "Psychologia uczenia się (wyk)",
                 "short_name": "Pus (wyk)",
                 "teacher": "dr Dorota Domińska-Werbel",
-                "room": "C113"
+                "room": "E1"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia osobowości (wyk)",
                 "short_name": "Po (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "C113"
+                "room": "E2"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychologia wychowawcza (wyk)",
                 "short_name": "Pw (wyk)",
                 "teacher": "dr Katarzyna Sępowicz-Buczko",
-                "room": "C113"
+                "room": "C125"
             }
         ],
         "Sobota 2026-10-10": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Język obcy (lek)",
-                "short_name": "Jo (lek)",
-                "teacher": "dr Lilia Omelan / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Kacper Bielawski / mgr Sylwia Zajchowska",
-                "room": "A12 / A142 / A15 / A16 / A2 / A31 / D8"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Kacper Bielawski / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / dr Lilia Omelan",
+                "room": "A12 / C128 / C129 / A142 / A15 / C325"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Język obcy (lek)",
-                "short_name": "Jo (lek)",
-                "teacher": "dr Lilia Omelan / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Kacper Bielawski / mgr Sylwia Zajchowska",
-                "room": "A12 / A142 / A15 / A16 / A2 / A31 / D8"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Kacper Bielawski / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / dr Lilia Omelan",
+                "room": "A12 / C128 / C129 / A142 / A15 / C325"
             },
             {
                 "time": "11:45-13:15",
@@ -71,7 +71,7 @@
                 "class_name": "Psychologia społeczna (ćw)",
                 "short_name": "Ps (ćw)",
                 "teacher": "mgr Zbigniew Tracz",
-                "room": "C122"
+                "room": "C111"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -178,15 +178,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Środa 2026-10-21": [
@@ -381,15 +381,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -484,15 +484,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Środa 2026-11-18": [
@@ -703,15 +703,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Środa 2026-12-02": [
@@ -901,15 +901,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Środa 2026-12-16": [
@@ -1215,15 +1215,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Sylwia Zajchowska / mgr Kacper Bielawski",
-                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_10"
+                "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / mgr Kacper Bielawski",
+                "room": "Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_10"
             }
         ],
         "Środa 2027-01-20": [
@@ -1261,10 +1261,10 @@
         "Sobota 2027-01-23": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Język obcy (lek)",
-                "short_name": "Jo (lek)",
-                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / dr Lilia Omelan / mgr Kacper Bielawski / mgr Sylwia Zajchowska",
-                "room": "A12 / A13 / A141 / A16 / A2 / A31 / D8"
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / dr Lilia Omelan / mgr Kacper Bielawski",
+                "room": "A12 / A13 / A141 / A16 / A2 / A31"
             },
             {
                 "time": "10:00-11:30",

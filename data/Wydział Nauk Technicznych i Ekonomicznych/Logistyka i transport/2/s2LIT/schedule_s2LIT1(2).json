@@ -37,13 +37,6 @@
                 "short_name": "Zzlwliwt (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "C203"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "2 Podstawy mechaniki (wyk)",
-                "short_name": "2Pm (wyk)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "C224"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -106,24 +99,10 @@
         "Poniedziałek 2026-10-12": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
-                "short_name": "Zzlwliwt (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_102"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
-                "short_name": "Zzlwliwt (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
                 "class_name": "2 Podstawy mechaniki (wyk)",
                 "short_name": "2Pm (wyk)",
                 "teacher": "dr inż. Dariusz Michalski",
-                "room": "Online_102"
+                "room": "A245"
             }
         ],
         "Wtorek 2026-10-13": [
@@ -280,15 +259,6 @@
                 "room": "Online_104"
             }
         ],
-        "Piątek 2026-10-23": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka produkcji (wyk)",
-                "short_name": "Lp (wyk)",
-                "teacher": "dr Tomasz Janiak",
-                "room": "Online_10"
-            }
-        ],
         "Wtorek 2026-10-27": [
             {
                 "time": "13:30-15:00",
@@ -340,6 +310,29 @@
                 "short_name": "Lp (wyk)",
                 "teacher": "dr Tomasz Janiak",
                 "room": "Online_110"
+            }
+        ],
+        "Piątek 2026-10-30": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Podstawy mechaniki (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_107"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -405,6 +398,13 @@
             }
         ],
         "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
+                "short_name": "Zzlwliwt (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Online_112"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "1 Podstawy metrologii (wyk)",

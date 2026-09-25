@@ -2,13 +2,6 @@
     "s3ISL3(1)u": {
         "Czwartek 2026-10-01": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska",
-                "room": "A12 / A142 / A143"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Czas pracy kierowców (wyk)",
                 "short_name": "Cpk (wyk)",
@@ -17,8 +10,8 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A212"
             }
@@ -165,35 +158,35 @@
                 "class_name": "Projektowanie procesów logistycznych i transportowych (p)",
                 "short_name": "Pplit (p)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "Tymczasowa05"
+                "room": "A16"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Projektowanie procesów logistycznych i transportowych (p)",
                 "short_name": "Pplit (p)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "Tymczasowa05"
+                "room": "A16"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A32"
+                "room": "A13"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A32"
+                "room": "A13"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Zarządzanie łańcuchem dostaw (ćw)",
                 "short_name": "Złd (ćw)",
                 "teacher": "mgr Rafał Zientara",
-                "room": "A31"
+                "room": "A12"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -234,10 +227,19 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A13"
+            }
+        ],
+        "Poniedziałek 2026-10-12": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Daniel Dębowski / dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska",
+                "room": "A16 / C202 / A31 / A32"
             }
         ],
         "Wtorek 2026-10-13": [
@@ -296,8 +298,8 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_107"
             }
@@ -510,8 +512,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_113"
             },
@@ -537,6 +539,13 @@
                 "short_name": "Etśt (wyk)",
                 "teacher": "dr inż. Tomasz Stechnij",
                 "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_09"
             }
         ],
         "Czwartek 2026-11-05": [
@@ -560,8 +569,8 @@
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski",
-                "room": "Online_04 / Online_05 / Online_06"
+                "teacher": "dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski / dr inż. Daniel Dębowski",
+                "room": "Online_04 / Online_05 / Online_06 / Online_09"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -569,8 +578,8 @@
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski",
-                "room": "Online_04 / Online_05 / Online_07"
+                "teacher": "dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski / dr inż. Daniel Dębowski",
+                "room": "Online_04 / Online_05 / Online_07 / Online_111"
             },
             {
                 "time": "17:00-18:30",
@@ -671,15 +680,15 @@
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A31"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A31"
             },
@@ -731,8 +740,8 @@
         "Wtorek 2026-11-17": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_101"
             },
@@ -777,8 +786,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_102"
             },
@@ -795,15 +804,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Dariusz Michalski / dr Magdalena Dąbrowska / dr inż. Stanisław Kwaśniowski",
-                "room": "Online_104 / Online_106 / Online_107"
+                "teacher": "dr inż. Dariusz Michalski / dr Magdalena Dąbrowska / dr inż. Stanisław Kwaśniowski / dr inż. Daniel Dębowski",
+                "room": "Online_104 / Online_106 / Online_107 / Online_114"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska",
-                "room": "Online_104 / Online_105 / Online_106"
+                "teacher": "dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska / dr inż. Daniel Dębowski",
+                "room": "Online_104 / Online_105 / Online_106 / Online_114"
             }
         ],
         "Piątek 2026-11-27": [
@@ -1095,8 +1104,8 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A32"
             },
@@ -1187,8 +1196,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_101"
             },
@@ -1226,8 +1235,8 @@
         "Sobota 2027-01-09": [
             {
                 "time": "15:30-17:00",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A15"
             },
@@ -1302,8 +1311,8 @@
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski",
-                "room": "Online_05 / Online_06 / Online_07"
+                "teacher": "dr inż. Daniel Dębowski / dr Magdalena Dąbrowska / dr inż. Dariusz Michalski / dr inż. Stanisław Kwaśniowski",
+                "room": "Online_01 / Online_05 / Online_06 / Online_07"
             },
             {
                 "time": "17:00-18:30",
@@ -1355,8 +1364,8 @@
         "Poniedziałek 2027-01-18": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "Online_07"
             },
@@ -1378,8 +1387,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Ładunkoznawstwo (wyk)",
-                "short_name": "Ładu (wyk)",
+                "class_name": "Ładunkoznawstwo (wyk)",
+                "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "C113"
             }
@@ -1454,15 +1463,15 @@
                 "time": "19:00-20:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska / dr inż. Dariusz Michalski",
-                "room": "A141 / A31 / A32"
+                "teacher": "dr inż. Daniel Dębowski / dr inż. Stanisław Kwaśniowski / dr Magdalena Dąbrowska / dr inż. Dariusz Michalski",
+                "room": "A13 / A141 / A31 / A32"
             }
         ],
         "Niedziela 2027-01-24": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładu (p)",
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A13"
             },

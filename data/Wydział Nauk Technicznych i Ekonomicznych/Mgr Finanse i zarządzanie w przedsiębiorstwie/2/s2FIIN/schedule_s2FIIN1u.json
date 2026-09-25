@@ -59,7 +59,7 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Przemysław Siudak",
-                "room": "C201"
+                "room": "C202"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -924,41 +924,41 @@
                 "room": "Online_102"
             }
         ],
-        "Niedziela 2026-12-06": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
-                "short_name": "Rbiu (wt)",
-                "teacher": "mgr Nadine Bednarz",
-                "room": "C129"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
-                "short_name": "Rbiu (wt)",
-                "teacher": "mgr Nadine Bednarz",
-                "room": "C129"
-            },
+        "Sobota 2026-12-05": [
             {
                 "time": "11:45-13:15",
                 "class_name": "Pozyskiwanie funduszy unijnych (wt)",
                 "short_name": "Pfu (wt)",
                 "teacher": "dr Agnieszka Koryś",
-                "room": "C129"
+                "room": "A32"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Pozyskiwanie funduszy unijnych (wt)",
                 "short_name": "Pfu (wt)",
                 "teacher": "dr Agnieszka Koryś",
-                "room": "C129"
+                "room": "A32"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Planowanie i prognozowanie finansowe (wt)",
                 "short_name": "Pipf (wt)",
                 "teacher": "dr Agnieszka Koryś",
-                "room": "C129"
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
+                "short_name": "Rbiu (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C127"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
+                "short_name": "Rbiu (wt)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "C127"
             }
         ],
         "Poniedziałek 2026-12-07": [

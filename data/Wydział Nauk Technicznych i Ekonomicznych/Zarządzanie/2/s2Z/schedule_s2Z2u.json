@@ -47,10 +47,10 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "2 Prawo gospodarcze (ćw)",
-                "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "C127"
+                "class_name": "Strategia rozwoju organizacji (wt)",
+                "short_name": "Sro (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A217"
             },
             {
                 "time": "15:30-17:00",
@@ -58,13 +58,6 @@
                 "short_name": "Fp (ćw)",
                 "teacher": "dr Przemysław Siudak",
                 "room": "C202"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Strategia rozwoju organizacji (wt)",
-                "short_name": "Sro (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C127"
             },
             {
                 "time": "19:00-20:30",
@@ -201,6 +194,13 @@
             }
         ],
         "Sobota 2026-10-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "2 Prawo gospodarcze (ćw)",
+                "short_name": "2Pg (ćw)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C209"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Zarządzanie zasobami ludzkimi (sem)",

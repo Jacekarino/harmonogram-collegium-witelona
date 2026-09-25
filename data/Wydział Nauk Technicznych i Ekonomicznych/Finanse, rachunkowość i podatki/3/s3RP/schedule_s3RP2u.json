@@ -53,13 +53,6 @@
                 "room": "A244"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Przedsiębiorczość akademicka (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "A141"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Komputerowe systemy rachunkowości (lab)",
                 "short_name": "Ksr (lab)",
@@ -654,13 +647,6 @@
                 "room": "D8"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Przedsiębiorczość akademicka (wt)",
-                "short_name": "Pa (wt)",
-                "teacher": "dr Justyna Lewandowska-Bratek",
-                "room": "A143"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Rachunkowość budżetowa (wt)",
                 "short_name": "Rb (wt)",
@@ -871,6 +857,20 @@
                 "short_name": "Ksr (lab)",
                 "teacher": "mgr Irena Izbiańska",
                 "room": "A242"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A13"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedsiębiorczość akademicka (wt)",
+                "short_name": "Pa (wt)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "A13"
             }
         ],
         "Niedziela 2026-11-22": [

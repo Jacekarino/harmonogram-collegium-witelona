@@ -34,15 +34,6 @@
                 "room": "A212"
             }
         ],
-        "Środa 2026-10-07": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Bezpieczeństwo drogowe (wyk)",
-                "short_name": "Bd (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "A144"
-            }
-        ],
         "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
@@ -57,6 +48,13 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "E3"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Bezpieczeństwo drogowe (wyk)",
+                "short_name": "Bd (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A212"
             }
         ],
         "Wtorek 2026-10-13": [

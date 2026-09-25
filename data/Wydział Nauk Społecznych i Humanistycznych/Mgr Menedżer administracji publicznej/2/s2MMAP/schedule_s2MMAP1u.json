@@ -46,11 +46,18 @@
         ],
         "Niedziela 2026-10-04": [
             {
-                "time": "11:45-13:15",
+                "time": "10:00-11:30",
                 "class_name": "Logistyka miejska (wt)",
                 "short_name": "Lm (wt)",
                 "teacher": "mgr Aldona Sondej",
                 "room": "A243"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "A144"
             },
             {
                 "time": "13:45-15:15",
@@ -111,13 +118,6 @@
                 "short_name": "Zrm (wyk)",
                 "teacher": "mgr Grzegorz Majewicz",
                 "room": "A13"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Logistyka miejska (wyk)",
-                "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "D17"
             }
         ],
         "Poniedziałek 2026-10-12": [

@@ -29,21 +29,21 @@
                 "class_name": "Żywienie człowieka (lab)",
                 "short_name": "Żc (lab)",
                 "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
+                "room": "C322"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Żywienie człowieka (lab)",
                 "short_name": "Żc (lab)",
                 "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
+                "room": "C322"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Żywienie człowieka (lab)",
                 "short_name": "Żc (lab)",
                 "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A141"
+                "room": "C322"
             }
         ],
         "Sobota 2026-10-10": [
@@ -65,8 +65,8 @@
                 "time": "17:15-18:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Monika Florek / mgr Kacper Bielawski",
-                "room": "A13 / A2"
+                "teacher": "mgr Kacper Bielawski / mgr Monika Florek",
+                "room": "A2 / C205"
             }
         ],
         "Czwartek 2026-10-15": [
@@ -237,23 +237,21 @@
                 "room": "Online_114"
             }
         ],
-        "Piątek 2026-10-30": [
+        "Czwartek 2026-11-05": [
             {
-                "time": "08:15-09:45",
+                "time": "15:15-16:45",
                 "class_name": "Żywienie człowieka (wyk)",
                 "short_name": "Żc (wyk)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_01"
+                "room": "Online_113"
             },
             {
-                "time": "10:00-11:30",
+                "time": "17:00-18:30",
                 "class_name": "Żywienie człowieka (wyk)",
                 "short_name": "Żc (wyk)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
-                "room": "Online_01"
-            }
-        ],
-        "Czwartek 2026-11-05": [
+                "room": "Online_113"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychodietetyka (wyk)",
@@ -396,29 +394,6 @@
                 "room": "Online_111"
             }
         ],
-        "Piątek 2026-11-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychodietetyka (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Psychodietetyka (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "D17"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychodietetyka (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "D17"
-            }
-        ],
         "Sobota 2026-11-14": [
             {
                 "time": "10:00-11:30",
@@ -532,6 +507,29 @@
                 "short_name": "Żc (wyk)",
                 "teacher": "prof.dr hab.inż. Ryszard Pisarski",
                 "room": "Online_102"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A245"
             }
         ],
         "Sobota 2026-11-28": [

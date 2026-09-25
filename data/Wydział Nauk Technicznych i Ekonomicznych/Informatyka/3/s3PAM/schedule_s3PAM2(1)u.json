@@ -5,8 +5,8 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A142"
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "A143"
             }
         ],
         "Piątek 2026-10-02": [
@@ -129,11 +129,11 @@
         ],
         "Czwartek 2026-10-08": [
             {
-                "time": "17:00-18:30",
+                "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_06"
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_14"
             }
         ],
         "Piątek 2026-10-09": [
@@ -160,6 +160,13 @@
             }
         ],
         "Wtorek 2026-10-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A142"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
@@ -270,8 +277,8 @@
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_101"
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_103"
             },
             {
                 "time": "17:00-18:30",
@@ -348,6 +355,15 @@
                 "room": "A244"
             }
         ],
+        "Wtorek 2026-10-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_110"
+            }
+        ],
         "Piątek 2026-10-30": [
             {
                 "time": "15:15-16:45",
@@ -366,6 +382,13 @@
         ],
         "Wtorek 2026-11-03": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_101"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
                 "short_name": "Wdzpd (wyk)",
@@ -381,6 +404,13 @@
             }
         ],
         "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_05"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Metody sztucznej inteligencji (wyk)",
@@ -491,8 +521,8 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_16"
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
             }
         ],
         "Piątek 2026-11-13": [
@@ -636,8 +666,17 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_12"
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_104"
             }
         ],
         "Piątek 2026-11-27": [
@@ -795,8 +834,17 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_12"
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_17"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_06"
             }
         ],
         "Piątek 2026-12-11": [
@@ -823,6 +871,13 @@
             }
         ],
         "Wtorek 2026-12-15": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "Online_101"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do zarządzania projektami deweloperskimi (wyk)",
@@ -963,6 +1018,15 @@
                 "room": "A213"
             }
         ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_07"
+            }
+        ],
         "Piątek 2027-01-08": [
             {
                 "time": "18:45-20:15",
@@ -972,13 +1036,13 @@
                 "room": "Online_16"
             }
         ],
-        "Środa 2027-01-13": [
+        "Wtorek 2027-01-12": [
             {
-                "time": "17:00-18:30",
+                "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_12"
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A15"
             }
         ],
         "Piątek 2027-01-15": [
@@ -1108,13 +1172,13 @@
                 "room": "A245"
             }
         ],
-        "Czwartek 2027-01-21": [
+        "Środa 2027-01-20": [
             {
-                "time": "17:00-18:30",
+                "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
+                "teacher": "dr inż. Piotr Nadybski",
+                "room": "A142"
             }
         ],
         "Piątek 2027-01-22": [

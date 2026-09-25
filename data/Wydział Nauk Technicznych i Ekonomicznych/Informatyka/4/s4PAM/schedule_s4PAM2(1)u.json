@@ -2,7 +2,7 @@
     "s4PAM2(1)u": {
         "Czwartek 2026-10-01": [
             {
-                "time": "18:45-20:15",
+                "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
@@ -24,7 +24,7 @@
                 "class_name": "Moduł do wyboru (wyk)",
                 "short_name": "Mdw (wyk)",
                 "teacher": "dr inż. Piotr Nadybski",
-                "room": "C224"
+                "room": "E2"
             },
             {
                 "time": "17:00-18:30",
@@ -736,6 +736,15 @@
                 "room": "C127"
             }
         ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Zbigniew Fryźlewicz",
+                "room": "A16"
+            }
+        ],
         "Środa 2027-01-20": [
             {
                 "time": "17:00-18:30",
@@ -759,13 +768,6 @@
                 "short_name": "Pum (wyk)",
                 "teacher": "dr inż. Przemysław Ryba",
                 "room": "C224"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "A141"
             }
         ]
     }
