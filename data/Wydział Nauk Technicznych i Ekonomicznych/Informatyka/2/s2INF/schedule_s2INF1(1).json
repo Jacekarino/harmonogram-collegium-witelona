@@ -2,13 +2,6 @@
     "s2INF1(1)": {
         "Czwartek 2026-10-01": [
             {
-                "time": "13:30-15:00",
-                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
-                "short_name": "Pmpis (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A141"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Sieci komputerowe (lab)",
                 "short_name": "Sk (lab)",
@@ -144,6 +137,13 @@
             }
         ],
         "Czwartek 2026-10-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",
+                "short_name": "Pmpis (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "A142"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Podstawy metod probabilistycznych i statystyki (ćw)",

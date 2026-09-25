@@ -236,13 +236,6 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Etyka służb publicznych (wt)",
-                "short_name": "Esp (wt)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "C209"
-            },
-            {
-                "time": "17:15-18:45",
                 "class_name": "Podstawy metodologii badań w naukach społecznych (wt)",
                 "short_name": "Pmbwns (wt)",
                 "teacher": "dr Wojciech Mucha",
@@ -461,6 +454,13 @@
                 "short_name": "Ppk (wt)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Etyka służb publicznych (wt)",
+                "short_name": "Esp (wt)",
+                "teacher": "Wakat_5_WS",
+                "room": "A15"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -566,7 +566,7 @@
                 "class_name": "Zagrożenia bezpieczeństwa państwa (wt)",
                 "short_name": "Zbp (wt)",
                 "teacher": "Wakat_6_WS",
-                "room": "C113"
+                "room": "A244"
             },
             {
                 "time": "11:45-13:15",

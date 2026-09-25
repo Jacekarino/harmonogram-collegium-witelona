@@ -231,6 +231,22 @@
                 "room": "A144"
             }
         ],
+        "Środa 2026-10-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Biochemia (wyk)",
+                "short_name": "Bioch (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C113"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biochemia (wyk)",
+                "short_name": "Bioch (wyk)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C113"
+            }
+        ],
         "Czwartek 2026-10-15": [
             {
                 "time": "10:00-11:30",
@@ -329,20 +345,6 @@
             }
         ],
         "Wtorek 2026-10-20": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Historia fizjoterapii (wyk)",
-                "short_name": "Hf (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Biochemia (wyk)",
@@ -574,20 +576,6 @@
             }
         ],
         "Wtorek 2026-11-03": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Historia fizjoterapii (wyk)",
-                "short_name": "Hf (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Biochemia (wyk)",
@@ -837,16 +825,16 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Biochemia (wyk)",
-                "short_name": "Bioch (wyk)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
                 "room": "A14"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Biochemia (wyk)",
-                "short_name": "Bioch (wyk)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
+                "class_name": "Historia fizjoterapii (wyk)",
+                "short_name": "Hf (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
                 "room": "A14"
             },
             {
@@ -970,6 +958,20 @@
                 "short_name": "Sw (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Historia fizjoterapii (wyk)",
+                "short_name": "Hf (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
             }
         ],
         "Środa 2026-11-25": [
@@ -1078,6 +1080,34 @@
                 "short_name": "Socjo (wyk)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Historia fizjoterapii (wyk)",
+                "short_name": "Hf (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biochemia (ćw)",
+                "short_name": "Bioch (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biochemia (ćw)",
+                "short_name": "Bioch (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "A31"
             }
         ],
         "Środa 2026-12-02": [
@@ -1195,20 +1225,6 @@
         ],
         "Wtorek 2026-12-08": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Historia fizjoterapii (wyk)",
-                "short_name": "Hf (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Biochemia (ćw)",
                 "short_name": "Bioch (ćw)",
@@ -1302,17 +1318,17 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Biochemia (ćw)",
-                "short_name": "Bioch (ćw)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "A31"
+                "class_name": "Historia fizjoterapii (wyk)",
+                "short_name": "Hf (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Biochemia (ćw)",
-                "short_name": "Bioch (ćw)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "A31"
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
+                "room": "A14"
             }
         ],
         "Środa 2026-12-16": [
@@ -1403,22 +1419,6 @@
                 "short_name": "A(if (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "C322"
-            }
-        ],
-        "Wtorek 2026-12-22": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Historia fizjoterapii (wyk)",
-                "short_name": "Hf (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A212"
             }
         ],
         "Czwartek 2027-01-07": [

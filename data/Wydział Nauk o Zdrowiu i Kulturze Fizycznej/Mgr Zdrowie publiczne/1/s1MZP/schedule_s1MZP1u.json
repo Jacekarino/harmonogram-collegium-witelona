@@ -23,13 +23,6 @@
                 "room": "A36"
             },
             {
-                "time": "13:45-15:15",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "A14"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Przedsiębiorczość w zdrowiu publicznym* / Działalność gospodarcza w zdrowiu publicznym* (ćw)",
                 "short_name": "Pwzp/Dgwzp (ćw)",
@@ -104,13 +97,6 @@
         ],
         "Piątek 2026-10-16": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Zdrowie publiczne (wyk)",
-                "short_name": "Zp (wyk)",
-                "teacher": "dr hab. n. med. Krzysztof Wronecki",
-                "room": "Online_08"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo w zdrowiu publicznym (wyk)",
                 "short_name": "Pwzp (wyk)",
@@ -135,16 +121,16 @@
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Marketing usług zdrowotnych (ćw)",
-                "short_name": "Muz (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
                 "room": "A36"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Marketing usług zdrowotnych (wyk)",
-                "short_name": "Muz (wyk)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "class_name": "Zdrowie publiczne (wyk)",
+                "short_name": "Zp (wyk)",
+                "teacher": "dr hab. n. med. Krzysztof Wronecki",
                 "room": "A36"
             },
             {
@@ -398,6 +384,13 @@
                 "short_name": "E-zdr (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Marketing usług zdrowotnych (ćw)",
+                "short_name": "Muz (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "A212"
             }
         ],
         "Piątek 2026-11-06": [
@@ -539,6 +532,13 @@
                 "short_name": "1Pz (wyk)",
                 "teacher": "mgr Agata Dominik",
                 "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Marketing usług zdrowotnych (wyk)",
+                "short_name": "Muz (wyk)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "Online_112"
             }
         ],
         "Piątek 2026-11-13": [
