@@ -2,13 +2,6 @@
     "s1JMP1u": {
         "Czwartek 2026-10-01": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
-                "short_name": "Hdpip (wyk)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "A36"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo rzymskie (wyk)",
                 "short_name": "Pr (wyk)",
@@ -30,6 +23,13 @@
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Historia doktryn politycznych i prawnych (wyk)",
+                "short_name": "Hdpip (wyk)",
+                "teacher": "dr Eugeniusz Szydłowski",
+                "room": "C113"
             }
         ],
         "Sobota 2026-10-03": [
