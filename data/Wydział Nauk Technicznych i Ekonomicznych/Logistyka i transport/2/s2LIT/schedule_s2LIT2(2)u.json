@@ -665,6 +665,13 @@
                 "short_name": "Peie (ćw)",
                 "teacher": "mgr inż. Jan Duda",
                 "room": "A142"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C203"
             }
         ],
         "Niedziela 2026-11-29": [
@@ -917,24 +924,17 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
-                "short_name": "Zzlwliwt (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C203"
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A143"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
                 "short_name": "Nizjwl (ćw)",
                 "teacher": "mgr Rafał Zientara",
-                "room": "A142"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
-                "short_name": "Nizjwl (ćw)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A142"
+                "room": "A143"
             }
         ],
         "Poniedziałek 2026-12-14": [

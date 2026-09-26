@@ -442,15 +442,22 @@
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Kliniczne podstawy fizjoterapii w onkologii i medycynie paliatywnej (zp)",
-                "short_name": "Kpfwoimp (zp)",
+                "class_name": "Kliniczne podstawy fizjoterapii w geriatrii (zp)",
+                "short_name": "Kpfwg (zp)",
                 "teacher": "mgr Katarzyna Kardasz",
                 "room": "A146"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Kliniczne podstawy fizjoterapii w onkologii i medycynie paliatywnej (zp)",
-                "short_name": "Kpfwoimp (zp)",
+                "class_name": "Kliniczne podstawy fizjoterapii w geriatrii (zp)",
+                "short_name": "Kpfwg (zp)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kliniczne podstawy fizjoterapii w geriatrii (zp)",
+                "short_name": "Kpfwg (zp)",
                 "teacher": "mgr Katarzyna Kardasz",
                 "room": "A146"
             }
@@ -753,20 +760,6 @@
                 "short_name": "Fkwc (zp)",
                 "teacher": "mgr Martyna Malinka",
                 "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Kliniczne podstawy fizjoterapii w onkologii i medycynie paliatywnej (zp)",
-                "short_name": "Kpfwoimp (zp)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A6"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kliniczne podstawy fizjoterapii w onkologii i medycynie paliatywnej (zp)",
-                "short_name": "Kpfwoimp (zp)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A6"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -1400,13 +1393,6 @@
                 "room": "Caritas_Leg_01"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Kliniczne podstawy fizjoterapii w geriatrii (zp)",
-                "short_name": "Kpfwg (zp)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "Caritas_Leg_01"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Kliniczne podstawy fizjoterapii w intensywnej terapii (zp)",
                 "short_name": "Kpfwit (zp)",
@@ -1475,8 +1461,8 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Kliniczne podstawy fizjoterapii w onkologii i medycynie paliatywnej (zp)",
-                "short_name": "Kpfwoimp (zp)",
+                "class_name": "Kliniczne podstawy fizjoterapii w geriatrii (zp)",
+                "short_name": "Kpfwg (zp)",
                 "teacher": "mgr Katarzyna Kardasz",
                 "room": "A324"
             }

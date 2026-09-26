@@ -14,13 +14,6 @@
                 "short_name": "Jo (lek)",
                 "teacher": "mgr Agnieszka Łakomska",
                 "room": "A12"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo pracy (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Marcin Sieja",
-                "room": "A14"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -46,6 +39,15 @@
                 "short_name": "Pc (wyk)",
                 "teacher": "dr Jakub Rzucidło",
                 "room": "A36"
+            }
+        ],
+        "Czwartek 2026-10-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo pracy (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marcin Sieja",
+                "room": "A16"
             }
         ],
         "Sobota 2026-10-10": [
@@ -190,6 +192,13 @@
             }
         ],
         "Środa 2026-10-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)1h [-/x]",
+                "short_name": "Pais (wyk)1h [-/x]",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_11"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Postępowanie cywilne (wyk)",
@@ -470,6 +479,22 @@
                 "room": "Online_04"
             }
         ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Postępowanie cywilne-zips (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne-zips (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_114"
+            }
+        ],
         "Piątek 2026-11-06": [
             {
                 "time": "15:15-16:45",
@@ -526,13 +551,6 @@
             }
         ],
         "Piątek 2026-11-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie cywilne-zips (wyk)",
-                "short_name": "Pc-zips (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_08"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Postępowanie cywilne-zips (wyk)",
@@ -700,13 +718,6 @@
         ],
         "Poniedziałek 2026-11-23": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie cywilne-zips (wyk)",
-                "short_name": "Pc-zips (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Wychowanie fizyczne (ćw)",
                 "short_name": "Wf (ćw)",
@@ -723,13 +734,6 @@
         ],
         "Wtorek 2026-11-24": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie cywilne-zips (wyk)",
-                "short_name": "Pc-zips (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (lek)",
                 "short_name": "Jo (lek)",
@@ -745,13 +749,6 @@
             }
         ],
         "Poniedziałek 2026-11-30": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie cywilne-zips (wyk)",
-                "short_name": "Pc-zips (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_01"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)",
@@ -910,13 +907,6 @@
         ],
         "Poniedziałek 2026-12-07": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wyk)1h [-/x]",
-                "short_name": "Pais (wyk)1h [-/x]",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Wychowanie fizyczne (ćw)",
                 "short_name": "Wf (ćw)",
@@ -990,6 +980,13 @@
                 "class_name": "Prawo energetyczne* (wyk)",
                 "short_name": "Pe (wyk)",
                 "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne-zips (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
                 "room": "Online_10"
             }
         ],
@@ -1203,6 +1200,13 @@
                 "short_name": "Jo (lek)",
                 "teacher": "mgr Agnieszka Łakomska",
                 "room": "A31"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Postępowanie cywilne-zips (wyk)",
+                "short_name": "Pc-zips (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_07"
             }
         ],
         "Sobota 2027-01-16": [

@@ -122,20 +122,6 @@
                 "room": "A14"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A145"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A145"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -204,20 +190,6 @@
             }
         ],
         "Wtorek 2026-10-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A146"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
-                "short_name": "Pfwwr (zp)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A146"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Planowanie fizjoterapii w dysfunkcjach układu ruchu (wyk)",
@@ -471,16 +443,23 @@
                 "short_name": "Dgwf/Swf (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "A212"
-            }
-        ],
-        "Poniedziałek 2026-10-26": [
+            },
             {
-                "time": "08:15-09:45",
+                "time": "15:15-16:45",
                 "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
                 "short_name": "Pfwwr (wyk)",
                 "teacher": "mgr Katarzyna Kardasz",
-                "room": "A144"
+                "room": "A245"
             },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            }
+        ],
+        "Poniedziałek 2026-10-26": [
             {
                 "time": "10:00-11:30",
                 "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (zp)",
@@ -568,6 +547,20 @@
                 "short_name": "Msf-mrprnn (ćw)",
                 "teacher": "mgr Jakub Mitka",
                 "room": "A146"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A146"
             }
         ],
         "Czwartek 2026-10-29": [
@@ -635,6 +628,20 @@
                 "short_name": "Dgwf/Swf (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A245"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -752,20 +759,6 @@
         ],
         "Poniedziałek 2026-11-09": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A14"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A14"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Dydaktyka fizjoterapii (wyk)",
                 "short_name": "Df (wyk)",
@@ -824,6 +817,20 @@
                 "short_name": "Msf-mrprnn (ćw)",
                 "teacher": "mgr Jakub Mitka",
                 "room": "A326"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
             }
         ],
         "Piątek 2026-11-13": [
@@ -1063,13 +1070,6 @@
         ],
         "Czwartek 2026-11-26": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -1082,6 +1082,13 @@
                 "short_name": "Msf-mrprnn (ćw)",
                 "teacher": "mgr Jakub Mitka",
                 "room": "A324"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C113"
             }
         ],
         "Piątek 2026-11-27": [
@@ -1204,6 +1211,13 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
                 "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
+                "short_name": "Pfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
             },
             {
                 "time": "17:00-18:30",
@@ -1425,20 +1439,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Monika Sobolak",
                 "room": "A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A14"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii  w wieku rozwojowym (wyk)",
-                "short_name": "Pfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A14"
             }
         ],
         "Piątek 2026-12-18": [

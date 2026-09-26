@@ -65,13 +65,6 @@
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
                 "room": "P.MCZ_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Halina Komorowicz",
-                "room": "P.MCZ_01"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -183,13 +176,6 @@
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
                 "room": "P.MCZ_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawowa opieka zdrowotna (zp)",
-                "short_name": "Poz (zp)",
-                "teacher": "mgr Halina Komorowicz",
-                "room": "P.MCZ_01"
             }
         ],
         "Piątek 2026-10-09": [
@@ -220,6 +206,20 @@
                 "short_name": "Aipwzż (wyk)",
                 "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Halina Komorowicz",
+                "room": "A118 (MCSM-UT)"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -366,17 +366,17 @@
         "Piątek 2026-10-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "A104 (MCSM-UP)"
+                "room": "P.MCZ_01"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
+                "class_name": "Podstawowa opieka zdrowotna (zp)",
+                "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "A104 (MCSM-UP)"
+                "room": "P.MCZ_01"
             },
             {
                 "time": "13:30-15:00",
@@ -644,14 +644,14 @@
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "P.MCZ_01"
+                "room": "A119 (MCSM-porodowa)"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "P.MCZ_01"
+                "room": "A119 (MCSM-porodowa)"
             }
         ],
         "Czwartek 2026-10-29": [
@@ -704,14 +704,14 @@
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "A116 (MCSM-WW)"
+                "room": "P.MCZ_01"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Podstawowa opieka zdrowotna (zp)",
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
-                "room": "A118 (MCSM-UT)"
+                "room": "P.MCZ_01"
             },
             {
                 "time": "13:30-15:00",

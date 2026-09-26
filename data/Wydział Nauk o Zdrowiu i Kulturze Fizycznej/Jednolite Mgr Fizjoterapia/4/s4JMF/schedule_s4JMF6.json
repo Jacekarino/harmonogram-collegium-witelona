@@ -769,6 +769,20 @@
                 "short_name": "Swbn (ćw)",
                 "teacher": "dr inż. Renata Gnitecka",
                 "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A14"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -836,20 +850,6 @@
                 "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
                 "room": "C212"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -873,20 +873,6 @@
                 "short_name": "Fkwwr (wyk)",
                 "teacher": "dr Monika Wierzbicka",
                 "room": "A144"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
             }
         ],
         "Piątek 2026-11-13": [
@@ -977,13 +963,6 @@
                 "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
                 "room": "C212"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "A144"
             }
         ],
         "Środa 2026-11-18": [
@@ -1021,6 +1000,20 @@
                 "short_name": "Dfwwr (zp)",
                 "teacher": "mgr Monika Kamieniecka",
                 "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C212"
             }
         ],
         "Czwartek 2026-11-19": [
@@ -1187,6 +1180,13 @@
                 "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
                 "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C113"
             }
         ],
         "Piątek 2026-11-27": [
