@@ -57,6 +57,13 @@
                 "room": "D8"
             },
             {
+                "time": "10:00-11:30",
+                "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
+                "short_name": "Pzkl (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "Tymczasowa02"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -407,44 +414,16 @@
         ],
         "Sobota 2026-11-07": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Projekt praktyczny (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr Nadine Bednarz",
-                "room": "C202"
-            },
-            {
                 "time": "11:45-13:15",
-                "class_name": "Projekt praktyczny (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr Nadine Bednarz",
+                "class_name": "Przedmiot do wyboru( (wt)",
+                "short_name": "Pdw( (wt)",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "C202"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Przedmiot do wyboru (sem)",
                 "short_name": "Pdw (sem)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Przedmiot do wyboru( (wt)",
-                "short_name": "Pdw( (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "C202"
             }
@@ -530,17 +509,17 @@
         "Sobota 2026-11-14": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
-                "short_name": "Pzkl (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
-                "short_name": "Pzkl (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "11:45-13:15",
@@ -568,6 +547,13 @@
                 "class_name": "Przedmiot do wyboru( (wt)",
                 "short_name": "Pdw( (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
+                "room": "C202"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
+                "short_name": "Pzkl (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "C202"
             }
         ],
@@ -1049,30 +1035,44 @@
         "Sobota 2026-12-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Przedmiot do wyboru (sem)",
-                "short_name": "Pdw (sem)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Przedmiot do wyboru (sem)",
-                "short_name": "Pdw (sem)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Przedmiot do wyboru( (wt)",
-                "short_name": "Pdw( (wt)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Przedmiot do wyboru( (wt)",
                 "short_name": "Pdw( (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
+                "room": "C202"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedmiot do wyboru( (wt)",
+                "short_name": "Pdw( (wt)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C202"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt praktycznypinp (wt)",
+                "short_name": "Pppinp (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
                 "room": "C202"
             }
         ],
@@ -1185,17 +1185,17 @@
         "Niedziela 2026-12-20": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Analiza zasobów pracy (ćw)",
-                "short_name": "Azp (ćw)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Analiza zasobów pracy (ćw)",
-                "short_name": "Azp (ćw)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
+                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
+                "short_name": "Iwzkl (wt)",
+                "teacher": "dr Ewa Szkic-Czech",
+                "room": "C313"
             },
             {
                 "time": "11:45-13:15",
@@ -1213,17 +1213,17 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
+                "class_name": "Analiza zasobów pracy (ćw)",
+                "short_name": "Azp (ćw)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Tymczasowa01"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
+                "class_name": "Analiza zasobów pracy (ćw)",
+                "short_name": "Azp (ćw)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Tymczasowa01"
             },
             {
                 "time": "19:00-20:30",
@@ -1254,6 +1254,50 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Sylwia Zajchowska",
                 "room": "Online_01"
+            }
+        ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Przedmiot do wyboru (sem)",
+                "short_name": "Pdw (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Przedmiot do wyboru (sem)",
+                "short_name": "Pdw (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Projekt praktyczny (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Projekt praktyczny (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "Tymczasowa02"
             }
         ],
         "Poniedziałek 2027-01-11": [
@@ -1369,56 +1413,12 @@
                 "short_name": "Pdw( (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "C202"
-            }
-        ],
-        "Niedziela 2027-01-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Informatyzacja w zarządzaniu kapitałem ludzkim (wt)",
-                "short_name": "Iwzkl (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C313"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Projekt praktycznypinp (wt)",
-                "short_name": "Pppinp (wt)",
-                "teacher": "dr Ewa Szkic-Czech",
-                "room": "C202"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Projekt praktyczny (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr Nadine Bednarz",
-                "room": "C202"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C202"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
+                "class_name": "Projekt praktyczny (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr Nadine Bednarz",
                 "room": "C202"
             }
         ],
