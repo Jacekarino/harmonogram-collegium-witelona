@@ -512,6 +512,22 @@
                 "room": "Online_17"
             }
         ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            }
+        ],
         "Środa 2026-11-18": [
             {
                 "time": "15:15-16:45",
@@ -657,6 +673,22 @@
                 "room": "Online_108"
             }
         ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            }
+        ],
         "Środa 2026-12-02": [
             {
                 "time": "15:15-16:45",
@@ -694,6 +726,22 @@
                 "short_name": "Ps (wyk)",
                 "teacher": "mgr Arkadiusz Kos",
                 "room": "Online_108"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
             }
         ],
         "Sobota 2026-12-05": [
@@ -821,6 +869,22 @@
                 "room": "Online_112"
             }
         ],
+        "Piątek 2026-12-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            }
+        ],
         "Środa 2026-12-16": [
             {
                 "time": "15:15-16:45",
@@ -865,6 +929,22 @@
                 "short_name": "Ps (wyk)",
                 "teacher": "mgr Arkadiusz Kos",
                 "room": "Online_111"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
             }
         ],
         "Sobota 2026-12-19": [
@@ -962,6 +1042,22 @@
                 "short_name": "Sps (wyk)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "Online_108"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
             }
         ],
         "Sobota 2027-01-09": [
@@ -1121,6 +1217,29 @@
                 "short_name": "Uid (wyk)",
                 "teacher": "dr Beata Rajba",
                 "room": "E4"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "dr Tomasz Cyrkot / dr Beata Rajba / dr Dorota Domińska-Werbel",
+                "room": "Online_34 / Online_35 / Online_36"
             }
         ],
         "Sobota 2027-01-23": [
