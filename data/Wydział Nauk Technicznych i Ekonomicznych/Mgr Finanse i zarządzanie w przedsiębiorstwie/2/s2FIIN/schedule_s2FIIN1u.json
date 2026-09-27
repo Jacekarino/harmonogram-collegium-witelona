@@ -233,20 +233,6 @@
                 "short_name": "Rbiu (wt)",
                 "teacher": "mgr Nadine Bednarz",
                 "room": "C129"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C129"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C129"
             }
         ],
         "Poniedziałek 2026-10-19": [
@@ -575,6 +561,34 @@
                 "class_name": "Przedmiot do wyboru (sem)",
                 "short_name": "Pdw (sem)",
                 "teacher": "dr Sławomir Kryszkowski",
+                "room": "C129"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Analiza ekonomiczno-finansowa (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C129"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Analiza ekonomiczno-finansowa (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "C129"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
                 "room": "C129"
             }
         ],
@@ -1335,16 +1349,16 @@
         "Niedziela 2027-01-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Analiza ekonomiczno-finansowa (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "dr Paweł Jóźwiakowski",
+                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
+                "short_name": "Rbiu (wt)",
+                "teacher": "mgr Nadine Bednarz",
                 "room": "C129"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Analiza ekonomiczno-finansowa (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "dr Paweł Jóźwiakowski",
+                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
+                "short_name": "Rbiu (wt)",
+                "teacher": "mgr Nadine Bednarz",
                 "room": "C129"
             },
             {
@@ -1366,20 +1380,6 @@
                 "class_name": "Planowanie i prognozowanie finansowe (wt)",
                 "short_name": "Pipf (wt)",
                 "teacher": "dr Agnieszka Koryś",
-                "room": "C129"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
-                "short_name": "Rbiu (wt)",
-                "teacher": "mgr Nadine Bednarz",
-                "room": "C129"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Rynek bankowy i ubezpieczeniowy (wt)",
-                "short_name": "Rbiu (wt)",
-                "teacher": "mgr Nadine Bednarz",
                 "room": "C129"
             }
         ],

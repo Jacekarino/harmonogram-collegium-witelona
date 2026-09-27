@@ -93,9 +93,9 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Projekt praktyczny (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr Nadine Bednarz",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
                 "room": "C202"
             }
         ],
@@ -159,6 +159,43 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Jarosław Szandurski",
                 "room": "Online_07"
+            }
+        ],
+        "Sobota 2026-10-17": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt praktyczny (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr Nadine Bednarz",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Analiza zasobów pracy (ćw)",
+                "short_name": "Azp (ćw)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Analiza zasobów pracy (ćw)",
+                "short_name": "Azp (ćw)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "Tymczasowa02"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Przedmiot do wyboru (sem)",
+                "short_name": "Pdw (sem)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C129"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Przedmiot do wyboru( (wt)",
+                "short_name": "Pdw( (wt)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C129"
             }
         ],
         "Niedziela 2026-10-18": [
@@ -410,22 +447,6 @@
                 "short_name": "Pzkl (wyk)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_107"
-            }
-        ],
-        "Sobota 2026-11-07": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Przedmiot do wyboru( (wt)",
-                "short_name": "Pdw( (wt)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Przedmiot do wyboru (sem)",
-                "short_name": "Pdw (sem)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -940,27 +961,6 @@
                 "short_name": "Iwzkl (wt)",
                 "teacher": "dr Ewa Szkic-Czech",
                 "room": "C313"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Analiza zasobów pracy (ćw)",
-                "short_name": "Azp (ćw)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Analiza zasobów pracy (ćw)",
-                "short_name": "Azp (ćw)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C202"
             }
         ],
         "Poniedziałek 2026-12-07": [
