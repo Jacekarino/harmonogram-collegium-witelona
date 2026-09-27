@@ -25,13 +25,6 @@
         ],
         "Niedziela 2026-10-04": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Statystyka inżynierska (ćw)",
-                "short_name": "Si (ćw)",
-                "teacher": "mgr Jan Szyller",
-                "room": "A143"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -57,6 +50,36 @@
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka inżynierska (ćw)",
+                "short_name": "Si (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka inżynierska (ćw)",
+                "short_name": "Si (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "A13"
+            }
+        ],
+        "Sobota 2026-10-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Statystyka inżynierska (lab)",
+                "short_name": "Si (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C11"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geometria wykreślna - rysunek odręczny (wyk)",
+                "short_name": "Gw-ro (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
                 "room": "A13"
             }
         ],
@@ -106,25 +129,11 @@
         ],
         "Sobota 2026-10-17": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Jan Szyller",
-                "room": "A143"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr inż. Ryszard Rębowski",
                 "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Statystyka inżynierska (lab)",
-                "short_name": "Si (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A244"
             },
             {
                 "time": "13:45-15:15",
@@ -234,6 +243,13 @@
                 "short_name": "Mater (lab)",
                 "teacher": "dr inż. Daniel Medyński",
                 "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Jan Szyller",
+                "room": "C209"
             }
         ],
         "Piątek 2026-11-13": [
@@ -324,13 +340,6 @@
                 "short_name": "Gw-ro (ćw)",
                 "teacher": "dr inż. Dariusz Michalski",
                 "room": "A142"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Statystyka inżynierska (ćw)",
-                "short_name": "Si (ćw)",
-                "teacher": "mgr Jan Szyller",
-                "room": "A217"
             }
         ],
         "Piątek 2026-12-04": [
