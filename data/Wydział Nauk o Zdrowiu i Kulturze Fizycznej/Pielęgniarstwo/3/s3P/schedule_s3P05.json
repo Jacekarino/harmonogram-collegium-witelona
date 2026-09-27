@@ -28,20 +28,6 @@
                 "short_name": "Pr (wyk)",
                 "teacher": "dr Łukasz Rogowski",
                 "room": "C212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
-                "short_name": "Pod (wyk)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "C212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
-                "short_name": "Pod (wyk)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "C212"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -671,6 +657,13 @@
         ],
         "Środa 2026-10-28": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A245"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
                 "short_name": "Gipg (wyk)",
@@ -884,17 +877,24 @@
         ],
         "Czwartek 2026-11-05": [
             {
-                "time": "11:45-13:15",
+                "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
                 "short_name": "Gipg (wyk)",
+                "teacher": "dr n. med. Jolanta Bielawska",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (wyk)",
+                "short_name": "Op (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A144"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Opieka paliatywna (wyk)",
-                "short_name": "Op (wyk)",
-                "teacher": "dr n. med. Jolanta Bielawska",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
                 "room": "A144"
             },
             {

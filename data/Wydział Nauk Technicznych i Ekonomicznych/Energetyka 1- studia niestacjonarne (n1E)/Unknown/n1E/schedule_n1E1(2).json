@@ -81,6 +81,34 @@
                 "short_name": "Si (lab)",
                 "teacher": "dr inż. Renata Gnitecka",
                 "room": "C11"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Ekologia (wyk)",
+                "short_name": "Ekolo (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr inż. Ryszard Rębowski",
+                "room": "A36"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo energetyczne (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "A36"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -121,46 +149,9 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
-                "room": "A144"
-            }
-        ],
-        "Sobota 2026-10-17": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr inż. Ryszard Rębowski",
-                "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż. Daniel Medyński",
-                "room": "C24"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Ekologia (wyk)",
-                "short_name": "Ekolo (wyk)",
-                "teacher": "dr hab. inż. Bogumiła Wnukowska",
-                "room": "A144"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Prawo energetyczne (wyk)",
-                "short_name": "Pe (wyk)",
-                "teacher": "dr hab. inż. Bogumiła Wnukowska",
-                "room": "A144"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "dr inż.  Stefan Kozerski",
                 "room": "A144"
             }
         ],
@@ -375,8 +366,8 @@
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
+                "class_name": "Statystyka inżynierska (ćw)",
+                "short_name": "Si (ćw)",
                 "teacher": "mgr Jan Szyller",
                 "room": "A142"
             },
@@ -389,10 +380,10 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż. Daniel Medyński",
-                "room": "C24"
+                "class_name": "Chemia (lab)",
+                "short_name": "Chemi (lab)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "C23"
             },
             {
                 "time": "17:15-18:45",
@@ -403,10 +394,10 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Chemia (lab)",
-                "short_name": "Chemi (lab)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "C23"
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
             }
         ],
         "Sobota 2026-12-12": [
@@ -447,14 +438,14 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "Online_10"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "Online_10"
@@ -484,13 +475,20 @@
             },
             {
                 "time": "13:45-15:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "15:30-17:00",
                 "class_name": "Chemia (lab)",
                 "short_name": "Chemi (lab)",
                 "teacher": "mgr inż. Agnieszka Paszyn",
                 "room": "C23"
             },
             {
-                "time": "15:30-17:00",
+                "time": "17:15-18:45",
                 "class_name": "Chemia (lab)",
                 "short_name": "Chemi (lab)",
                 "teacher": "mgr inż. Agnieszka Paszyn",
@@ -503,6 +501,13 @@
                 "class_name": "Statystyka inżynierska (wyk)",
                 "short_name": "Si (wyk)",
                 "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geometria wykreślna - rysunek odręczny (wyk)",
+                "short_name": "Gw-ro (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
                 "room": "Online_10"
             },
             {
@@ -551,8 +556,8 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Statystyka inżynierska (ćw)",
-                "short_name": "Si (ćw)",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
                 "room": "A145"
             }
@@ -573,15 +578,22 @@
                 "room": "Online_10"
             },
             {
+                "time": "11:45-13:15",
+                "class_name": "Geometria wykreślna - rysunek odręczny (wyk)",
+                "short_name": "Gw-ro (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_10"
+            },
+            {
                 "time": "13:45-15:15",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "Online_10"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "Online_10"
@@ -636,6 +648,13 @@
                 "short_name": "Pe (wyk)",
                 "teacher": "dr hab. inż. Bogumiła Wnukowska",
                 "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Geometria wykreślna - rysunek odręczny (wyk)",
+                "short_name": "Gw-ro (wyk)",
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "A14"
             }
         ],
         "Niedziela 2027-01-24": [
@@ -655,7 +674,7 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Podstawy ekonomii i finansów (wyk)",
+                "class_name": "Prawo energetyczneif (wyk)",
                 "short_name": "Peif (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "A212"
