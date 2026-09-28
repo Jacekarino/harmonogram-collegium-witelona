@@ -196,22 +196,6 @@
                 "room": "Szpital_Leg_01"
             }
         ],
-        "Czwartek 2026-10-15": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Choroby zakaźne (wyk)",
-                "short_name": "Cz (wyk)",
-                "teacher": "lek. Ryszard Kępa",
-                "room": "A212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Choroby zakaźne (wyk)",
-                "short_name": "Cz (wyk)",
-                "teacher": "lek. Ryszard Kępa",
-                "room": "A212"
-            }
-        ],
         "Piątek 2026-10-16": [
             {
                 "time": "08:15-09:45",
@@ -397,6 +381,13 @@
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Choroby zakaźne (wyk)",
+                "short_name": "Cz (wyk)",
+                "teacher": "lek. Ryszard Kępa",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Choroby zakaźne (wyk)",
                 "short_name": "Cz (wyk)",
                 "teacher": "lek. Ryszard Kępa",
@@ -947,6 +938,13 @@
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Choroby zakaźne (wyk)",
+                "short_name": "Cz (wyk)",
+                "teacher": "lek. Ryszard Kępa",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Choroby zakaźne (wyk)",
                 "short_name": "Cz (wyk)",
                 "teacher": "lek. Ryszard Kępa",

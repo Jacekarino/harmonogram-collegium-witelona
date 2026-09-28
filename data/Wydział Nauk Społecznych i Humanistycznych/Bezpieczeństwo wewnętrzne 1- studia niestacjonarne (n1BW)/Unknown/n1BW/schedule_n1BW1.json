@@ -3,8 +3,8 @@
         "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Spotkanie organizacyjne (wt)",
-                "short_name": "So (wt)",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
                 "teacher": "Spotkanie organizacyjne 09.00-10.30",
                 "room": "C113"
             },
@@ -137,6 +137,20 @@
                 "short_name": "NhP (wt)",
                 "teacher": "dr Andrzej Szczepański",
                 "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy prawa (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy prawa (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "C322"
             }
         ],
         "Niedziela 2026-10-18": [
@@ -246,10 +260,10 @@
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
-                "short_name": "Pbw (wt)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "C322"
+                "class_name": "Ochrona własności intelektualnej (wyk)",
+                "short_name": "Owi (wyk)",
+                "teacher": "dr Jakub Rzucidło",
+                "room": "E1"
             },
             {
                 "time": "11:45-13:15",
@@ -259,25 +273,11 @@
                 "room": "C322"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Zbigniew Tracz",
+                "time": "13:45-15:15",
+                "class_name": "Podstawy bezpieczeństwa wewnętrznego (wt)",
+                "short_name": "Pbw (wt)",
+                "teacher": "dr Wojciech Mucha",
                 "room": "C322"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Zbigniew Tracz",
-                "room": "C322"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Ochrona własności intelektualnej (wyk)",
-                "short_name": "Owi (wyk)",
-                "teacher": "dr Jakub Rzucidło",
-                "room": "C224"
             }
         ],
         "Sobota 2026-11-14": [
@@ -438,29 +438,29 @@
         "Sobota 2026-12-12": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Najnowsza historia Polski (wt)",
-                "short_name": "NhP (wt)",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
                 "teacher": "dr Andrzej Szczepański",
                 "room": "C224"
             },
             {
                 "time": "10:00-11:30",
+                "class_name": "Międzynarodowe stosunki polityczne (wt)",
+                "short_name": "Msp (wt)",
+                "teacher": "dr Andrzej Szczepański",
+                "room": "C224"
+            },
+            {
+                "time": "11:45-13:15",
                 "class_name": "Najnowsza historia Polski (wt)",
                 "short_name": "NhP (wt)",
                 "teacher": "dr Andrzej Szczepański",
                 "room": "C224"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Międzynarodowe stosunki polityczne (wt)",
-                "short_name": "Msp (wt)",
-                "teacher": "dr Andrzej Szczepański",
-                "room": "C224"
-            },
-            {
                 "time": "13:45-15:15",
-                "class_name": "Międzynarodowe stosunki polityczne (wt)",
-                "short_name": "Msp (wt)",
+                "class_name": "Najnowsza historia Polski (wt)",
+                "short_name": "NhP (wt)",
                 "teacher": "dr Andrzej Szczepański",
                 "room": "C224"
             },

@@ -41,6 +41,13 @@
         ],
         "Poniedziałek 2026-10-05": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Dydaktyka fizjoterapii (wyk)",
                 "short_name": "Df (wyk)",
@@ -173,22 +180,6 @@
                 "room": "A212"
             }
         ],
-        "Wtorek 2026-10-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Patologia ogólna (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "prof. dr hab. Marian Gabryś",
-                "room": "C212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Patologia ogólna (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "prof. dr hab. Marian Gabryś",
-                "room": "C212"
-            }
-        ],
         "Środa 2026-10-14": [
             {
                 "time": "08:15-09:45",
@@ -286,20 +277,6 @@
                 "short_name": "Fwf (wyk)",
                 "teacher": "mgr Małgorzata Krzemień",
                 "room": "C113"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Patologia ogólna (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "prof. dr hab. Marian Gabryś",
-                "room": "C212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Patologia ogólna (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "prof. dr hab. Marian Gabryś",
-                "room": "C212"
             }
         ],
         "Środa 2026-10-21": [
@@ -964,6 +941,13 @@
         ],
         "Wtorek 2026-11-24": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A144"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Fizjologia ( fizj. ogólna, fizj. wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna ) (wyk)",
                 "short_name": "F(fofwffbdf) (wyk)",
@@ -1129,6 +1113,20 @@
             }
         ],
         "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A245"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Język obcy (ćw)",

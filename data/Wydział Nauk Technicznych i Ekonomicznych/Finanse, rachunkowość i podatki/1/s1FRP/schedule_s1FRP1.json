@@ -64,18 +64,11 @@
         ],
         "Czwartek 2026-10-08": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C203"
-            },
-            {
                 "time": "10:00-11:30",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C203"
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "C113"
             },
             {
                 "time": "11:45-13:15",
@@ -86,10 +79,10 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Statystyka (wyk)",
-                "short_name": "Staty (wyk)",
-                "teacher": "prof. dr hab. Adam Kopiński",
-                "room": "A14"
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C201"
             },
             {
                 "time": "15:15-16:45",
@@ -104,6 +97,13 @@
                 "short_name": "Staty (ćw)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C202"
             }
         ],
         "Wtorek 2026-10-13": [

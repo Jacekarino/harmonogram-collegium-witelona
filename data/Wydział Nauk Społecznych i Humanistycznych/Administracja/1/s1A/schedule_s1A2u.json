@@ -3,8 +3,8 @@
         "Sobota 2026-10-03": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Spotkanie organizacyjne (wt)",
-                "short_name": "So (wt)",
+                "class_name": "Spotkanie organizacyjne (ćw)",
+                "short_name": "So (ćw)",
                 "teacher": "Spotkanie organizacyjne 09.00-10.30",
                 "room": "C113"
             },
@@ -425,13 +425,6 @@
                 "short_name": "Noiz (wt)",
                 "teacher": "mgr Marcin Dąbrowski",
                 "room": "E4"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy psychologii (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Zbigniew Tracz",
-                "room": "A217"
             },
             {
                 "time": "13:45-15:15",
@@ -1055,6 +1048,13 @@
             }
         ],
         "Niedziela 2026-12-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Podstawy psychologii (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "C129"
+            },
             {
                 "time": "13:45-15:15",
                 "class_name": "Prawo konstytucyjne (wt)",
