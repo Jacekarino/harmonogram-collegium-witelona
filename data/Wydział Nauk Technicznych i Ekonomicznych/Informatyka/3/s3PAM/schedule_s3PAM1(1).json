@@ -21,21 +21,21 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
                 "room": "A142"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Projektowanie interfejsów graficznych (wyk)",
+                "short_name": "Pig (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "C212"
             }
         ],
         "Piątek 2026-10-02": [
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
                 "short_name": "Tmisw (wyk)",
                 "teacher": "mgr inż. Jan Duda",
-                "room": "C113"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Projektowanie interfejsów graficznych (wyk)",
-                "short_name": "Pig (wyk)",
-                "teacher": "dr Marek Miedziński",
                 "room": "C224"
             },
             {

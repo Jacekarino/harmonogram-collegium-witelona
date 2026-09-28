@@ -3,17 +3,17 @@
         "Środa 2026-10-07": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Analiza ekonomiczno-finansowa (wyk)",
-                "short_name": "Ae (wyk)",
-                "teacher": "dr Paweł Jóźwiakowski",
-                "room": "C201"
-            },
-            {
-                "time": "17:00-18:30",
                 "class_name": "Rynek bankowy i ubezpieczeniowy (wyk)",
                 "short_name": "Rbiu (wyk)",
                 "teacher": "dr Joanna Kenc",
                 "room": "C201"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Analiza ekonomiczno-finansowa (wyk)",
+                "short_name": "Ae (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C203"
             },
             {
                 "time": "18:45-20:15",

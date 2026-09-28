@@ -460,25 +460,46 @@
         ],
         "Niedziela 2026-11-08": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C202"
-            },
-            {
                 "time": "10:00-11:30",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C202"
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C329"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C329"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C329"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "C202"
+                "room": "C329"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C329"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C329"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -577,46 +598,25 @@
         ],
         "Sobota 2026-11-21": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C228"
+            },
+            {
                 "time": "10:00-11:30",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A217"
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C228"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A31"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A31"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "A16"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A16"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A16"
+                "room": "C228"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -952,62 +952,18 @@
         ],
         "Sobota 2026-12-19": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C326"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C326"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C326"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C326"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C326"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Arkadiusz Kos",
-                "room": "E1"
-            }
-        ],
-        "Niedziela 2026-12-20": [
-            {
                 "time": "11:45-13:15",
                 "class_name": "Wywiad psychologiczny (wt)",
                 "short_name": "Wp (wt)",
                 "teacher": "mgr  Robert Gajewski",
-                "room": "C329"
+                "room": "C326"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Wywiad psychologiczny (wt)",
                 "short_name": "Wp (wt)",
                 "teacher": "mgr  Robert Gajewski",
-                "room": "C329"
+                "room": "C326"
             },
             {
                 "time": "15:30-17:00",
@@ -1022,6 +978,50 @@
                 "short_name": "Psych (ćw)",
                 "teacher": "mgr Paweł  Oczeretko",
                 "room": "C123"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C209"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C209"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C209"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C209"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C209"
             },
             {
                 "time": "19:00-20:30",

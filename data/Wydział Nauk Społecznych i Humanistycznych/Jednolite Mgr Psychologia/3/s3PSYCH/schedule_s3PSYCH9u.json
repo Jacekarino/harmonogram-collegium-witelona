@@ -507,43 +507,6 @@
                 "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             }
         ],
-        "Niedziela 2026-11-08": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychometria (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C111"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Psychometria (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C111"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wywiad psychologiczny (wt)",
-                "short_name": "Wp (wt)",
-                "teacher": "mgr Dorota Zarzycka",
-                "room": "C227"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wywiad psychologiczny (wt)",
-                "short_name": "Wp (wt)",
-                "teacher": "mgr Dorota Zarzycka",
-                "room": "C227"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Wywiad psychologiczny (wt)",
-                "short_name": "Wp (wt)",
-                "teacher": "mgr Dorota Zarzycka",
-                "room": "C227"
-            }
-        ],
         "Czwartek 2026-11-12": [
             {
                 "time": "15:15-16:45",
@@ -636,6 +599,43 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
                 "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+            }
+        ],
+        "Sobota 2026-11-21": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A31"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A31"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C228"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C228"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "C228"
             }
         ],
         "Środa 2026-11-25": [
@@ -963,38 +963,45 @@
         "Sobota 2026-12-19": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Joanna Cyrkot",
-                "room": "C227"
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C326"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Joanna Cyrkot",
-                "room": "C227"
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C326"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C227"
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A141"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C227"
+                "class_name": "Wywiad psychologiczny (wt)",
+                "short_name": "Wp (wt)",
+                "teacher": "mgr Dorota Zarzycka",
+                "room": "A141"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr  Robert Gajewski",
-                "room": "C227"
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A142"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A142"
             },
             {
                 "time": "19:00-20:30",
@@ -1007,45 +1014,38 @@
         "Niedziela 2026-12-20": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C228"
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Joanna Cyrkot",
+                "room": "C329"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C228"
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Joanna Cyrkot",
+                "room": "C329"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Wywiad psychologiczny (wt)",
-                "short_name": "Wp (wt)",
-                "teacher": "mgr Dorota Zarzycka",
-                "room": "C228"
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C329"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Wywiad psychologiczny (wt)",
-                "short_name": "Wp (wt)",
-                "teacher": "mgr Dorota Zarzycka",
-                "room": "C228"
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C329"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Psychometria (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C111"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Psychometria (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr  Diana Celler",
-                "room": "C111"
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr  Robert Gajewski",
+                "room": "C329"
             },
             {
                 "time": "19:00-20:30",

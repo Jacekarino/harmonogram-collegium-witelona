@@ -19,17 +19,17 @@
         "Piątek 2026-10-02": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
-                "short_name": "Tmisw (wyk)",
-                "teacher": "mgr inż. Jan Duda",
-                "room": "C113"
-            },
-            {
-                "time": "17:00-18:30",
                 "class_name": "Systemy mobilne (wyk)",
                 "short_name": "Sm (wyk)",
                 "teacher": "mgr inż. Karol Zygadło",
-                "room": "A145"
+                "room": "C224"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Techniki mikroprocesorowe i systemy wbudowane (wyk)",
+                "short_name": "Tmisw (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "C224"
             },
             {
                 "time": "18:45-20:15",

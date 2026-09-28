@@ -170,13 +170,6 @@
         ],
         "Wtorek 2026-10-13": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_104"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -225,13 +218,6 @@
         ],
         "Wtorek 2026-10-20": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_104"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -248,11 +234,25 @@
         ],
         "Czwartek 2026-10-22": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_04"
+            },
+            {
                 "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_07"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Fizyka (wyk)",
                 "short_name": "Fizyk (wyk)",
                 "teacher": "dr Witold Urbanik",
-                "room": "Online_07"
+                "room": "Online_105"
             }
         ],
         "Sobota 2026-10-24": [
@@ -369,10 +369,10 @@
         "Czwartek 2026-10-29": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Rachunkowość (wyk)",
-                "short_name": "Rachu (wyk)",
-                "teacher": "dr Marta Stanisławska",
-                "room": "Online_104"
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_102"
             },
             {
                 "time": "17:00-18:30",
@@ -380,23 +380,16 @@
                 "short_name": "Rachu (wyk)",
                 "teacher": "dr Marta Stanisławska",
                 "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Rachunkowość (wyk)",
+                "short_name": "Rachu (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "Online_02"
             }
         ],
         "Wtorek 2026-11-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_106"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_106"
-            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
@@ -405,21 +398,16 @@
                 "room": "Online_102 / Online_103"
             }
         ],
-        "Wtorek 2026-11-10": [
+        "Środa 2026-11-04": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Leopold Habiniak",
-                "room": "Online_109"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_109"
-            },
+                "room": "Online_21"
+            }
+        ],
+        "Wtorek 2026-11-10": [
             {
                 "time": "18:45-20:15",
                 "class_name": "Statystyka (wyk)",
@@ -429,6 +417,13 @@
             }
         ],
         "Czwartek 2026-11-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_101"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Fizyka (wyk)",
@@ -610,6 +605,15 @@
                 "room": "Online_101"
             }
         ],
+        "Środa 2026-11-25": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            }
+        ],
         "Sobota 2026-11-28": [
             {
                 "time": "08:15-09:45",
@@ -714,13 +718,6 @@
         ],
         "Wtorek 2026-12-01": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_102"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -757,20 +754,6 @@
                 "class_name": "Podstawy zarządzania (wyk)",
                 "short_name": "Pz (wyk)",
                 "teacher": "dr Jolanta Radkowska",
-                "room": "Online_09"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
-                "room": "Online_09"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
                 "room": "Online_09"
             }
         ],
@@ -954,6 +937,22 @@
                 "room": "Online_08"
             }
         ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_109"
+            }
+        ],
         "Wtorek 2026-12-22": [
             {
                 "time": "15:15-16:45",
@@ -1133,7 +1132,14 @@
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Leopold Habiniak",
-                "room": "A14"
+                "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "A36"
             }
         ],
         "Wtorek 2027-01-19": [

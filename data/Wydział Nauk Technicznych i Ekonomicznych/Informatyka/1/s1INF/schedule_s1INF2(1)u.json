@@ -25,13 +25,6 @@
         ],
         "Piątek 2026-10-02": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy grafiki komputerowej (wyk)",
-                "short_name": "Pgk (wyk)",
-                "teacher": "dr Marek Miedziński",
-                "room": "C224"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy teorii informacji (wyk)",
                 "short_name": "Pti (wyk)",
@@ -60,6 +53,15 @@
                 "short_name": "S-Wswpk (wt)",
                 "teacher": "Szkolenie - Wsparcie studentów godz. 11.00-12.30",
                 "room": "E2"
+            }
+        ],
+        "Poniedziałek 2026-10-05": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy grafiki komputerowej (wyk)",
+                "short_name": "Pgk (wyk)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A36"
             }
         ],
         "Środa 2026-10-07": [

@@ -331,13 +331,6 @@
                 "room": "Online_107"
             },
             {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka produkcji (wyk)",
-                "short_name": "Lp (wyk)",
-                "teacher": "dr Tomasz Janiak",
-                "room": "Online_107"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wyk)",
                 "short_name": "Zzlwliwt (wyk)",
@@ -914,6 +907,13 @@
             }
         ],
         "Czwartek 2027-01-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka produkcji (wyk)",
+                "short_name": "Lp (wyk)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "Online_08"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",

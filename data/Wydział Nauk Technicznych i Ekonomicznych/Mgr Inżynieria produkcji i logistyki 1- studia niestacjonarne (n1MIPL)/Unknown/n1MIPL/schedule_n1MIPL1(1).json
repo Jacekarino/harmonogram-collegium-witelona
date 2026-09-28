@@ -92,7 +92,7 @@
                 "class_name": "Planowanie i sterowanie produkcją (lab)",
                 "short_name": "Pisp (lab)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "C11"
+                "room": "A218"
             }
         ],
         "Niedziela 2026-10-18": [
@@ -317,13 +317,6 @@
                 "short_name": "Przed (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "C329"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C10"
             }
         ],
         "Sobota 2026-12-05": [
@@ -394,13 +387,20 @@
             },
             {
                 "time": "15:30-17:00",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C11"
+            },
+            {
+                "time": "17:15-18:45",
                 "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
                 "short_name": "Wdpz (wt)",
                 "teacher": "mgr inż. Krzysztof Kolbusz",
                 "room": "A144"
             },
             {
-                "time": "17:15-18:45",
+                "time": "19:00-20:30",
                 "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
                 "short_name": "Wdpz (wt)",
                 "teacher": "mgr inż. Krzysztof Kolbusz",

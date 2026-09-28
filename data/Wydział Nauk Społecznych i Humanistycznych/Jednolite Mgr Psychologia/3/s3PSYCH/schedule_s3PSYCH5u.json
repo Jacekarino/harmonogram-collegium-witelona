@@ -523,31 +523,31 @@
         ],
         "Niedziela 2026-11-08": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C202"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C202"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "C202"
+            },
+            {
                 "time": "13:45-15:15",
-                "class_name": "Pomoc psychologiczna (ćw)",
-                "short_name": "Pp (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C202"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Psychometria (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr Paweł  Oczeretko",
-                "room": "C123"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
                 "room": "C202"
             }
         ],
@@ -647,31 +647,31 @@
         ],
         "Sobota 2026-11-21": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A15"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "A15"
-            },
-            {
                 "time": "13:45-15:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "class_name": "Pomoc psychologiczna (ćw)",
+                "short_name": "Pp (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "A15"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychometria (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr Paweł  Oczeretko",
+                "room": "C123"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
                 "room": "A15"
             }
         ],
@@ -1015,43 +1015,6 @@
         ],
         "Sobota 2026-12-19": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "A141"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "A141"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A142"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Psychologia kliniczna (ćw)",
-                "short_name": "Pk (ćw)",
-                "teacher": "mgr Małgorzata Chrzan",
-                "room": "A142"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
-                "short_name": "Wdpz (wt)",
-                "teacher": "mgr Arkadiusz Kos",
-                "room": "E1"
-            }
-        ],
-        "Niedziela 2026-12-20": [
-            {
                 "time": "08:15-09:45",
                 "class_name": "Psychometria (ćw)",
                 "short_name": "Psych (ćw)",
@@ -1070,21 +1033,58 @@
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "C128"
+                "room": "C209"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "C128"
+                "room": "C209"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Wywiad psychologiczny (wt)",
                 "short_name": "Wp (wt)",
                 "teacher": "mgr Dorota Zarzycka",
-                "room": "C128"
+                "room": "C209"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
+                "short_name": "Wdpz (wt)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "E1"
+            }
+        ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "C123"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "C123"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C123"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychologia kliniczna (ćw)",
+                "short_name": "Pk (ćw)",
+                "teacher": "mgr Małgorzata Chrzan",
+                "room": "C123"
             },
             {
                 "time": "19:00-20:30",

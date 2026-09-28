@@ -665,6 +665,13 @@
         ],
         "Środa 2026-11-18": [
             {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_108"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (wyk)",
                 "short_name": "Airpp (wyk)",
@@ -736,6 +743,13 @@
         ],
         "Wtorek 2026-11-24": [
             {
+                "time": "15:15-16:45",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_03"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (wyk)",
                 "short_name": "Airpp (wyk)",
@@ -748,6 +762,22 @@
                 "short_name": "Airpp (wyk)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_111"
+            }
+        ],
+        "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_112"
             }
         ],
         "Sobota 2026-11-28": [
@@ -861,6 +891,22 @@
                 "short_name": "Airpp (wyk)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_111"
+            }
+        ],
+        "Środa 2026-12-09": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_110"
             }
         ],
         "Czwartek 2026-12-10": [
@@ -1001,7 +1047,14 @@
                 "class_name": "1 Seminarium dyplomowe (sem)",
                 "short_name": "1Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_101"
+                "room": "Online_110"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_110"
             }
         ],
         "Środa 2026-12-16": [
@@ -1209,6 +1262,13 @@
                 "short_name": "Rkdi (wyk)",
                 "teacher": "dr Leszek Kędzierski",
                 "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_104"
             }
         ],
         "Czwartek 2027-01-14": [

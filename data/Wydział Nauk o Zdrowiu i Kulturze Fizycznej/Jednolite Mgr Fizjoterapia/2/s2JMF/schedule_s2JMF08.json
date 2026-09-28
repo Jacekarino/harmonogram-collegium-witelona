@@ -173,6 +173,13 @@
                 "short_name": "Mf-f (wyk)",
                 "teacher": "dr Monika Sobolak",
                 "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
+                "short_name": "Mf-f (wyk)",
+                "teacher": "dr Monika Sobolak",
+                "room": "C224"
             }
         ],
         "Środa 2026-10-14": [
@@ -492,14 +499,14 @@
                 "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
                 "short_name": "Krimnr (ćw)",
                 "teacher": "mgr Kamila Fiszer",
-                "room": "A33"
+                "room": "DS ul.Mickiewicza10"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
                 "short_name": "Krimnr (ćw)",
                 "teacher": "mgr Kamila Fiszer",
-                "room": "A33"
+                "room": "DS ul.Mickiewicza10"
             },
             {
                 "time": "15:15-16:45",
@@ -671,13 +678,6 @@
                 "short_name": "Df (wyk)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A212"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Medycyna fizykalna - fizykoterapia (wyk)",
-                "short_name": "Mf-f (wyk)",
-                "teacher": "dr Monika Sobolak",
-                "room": "A212"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -739,7 +739,7 @@
                 "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
                 "short_name": "Krimnr (ćw)",
                 "teacher": "mgr Kamila Fiszer",
-                "room": "A33"
+                "room": "A057 - Aerobik"
             },
             {
                 "time": "17:00-18:30",
@@ -1023,14 +1023,14 @@
                 "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
                 "short_name": "Krimnr (ćw)",
                 "teacher": "mgr Kamila Fiszer",
-                "room": "A33"
+                "room": "A057 - Aerobik"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Kształcenie ruchowe i metodyka nauczania ruchu (ćw)",
                 "short_name": "Krimnr (ćw)",
                 "teacher": "mgr Kamila Fiszer",
-                "room": "A33"
+                "room": "A057 - Aerobik"
             }
         ],
         "Piątek 2026-11-27": [
