@@ -25,14 +25,14 @@
         ],
         "Piątek 2026-10-09": [
             {
-                "time": "17:00-18:30",
+                "time": "15:15-16:45",
                 "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
                 "short_name": "Oietwcp (wyk)",
                 "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A14"
+                "room": "A15"
             },
             {
-                "time": "18:45-20:15",
+                "time": "17:00-18:30",
                 "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
                 "short_name": "Oietwcp (wyk)",
                 "teacher": "prof. dr hab. n. med. Maria Boratyńska",
@@ -136,6 +136,22 @@
                 "room": "C326"
             }
         ],
+        "Niedziela 2026-10-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_01"
+            }
+        ],
         "Środa 2026-10-21": [
             {
                 "time": "15:15-16:45",
@@ -152,20 +168,6 @@
                 "short_name": "Pzpondn (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A144"
             }
         ],
         "Sobota 2026-10-24": [
@@ -226,6 +228,20 @@
                 "short_name": "Zzr( (wyk)",
                 "teacher": "mgr Piotr Zieliński",
                 "room": "Online_05"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_07"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_07"
             }
         ],
         "Środa 2026-10-28": [
@@ -265,22 +281,6 @@
                 "short_name": "Szżwpoo (zp)",
                 "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_07"
-            }
-        ],
-        "Piątek 2026-10-30": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A144"
             }
         ],
         "Środa 2026-11-04": [
@@ -331,18 +331,18 @@
         ],
         "Piątek 2026-11-06": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "A14"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
                 "short_name": "Oietwcp (wyk)",
                 "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A212"
+                "room": "A14"
             }
         ],
         "Sobota 2026-11-07": [
@@ -463,6 +463,22 @@
                 "room": "Szpital_Leg_01"
             }
         ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_05"
+            }
+        ],
         "Piątek 2026-11-20": [
             {
                 "time": "15:15-16:45",
@@ -470,20 +486,6 @@
                 "short_name": "In (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A212"
             }
         ],
         "Sobota 2026-11-21": [
@@ -1001,22 +1003,6 @@
                 "room": "A212"
             }
         ],
-        "Piątek 2026-12-18": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "Tymczasowa01"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "Tymczasowa01"
-            }
-        ],
         "Sobota 2026-12-19": [
             {
                 "time": "08:15-09:45",
@@ -1068,6 +1054,22 @@
                 "room": "E2"
             }
         ],
+        "Niedziela 2026-12-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
+                "room": "Online_03"
+            }
+        ],
         "Czwartek 2027-01-07": [
             {
                 "time": "15:15-16:45",
@@ -1082,25 +1084,25 @@
                 "short_name": "Pzpondn (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Dydaktyka medyczna (ćw)",
+                "short_name": "Dm (ćw)",
+                "teacher": "mgr Barbara Golicz",
+                "room": "A212"
             }
         ],
         "Piątek 2027-01-08": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Dydaktyka medyczna (ćw)",
-                "short_name": "Dm (ćw)",
-                "teacher": "mgr Barbara Golicz",
+                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
+                "short_name": "Oietwcp (wyk)",
+                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
                 "room": "Tymczasowa01"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
-                "short_name": "Oietwcp (wyk)",
-                "teacher": "prof. dr hab. n. med. Maria Boratyńska",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
                 "class_name": "Opieka i edukacja terapeutyczna w chorobach przewlekłych (wyk)",
                 "short_name": "Oietwcp (wyk)",
                 "teacher": "prof. dr hab. n. med. Maria Boratyńska",

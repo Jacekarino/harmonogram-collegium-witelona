@@ -194,13 +194,6 @@
         ],
         "Sobota 2026-11-07": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr  Mirosława Marks",
-                "room": "Online_01"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy prawa (wyk)",
                 "short_name": "Pp (wyk)",
@@ -344,6 +337,13 @@
                 "class_name": "Najnowsza historia Polski (wyk)",
                 "short_name": "NhP (wyk)",
                 "teacher": "dr Andrzej Szczepański",
+                "room": "Online_03"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy prawa (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr  Mirosława Marks",
                 "room": "Online_03"
             }
         ],

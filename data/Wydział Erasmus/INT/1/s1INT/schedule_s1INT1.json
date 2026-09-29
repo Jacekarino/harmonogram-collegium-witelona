@@ -1,21 +1,5 @@
 {
     "s1INT1": {
-        "Wtorek 2026-10-13": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Interpersonal training (ćw)",
-                "short_name": "It (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A143"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Interpersonal training (ćw)",
-                "short_name": "It (ćw)",
-                "teacher": "mgr Oskar Madej",
-                "room": "A143"
-            }
-        ],
         "Środa 2026-10-14": [
             {
                 "time": "08:15-09:45",
@@ -44,6 +28,22 @@
                 "short_name": "Ci (ćw)",
                 "teacher": "dr Anna Kowal-Orczykowska",
                 "room": "A141"
+            }
+        ],
+        "Czwartek 2026-10-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A16"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Interpersonal training (ćw)",
+                "short_name": "It (ćw)",
+                "teacher": "mgr Oskar Madej",
+                "room": "A16"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -492,20 +492,20 @@
                 "room": "Online_09"
             }
         ],
-        "Wtorek 2027-01-12": [
+        "Środa 2027-01-13": [
             {
-                "time": "13:30-15:00",
+                "time": "08:15-09:45",
                 "class_name": "Interpersonal training (ćw)",
                 "short_name": "It (ćw)",
                 "teacher": "mgr Oskar Madej",
-                "room": "A31"
+                "room": "A15"
             },
             {
-                "time": "15:15-16:45",
+                "time": "10:00-11:30",
                 "class_name": "Interpersonal training (ćw)",
                 "short_name": "It (ćw)",
                 "teacher": "mgr Oskar Madej",
-                "room": "A31"
+                "room": "A15"
             }
         ],
         "Piątek 2027-01-15": [

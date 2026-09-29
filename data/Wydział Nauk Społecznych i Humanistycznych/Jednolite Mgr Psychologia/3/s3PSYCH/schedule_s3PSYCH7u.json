@@ -453,27 +453,6 @@
         ],
         "Niedziela 2026-11-08": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C329"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C329"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C329"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
@@ -617,6 +596,27 @@
                 "short_name": "Pk (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
                 "room": "C228"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A217"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A12"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A12"
             }
         ],
         "Niedziela 2026-11-22": [
