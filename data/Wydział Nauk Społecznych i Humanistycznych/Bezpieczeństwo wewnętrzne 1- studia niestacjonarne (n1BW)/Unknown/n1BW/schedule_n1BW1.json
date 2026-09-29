@@ -137,20 +137,6 @@
                 "short_name": "NhP (wt)",
                 "teacher": "dr Andrzej Szczepański",
                 "room": "C212"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Zbigniew Tracz",
-                "room": "C322"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "mgr Zbigniew Tracz",
-                "room": "C322"
             }
         ],
         "Niedziela 2026-10-18": [
@@ -609,6 +595,20 @@
                 "short_name": "Wdpz (wt)",
                 "teacher": "dr Jerzy Buczko",
                 "room": "Tymczasowa05"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy prawa (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "C322"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy prawa (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "mgr Zbigniew Tracz",
+                "room": "C322"
             }
         ]
     }

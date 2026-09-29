@@ -20,16 +20,7 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Grzegorz Konieczny",
-                "room": "A32"
-            }
-        ],
-        "Piątek 2026-10-02": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
-                "short_name": "Aa/Pk (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "Inne_WF_Basen"
+                "room": "A142"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -608,13 +599,6 @@
             }
         ],
         "Piątek 2026-10-30": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
-                "short_name": "Aa/Pk (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "Inne_WF_Basen"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Działalność gospodarcza w fizjoterapii* / Samozatrudnienie w fizjoterapii* (wyk)",
@@ -1342,13 +1326,6 @@
         ],
         "Piątek 2026-12-11": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
-                "short_name": "Aa/Pk (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "Inne_WF_Basen"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
                 "short_name": "Pfwcw (wyk)",
@@ -1442,13 +1419,6 @@
             }
         ],
         "Piątek 2026-12-18": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Aqua aerobic* / Pływanie korekcyjne* (ćw)",
-                "short_name": "Aa/Pk (ćw)",
-                "teacher": "mgr  Mateusz Wierzbicki",
-                "room": "Inne_WF_Basen"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",

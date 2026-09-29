@@ -780,13 +780,6 @@
                 "short_name": "Ceiemm (wyk)",
                 "teacher": "dr inż. Kamila Jóźwiak",
                 "room": "Online_109"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Ciepłownie elektrownie i elektrociepłownie małej mocy (wyk)",
-                "short_name": "Ceiemm (wyk)",
-                "teacher": "dr inż. Kamila Jóźwiak",
-                "room": "Online_109"
             }
         ],
         "Środa 2026-12-02": [
@@ -1162,6 +1155,15 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera",
                 "room": "Online_01 / Online_02"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Ciepłownie elektrownie i elektrociepłownie małej mocy (wyk)",
+                "short_name": "Ceiemm (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A245"
             }
         ],
         "Sobota 2027-01-16": [

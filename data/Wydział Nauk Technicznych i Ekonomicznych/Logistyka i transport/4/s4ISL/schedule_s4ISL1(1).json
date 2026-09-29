@@ -169,6 +169,13 @@
         ],
         "Wtorek 2026-10-27": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Ekonomika transportu (wt)",
                 "short_name": "Et (wt)",
@@ -209,6 +216,22 @@
                 "short_name": "Wwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
                 "room": "A143"
+            }
+        ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_16"
             }
         ],
         "Środa 2026-11-04": [
@@ -288,6 +311,13 @@
             }
         ],
         "Wtorek 2026-11-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A32"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Ekonomika transportu (wt)",
@@ -395,20 +425,6 @@
                 "room": "A143"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "A141"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "A141"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Warsztat w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
@@ -503,13 +519,6 @@
         ],
         "Środa 2026-11-25": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
@@ -564,6 +573,20 @@
             }
         ],
         "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Ekonomika transportu (wt)",
@@ -719,36 +742,13 @@
                 "room": "Online_109"
             }
         ],
-        "Poniedziałek 2026-12-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_104"
-            },
+        "Wtorek 2026-12-15": [
             {
                 "time": "17:00-18:30",
                 "class_name": "Prawo socjalne (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "dr Waldemar Bochenek",
-                "room": "Online_104"
-            }
-        ],
-        "Wtorek 2026-12-15": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "A141"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "A141"
+                "room": "Online_101"
             },
             {
                 "time": "18:45-20:15",
@@ -759,13 +759,6 @@
             }
         ],
         "Środa 2026-12-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_105"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Ochrona własności intelektualnej (wyk)",
@@ -879,35 +872,35 @@
                 "class_name": "Ekonomika transportu (wt)",
                 "short_name": "Et (wt)",
                 "teacher": "mgr Łukasz Bałecki",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Ekonomika transportu (wt)",
                 "short_name": "Et (wt)",
                 "teacher": "mgr Łukasz Bałecki",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Bezpieczeństwo drogowe (wt)",
                 "short_name": "Bd (wt)",
                 "teacher": "mgr Małgorzata Pacer",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Warsztat w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Warsztat w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
-                "room": "A16"
+                "room": "A32"
             }
         ],
         "Środa 2027-01-13": [
@@ -933,13 +926,20 @@
                 "room": "Online_100"
             }
         ],
-        "Piątek 2027-01-15": [
+        "Czwartek 2027-01-14": [
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "Prawo socjalne (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "dr Waldemar Bochenek",
-                "room": "Online_105"
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_01"
             }
         ],
         "Poniedziałek 2027-01-18": [

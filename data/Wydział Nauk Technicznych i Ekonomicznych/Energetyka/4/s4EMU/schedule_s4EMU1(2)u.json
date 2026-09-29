@@ -410,6 +410,13 @@
                 "short_name": "Ese (p)",
                 "teacher": "mgr inż. Sebastian Kowalski",
                 "room": "A217"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Energetyka jądrowa (ćw)",
+                "short_name": "Ej (ćw)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A141"
             }
         ],
         "Poniedziałek 2026-11-23": [
@@ -650,6 +657,15 @@
                 "room": "Online_22"
             }
         ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A144"
+            }
+        ],
         "Czwartek 2027-01-07": [
             {
                 "time": "17:00-18:30",
@@ -696,15 +712,6 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Online_07"
-            }
-        ],
-        "Środa 2027-01-13": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Energetyka jądrowa (wyk)",
-                "short_name": "Ej (wyk)",
-                "teacher": "dr inż. Kamila Jóźwiak",
-                "room": "A212"
             }
         ],
         "Czwartek 2027-01-14": [
@@ -754,13 +761,6 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Energetyka jądrowa (ćw)",
-                "short_name": "Ej (ćw)",
-                "teacher": "dr inż. Kamila Jóźwiak",
-                "room": "A12"
-            },
-            {
-                "time": "19:00-20:30",
                 "class_name": "Energetyka jądrowa (ćw)",
                 "short_name": "Ej (ćw)",
                 "teacher": "dr inż. Kamila Jóźwiak",

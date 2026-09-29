@@ -287,6 +287,22 @@
                 "room": "Online_109 / Online_11 / Online_110"
             }
         ],
+        "Wtorek 2026-11-03": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_16"
+            }
+        ],
         "Środa 2026-11-04": [
             {
                 "time": "15:15-16:45",
@@ -519,13 +535,6 @@
         ],
         "Środa 2026-11-25": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_100"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
@@ -756,20 +765,6 @@
         ],
         "Poniedziałek 2026-12-14": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_104"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_104"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -779,6 +774,13 @@
         ],
         "Wtorek 2026-12-15": [
             {
+                "time": "17:00-18:30",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_101"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
@@ -787,13 +789,6 @@
             }
         ],
         "Środa 2026-12-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Prawo socjalne (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_105"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Ochrona własności intelektualnej (wyk)",
@@ -982,14 +977,23 @@
                 "room": "Online_100"
             }
         ],
-        "Piątek 2027-01-15": [
+        "Czwartek 2027-01-14": [
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "Prawo socjalne (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "dr Waldemar Bochenek",
-                "room": "Online_105"
+                "room": "Online_01"
             },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo socjalne (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_01"
+            }
+        ],
+        "Piątek 2027-01-15": [
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",

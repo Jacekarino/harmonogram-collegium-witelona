@@ -34,7 +34,7 @@
                 "class_name": "Chirurgia (wyk)",
                 "short_name": "Chiru (wyk)",
                 "teacher": "mgr Barbara Golicz",
-                "room": "C224"
+                "room": "C212"
             },
             {
                 "time": "18:45-20:15",
@@ -868,20 +868,6 @@
                 "short_name": "Radio (ćw)",
                 "teacher": "mgr Magdalena Słomczyńska",
                 "room": "A13"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Chirurgia (wyk)",
-                "short_name": "Chiru (wyk)",
-                "teacher": "lek. Kornelia Stempel",
-                "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Chirurgia (wyk)",
-                "short_name": "Chiru (wyk)",
-                "teacher": "lek. Kornelia Stempel",
-                "room": "A144"
             }
         ],
         "Środa 2026-11-04": [
@@ -1404,6 +1390,20 @@
                 "short_name": "Cwipi (wyk)",
                 "teacher": "mgr Halina Komorowicz",
                 "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Kornelia Stempel",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Chirurgia (wyk)",
+                "short_name": "Chiru (wyk)",
+                "teacher": "lek. Kornelia Stempel",
+                "room": "A14"
             }
         ],
         "Piątek 2026-11-27": [

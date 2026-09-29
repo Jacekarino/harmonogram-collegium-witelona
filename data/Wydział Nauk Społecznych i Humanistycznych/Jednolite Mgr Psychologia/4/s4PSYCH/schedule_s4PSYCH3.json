@@ -18,24 +18,24 @@
         ],
         "Poniedziałek 2026-10-05": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A217"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A217"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A217"
             }
         ],
@@ -250,28 +250,28 @@
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             }
         ],
         "Środa 2026-10-21": [
@@ -331,24 +331,24 @@
         ],
         "Poniedziałek 2026-10-26": [
             {
-                "time": "08:15-09:45",
+                "time": "15:15-16:45",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A145"
             },
             {
-                "time": "10:00-11:30",
+                "time": "17:00-18:30",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A145"
             },
             {
-                "time": "11:45-13:15",
+                "time": "18:45-20:15",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A145"
             }
         ],
@@ -735,29 +735,6 @@
                 "room": "A12 / A32"
             }
         ],
-        "Poniedziałek 2026-11-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            }
-        ],
         "Wtorek 2026-11-24": [
             {
                 "time": "08:15-09:45",
@@ -899,43 +876,43 @@
                 "time": "10:00-11:30",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Małgorzata Buchla / dr Katarzyna Sępowicz-Buczko",
-                "room": "A16 / A31"
+                "teacher": "dr Katarzyna Sępowicz-Buczko / dr Małgorzata Buchla",
+                "room": "A31 / A32"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Małgorzata Buchla / dr Katarzyna Sępowicz-Buczko",
-                "room": "A16 / A31"
+                "teacher": "dr Katarzyna Sępowicz-Buczko / dr Małgorzata Buchla",
+                "room": "A31 / A32"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A32"
             }
         ],
         "Środa 2026-12-02": [
@@ -1136,27 +1113,27 @@
                 "room": "Online_11 / Online_110"
             }
         ],
-        "Poniedziałek 2026-12-14": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A12"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A12"
-            },
+        "Wtorek 2026-12-15": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A12"
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C203"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C203"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "C203"
             }
         ],
         "Środa 2026-12-16": [
@@ -1244,24 +1221,24 @@
         ],
         "Poniedziałek 2026-12-21": [
             {
-                "time": "13:30-15:00",
-                "class_name": "Strategia profilaktyki społecznej (wt)",
-                "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
-                "room": "A217"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A217"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
                 "short_name": "Sps (wt)",
-                "teacher": "dr Marek Kazimierowicz",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A217"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
                 "room": "A217"
             }
         ],
@@ -1293,6 +1270,27 @@
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
                 "room": "C123"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Strategia profilaktyki społecznej (wt)",
+                "short_name": "Sps (wt)",
+                "teacher": "mgr Tomasz Kwoka",
+                "room": "A15"
             }
         ],
         "Czwartek 2027-01-07": [
@@ -1474,21 +1472,21 @@
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A217"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A217"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Agata Dominik",
-                "room": "A16"
+                "room": "A217"
             }
         ],
         "Środa 2027-01-20": [

@@ -785,13 +785,6 @@
                 "short_name": "Pp (wyk)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
                 "room": "Online_102"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wprowadzenie do techniki (wyk)",
-                "short_name": "Wdt (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "Online_100"
             }
         ],
         "Czwartek 2026-12-03": [
@@ -1299,6 +1292,13 @@
                 "short_name": "Pti (wyk)",
                 "teacher": "dr inż. Ryszard Rębowski",
                 "room": "C212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Wprowadzenie do techniki (wyk)",
+                "short_name": "Wdt (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "A212"
             }
         ]
     }

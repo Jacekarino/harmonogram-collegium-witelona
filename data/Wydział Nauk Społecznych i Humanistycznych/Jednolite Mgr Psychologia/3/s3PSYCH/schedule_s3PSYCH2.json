@@ -157,15 +157,6 @@
                 "room": "C126"
             }
         ],
-        "Środa 2026-10-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_13"
-            }
-        ],
         "Czwartek 2026-10-15": [
             {
                 "time": "15:15-16:45",
@@ -196,6 +187,13 @@
                 "short_name": "1Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
                 "room": "D17 / A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_103"
             }
         ],
         "Poniedziałek 2026-10-19": [
@@ -227,14 +225,14 @@
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A16"
+                "room": "A32"
             },
             {
                 "time": "11:45-13:15",
@@ -259,20 +257,6 @@
             }
         ],
         "Środa 2026-10-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
@@ -318,6 +302,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "A2 / D8"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_105"
             }
         ],
         "Poniedziałek 2026-10-26": [
@@ -394,15 +385,6 @@
                 "room": "C126"
             }
         ],
-        "Środa 2026-10-28": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            }
-        ],
         "Czwartek 2026-10-29": [
             {
                 "time": "15:15-16:45",
@@ -440,21 +422,21 @@
                 "short_name": "1Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
                 "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_102"
             }
         ],
         "Środa 2026-11-04": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            },
-            {
                 "time": "17:00-18:30",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
                 "room": "Online_18"
             },
             {
@@ -475,9 +457,9 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychologia kliniczna (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Tomasz Cyrkot",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
                 "room": "Online_110"
             },
             {
@@ -502,6 +484,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_103"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -594,6 +583,13 @@
                 "short_name": "1Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
                 "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_05"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -649,15 +645,6 @@
                 "room": "C126"
             }
         ],
-        "Środa 2026-11-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            }
-        ],
         "Czwartek 2026-11-19": [
             {
                 "time": "15:15-16:45",
@@ -695,6 +682,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_100"
             }
         ],
         "Wtorek 2026-11-24": [
@@ -721,13 +715,6 @@
             }
         ],
         "Środa 2026-11-25": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia kliniczna (wyk)",
@@ -773,6 +760,13 @@
                 "short_name": "1Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
                 "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_09"
             }
         ],
         "Wtorek 2026-12-01": [
@@ -813,13 +807,6 @@
             }
         ],
         "Środa 2026-12-02": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_18"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia kliniczna (wyk)",
@@ -872,6 +859,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_100"
             }
         ],
         "Poniedziałek 2026-12-07": [
@@ -911,15 +905,6 @@
                 "room": "C126"
             }
         ],
-        "Środa 2026-12-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_110"
-            }
-        ],
         "Czwartek 2026-12-10": [
             {
                 "time": "15:15-16:45",
@@ -957,6 +942,13 @@
                 "short_name": "1Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
                 "room": "A2"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_07"
             }
         ],
         "Poniedziałek 2026-12-14": [
@@ -1012,15 +1004,6 @@
                 "room": "C122"
             }
         ],
-        "Środa 2026-12-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_112"
-            }
-        ],
         "Czwartek 2026-12-17": [
             {
                 "time": "15:15-16:45",
@@ -1058,6 +1041,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "D17 / A2 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_100"
             }
         ],
         "Poniedziałek 2026-12-21": [
@@ -1136,6 +1126,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Magdalena Szylar",
                 "room": "A2 / A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_100"
             }
         ],
         "Poniedziałek 2027-01-11": [
@@ -1205,20 +1202,6 @@
                 "short_name": "Psych (wyk)",
                 "teacher": "dr Beata Rajba",
                 "room": "Online_108"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_108"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "Online_108"
             }
         ],
         "Czwartek 2027-01-14": [
@@ -1258,6 +1241,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Anna Świerczyńska",
                 "room": "A2 / D8"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "Online_10"
             }
         ],
         "Poniedziałek 2027-01-18": [
@@ -1285,13 +1275,6 @@
         ],
         "Środa 2027-01-20": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Pomoc psychologiczna (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Joanna Dziura",
-                "room": "E4"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Psychometria (wyk)",
                 "short_name": "Psych (wyk)",
@@ -1313,6 +1296,13 @@
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Tomasz Cyrkot",
                 "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pomoc psychologiczna (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Joanna Dziura",
+                "room": "A212"
             }
         ],
         "Piątek 2027-01-22": [
