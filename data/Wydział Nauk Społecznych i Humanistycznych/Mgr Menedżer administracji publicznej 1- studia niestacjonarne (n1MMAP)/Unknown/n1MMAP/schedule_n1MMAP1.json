@@ -329,6 +329,22 @@
                 "room": "A212"
             }
         ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań w naukach społecznych (wyk)",
+                "short_name": "Mbwns (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metodologia badań w naukach społecznych (wyk)",
+                "short_name": "Mbwns (wyk)",
+                "teacher": "Wakat_2_WS",
+                "room": "Online_112"
+            }
+        ],
         "Sobota 2026-11-28": [
             {
                 "time": "08:15-09:45",
@@ -415,20 +431,6 @@
                 "short_name": "Psc (wyk)",
                 "teacher": "mgr Grzegorz Majewicz",
                 "room": "Online_01"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "Wakat_2_WS",
-                "room": "Online_02"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "Wakat_2_WS",
-                "room": "Online_02"
             }
         ],
         "Piątek 2026-12-11": [

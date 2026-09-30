@@ -359,6 +359,13 @@
                 "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
                 "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "A142"
             }
         ],
         "Niedziela 2026-10-25": [
@@ -811,13 +818,6 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Prawo rzymskieawo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "A36"
-            },
-            {
-                "time": "19:00-20:30",
                 "class_name": "Prawo rzymskieawo (wt)",
                 "short_name": "Prawo (wt)",
                 "teacher": "Wakat_2_WS",

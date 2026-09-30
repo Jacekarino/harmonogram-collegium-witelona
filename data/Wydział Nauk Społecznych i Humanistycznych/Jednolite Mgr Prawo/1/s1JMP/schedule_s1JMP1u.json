@@ -540,20 +540,6 @@
         ],
         "Sobota 2026-11-07": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Prawo rzymskieawo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "C123"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo rzymskieawo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "C123"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Prawo rzymskie (wt)",
                 "short_name": "Pr (wt)",
@@ -595,27 +581,6 @@
                 "class_name": "Autoprezentacja i wystąpienia publiczne* (wt)",
                 "short_name": "Aiwp (wt)",
                 "teacher": "dr Dawid Kutryn",
-                "room": "C209"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Logika prawnicza (wt)",
-                "short_name": "Lp (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "C209"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Logika prawnicza (wt)",
-                "short_name": "Lp (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "C209"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawo rzymskie (wt)",
-                "short_name": "Pr (wt)",
-                "teacher": "Wakat_2_WS",
                 "room": "C209"
             }
         ],
@@ -686,6 +651,22 @@
                 "short_name": "Tifp (wyk)",
                 "teacher": "dr Eugeniusz Szydłowski",
                 "room": "Online_102"
+            }
+        ],
+        "Niedziela 2026-11-15": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C111"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C111"
             }
         ],
         "Czwartek 2026-11-19": [
@@ -877,6 +858,36 @@
                 "room": "Online_08"
             }
         ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
+                "teacher": "Wakat_2_WS",
+                "room": "C126"
+            }
+        ],
         "Środa 2026-12-02": [
             {
                 "time": "15:15-16:45",
@@ -953,20 +964,6 @@
                 "short_name": "Lp (wt)",
                 "teacher": "Wakat_2_WS",
                 "room": "A2"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Prawo rzymskie (wt)",
-                "short_name": "Pr (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "A2"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawo rzymskieawo (wt)",
-                "short_name": "Prawo (wt)",
-                "teacher": "Wakat_2_WS",
-                "room": "A2"
             }
         ],
         "Niedziela 2026-12-06": [
@@ -1014,8 +1011,8 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Logika prawnicza (wt)",
-                "short_name": "Lp (wt)",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
                 "teacher": "Wakat_2_WS",
                 "room": "A14"
             }
@@ -1451,16 +1448,16 @@
         "Niedziela 2027-01-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Ochrona własności intelektualnej (wt)",
-                "short_name": "Owi (wt)",
-                "teacher": "mgr  Joanna Rewak",
+                "class_name": "Prawo rzymskieawo (wt)",
+                "short_name": "Prawo (wt)",
+                "teacher": "Wakat_2_WS",
                 "room": "A14"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Ochrona własności intelektualnej (wt)",
-                "short_name": "Owi (wt)",
-                "teacher": "mgr  Joanna Rewak",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
+                "teacher": "Wakat_2_WS",
                 "room": "A14"
             },
             {
@@ -1479,16 +1476,23 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Prawo rzymskieawo (wt)",
-                "short_name": "Prawo (wt)",
+                "class_name": "Logika prawnicza (wt)",
+                "short_name": "Lp (wt)",
                 "teacher": "Wakat_2_WS",
                 "room": "A14"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Prawo rzymskie (wt)",
-                "short_name": "Pr (wt)",
-                "teacher": "Wakat_2_WS",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
+                "room": "A14"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Ochrona własności intelektualnej (wt)",
+                "short_name": "Owi (wt)",
+                "teacher": "mgr  Joanna Rewak",
                 "room": "A14"
             }
         ],

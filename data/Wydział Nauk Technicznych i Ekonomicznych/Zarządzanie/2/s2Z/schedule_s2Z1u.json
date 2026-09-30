@@ -25,13 +25,6 @@
         ],
         "Sobota 2026-10-03": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Zachowanie organizacyjne (sem)",
-                "short_name": "Zo (sem)",
-                "teacher": "dr Ewa Groszewska",
-                "room": "C202"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -65,6 +58,13 @@
                 "short_name": "Fp (ćw)",
                 "teacher": "dr Przemysław Siudak",
                 "room": "C202"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zachowanie organizacyjne (sem)",
+                "short_name": "Zo (sem)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "C322"
             }
         ],
         "Niedziela 2026-10-04": [
@@ -194,13 +194,6 @@
             }
         ],
         "Sobota 2026-10-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "2 Prawo gospodarcze (ćw)",
-                "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "C209"
-            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Finanse przedsiębiorstwa (ćw)",
@@ -361,14 +354,14 @@
                 "time": "08:15-09:45",
                 "class_name": "2 Prawo gospodarcze (ćw)",
                 "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
+                "teacher": "Wakat_2_WS",
                 "room": "C203"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "2 Prawo gospodarcze (ćw)",
                 "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
+                "teacher": "Wakat_2_WS",
                 "room": "C203"
             },
             {
@@ -573,6 +566,13 @@
                 "short_name": "Nwb (sem)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "C203"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "2 Prawo gospodarcze (ćw)",
+                "short_name": "2Pg (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "C203"
             }
         ],
         "Wtorek 2026-11-24": [
@@ -702,7 +702,7 @@
                 "time": "17:15-18:45",
                 "class_name": "2 Prawo gospodarcze (ćw)",
                 "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
+                "teacher": "Wakat_2_WS",
                 "room": "C203"
             },
             {
@@ -890,13 +890,6 @@
                 "room": "C203"
             },
             {
-                "time": "13:45-15:15",
-                "class_name": "2 Prawo gospodarcze (ćw)",
-                "short_name": "2Pg (ćw)",
-                "teacher": "dr Eugeniusz Szydłowski",
-                "room": "C203"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Finanse przedsiębiorstwa (ćw)",
                 "short_name": "Fp (ćw)",
@@ -1001,6 +994,13 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Iwona Chrzan-Filipowska / dr Lilia Omelan / mgr Izabela Selera",
                 "room": "A13 / A15 / A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "2 Prawo gospodarcze (ćw)",
+                "short_name": "2Pg (ćw)",
+                "teacher": "Wakat_2_WS",
+                "room": "C202"
             },
             {
                 "time": "19:00-20:30",

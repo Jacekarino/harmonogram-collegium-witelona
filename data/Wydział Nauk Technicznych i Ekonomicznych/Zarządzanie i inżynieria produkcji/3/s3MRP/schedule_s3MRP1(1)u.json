@@ -112,14 +112,14 @@
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -643,14 +643,14 @@
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -885,7 +885,7 @@
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (lab)",
                 "short_name": "Airpp (lab)",
                 "teacher": "mgr inż. Bartosz Podsiadły",
-                "room": "C311"
+                "room": "C312"
             },
             {
                 "time": "17:15-18:45",
@@ -1044,14 +1044,14 @@
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             },
             {
                 "time": "11:45-13:15",
@@ -1180,7 +1180,7 @@
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
                 "short_name": "Spcid (ćw)",
                 "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
+                "room": "C312"
             },
             {
                 "time": "10:00-11:30",
@@ -1430,13 +1430,6 @@
                 "room": "A16 / D17"
             },
             {
-                "time": "17:15-18:45",
-                "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
-                "short_name": "Spcid (ćw)",
-                "teacher": "dr inż. Rafał Więcławek",
-                "room": "C127"
-            },
-            {
                 "time": "19:00-20:30",
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (lab)",
                 "short_name": "Airpp (lab)",
@@ -1445,6 +1438,13 @@
             }
         ],
         "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Sterowanie procesów ciągłych i dyskretnych (ćw)",
+                "short_name": "Spcid (ćw)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Maszynoznawstwo (ćw)",

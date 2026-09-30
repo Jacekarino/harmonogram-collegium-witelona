@@ -115,13 +115,6 @@
                 "short_name": "Socjo (wyk)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "E1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Biologiczne podstawy zachowań cz. I (wyk)",
-                "short_name": "BpzcI (wyk)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "E1"
             }
         ],
         "Poniedziałek 2026-10-19": [
@@ -175,6 +168,13 @@
                 "short_name": "Socjo (ćw)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "C111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Biologiczne podstawy zachowań cz. I (wyk)",
+                "short_name": "BpzcI (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "E1"
             }
         ],
         "Środa 2026-10-21": [

@@ -25,6 +25,13 @@
         ],
         "Poniedziałek 2026-10-05": [
             {
+                "time": "17:00-18:30",
+                "class_name": "1 Socjologia organizacji (wyk)",
+                "short_name": "1So (wyk)",
+                "teacher": "dr Ewa Groszewska",
+                "room": "A212"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
@@ -52,13 +59,6 @@
                 "class_name": "Prawo (wyk)",
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Marta Stanisławska",
-                "room": "C212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "1 Socjologia organizacji (wyk)",
-                "short_name": "1So (wyk)",
-                "teacher": "dr Ewa Groszewska",
                 "room": "C212"
             }
         ],
