@@ -402,13 +402,6 @@
                 "room": "A245"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Administracja elektroniczna (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "A15"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Zamówienia publiczne (wt)",
                 "short_name": "Zp (wt)",
@@ -650,6 +643,13 @@
                 "class_name": "Zamówienia publiczne (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "Wakat_1_WS",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
                 "room": "A15"
             }
         ],

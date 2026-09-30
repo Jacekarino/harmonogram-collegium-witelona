@@ -187,6 +187,13 @@
                 "short_name": "Maszy (wyk)",
                 "teacher": "dr inż. Zygmunt Domagała",
                 "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C312"
             }
         ],
         "Wtorek 2026-10-13": [
@@ -432,8 +439,8 @@
         "Czwartek 2026-10-29": [
             {
                 "time": "15:15-16:45",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_09"
             },
@@ -679,15 +686,15 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_109"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_109"
             }
@@ -905,8 +912,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_10"
             },
@@ -928,8 +935,8 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_114"
             }
@@ -1147,8 +1154,8 @@
         "Poniedziałek 2026-12-21": [
             {
                 "time": "15:15-16:45",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_03"
             },
@@ -1271,16 +1278,9 @@
         ],
         "Wtorek 2027-01-12": [
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (wyk)",
                 "short_name": "Spcid (wyk)",
-                "teacher": "dr inż. Rafał Więcławek",
-                "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_04"
             },
@@ -1317,13 +1317,6 @@
         ],
         "Czwartek 2027-01-14": [
             {
-                "time": "15:15-16:45",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
-                "teacher": "dr inż. Rafał Więcławek",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Moduł do wyboru (wyk)",
                 "short_name": "Mdw (wyk)",
@@ -1334,10 +1327,10 @@
         "Poniedziałek 2027-01-18": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Układy mikroprocesorowe (wyk)",
-                "short_name": "Um (wyk)",
-                "teacher": "mgr inż. Jan Duda",
-                "room": "D16"
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "C201"
             },
             {
                 "time": "17:00-18:30",
@@ -1378,6 +1371,13 @@
             }
         ],
         "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Układy mikroprocesorowe (wyk)",
+                "short_name": "Um (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "D16"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Sterowanie procesów ciągłych i dyskretnych (wyk)",

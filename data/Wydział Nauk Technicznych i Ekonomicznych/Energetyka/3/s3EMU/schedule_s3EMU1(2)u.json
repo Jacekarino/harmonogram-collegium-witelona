@@ -838,10 +838,10 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Ciepłownie elektrownie i elektrociepłownie małej mocy (p)",
-                "short_name": "Ceiemm (p)",
-                "teacher": "dr inż. Kamila Jóźwiak",
-                "room": "A145"
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "A217"
             },
             {
                 "time": "17:15-18:45",
@@ -852,9 +852,9 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Projekt przemysłowy (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "class_name": "Ciepłownie elektrownie i elektrociepłownie małej mocy (p)",
+                "short_name": "Ceiemm (p)",
+                "teacher": "dr inż. Kamila Jóźwiak",
                 "room": "A217"
             }
         ],

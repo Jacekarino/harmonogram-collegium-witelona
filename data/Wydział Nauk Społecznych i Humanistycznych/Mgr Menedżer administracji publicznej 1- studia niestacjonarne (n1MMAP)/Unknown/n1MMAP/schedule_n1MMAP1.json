@@ -53,24 +53,10 @@
         ],
         "Niedziela 2026-10-04": [
             {
-                "time": "08:15-09:45",
+                "time": "11:45-13:15",
                 "class_name": "Filozofia (wyk)",
                 "short_name": "Filoz (wyk)",
                 "teacher": "dr Kamila Morawska",
-                "room": "C113"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Menedżeryzm w administracji publicznej (wt)",
-                "short_name": "Mwap (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C113"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Menedżeryzm w administracji publicznej (wt)",
-                "short_name": "Mwap (wt)",
-                "teacher": "mgr Marlena Gniewosz",
                 "room": "C113"
             },
             {
@@ -173,6 +159,20 @@
                 "class_name": "Coaching i mentoring w organizacji (wt)",
                 "short_name": "Cimwo (wt)",
                 "teacher": "dr Tadeusz Kowalski",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Menedżeryzm w administracji publicznej (wt)",
+                "short_name": "Mwap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Menedżeryzm w administracji publicznej (wt)",
+                "short_name": "Mwap (wt)",
+                "teacher": "mgr Marlena Gniewosz",
                 "room": "A212"
             }
         ],

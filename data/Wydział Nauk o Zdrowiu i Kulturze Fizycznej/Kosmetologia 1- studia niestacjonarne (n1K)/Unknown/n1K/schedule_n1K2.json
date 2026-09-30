@@ -35,13 +35,6 @@
                 "short_name": "Pz (ćw)",
                 "teacher": "mgr Zbigniew Tracz",
                 "room": "A144"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
-                "short_name": "Tiisi (ćw)",
-                "teacher": "mgr inż. Piotr Skoczylas",
-                "room": "C10"
             }
         ],
         "Piątek 2026-10-09": [
@@ -504,6 +497,13 @@
             }
         ],
         "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",
+                "short_name": "Tiisi (ćw)",
+                "teacher": "mgr inż. Piotr Skoczylas",
+                "room": "C10"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (ćw)",

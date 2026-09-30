@@ -102,13 +102,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Wojciech Mucha / dr Aleksandra Nowicka / dr Przemysław Charzewski",
                 "room": "C210 / C329 / A6"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
-                "short_name": "Amrs (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C128"
             }
         ],
         "Poniedziałek 2026-10-05": [
@@ -875,6 +868,13 @@
             }
         ],
         "Niedziela 2026-12-13": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "C228"
+            },
             {
                 "time": "13:45-15:15",
                 "class_name": "Prawo pracy i ubezpieczeń społecznych (wyk)",

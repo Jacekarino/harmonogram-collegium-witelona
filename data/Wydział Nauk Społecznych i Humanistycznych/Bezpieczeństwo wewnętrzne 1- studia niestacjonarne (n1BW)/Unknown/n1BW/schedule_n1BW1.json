@@ -24,8 +24,8 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
+                "class_name": "2 Podstawy psychologii (wyk)",
+                "short_name": "2Pp (wyk)",
                 "teacher": "dr  Mirosława Marks",
                 "room": "A36"
             },
@@ -89,14 +89,14 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Podstawy prawap (wt)",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
                 "short_name": "Ppp (wt)",
                 "teacher": "mgr Mirosław Walaszczyk",
                 "room": "A320"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Podstawy prawap (wt)",
+                "class_name": "Pierwsza pomoc przedmedyczna (wt)",
                 "short_name": "Ppp (wt)",
                 "teacher": "mgr Mirosław Walaszczyk",
                 "room": "A320"
@@ -105,15 +105,15 @@
         "Sobota 2026-10-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "2 Podstawy psychologii (wt)",
+                "short_name": "2Pp (wt)",
                 "teacher": "mgr Zbigniew Tracz",
                 "room": "C212"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
+                "class_name": "1 Podstawy prawa (wyk)",
+                "short_name": "1Pp (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "C212"
             },
@@ -195,8 +195,8 @@
         "Sobota 2026-11-07": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
+                "class_name": "1 Podstawy prawa (wyk)",
+                "short_name": "1Pp (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Online_01"
             },
@@ -232,8 +232,8 @@
         "Niedziela 2026-11-08": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "1 Podstawy prawa (wt)",
+                "short_name": "1Pp (wt)",
                 "teacher": "dr Marcin Sieja",
                 "room": "C322"
             },
@@ -276,8 +276,8 @@
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
+                "class_name": "1 Podstawy prawa (wyk)",
+                "short_name": "1Pp (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "C125"
             },
@@ -341,8 +341,8 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
+                "class_name": "2 Podstawy psychologii (wyk)",
+                "short_name": "2Pp (wyk)",
                 "teacher": "dr  Mirosława Marks",
                 "room": "Online_03"
             }
@@ -378,17 +378,10 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Podstawy prawa (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr  Mirosława Marks",
-                "room": "C125"
-            },
-            {
-                "time": "19:00-20:30",
                 "class_name": "Podstawy socjologii (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "dr Ewa Groszewska",
-                "room": "A245"
+                "room": "A144"
             }
         ],
         "Niedziela 2026-11-29": [
@@ -419,6 +412,13 @@
                 "short_name": "Tiisi (wt)",
                 "teacher": "mgr inż. Karol Zygadło",
                 "room": "Online_09"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "2 Podstawy psychologii (wyk)",
+                "short_name": "2Pp (wyk)",
+                "teacher": "dr  Mirosława Marks",
+                "room": "Online_02"
             }
         ],
         "Sobota 2026-12-12": [
@@ -526,8 +526,8 @@
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "1 Podstawy prawa (wt)",
+                "short_name": "1Pp (wt)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Tymczasowa05"
             },
@@ -577,8 +577,8 @@
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "1 Podstawy prawa (wt)",
+                "short_name": "1Pp (wt)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Tymczasowa05"
             },
@@ -598,15 +598,15 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "2 Podstawy psychologii (wt)",
+                "short_name": "2Pp (wt)",
                 "teacher": "mgr Zbigniew Tracz",
                 "room": "C322"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Podstawy prawa (wt)",
-                "short_name": "Pp (wt)",
+                "class_name": "2 Podstawy psychologii (wt)",
+                "short_name": "2Pp (wt)",
                 "teacher": "mgr Zbigniew Tracz",
                 "room": "C322"
             }

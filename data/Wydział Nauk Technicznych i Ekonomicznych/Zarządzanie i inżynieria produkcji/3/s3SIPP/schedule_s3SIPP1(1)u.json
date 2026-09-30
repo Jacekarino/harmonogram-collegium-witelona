@@ -170,6 +170,13 @@
         ],
         "Wtorek 2026-10-13": [
             {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "A32"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -650,15 +657,15 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_11"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_11"
             }
@@ -744,8 +751,8 @@
         "Wtorek 2026-11-24": [
             {
                 "time": "15:15-16:45",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_03"
             },
@@ -841,8 +848,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_101"
             },
@@ -1044,15 +1051,15 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_110"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
                 "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_110"
             }
@@ -1241,13 +1248,6 @@
         ],
         "Wtorek 2027-01-12": [
             {
-                "time": "17:00-18:30",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_100"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (wyk)",
                 "short_name": "Airpp (wyk)",
@@ -1262,13 +1262,6 @@
                 "short_name": "Rkdi (wyk)",
                 "teacher": "dr Leszek Kędzierski",
                 "room": "Online_103"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_104"
             }
         ],
         "Czwartek 2027-01-14": [
@@ -1329,6 +1322,13 @@
             }
         ],
         "Czwartek 2027-01-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "C210"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Moduł do wyboru (wyk)",

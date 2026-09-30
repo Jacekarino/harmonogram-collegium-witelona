@@ -9,17 +9,10 @@
                 "room": "C129 / C202 / C205"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Zarządzanie rozwojem miast (wt)",
-                "short_name": "Zrm (wt)",
-                "teacher": "mgr Robert Raczyński",
-                "room": "C224"
-            },
-            {
                 "time": "13:45-15:15",
-                "class_name": "Zarządzanie rozwojem miast (wt)",
-                "short_name": "Zrm (wt)",
-                "teacher": "mgr Robert Raczyński",
+                "class_name": "Prawne aspekty ochrony środowiska (wt)",
+                "short_name": "Paoś (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "C224"
             },
             {
@@ -35,13 +28,6 @@
                 "short_name": "Zj (wt)",
                 "teacher": "dr Wojciech Mucha",
                 "room": "A245"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawne aspekty ochrony środowiska (wt)",
-                "short_name": "Paoś (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A144"
             }
         ],
         "Niedziela 2026-10-04": [
@@ -716,6 +702,20 @@
                 "short_name": "Paoś (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
                 "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie rozwojem miast (wt)",
+                "short_name": "Zrm (wt)",
+                "teacher": "mgr Robert Raczyński",
+                "room": "C113"
             }
         ],
         "Poniedziałek 2026-11-30": [
