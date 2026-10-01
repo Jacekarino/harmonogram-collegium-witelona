@@ -121,42 +121,42 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Rafał Więcławek",
-                "room": "A145 / C202"
+                "room": "C205 / C225"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Cyberbezpieczeństwo (wt)",
                 "short_name": "Cyber (wt)",
                 "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
+                "room": "C225"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Cyberbezpieczeństwo (wt)",
                 "short_name": "Cyber (wt)",
                 "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
+                "room": "C225"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -321,13 +321,6 @@
                 "short_name": "Air (lab)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "C312"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Lean production (p)",
-                "short_name": "Lp (p)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A32"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -786,6 +779,13 @@
         ],
         "Niedziela 2026-11-29": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Digitalizacja produkcji i produktu (lab)",
+                "short_name": "Dpip (lab)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A242"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Digitalizacja produkcji i produktu (lab)",
                 "short_name": "Dpip (lab)",
@@ -793,11 +793,11 @@
                 "room": "A242"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Digitalizacja produkcji i produktu (lab)",
-                "short_name": "Dpip (lab)",
-                "teacher": "dr inż. Agata Kirjanów-Błażej",
-                "room": "A242"
+                "time": "13:45-15:15",
+                "class_name": "Lean production (p)",
+                "short_name": "Lp (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A145"
             },
             {
                 "time": "15:30-17:00",

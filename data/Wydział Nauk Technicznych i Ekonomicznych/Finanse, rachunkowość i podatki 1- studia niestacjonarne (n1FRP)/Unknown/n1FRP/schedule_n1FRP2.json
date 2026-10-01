@@ -461,13 +461,6 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "A212"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Matematyka (ćw)",
-                "short_name": "Matem (ćw)",
-                "teacher": "mgr Janina Płaskonka-Fietkowska",
-                "room": "A212"
             }
         ],
         "Sobota 2027-01-09": [
@@ -524,9 +517,9 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Mikroekonomia (wyk)",
-                "short_name": "Mikro (wyk)",
-                "teacher": "dr Paweł Jóźwiakowski",
+                "class_name": "Matematyka (ćw)",
+                "short_name": "Matem (ćw)",
+                "teacher": "mgr Janina Płaskonka-Fietkowska",
                 "room": "A212"
             },
             {
@@ -585,6 +578,13 @@
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Karol Selwat",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
                 "room": "A212"
             }
         ]

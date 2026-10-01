@@ -516,13 +516,6 @@
                 "room": "A212"
             },
             {
-                "time": "13:45-15:15",
-                "class_name": "Mikroekonomia (wyk)",
-                "short_name": "Mikro (wyk)",
-                "teacher": "dr Paweł Jóźwiakowski",
-                "room": "A212"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Moduł humanistyczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -585,6 +578,13 @@
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Karol Selwat",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Mikroekonomia (wyk)",
+                "short_name": "Mikro (wyk)",
+                "teacher": "dr Paweł Jóźwiakowski",
                 "room": "A212"
             }
         ]

@@ -82,28 +82,14 @@
                 "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
                 "short_name": "Zzlwliwt (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C205"
+                "room": "C203"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
                 "short_name": "Zzlwliwt (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C205"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "1 Podstawy metrologii (lab)",
-                "short_name": "1Pm (lab)",
-                "teacher": "mgr inż. Krystian Sadowski",
-                "room": "C327"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "1 Podstawy metrologii (lab)",
-                "short_name": "1Pm (lab)",
-                "teacher": "mgr inż. Krystian Sadowski",
-                "room": "C327"
+                "room": "C203"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -204,18 +190,32 @@
         ],
         "Sobota 2026-10-24": [
             {
-                "time": "11:45-13:15",
+                "time": "08:15-09:45",
                 "class_name": "Logistyka dystrybucji (p)",
                 "short_name": "Ld (p)",
                 "teacher": "dr Tomasz Janiak",
-                "room": "A141"
+                "room": "A145"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka dystrybucji (p)",
+                "short_name": "Ld (p)",
+                "teacher": "dr Tomasz Janiak",
+                "room": "A145"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Logistyka dystrybucji (p)",
-                "short_name": "Ld (p)",
-                "teacher": "dr Tomasz Janiak",
-                "room": "A141"
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
             },
             {
                 "time": "15:30-17:00",
@@ -267,13 +267,6 @@
                 "short_name": "Peie (ćw)",
                 "teacher": "mgr inż. Jan Duda",
                 "room": "D16"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Logistyka produkcji (lab)",
-                "short_name": "Lp (lab)",
-                "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C209"
             }
         ],
         "Wtorek 2026-10-27": [
@@ -420,6 +413,20 @@
         ],
         "Sobota 2026-11-14": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C202"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C202"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Maszynoznawstwo (ćw)",
                 "short_name": "Maszy (ćw)",
@@ -449,10 +456,10 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Logistyka produkcji (lab)",
-                "short_name": "Lp (lab)",
-                "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C203"
+                "class_name": "1 Podstawy metrologii (lab)",
+                "short_name": "1Pm (lab)",
+                "teacher": "mgr inż. Krystian Sadowski",
+                "room": "C327"
             }
         ],
         "Niedziela 2026-11-15": [
@@ -461,14 +468,14 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C227"
+                "room": "C203"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C227"
+                "room": "C203"
             },
             {
                 "time": "11:45-13:15",
@@ -497,13 +504,6 @@
                 "short_name": "2Pm (lab)",
                 "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "1 Podstawy metrologii (lab)",
-                "short_name": "1Pm (lab)",
-                "teacher": "mgr inż. Krystian Sadowski",
-                "room": "C327"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -626,17 +626,17 @@
         "Sobota 2026-11-28": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
-                "short_name": "Nizjwl (ćw)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A141"
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C202"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
-                "short_name": "Nizjwl (ćw)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A141"
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C202"
             },
             {
                 "time": "11:45-13:15",
@@ -677,17 +677,17 @@
         "Niedziela 2026-11-29": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Logistyka produkcji (lab)",
-                "short_name": "Lp (lab)",
-                "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C128"
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Logistyka produkcji (lab)",
-                "short_name": "Lp (lab)",
-                "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C128"
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A142"
             },
             {
                 "time": "11:45-13:15",
@@ -716,13 +716,6 @@
                 "short_name": "1Pm (lab)",
                 "teacher": "mgr inż. Krystian Sadowski",
                 "room": "C327"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
-                "short_name": "Nizjwl (ćw)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A31"
             }
         ],
         "Poniedziałek 2026-11-30": [
@@ -942,6 +935,13 @@
                 "short_name": "Nizjwl (ćw)",
                 "teacher": "mgr Rafał Zientara",
                 "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (ćw)",
+                "short_name": "Nizjwl (ćw)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A143"
             }
         ],
         "Poniedziałek 2026-12-14": [
@@ -1101,31 +1101,31 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
-                "short_name": "Zzlwliwt (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "A15"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
-                "short_name": "Zzlwliwt (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "A15"
-            },
-            {
-                "time": "17:15-18:45",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C326"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Logistyka produkcji (lab)",
+                "short_name": "Lp (lab)",
+                "teacher": "mgr inż. Grzegorz Gorczycki",
+                "room": "C326"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "C209"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Logistyka produkcji (lab)",
-                "short_name": "Lp (lab)",
-                "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C202"
+                "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
+                "short_name": "Zzlwliwt (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C209"
             }
         ],
         "Poniedziałek 2027-01-11": [

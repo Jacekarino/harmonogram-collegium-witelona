@@ -191,46 +191,32 @@
         ],
         "Niedziela 2026-10-11": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
-                "short_name": "Etśt (ćw)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A13"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
-                "short_name": "Etśt (ćw)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A13"
-            },
-            {
                 "time": "13:45-15:15",
-                "class_name": "Projekt inżynierski (p)",
-                "short_name": "Pi (p)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A31"
+                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
+                "short_name": "Etśt (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A13"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Projekt inżynierski (p)",
-                "short_name": "Pi (p)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A31"
+                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
+                "short_name": "Etśt (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A13"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Usługi i centra logistyczne (p)",
                 "short_name": "Uicl (p)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "A31"
+                "room": "A12"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Usługi i centra logistyczne (p)",
                 "short_name": "Uicl (p)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "A31"
+                "room": "A12"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -818,6 +804,20 @@
             }
         ],
         "Sobota 2026-11-28": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A141"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Usługi i centra logistyczne (p)",

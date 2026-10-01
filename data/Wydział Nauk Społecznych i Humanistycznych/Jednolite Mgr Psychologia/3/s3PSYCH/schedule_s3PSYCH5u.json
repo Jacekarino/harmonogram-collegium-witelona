@@ -168,35 +168,35 @@
                 "class_name": "Wywiad psychologiczny (wt)",
                 "short_name": "Wp (wt)",
                 "teacher": "mgr Dorota Zarzycka",
-                "room": "A12"
+                "room": "C202"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Wywiad psychologiczny (wt)",
                 "short_name": "Wp (wt)",
                 "teacher": "mgr Dorota Zarzycka",
-                "room": "A12"
+                "room": "C202"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "A12"
+                "room": "A16"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "A12"
+                "room": "A16"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Pomoc psychologiczna (ćw)",
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
-                "room": "A12"
+                "room": "A16"
             }
         ],
         "Środa 2026-10-14": [
@@ -374,20 +374,6 @@
                 "short_name": "Psych (ćw)",
                 "teacher": "Wakat_8_WS",
                 "room": "C123"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "A15"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "A15"
             },
             {
                 "time": "19:00-20:30",
@@ -646,6 +632,20 @@
             }
         ],
         "Sobota 2026-11-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "A15"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr  Aleksandra Chmiel-Karakuła",
+                "room": "A15"
+            },
             {
                 "time": "13:45-15:15",
                 "class_name": "Pomoc psychologiczna (ćw)",

@@ -84,7 +84,7 @@
                 "class_name": "1 Seminarium dyplomowe (sem)",
                 "short_name": "1Sd (sem)",
                 "teacher": "dr inż. Daniel Dębowski",
-                "room": "A141"
+                "room": "A32"
             },
             {
                 "time": "13:45-15:15",
@@ -128,35 +128,35 @@
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Cyberbezpieczeństwo (wt)",
                 "short_name": "Cyber (wt)",
                 "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
+                "room": "C225"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Cyberbezpieczeństwo (wt)",
                 "short_name": "Cyber (wt)",
                 "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
+                "room": "C225"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Gry symulacyjne (wt)",
                 "short_name": "Gs (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "A143"
+                "room": "C209"
             },
             {
                 "time": "19:00-20:30",
@@ -514,6 +514,29 @@
                 "room": "Online_02"
             }
         ],
+        "Niedziela 2026-11-08": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Cyberbezpieczeństwo (wt)",
+                "short_name": "Cyber (wt)",
+                "teacher": "mgr inż. Marcin Żmuda",
+                "room": "A143"
+            }
+        ],
         "Poniedziałek 2026-11-09": [
             {
                 "time": "17:00-18:30",
@@ -792,27 +815,6 @@
             }
         ],
         "Niedziela 2026-11-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Cyberbezpieczeństwo (wt)",
-                "short_name": "Cyber (wt)",
-                "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Cyberbezpieczeństwo (wt)",
-                "short_name": "Cyber (wt)",
-                "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Cyberbezpieczeństwo (wt)",
-                "short_name": "Cyber (wt)",
-                "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A145"
-            },
             {
                 "time": "13:45-15:15",
                 "class_name": "Innowacje (wt)",

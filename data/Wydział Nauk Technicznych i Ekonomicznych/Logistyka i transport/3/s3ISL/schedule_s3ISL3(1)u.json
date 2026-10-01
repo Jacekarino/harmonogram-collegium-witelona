@@ -195,40 +195,19 @@
                 "class_name": "Usługi i centra logistyczne (p)",
                 "short_name": "Uicl (p)",
                 "teacher": "mgr inż. Piotr Motyka",
-                "room": "A31"
+                "room": "A12"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Projekt inżynierski (p)",
-                "short_name": "Pi (p)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A31"
+                "class_name": "Ładunkoznawstwo (p)",
+                "short_name": "Ładun (p)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A13"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Projekt inżynierski (p)",
-                "short_name": "Pi (p)",
-                "teacher": "mgr Rafał Zientara",
-                "room": "A31"
-            },
-            {
-                "time": "13:45-15:15",
                 "class_name": "Eksploatacja techniczna środków transportu (ćw)",
                 "short_name": "Etśt (ćw)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A13"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
-                "short_name": "Etśt (ćw)",
-                "teacher": "dr inż. Stanisław Kwaśniowski",
-                "room": "A13"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Ładunkoznawstwo (p)",
-                "short_name": "Ładun (p)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A13"
             }
@@ -854,6 +833,20 @@
                 "room": "Tymczasowa05"
             },
             {
+                "time": "11:45-13:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A32"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Projekt inżynierski (p)",
+                "short_name": "Pi (p)",
+                "teacher": "mgr Rafał Zientara",
+                "room": "A32"
+            },
+            {
                 "time": "15:30-17:00",
                 "class_name": "Projektowanie procesów logistycznych i transportowych (p)",
                 "short_name": "Pplit (p)",
@@ -1391,6 +1384,13 @@
                 "short_name": "Ładun (wyk)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Eksploatacja techniczna środków transportu (ćw)",
+                "short_name": "Etśt (ćw)",
+                "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A145"
             }
         ],
         "Piątek 2027-01-22": [
