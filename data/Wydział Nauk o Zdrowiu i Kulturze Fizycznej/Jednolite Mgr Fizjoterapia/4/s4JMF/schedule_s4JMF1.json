@@ -83,22 +83,6 @@
                 "room": "A144"
             }
         ],
-        "Wtorek 2026-10-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
-                "short_name": "Gk/Kwp (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
-                "short_name": "Gk/Kwp (ćw)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A33"
-            }
-        ],
         "Środa 2026-10-07": [
             {
                 "time": "08:15-09:45",
@@ -891,6 +875,20 @@
                 "short_name": "Dfwcw (wyk)",
                 "teacher": "dr  Barbara Cieślik",
                 "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Gimnastyka korekcyjna* / Korekcja wad postawy* (ćw)",
+                "short_name": "Gk/Kwp (ćw)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A33"
             }
         ],
         "Poniedziałek 2026-11-16": [

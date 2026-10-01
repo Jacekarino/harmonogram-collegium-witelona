@@ -9,15 +9,6 @@
                 "room": "A142"
             }
         ],
-        "Wtorek 2026-10-06": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_16"
-            }
-        ],
         "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
@@ -44,6 +35,13 @@
         "Wtorek 2026-10-13": [
             {
                 "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "A142 / Online_14"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
@@ -140,8 +138,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12 / Online_15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
             }
         ],
         "Środa 2026-10-21": [
@@ -197,8 +202,8 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_12"
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_115 / Online_12"
             }
         ],
         "Środa 2026-11-04": [
@@ -263,6 +268,13 @@
         ],
         "Wtorek 2026-11-10": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_106"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -295,11 +307,18 @@
         ],
         "Wtorek 2026-11-17": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12 / Online_15"
             }
         ],
         "Środa 2026-11-18": [
@@ -385,6 +404,15 @@
                 "room": "A244"
             }
         ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            }
+        ],
         "Środa 2026-11-25": [
             {
                 "time": "17:00-18:30",
@@ -419,11 +447,18 @@
         ],
         "Wtorek 2026-12-01": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_15"
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12 / Online_15"
             }
         ],
         "Środa 2026-12-02": [
@@ -470,6 +505,15 @@
                 "short_name": "Pum (lab)",
                 "teacher": "mgr inż. Karol Zygadło",
                 "room": "C314"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_102"
             }
         ],
         "Środa 2026-12-09": [
@@ -621,6 +665,13 @@
         ],
         "Wtorek 2026-12-22": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_102"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -656,8 +707,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
+                "teacher": "prof. dr hab. inż. Robert Burduk / dr inż. Zbigniew Fryźlewicz",
+                "room": "Online_12 / Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "Online_12"
             }
         ],
         "Środa 2027-01-13": [
@@ -737,6 +795,13 @@
             }
         ],
         "Wtorek 2027-01-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Robert Burduk",
+                "room": "A142"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",

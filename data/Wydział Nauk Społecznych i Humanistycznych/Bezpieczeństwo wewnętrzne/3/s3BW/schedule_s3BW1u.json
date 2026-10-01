@@ -38,14 +38,14 @@
                 "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
                 "short_name": "Pkizr (wt)",
                 "teacher": "dr Katarzyna Sępowicz-Buczko",
-                "room": "Tymczasowa03"
+                "room": "Tymczasowa02"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychologia kryzysu i zarządzania ryzykiem (wt)",
                 "short_name": "Pkizr (wt)",
                 "teacher": "dr Katarzyna Sępowicz-Buczko",
-                "room": "Tymczasowa03"
+                "room": "Tymczasowa02"
             },
             {
                 "time": "11:45-13:15",
@@ -66,21 +66,21 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
-                "room": "Tymczasowa01 / Tymczasowa02"
+                "room": "C129 / C324"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
-                "room": "Tymczasowa01 / Tymczasowa02"
+                "room": "C129 / C324"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
-                "room": "Tymczasowa01 / Tymczasowa02"
+                "room": "C129 / C324"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -486,6 +486,13 @@
                 "short_name": "Siobp (wt)",
                 "teacher": "dr Jerzy Buczko",
                 "room": "C212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
             }
         ],
         "Wtorek 2026-11-17": [
@@ -813,15 +820,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
                 "room": "Tymczasowa04 / Tymczasowa05"
-            }
-        ],
-        "Niedziela 2026-12-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
             }
         ],
         "Czwartek 2027-01-07": [

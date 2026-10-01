@@ -244,14 +244,14 @@
                 "time": "11:45-13:15",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
@@ -273,7 +273,7 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C209"
             }
         ],
         "Wtorek 2026-10-27": [
@@ -317,7 +317,7 @@
         ],
         "Piątek 2026-10-30": [
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "2 Podstawy mechaniki (wyk)",
                 "short_name": "2Pm (wyk)",
                 "teacher": "dr inż. Dariusz Michalski",
@@ -370,6 +370,13 @@
                 "short_name": "Zzlwliwt (wyk)",
                 "teacher": "dr Tadeusz Kowalski",
                 "room": "Online_11"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_106"
             },
             {
                 "time": "18:45-20:15",
@@ -445,7 +452,7 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C203"
             }
         ],
         "Niedziela 2026-11-15": [
@@ -454,14 +461,14 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C227"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C227"
             },
             {
                 "time": "11:45-13:15",
@@ -481,14 +488,14 @@
                 "time": "15:30-17:00",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
@@ -673,27 +680,27 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C128"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C128"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
@@ -794,6 +801,13 @@
                 "short_name": "Wf (ćw)",
                 "teacher": "mgr  Jacek Skrzypek",
                 "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka zaopatrzenia (wyk)",
+                "short_name": "Lz (wyk)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_104"
             }
         ],
         "Wtorek 2026-12-08": [
@@ -1060,14 +1074,14 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C329"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C329"
             }
         ],
         "Niedziela 2027-01-10": [
@@ -1075,7 +1089,7 @@
                 "time": "10:00-11:30",
                 "class_name": "2 Podstawy mechaniki (lab)",
                 "short_name": "2Pm (lab)",
-                "teacher": "dr inż. Tomasz Stechnij",
+                "teacher": "dr inż. Tomasz Stechnij - Trochanowski",
                 "room": "C20"
             },
             {
@@ -1104,14 +1118,14 @@
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C209"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Logistyka produkcji (lab)",
                 "short_name": "Lp (lab)",
                 "teacher": "mgr inż. Grzegorz Gorczycki",
-                "room": "C221a"
+                "room": "C202"
             }
         ],
         "Poniedziałek 2027-01-11": [
@@ -1138,20 +1152,6 @@
             }
         ],
         "Wtorek 2027-01-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Logistyka zaopatrzenia (wyk)",
-                "short_name": "Lz (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka zaopatrzenia (wyk)",
-                "short_name": "Lz (wyk)",
-                "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_10"
-            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Język obcy (ćw)",

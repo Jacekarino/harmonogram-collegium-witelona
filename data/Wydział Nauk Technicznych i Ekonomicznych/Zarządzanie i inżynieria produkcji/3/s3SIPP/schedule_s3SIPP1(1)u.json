@@ -91,14 +91,14 @@
                 "class_name": "Przedsiębiorczość akademicka (p)",
                 "short_name": "Pa (p)",
                 "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "C128"
+                "room": "C127"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Przedsiębiorczość akademicka (p)",
                 "short_name": "Pa (p)",
                 "teacher": "dr hab. inż. Piotr Wrzecioniarz",
-                "room": "C128"
+                "room": "C127"
             }
         ],
         "Niedziela 2026-10-11": [
@@ -209,18 +209,18 @@
         ],
         "Piątek 2026-10-16": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
+                "short_name": "Spiswp (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "C201"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
                 "short_name": "Spiswp (wyk)",
                 "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "C128"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
-                "short_name": "Spiswp (wyk)",
-                "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "C128"
+                "room": "C201"
             }
         ],
         "Poniedziałek 2026-10-19": [
