@@ -42,6 +42,13 @@
                 "short_name": "Ps (ćw)",
                 "teacher": "mgr Arkadiusz Kos",
                 "room": "A16"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A143"
             }
         ],
         "Niedziela 2026-10-04": [
@@ -129,24 +136,17 @@
                 "room": "A32"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
-                "room": "A144"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "A144"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "A144"
             },
             {
@@ -204,7 +204,7 @@
                 "time": "19:00-20:30",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "C125"
             }
         ],
@@ -230,14 +230,14 @@
                 "class_name": "Współczesne wyzwania psychologii społecznej (wyk)",
                 "short_name": "Wwps (wyk)",
                 "teacher": "dr  Mirosława Marks",
-                "room": "C125"
+                "room": "E2"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Strategia profilaktyki społecznej (wyk)",
                 "short_name": "Sps (wyk)",
                 "teacher": "dr Ewa Groszewska",
-                "room": "C125"
+                "room": "E1"
             }
         ],
         "Środa 2026-10-21": [
@@ -264,20 +264,6 @@
             }
         ],
         "Sobota 2026-10-24": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
-                "room": "C202"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
-                "room": "C202"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
@@ -450,6 +436,27 @@
                 "short_name": "Sps (wt)",
                 "teacher": "mgr Tomasz Kwoka",
                 "room": "C128"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A144"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "A144"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -525,24 +532,24 @@
         ],
         "Sobota 2026-11-21": [
             {
+                "time": "10:00-11:30",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C326"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "C326"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
-                "room": "C326"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "C326"
             },
             {
@@ -593,14 +600,14 @@
                 "time": "15:30-17:00",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "C209"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "C209"
             },
             {
@@ -773,6 +780,13 @@
             }
         ],
         "Niedziela 2026-12-06": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
+                "short_name": "Wwps (ćw)",
+                "teacher": "mgr  Diana Celler",
+                "room": "C111"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Strategia profilaktyki społecznej (wt)",
@@ -991,13 +1005,6 @@
                 "room": "A143 / A145 / A16 / A36"
             },
             {
-                "time": "13:45-15:15",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
-                "room": "A145"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Marketing handlowy (wt)",
                 "short_name": "Mh (wt)",
@@ -1071,13 +1078,6 @@
                 "class_name": "Uprzedzenia i dyskryminacja (ćw)",
                 "short_name": "Uid (ćw)",
                 "teacher": "Wakat_7_PSYCH",
-                "room": "C212"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
-                "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
                 "room": "C212"
             },
             {
@@ -1238,14 +1238,14 @@
                 "time": "08:15-09:45",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "A15"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
-                "teacher": "mgr Magdalena Kasprzak",
+                "teacher": "mgr  Diana Celler",
                 "room": "A13"
             },
             {

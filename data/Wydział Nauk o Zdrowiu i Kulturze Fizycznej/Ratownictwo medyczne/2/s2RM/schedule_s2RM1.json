@@ -473,22 +473,6 @@
                 "room": "C224"
             }
         ],
-        "Czwartek 2026-10-29": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kardiologia (wyk)",
-                "short_name": "Kardi (wyk)",
-                "teacher": "lek. Piotr Włodarczak",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kardiologia (wyk)",
-                "short_name": "Kardi (wyk)",
-                "teacher": "lek. Piotr Włodarczak",
-                "room": "A144"
-            }
-        ],
         "Piątek 2026-10-30": [
             {
                 "time": "08:15-09:45",
@@ -706,6 +690,13 @@
                 "short_name": "Cz (wyk)",
                 "teacher": "lek. Ryszard Kępa",
                 "room": "A245"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kardiologia (wyk)",
+                "short_name": "Kardi (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A14"
             }
         ],
         "Piątek 2026-11-13": [
@@ -1337,6 +1328,13 @@
         "Czwartek 2026-12-10": [
             {
                 "time": "17:00-18:30",
+                "class_name": "Kardiologia (wyk)",
+                "short_name": "Kardi (wyk)",
+                "teacher": "lek. Piotr Włodarczak",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Kardiologia (wyk)",
                 "short_name": "Kardi (wyk)",
                 "teacher": "lek. Piotr Włodarczak",

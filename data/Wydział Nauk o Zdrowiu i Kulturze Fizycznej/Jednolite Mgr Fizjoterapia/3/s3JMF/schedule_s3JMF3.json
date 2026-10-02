@@ -181,7 +181,7 @@
                 "class_name": "Fizjoterapia kliniczna  w neurologii i neurochirurgii (wyk)",
                 "short_name": "Fkwnin (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A14"
+                "room": "A144"
             },
             {
                 "time": "11:45-13:15",
@@ -695,13 +695,6 @@
                 "short_name": "Fkwc (zp)",
                 "teacher": "mgr Martyna Malinka",
                 "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
-                "short_name": "Fkwp (zp)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "Szpital_Leg_03"
             }
         ],
         "Czwartek 2026-11-05": [
@@ -940,6 +933,20 @@
                 "short_name": "Tz (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A212"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
+                "short_name": "Fkwp (zp)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
+                "short_name": "Fkwp (zp)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "Szpital_Leg_06"
             },
             {
                 "time": "15:15-16:45",
@@ -1255,6 +1262,20 @@
             }
         ],
         "Poniedziałek 2026-11-30": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
+                "short_name": "Fkwp (zp)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
+                "short_name": "Fkwp (zp)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "Szpital_Leg_03"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Trening zdrowotny (wyk)",
@@ -1628,27 +1649,6 @@
                 "short_name": "Fkwc (zp)",
                 "teacher": "mgr Martyna Malinka",
                 "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
-                "short_name": "Fkwp (zp)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
-                "short_name": "Fkwp (zp)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjoterapia  kliniczna w pulmonologii (zp)",
-                "short_name": "Fkwp (zp)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "Szpital_Leg_07"
             }
         ],
         "Czwartek 2026-12-17": [

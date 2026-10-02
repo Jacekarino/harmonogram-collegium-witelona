@@ -276,20 +276,6 @@
         ],
         "Środa 2026-10-21": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
-                "short_name": "Roapwsk (wyk)",
-                "teacher": "mgr inż. Marek Kamiński",
-                "room": "Online_21"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
-                "short_name": "Roapwsk (wyk)",
-                "teacher": "mgr inż. Marek Kamiński",
-                "room": "Online_21"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
                 "short_name": "Zpz (wyk)",
@@ -423,6 +409,13 @@
         ],
         "Środa 2026-11-04": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_105"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia zarządzania kryzysowego (wyk)",
                 "short_name": "Pzk (wyk)",
@@ -438,6 +431,13 @@
             }
         ],
         "Czwartek 2026-11-05": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wyk)",
+                "short_name": "Roapwsk (wyk)",
+                "teacher": "mgr inż. Marek Kamiński",
+                "room": "Online_10"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Bezpieczeństwo militarne państwa (wyk)",

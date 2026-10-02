@@ -207,14 +207,14 @@
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
-                "room": "A16"
+                "room": "D8"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr  Magdalena Berdys",
-                "room": "A16"
+                "room": "D8"
             },
             {
                 "time": "15:15-16:45",
@@ -251,7 +251,7 @@
                 "class_name": "Opieka paliatywna (wyk)",
                 "short_name": "Op (wyk)",
                 "teacher": "prof. dr hab. n. med. Grażyna Durek",
-                "room": "A36"
+                "room": "A212"
             },
             {
                 "time": "15:15-16:45",
@@ -324,15 +324,15 @@
                 "time": "08:15-09:45",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A15 / D17"
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A15 / D17"
+                "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
+                "room": "D17 / D8"
             },
             {
                 "time": "11:45-13:15",
@@ -361,36 +361,6 @@
                 "short_name": "Pod (wyk)",
                 "teacher": "mgr Joanna Bronowicka",
                 "room": "C113"
-            }
-        ],
-        "Piątek 2026-10-16": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "Szpital_Leg_01"
             }
         ],
         "Poniedziałek 2026-10-19": [
@@ -930,6 +900,27 @@
                 "short_name": "Bnwp (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "Szpital_Leg_07"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -1721,6 +1712,13 @@
                 "short_name": "Op (zp)",
                 "teacher": "mgr Marta Soboń",
                 "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "Szpital_Leg_02"
             },
             {
                 "time": "15:15-16:45",
