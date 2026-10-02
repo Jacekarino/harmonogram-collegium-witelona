@@ -41,13 +41,6 @@
         ],
         "Poniedziałek 2026-10-05": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Patologia ogólna (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "prof. dr hab. Marian Gabryś",
-                "room": "A144"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Dydaktyka fizjoterapii (wyk)",
                 "short_name": "Df (wyk)",
@@ -1542,10 +1535,17 @@
         "Wtorek 2026-12-22": [
             {
                 "time": "13:30-15:00",
+                "class_name": "Patologia ogólna (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "prof. dr hab. Marian Gabryś",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
                 "class_name": "Podstawy terapii zajęciowej (ćw)",
                 "short_name": "Ptz (ćw)",
                 "teacher": "dr Małgorzata Fortuna",
-                "room": "A33"
+                "room": "C14"
             }
         ],
         "Piątek 2027-01-08": [
