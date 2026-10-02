@@ -23,13 +23,13 @@
                 "room": "E2"
             }
         ],
-        "Środa 2026-10-07": [
+        "Czwartek 2026-10-08": [
             {
-                "time": "15:15-16:45",
+                "time": "18:45-20:15",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
                 "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_09"
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_07"
             }
         ],
         "Piątek 2026-10-09": [
@@ -267,27 +267,27 @@
                 "room": "Online_100"
             }
         ],
-        "Środa 2026-10-21": [
+        "Czwartek 2026-10-22": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Podstawy psychologii (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Tomasz Cyrkot",
-                "room": "Online_106"
+                "room": "Online_16"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
                 "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_108"
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_115"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
                 "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_108"
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_115"
             }
         ],
         "Poniedziałek 2026-10-26": [
@@ -389,14 +389,14 @@
                 "time": "17:00-18:30",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
                 "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
+                "teacher": "mgr inż. Roman Hojniak",
                 "room": "Online_103"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
                 "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
+                "teacher": "mgr inż. Roman Hojniak",
                 "room": "Online_103"
             }
         ],
@@ -672,13 +672,6 @@
         ],
         "Środa 2026-11-25": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
-                "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_07"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Nauka administracji (wyk)",
                 "short_name": "Na (wyk)",
@@ -691,6 +684,15 @@
                 "short_name": "Na (wyk)",
                 "teacher": "dr Waldemar Bochenek",
                 "room": "Online_09"
+            }
+        ],
+        "Czwartek 2026-11-26": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_110"
             }
         ],
         "Piątek 2026-11-27": [
@@ -837,13 +839,6 @@
             }
         ],
         "Środa 2026-12-09": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
-                "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "Online_09"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Najnowsza historia Polski (wyk)",
@@ -1009,15 +1004,6 @@
                 "room": "Online_100"
             }
         ],
-        "Środa 2026-12-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
-                "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_103"
-            }
-        ],
         "Czwartek 2026-12-17": [
             {
                 "time": "17:00-18:30",
@@ -1138,6 +1124,22 @@
                 "short_name": "Noiz (wyk)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "A36"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_109"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_109"
             }
         ],
         "Środa 2027-01-13": [

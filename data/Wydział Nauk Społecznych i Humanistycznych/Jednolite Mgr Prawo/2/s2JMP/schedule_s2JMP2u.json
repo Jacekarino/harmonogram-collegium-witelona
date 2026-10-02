@@ -1,28 +1,5 @@
 {
     "s2JMP2u": {
-        "Środa 2026-10-07": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wykładnia prawa administracyjnego (wyk)",
-                "short_name": "Wpa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wykładnia prawa administracyjnego (wyk)",
-                "short_name": "Wpa (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_04"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo gospodarcze publiczne (wyk)",
-                "short_name": "Pgp (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_04"
-            }
-        ],
         "Czwartek 2026-10-08": [
             {
                 "time": "15:15-16:45",
@@ -1227,6 +1204,29 @@
                 "short_name": "Krymi (wt)",
                 "teacher": "mgr Edward Polakiewicz",
                 "room": "A243"
+            }
+        ],
+        "Poniedziałek 2026-12-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Wykładnia prawa administracyjnego (wyk)",
+                "short_name": "Wpa (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
             }
         ],
         "Czwartek 2027-01-07": [

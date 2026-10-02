@@ -150,15 +150,6 @@
                 "room": "A15"
             }
         ],
-        "Środa 2026-10-21": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy psychologii (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Tomasz Cyrkot",
-                "room": "Online_106"
-            }
-        ],
         "Czwartek 2026-10-22": [
             {
                 "time": "13:30-15:00",
@@ -166,6 +157,13 @@
                 "short_name": "Tiisi (wt)",
                 "teacher": "mgr inż. Karol Zygadło",
                 "room": "Online_07"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy psychologii (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
+                "room": "Online_16"
             },
             {
                 "time": "17:00-18:30",

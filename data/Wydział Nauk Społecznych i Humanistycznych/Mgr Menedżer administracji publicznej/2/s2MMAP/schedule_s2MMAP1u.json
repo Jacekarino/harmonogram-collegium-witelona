@@ -76,13 +76,6 @@
         ],
         "Poniedziałek 2026-10-05": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
-                "short_name": "Paoś (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_05"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (wt)",
                 "short_name": "Jo (wt)",
@@ -160,21 +153,21 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marcin Sieja",
-                "room": "A12"
+                "room": "C325"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Logistyka miejska (wt)",
                 "short_name": "Lm (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "C113"
+                "room": "A144"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Logistyka miejska (wt)",
                 "short_name": "Lm (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "C113"
+                "room": "A144"
             },
             {
                 "time": "13:45-15:15",
@@ -250,6 +243,13 @@
             }
         ],
         "Poniedziałek 2026-10-19": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_06"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (wt)",
