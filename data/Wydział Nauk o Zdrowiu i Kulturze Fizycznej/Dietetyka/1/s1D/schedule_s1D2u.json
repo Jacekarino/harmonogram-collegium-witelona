@@ -456,6 +456,13 @@
         ],
         "Piątek 2026-11-13": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
+                "short_name": "Moiż (wyk)",
+                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
+                "room": "Online_100"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Fizjologia (wyk)",
                 "short_name": "Fizjo (wyk)",
@@ -856,13 +863,6 @@
             }
         ],
         "Środa 2026-12-16": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Mikrobiologia ogólna i żywności (wyk)",
-                "short_name": "Moiż (wyk)",
-                "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A14"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Fizjologia żywienia (wyk)",

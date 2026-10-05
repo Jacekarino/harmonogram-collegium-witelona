@@ -72,10 +72,10 @@
         "Środa 2026-10-07": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (ćw)",
-                "short_name": "Wikwzi (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C322"
+                "class_name": "Dietetyka (wyk)",
+                "short_name": "Diete (wyk)",
+                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
+                "room": "C212"
             },
             {
                 "time": "10:00-11:30",
@@ -100,6 +100,13 @@
             }
         ],
         "Czwartek 2026-10-08": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (ćw)",
+                "short_name": "Wikwzi (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Biochemia i biofizyka (wyk)",
@@ -127,13 +134,6 @@
                 "short_name": "Mip (lab)",
                 "teacher": "dr Małgorzata Jusiakowska - Piputa",
                 "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Dietetyka (wyk)",
-                "short_name": "Diete (wyk)",
-                "teacher": "dr inż. Iwona Twarogowska-Wielesik",
-                "room": "C212"
             }
         ],
         "Poniedziałek 2026-10-12": [
