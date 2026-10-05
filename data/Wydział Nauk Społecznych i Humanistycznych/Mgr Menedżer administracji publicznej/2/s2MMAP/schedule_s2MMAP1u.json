@@ -110,18 +110,11 @@
         ],
         "Wtorek 2026-10-13": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Logistyka miejska (wyk)",
-                "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_09"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_09"
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C125"
             }
         ],
         "Środa 2026-10-14": [
@@ -263,14 +256,14 @@
                 "time": "17:00-18:30",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_105"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_105"
             }
         ],
@@ -318,14 +311,14 @@
                 "time": "17:00-18:30",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_104"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_104"
             }
         ],
@@ -389,15 +382,6 @@
                 "short_name": "Paoś (wyk)",
                 "teacher": "prof. dr hab. Andrzej Powałowski",
                 "room": "Online_05"
-            }
-        ],
-        "Czwartek 2026-11-05": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka miejska (wyk)1h [x/-]",
-                "short_name": "Lm (wyk)1h [x/-]",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_106"
             }
         ],
         "Niedziela 2026-11-08": [
@@ -479,14 +463,14 @@
                 "time": "17:00-18:30",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_113"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Logistyka miejska (wyk)",
                 "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
+                "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_113"
             }
         ],
@@ -566,30 +550,7 @@
                 "room": "Online_03 / Online_04"
             }
         ],
-        "Wtorek 2026-11-17": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Logistyka miejska (wyk)",
-                "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_113"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Logistyka miejska (wyk)",
-                "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "Online_113"
-            }
-        ],
         "Środa 2026-11-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Logistyka miejska (wyk)",
-                "short_name": "Lm (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "A13"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Zarządzanie rozwojem miast (wyk)",
@@ -759,6 +720,22 @@
                 "room": "Online_03"
             }
         ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_106"
+            }
+        ],
         "Czwartek 2026-12-10": [
             {
                 "time": "17:00-18:30",
@@ -872,6 +849,22 @@
                 "room": "Online_03 / Online_04"
             }
         ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Logistyka miejska (wyk)1h [x/-]",
+                "short_name": "Lm (wyk)1h [x/-]",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_111"
+            }
+        ],
         "Piątek 2026-12-18": [
             {
                 "time": "17:00-18:30",
@@ -895,6 +888,15 @@
                 "short_name": "Jo (wt)",
                 "teacher": "mgr Agnieszka Łakomska",
                 "room": "Online_06"
+            }
+        ],
+        "Piątek 2027-01-08": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "Online_11"
             }
         ],
         "Sobota 2027-01-09": [
@@ -1031,6 +1033,15 @@
                 "short_name": "Jo (wt)",
                 "teacher": "mgr Agnieszka Łakomska / mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
                 "room": "Online_03 / Online_04 / Online_05"
+            }
+        ],
+        "Wtorek 2027-01-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Logistyka miejska (wyk)",
+                "short_name": "Lm (wyk)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "A16"
             }
         ],
         "Sobota 2027-01-23": [

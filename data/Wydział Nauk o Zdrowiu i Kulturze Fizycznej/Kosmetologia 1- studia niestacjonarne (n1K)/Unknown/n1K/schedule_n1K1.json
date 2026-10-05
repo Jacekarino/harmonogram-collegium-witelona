@@ -44,20 +44,6 @@
                 "short_name": "Mzhipz (wyk)",
                 "teacher": "dr Małgorzata Jusiakowska - Piputa",
                 "room": "D17"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy biologii człowieka (wyk)",
-                "short_name": "Pbc (wyk)",
-                "teacher": "mgr Anna Oniszczuk",
-                "room": "A14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy biologii człowieka (wyk)",
-                "short_name": "Pbc (wyk)",
-                "teacher": "mgr Anna Oniszczuk",
-                "room": "A14"
             }
         ],
         "Sobota 2026-10-10": [
@@ -141,6 +127,20 @@
                 "short_name": "Pczb (wyk)",
                 "teacher": "mgr inż. Agnieszka Paszyn",
                 "room": "A14"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy biologii człowieka (wyk)",
+                "short_name": "Pbc (wyk)",
+                "teacher": "mgr Anna Oniszczuk",
+                "room": "A212"
             }
         ],
         "Niedziela 2026-10-18": [
