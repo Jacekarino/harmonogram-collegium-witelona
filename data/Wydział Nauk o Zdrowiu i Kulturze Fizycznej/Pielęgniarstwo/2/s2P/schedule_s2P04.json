@@ -298,6 +298,34 @@
         ],
         "Środa 2026-10-14": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr  Renata Hołowiak",
+                "room": "Szpital_Leg_02"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
                 "short_name": "Cipc (zp)",
@@ -874,36 +902,6 @@
                 "short_name": "Cwipi (lab)",
                 "teacher": "mgr Marta Soboń",
                 "room": "A116 (MCSM-WW)"
-            }
-        ],
-        "Poniedziałek 2026-11-09": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr  Renata Hołowiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr  Renata Hołowiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr  Renata Hołowiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr  Renata Hołowiak",
-                "room": "Szpital_Leg_02"
             }
         ],
         "Wtorek 2026-11-10": [

@@ -457,6 +457,13 @@
                 "room": "Online_10"
             },
             {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_104"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -572,6 +579,13 @@
                 "short_name": "Bd (wyk)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "Online_08"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_105"
             },
             {
                 "time": "18:45-20:15",
@@ -943,15 +957,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Magdalena Dąbrowska / dr inż. Daniel Dębowski",
-                "room": "Online_104 / Online_105"
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_105"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Magdalena Dąbrowska / dr inż. Daniel Dębowski",
-                "room": "Online_104 / Online_105"
+                "teacher": "dr inż. Daniel Dębowski",
+                "room": "Online_105"
             }
         ],
         "Środa 2027-01-13": [

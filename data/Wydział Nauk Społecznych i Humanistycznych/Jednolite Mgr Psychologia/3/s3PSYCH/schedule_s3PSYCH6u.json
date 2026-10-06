@@ -102,13 +102,6 @@
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Joanna Dziura",
                 "room": "E1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "E2"
             }
         ],
         "Sobota 2026-10-10": [
@@ -227,6 +220,13 @@
             }
         ],
         "Środa 2026-10-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_108"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (wyk)",

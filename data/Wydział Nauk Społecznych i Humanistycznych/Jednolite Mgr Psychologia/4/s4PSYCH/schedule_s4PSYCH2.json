@@ -79,13 +79,6 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Uprzedzenia i dyskryminacja (wyk)",
-                "short_name": "Uid (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "E4"
-            },
-            {
-                "time": "18:45-20:15",
                 "class_name": "Psychologia sportu (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "mgr Arkadiusz Kos",
@@ -576,6 +569,15 @@
                 "short_name": "Sps (wyk)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "Online_17"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Uprzedzenia i dyskryminacja (wyk)",
+                "short_name": "Uid (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_105"
             }
         ],
         "Poniedziałek 2026-11-16": [

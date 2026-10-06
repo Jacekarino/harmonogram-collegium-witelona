@@ -368,6 +368,15 @@
                 "room": "Online_102"
             }
         ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "C113"
+            }
+        ],
         "Wtorek 2026-11-10": [
             {
                 "time": "15:15-16:45",
@@ -427,13 +436,6 @@
                 "class_name": "Zarządzanie zasobami ludzkimi w logistyce i w transporcie (wt)",
                 "short_name": "Zzlwliwt (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "A13"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
-                "short_name": "Nizjwl (wyk)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "A13"
             }
         ],
@@ -529,6 +531,13 @@
                 "short_name": "Pc (wyk)",
                 "teacher": "mgr Andrzej Marek",
                 "room": "Online_06"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
+                "short_name": "Nizjwl (wyk)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "Online_107"
             }
         ],
         "Wtorek 2026-11-24": [
@@ -696,13 +705,6 @@
                 "class_name": "Podstawy elektrotechniki i elektroniki (wyk)",
                 "short_name": "Peie (wyk)",
                 "teacher": "dr hab. inż. Bogumiła Wnukowska",
-                "room": "Online_03"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Normalizacja i zarządzanie jakością w logistyce (wyk)",
-                "short_name": "Nizjwl (wyk)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "Online_03"
             }
         ],

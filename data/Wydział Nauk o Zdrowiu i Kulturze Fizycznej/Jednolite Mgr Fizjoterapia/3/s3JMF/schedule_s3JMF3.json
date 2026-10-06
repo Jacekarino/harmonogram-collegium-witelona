@@ -196,6 +196,20 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
                 "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Trening zdrowotny (ćw)",
+                "short_name": "Tz (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C322"
             }
         ],
         "Środa 2026-10-14": [
@@ -1315,20 +1329,6 @@
             }
         ],
         "Środa 2026-12-02": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Trening zdrowotny (ćw)",
-                "short_name": "Tz (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "A057 - Aerobik"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Trening zdrowotny (ćw)",
-                "short_name": "Tz (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "A057 - Aerobik"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Fizjoterapia kliniczna w kardiologii i kardiochirurgii (zp)",

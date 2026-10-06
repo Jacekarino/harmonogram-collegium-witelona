@@ -67,13 +67,6 @@
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Joanna Dziura",
                 "room": "E1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "E2"
             }
         ],
         "Poniedziałek 2026-10-12": [
@@ -243,6 +236,13 @@
             }
         ],
         "Środa 2026-10-21": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_108"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
@@ -569,15 +569,15 @@
                 "time": "08:15-09:45",
                 "class_name": "1 Język obcy (ćw)",
                 "short_name": "1Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys",
-                "room": "A2"
+                "teacher": "mgr Anna Świerczyńska / mgr  Magdalena Berdys",
+                "room": "A13 / A2"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "1 Język obcy (ćw)",
                 "short_name": "1Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys",
-                "room": "A2"
+                "teacher": "mgr Anna Świerczyńska / mgr  Magdalena Berdys",
+                "room": "A13 / A2"
             },
             {
                 "time": "18:45-20:15",
@@ -673,17 +673,17 @@
         "Piątek 2026-11-20": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
-                "room": "D17 / A2 / D8"
+                "class_name": "2 Język obcy (ćw)",
+                "short_name": "2Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
-                "room": "D17 / A2 / D8"
+                "class_name": "2 Język obcy (ćw)",
+                "short_name": "2Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
             },
             {
                 "time": "18:45-20:15",
@@ -857,17 +857,17 @@
         "Piątek 2026-12-04": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
-                "room": "D17 / A2 / D8"
+                "class_name": "2 Język obcy (ćw)",
+                "short_name": "2Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys / mgr Anna Świerczyńska",
-                "room": "D17 / A2 / D8"
+                "class_name": "2 Język obcy (ćw)",
+                "short_name": "2Jo (ćw)",
+                "teacher": "mgr Magdalena Szylar / mgr  Magdalena Berdys",
+                "room": "D17 / A2"
             },
             {
                 "time": "15:15-16:45",
@@ -928,15 +928,15 @@
                 "time": "08:15-09:45",
                 "class_name": "1 Język obcy (ćw)",
                 "short_name": "1Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys",
-                "room": "A2"
+                "teacher": "mgr Anna Świerczyńska / mgr  Magdalena Berdys",
+                "room": "A15 / A2"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "1 Język obcy (ćw)",
                 "short_name": "1Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys",
-                "room": "A2"
+                "teacher": "mgr Anna Świerczyńska / mgr  Magdalena Berdys",
+                "room": "A15 / A2"
             },
             {
                 "time": "18:45-20:15",
