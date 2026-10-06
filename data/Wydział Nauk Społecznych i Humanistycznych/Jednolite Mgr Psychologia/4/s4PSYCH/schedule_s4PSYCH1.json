@@ -288,13 +288,6 @@
                 "short_name": "Jos (ćw)",
                 "teacher": "mgr Agnieszka Łakomska",
                 "room": "Online_03"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Uprzedzenia i dyskryminacja (wyk)",
-                "short_name": "Uid (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_19"
             }
         ],
         "Czwartek 2026-10-22": [
@@ -431,6 +424,13 @@
                 "short_name": "Sps (wyk)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia sportu (wyk)",
+                "short_name": "Ps (wyk)",
+                "teacher": "mgr Arkadiusz Kos",
+                "room": "Online_11"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -513,14 +513,7 @@
                 "class_name": "Uprzedzenia i dyskryminacja (wyk)",
                 "short_name": "Uid (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "Online_111"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychologia sportu (wyk)",
-                "short_name": "Ps (wyk)",
-                "teacher": "mgr Arkadiusz Kos",
-                "room": "Online_111"
+                "room": "C113"
             }
         ],
         "Piątek 2026-11-06": [
@@ -798,6 +791,13 @@
             }
         ],
         "Piątek 2026-11-27": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Uprzedzenia i dyskryminacja (wyk)",
+                "short_name": "Uid (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_09"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "2 Seminarium dyplomowe (sem)",

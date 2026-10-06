@@ -320,24 +320,10 @@
         ],
         "Czwartek 2026-10-29": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
-                "short_name": "Mbpzess (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_11"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia społeczna (wyk)",
                 "short_name": "Ps (wyk)",
                 "teacher": "dr  Mirosława Marks",
-                "room": "Online_11"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychologia osobowości (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "dr Beata Rajba",
                 "room": "Online_11"
             }
         ],
@@ -368,35 +354,21 @@
         ],
         "Środa 2026-11-04": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
-                "short_name": "Mbpzess (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_17"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
                 "short_name": "Mbpzess (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "Online_17"
+                "room": "C113"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Psychologia osobowości (wyk)",
                 "short_name": "Po (wyk)",
                 "teacher": "dr Beata Rajba",
-                "room": "Online_17"
+                "room": "C113"
             }
         ],
         "Czwartek 2026-11-05": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Psychologia osobowości (wyk)",
-                "short_name": "Po (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_11"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia uczenia się (wyk)",
@@ -410,6 +382,29 @@
                 "short_name": "Ps (wyk)",
                 "teacher": "dr  Mirosława Marks",
                 "room": "Online_11"
+            }
+        ],
+        "Piątek 2026-11-06": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
+                "short_name": "Mbpzess (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_114"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
+                "short_name": "Mbpzess (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_114"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychologia osobowości (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_114"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -739,6 +734,15 @@
                 "short_name": "Mbpzess (wyk)",
                 "teacher": "dr Beata Rajba",
                 "room": "Online_106"
+            }
+        ],
+        "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychologia osobowości (wyk)",
+                "short_name": "Po (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_01"
             }
         ],
         "Sobota 2026-12-05": [
@@ -1200,13 +1204,6 @@
                 "short_name": "Pt (wyk)",
                 "teacher": "dr Katarzyna Sępowicz-Buczko",
                 "room": "C113"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
-                "short_name": "Mbpzess (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "C113"
             }
         ],
         "Piątek 2027-01-15": [
@@ -1226,6 +1223,13 @@
             }
         ],
         "Środa 2027-01-20": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (wyk)",
+                "short_name": "Mbpzess (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "E4"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia wychowawcza (wyk)",

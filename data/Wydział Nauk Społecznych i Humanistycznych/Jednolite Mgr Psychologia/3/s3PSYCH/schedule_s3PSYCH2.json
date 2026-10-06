@@ -152,13 +152,6 @@
         ],
         "Czwartek 2026-10-15": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
-                "short_name": "Pzep (wyk)",
-                "teacher": "lek. Małgorzata Dosiak",
-                "room": "A212"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia kliniczna (wyk)",
                 "short_name": "Pk (wyk)",
@@ -251,18 +244,11 @@
         ],
         "Środa 2026-10-21": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_108"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
                 "short_name": "Pzep (wyk)",
                 "teacher": "lek. Małgorzata Dosiak",
-                "room": "Online_18"
+                "room": "A36"
             }
         ],
         "Czwartek 2026-10-22": [
@@ -275,10 +261,10 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
-                "room": "Online_110"
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_100"
             },
             {
                 "time": "18:45-20:15",
@@ -395,9 +381,9 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
+                "class_name": "Psychologia kliniczna (wyk)",
+                "short_name": "Pk (wyk)",
+                "teacher": "dr Tomasz Cyrkot",
                 "room": "Online_110"
             },
             {
@@ -433,18 +419,11 @@
         ],
         "Środa 2026-11-04": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Psychologia kliniczna (wyk)",
-                "short_name": "Pk (wyk)",
-                "teacher": "dr Tomasz Cyrkot",
-                "room": "Online_18"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
-                "short_name": "Pzep (wyk)",
-                "teacher": "lek. Małgorzata Dosiak",
-                "room": "Online_18"
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "C113"
             }
         ],
         "Czwartek 2026-11-05": [
@@ -460,13 +439,6 @@
                 "class_name": "Pomoc psychologiczna (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Joanna Dziura",
-                "room": "Online_110"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychometria (wyk)",
-                "short_name": "Psych (wyk)",
-                "teacher": "dr Beata Rajba",
                 "room": "Online_110"
             }
         ],
@@ -721,6 +693,13 @@
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Tomasz Cyrkot",
                 "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
+                "short_name": "Pzep (wyk)",
+                "teacher": "lek. Małgorzata Dosiak",
+                "room": "Online_05"
             }
         ],
         "Czwartek 2026-11-26": [
@@ -1087,6 +1066,27 @@
                 "short_name": "Wdpz (wt)",
                 "teacher": "mgr Arkadiusz Kos",
                 "room": "E1"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_103"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_103"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychometria (wyk)",
+                "short_name": "Psych (wyk)",
+                "teacher": "dr Beata Rajba",
+                "room": "Online_103"
             }
         ],
         "Czwartek 2027-01-07": [
@@ -1275,7 +1275,7 @@
         ],
         "Środa 2027-01-20": [
             {
-                "time": "18:45-20:15",
+                "time": "17:00-18:30",
                 "class_name": "Psychometria (wyk)",
                 "short_name": "Psych (wyk)",
                 "teacher": "dr Beata Rajba",
