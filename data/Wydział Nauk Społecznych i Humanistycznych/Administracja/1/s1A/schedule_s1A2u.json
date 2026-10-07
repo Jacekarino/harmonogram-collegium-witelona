@@ -610,6 +610,22 @@
                 "room": "A12"
             }
         ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
+                "short_name": "Tiisi (wt)",
+                "teacher": "mgr inż. Roman Hojniak",
+                "room": "Online_107"
+            }
+        ],
         "Wtorek 2026-11-17": [
             {
                 "time": "15:15-16:45",
@@ -797,22 +813,6 @@
                 "short_name": "Pe (wt)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "A16"
-            }
-        ],
-        "Środa 2026-12-02": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
-                "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "Online_111"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Technologie informacyjne i sztuczna inteligencja (wt)",
-                "short_name": "Tiisi (wt)",
-                "teacher": "mgr inż. Roman Hojniak",
-                "room": "Online_111"
             }
         ],
         "Czwartek 2026-12-03": [

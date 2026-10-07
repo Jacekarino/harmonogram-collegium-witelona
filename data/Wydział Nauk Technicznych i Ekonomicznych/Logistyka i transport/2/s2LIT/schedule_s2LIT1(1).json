@@ -678,20 +678,6 @@
         ],
         "Czwartek 2026-12-03": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anna Świerczyńska",
-                "room": "A16"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Język obcy (ćw)",
-                "short_name": "Jo (ćw)",
-                "teacher": "mgr Anna Świerczyńska",
-                "room": "A16"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "1 Podstawy metrologii (wyk)",
                 "short_name": "1Pm (wyk)",
@@ -796,6 +782,22 @@
                 "short_name": "Ld (wyk)",
                 "teacher": "dr Tomasz Janiak",
                 "room": "Online_02"
+            }
+        ],
+        "Czwartek 2026-12-10": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "A15"
             }
         ],
         "Poniedziałek 2026-12-14": [

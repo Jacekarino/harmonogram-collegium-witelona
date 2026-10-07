@@ -579,31 +579,31 @@
             },
             {
                 "time": "13:45-15:15",
-                "class_name": "Organizacja systemów produkcyjnych w przemyśle 4.0 (wyk)",
-                "short_name": "Ospwp4 (wyk)",
-                "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "A144"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Planowanie i sterowanie produkcją (wyk)",
-                "short_name": "Pisp (wyk)",
-                "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "A144"
-            },
-            {
-                "time": "17:15-18:45",
                 "class_name": "Moduł do wyboruwjo (wt)",
                 "short_name": "Mdwwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
                 "room": "A217"
             },
             {
-                "time": "19:00-20:30",
+                "time": "15:30-17:00",
                 "class_name": "Elastyczne łańcuchy dostaw (p)",
                 "short_name": "Ełd (p)",
                 "teacher": "dr inż. Dariusz Michalski",
-                "room": "A145"
+                "room": "C202"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Organizacja systemów produkcyjnych w przemyśle 4.0 (wyk)",
+                "short_name": "Ospwp4 (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Planowanie i sterowanie produkcją (wyk)",
+                "short_name": "Pisp (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "A144"
             }
         ],
         "Sobota 2027-01-23": [
