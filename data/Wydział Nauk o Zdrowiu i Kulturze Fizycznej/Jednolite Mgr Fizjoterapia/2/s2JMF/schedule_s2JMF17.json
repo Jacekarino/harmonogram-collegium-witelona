@@ -104,20 +104,6 @@
                 "short_name": "Ptz (wyk)",
                 "teacher": "dr Małgorzata Fortuna",
                 "room": "C14"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Masaż w odnowie biologicznej (ćw)",
-                "short_name": "Mwob (ćw)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Masaż w odnowie biologicznej (ćw)",
-                "short_name": "Mwob (ćw)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
             }
         ],
         "Piątek 2026-10-09": [
@@ -466,6 +452,20 @@
                 "short_name": "Kinez (wyk)",
                 "teacher": "dr Monika Sobolak",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Masaż w odnowie biologicznej (ćw)",
+                "short_name": "Mwob (ćw)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
             }
         ],
         "Piątek 2026-10-30": [

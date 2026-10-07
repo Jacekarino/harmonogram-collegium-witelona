@@ -502,16 +502,16 @@
         "Niedziela 2026-12-06": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Eksploatacja systemów energetycznych (p)",
-                "short_name": "Ese (p)",
-                "teacher": "mgr inż. Sebastian Kowalski",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
                 "room": "A217"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Eksploatacja systemów energetycznych (p)",
-                "short_name": "Ese (p)",
-                "teacher": "mgr inż. Sebastian Kowalski",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
                 "room": "A217"
             },
             {
@@ -530,16 +530,16 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Chłodnictwo i kriogenika (ćw)",
-                "short_name": "Cik (ćw)",
-                "teacher": "dr inż. Dariusz Michalski",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
                 "room": "A13"
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Chłodnictwo i kriogenika (ćw)",
-                "short_name": "Cik (ćw)",
-                "teacher": "dr inż. Dariusz Michalski",
+                "class_name": "Eksploatacja systemów energetycznych (p)",
+                "short_name": "Ese (p)",
+                "teacher": "mgr inż. Sebastian Kowalski",
                 "room": "A13"
             },
             {
@@ -664,6 +664,22 @@
                 "room": "A144"
             }
         ],
+        "Piątek 2027-01-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Chłodnictwo i kriogenika (ćw)",
+                "short_name": "Cik (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            }
+        ],
         "Czwartek 2027-01-07": [
             {
                 "time": "15:15-16:45",
@@ -737,28 +753,14 @@
                 "room": "A31"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Chłodnictwo i kriogenika (ćw)",
-                "short_name": "Cik (ćw)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "C327"
-            },
-            {
                 "time": "13:45-15:15",
                 "class_name": "Chłodnictwo i kriogenika (ćw)",
                 "short_name": "Cik (ćw)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "C327"
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Chłodnictwo i kriogenika (ćw)",
-                "short_name": "Cik (ćw)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "C327"
-            },
-            {
-                "time": "17:15-18:45",
                 "class_name": "Energetyka jądrowa (ćw)",
                 "short_name": "Ej (ćw)",
                 "teacher": "dr inż. Kamila Jóźwiak",

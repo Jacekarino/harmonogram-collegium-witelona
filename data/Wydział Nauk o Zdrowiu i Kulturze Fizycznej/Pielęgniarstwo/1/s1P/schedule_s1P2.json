@@ -78,13 +78,6 @@
                 "room": "C212"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (wyk)",
-                "short_name": "Wikwzi (wyk)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C212"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Prawo medyczne (wyk)",
                 "short_name": "Pm (wyk)",
@@ -100,13 +93,6 @@
             }
         ],
         "Czwartek 2026-10-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (ćw)",
-                "short_name": "Wikwzi (ćw)",
-                "teacher": "dr Katarzyna Lisowska",
-                "room": "C322"
-            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Biochemia i biofizyka (wyk)",
@@ -382,6 +368,20 @@
             }
         ],
         "Czwartek 2026-10-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (ćw)",
+                "short_name": "Wikwzi (ćw)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Współpraca i komunikacja w zespole interprofesjonalnym (wyk)",
+                "short_name": "Wikwzi (wyk)",
+                "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Psychologia (ćw)",

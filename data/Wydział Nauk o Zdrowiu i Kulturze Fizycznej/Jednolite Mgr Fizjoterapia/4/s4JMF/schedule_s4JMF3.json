@@ -127,20 +127,6 @@
                 "short_name": "Dfwwr (zp)",
                 "teacher": "mgr Monika Kamieniecka",
                 "room": "A146"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Terapia manualna (zp)",
-                "short_name": "Tm (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Terapia manualna (zp)",
-                "short_name": "Tm (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
             }
         ],
         "Piątek 2026-10-09": [
@@ -1644,6 +1630,22 @@
                 "short_name": "Dfwcw (zp)",
                 "teacher": "mgr Katarzyna Gajewska",
                 "room": "Caritas_Leg_01"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
             }
         ],
         "Piątek 2027-01-08": [

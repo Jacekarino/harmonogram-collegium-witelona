@@ -1109,6 +1109,22 @@
                 "room": "Online_113"
             }
         ],
+        "Piątek 2027-01-01": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Paliwa (ćw)",
+                "short_name": "Paliw (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Paliwa (ćw)",
+                "short_name": "Paliw (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C127"
+            }
+        ],
         "Piątek 2027-01-08": [
             {
                 "time": "17:00-18:30",
@@ -1220,10 +1236,10 @@
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Projekt przemysłowy (p)",
-                "short_name": "Pp (p)",
-                "teacher": "mgr inż. Krzysztof Kolbusz",
-                "room": "C128"
+                "class_name": "Przenoszenie ciepła (ćw)",
+                "short_name": "Pc (ćw)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "C202"
             },
             {
                 "time": "13:45-15:15",
@@ -1234,23 +1250,9 @@
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Paliwa (ćw)",
-                "short_name": "Paliw (ćw)",
-                "teacher": "dr inż. Paweł Jurczak",
-                "room": "C128"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Paliwa (ćw)",
-                "short_name": "Paliw (ćw)",
-                "teacher": "dr inż. Paweł Jurczak",
-                "room": "C128"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Przenoszenie ciepła (ćw)",
-                "short_name": "Pc (ćw)",
-                "teacher": "dr inż. Paweł Jurczak",
+                "class_name": "Projekt przemysłowy (p)",
+                "short_name": "Pp (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
                 "room": "C128"
             }
         ],

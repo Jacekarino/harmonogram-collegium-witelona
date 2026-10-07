@@ -180,20 +180,6 @@
                 "short_name": "2N (wyk)",
                 "teacher": "mgr Piotr Brzostek",
                 "room": "A144"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Medyczne czynności ratunkowe (ćw)",
-                "short_name": "Mcr (ćw)",
-                "teacher": "mgr Jakub Grosicki",
-                "room": "A108 (MCSM-ZRM)"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Medyczne czynności ratunkowe (ćw)",
-                "short_name": "Mcr (ćw)",
-                "teacher": "mgr Jakub Grosicki",
-                "room": "A108 (MCSM-ZRM)"
             }
         ],
         "Środa 2026-10-14": [
@@ -1083,6 +1069,13 @@
                 "room": "A32"
             },
             {
+                "time": "13:30-15:00",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A108 (MCSM-ZRM)"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Kardiologia (ćw)",
                 "short_name": "Kardi (ćw)",
@@ -1268,6 +1261,13 @@
                 "short_name": "Mcr (ćw)",
                 "teacher": "mgr Jakub Grosicki",
                 "room": "A318"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Medyczne czynności ratunkowe (ćw)",
+                "short_name": "Mcr (ćw)",
+                "teacher": "mgr Jakub Grosicki",
+                "room": "A108 (MCSM-ZRM)"
             }
         ],
         "Środa 2026-12-02": [
