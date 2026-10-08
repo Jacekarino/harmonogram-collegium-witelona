@@ -1458,18 +1458,18 @@
                 "room": "D1"
             },
             {
+                "time": "13:30-15:00",
+                "class_name": "Fizjologia (ćw)",
+                "short_name": "Fizjo (ćw)",
+                "teacher": "dr Małgorzata Fortuna",
+                "room": "C14"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Anatomia (ćw)",
                 "short_name": "Anato (ćw)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
                 "room": "C322"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjologia (ćw)",
-                "short_name": "Fizjo (ćw)",
-                "teacher": "dr Małgorzata Fortuna",
-                "room": "C14"
             }
         ],
         "Poniedziałek 2026-12-14": [
