@@ -222,7 +222,7 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Jarosław Szandurski / dr Justyna Lewandowska-Bratek",
-                "room": "A14 / A141"
+                "room": "A14 / A15"
             },
             {
                 "time": "13:45-15:15",
@@ -240,17 +240,17 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Zintegrowany system kadrowo - płacowy (wt)",
-                "short_name": "Zsk-p (wt)",
-                "teacher": "dr Agnieszka Koryś",
-                "room": "A213"
-            },
-            {
-                "time": "19:00-20:30",
                 "class_name": "Marketing personalny (sem)",
                 "short_name": "Mp (sem)",
                 "teacher": "dr Krzysztof Radkowski",
                 "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zintegrowany system kadrowo - płacowy (wt)",
+                "short_name": "Zsk-p (wt)",
+                "teacher": "dr Agnieszka Koryś",
+                "room": "A213"
             }
         ],
         "Niedziela 2026-10-18": [
@@ -369,8 +369,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "prof. dr hab. inż. Zdzisław Jasiński / dr Justyna Lewandowska-Bratek / dr Jarosław Szandurski",
-                "room": "Online_105 / Online_106 / Online_107"
+                "teacher": "prof. dr hab. inż. Zdzisław Jasiński / dr Jarosław Szandurski",
+                "room": "Online_105 / Online_107"
             }
         ],
         "Wtorek 2026-10-27": [
@@ -419,6 +419,15 @@
                 "short_name": "Tikzwo (wyk)",
                 "teacher": "dr Tadeusz Kowalski",
                 "room": "Online_105"
+            }
+        ],
+        "Środa 2026-11-04": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_17"
             }
         ],
         "Czwartek 2026-11-05": [
@@ -546,8 +555,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Jarosław Szandurski / dr Justyna Lewandowska-Bratek / prof. dr hab. inż. Zdzisław Jasiński",
-                "room": "Online_105 / Online_106 / Online_107"
+                "teacher": "dr Jarosław Szandurski / prof. dr hab. inż. Zdzisław Jasiński",
+                "room": "Online_105 / Online_107"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -617,8 +626,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Justyna Lewandowska-Bratek / dr Jarosław Szandurski / prof. dr hab. inż. Zdzisław Jasiński",
-                "room": "Online_105 / Online_106 / Online_107"
+                "teacher": "dr Jarosław Szandurski / prof. dr hab. inż. Zdzisław Jasiński",
+                "room": "Online_106 / Online_107"
             }
         ],
         "Sobota 2026-11-21": [
@@ -718,6 +727,15 @@
                 "room": "Online_100"
             }
         ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_115"
+            }
+        ],
         "Piątek 2026-11-27": [
             {
                 "time": "17:00-18:30",
@@ -730,8 +748,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Justyna Lewandowska-Bratek / prof. dr hab. inż. Zdzisław Jasiński / dr Jarosław Szandurski",
-                "room": "Online_105 / Online_106 / Online_107"
+                "teacher": "prof. dr hab. inż. Zdzisław Jasiński / dr Jarosław Szandurski",
+                "room": "Online_106 / Online_107"
             }
         ],
         "Poniedziałek 2026-11-30": [
@@ -916,6 +934,15 @@
                 "room": "Online_100"
             }
         ],
+        "Wtorek 2026-12-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_115"
+            }
+        ],
         "Piątek 2026-12-18": [
             {
                 "time": "17:00-18:30",
@@ -928,8 +955,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Jarosław Szandurski / prof. dr hab. inż. Zdzisław Jasiński / dr Justyna Lewandowska-Bratek",
-                "room": "Online_07 / Online_08 / Online_09"
+                "teacher": "dr Jarosław Szandurski / prof. dr hab. inż. Zdzisław Jasiński",
+                "room": "Online_07 / Online_08"
             }
         ],
         "Sobota 2026-12-19": [
@@ -1038,18 +1065,25 @@
         ],
         "Piątek 2027-01-08": [
             {
-                "time": "17:00-18:30",
+                "time": "15:15-16:45",
                 "class_name": "Zarządzanie zmianami w zarządzaniu zasobami ludzkimi (wyk)",
                 "short_name": "Zzwzzl (wyk)",
                 "teacher": "dr Sławomir Kłosowski",
                 "room": "Online_108"
             },
             {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_09"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Justyna Lewandowska-Bratek / prof. dr hab. inż. Zdzisław Jasiński / dr Jarosław Szandurski",
-                "room": "Online_09 / Online_108 / Online_109"
+                "teacher": "prof. dr hab. inż. Zdzisław Jasiński / dr Jarosław Szandurski",
+                "room": "Online_108 / Online_109"
             }
         ],
         "Sobota 2027-01-09": [
@@ -1096,6 +1130,22 @@
                 "short_name": "Tikzwo (wyk)",
                 "teacher": "dr Tadeusz Kowalski",
                 "room": "C212"
+            }
+        ],
+        "Środa 2027-01-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Justyna Lewandowska-Bratek",
+                "room": "Online_101"
             }
         ],
         "Piątek 2027-01-15": [

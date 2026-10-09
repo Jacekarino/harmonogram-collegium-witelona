@@ -420,6 +420,13 @@
         ],
         "Czwartek 2026-10-22": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Genetyka (wyk)",
+                "short_name": "Genet (wyk)",
+                "teacher": "dr inż. Ewa Walczak-Chajec",
+                "room": "C224"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Fizjoprofilaktyka i promocja zdrowia (wyk)",
                 "short_name": "Fipz (wyk)",
@@ -876,13 +883,6 @@
             }
         ],
         "Piątek 2026-11-20": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Genetyka (wyk)",
-                "short_name": "Genet (wyk)",
-                "teacher": "dr inż. Ewa Walczak-Chajec",
-                "room": "A144"
-            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",

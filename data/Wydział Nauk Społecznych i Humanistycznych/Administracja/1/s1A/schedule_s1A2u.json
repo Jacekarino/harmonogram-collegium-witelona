@@ -48,20 +48,6 @@
         ],
         "Sobota 2026-10-10": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Nauka organizacji i zarządzania (wt)",
-                "short_name": "Noiz (wt)",
-                "teacher": "mgr Marcin Dąbrowski",
-                "room": "C125"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Nauka organizacji i zarządzania (wt)",
-                "short_name": "Noiz (wt)",
-                "teacher": "mgr Marcin Dąbrowski",
-                "room": "C125"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Najnowsza historia Polski (wt)",
                 "short_name": "NhP (wt)",
@@ -961,6 +947,20 @@
             }
         ],
         "Niedziela 2026-12-13": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Nauka organizacji i zarządzania (wt)",
+                "short_name": "Noiz (wt)",
+                "teacher": "mgr Marcin Dąbrowski",
+                "room": "A14"
+            },
             {
                 "time": "13:45-15:15",
                 "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
