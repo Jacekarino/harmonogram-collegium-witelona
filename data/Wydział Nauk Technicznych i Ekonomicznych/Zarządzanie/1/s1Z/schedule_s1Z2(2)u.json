@@ -142,13 +142,6 @@
         ],
         "Sobota 2026-10-17": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "A213 / A244"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Moduły do wyboru (wt)",
                 "short_name": "Mdw (wt)",
@@ -181,14 +174,14 @@
                 "class_name": "Mikroekonomia (ćw)",
                 "short_name": "Mikro (ćw)",
                 "teacher": "mgr Jerzy Ulewski",
-                "room": "A32"
+                "room": "A16"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Mikroekonomia (ćw)",
                 "short_name": "Mikro (ćw)",
                 "teacher": "mgr Jerzy Ulewski",
-                "room": "A32"
+                "room": "A16"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -331,13 +324,6 @@
                 "room": "Tymczasowa02"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "A213 / A218"
-            },
-            {
                 "time": "13:45-15:15",
                 "class_name": "Moduły do wyboru (wt)",
                 "short_name": "Mdw (wt)",
@@ -396,21 +382,7 @@
                 "room": "A32"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "A213 / A218"
-            },
-            {
                 "time": "17:15-18:45",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "A213 / A218"
-            },
-            {
-                "time": "19:00-20:30",
                 "class_name": "Moduły do wyboru (wt)",
                 "short_name": "Mdw (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
@@ -477,6 +449,29 @@
                 "short_name": "Mikro (wyk)",
                 "teacher": "dr Paweł Jóźwiakowski",
                 "room": "Online_101"
+            }
+        ],
+        "Sobota 2026-11-14": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C10"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C10"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C10"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -576,6 +571,29 @@
                 "room": "Online_02"
             }
         ],
+        "Sobota 2026-11-28": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski / mgr Bożena Jasiak-Kaczmarek",
+                "room": "A218 / C314"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski / mgr Bożena Jasiak-Kaczmarek",
+                "room": "A218 / C314"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski / mgr Bożena Jasiak-Kaczmarek",
+                "room": "A218 / C314"
+            }
+        ],
         "Środa 2026-12-02": [
             {
                 "time": "15:15-16:45",
@@ -599,13 +617,6 @@
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Janina Płaskonka-Fietkowska",
                 "room": "Tymczasowa03"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "C11 / C313"
             },
             {
                 "time": "13:45-15:15",
@@ -874,6 +885,29 @@
                 "room": "Online_01"
             }
         ],
+        "Sobota 2027-01-09": [
+            {
+                "time": "13:45-15:15",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A242"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A242"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "A242"
+            }
+        ],
         "Czwartek 2027-01-14": [
             {
                 "time": "15:15-16:45",
@@ -898,13 +932,6 @@
             }
         ],
         "Niedziela 2027-01-17": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Moduły do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "A213 / A218"
-            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Mikroekonomia (ćw)",
