@@ -468,13 +468,6 @@
                 "short_name": "Krymi (wt)",
                 "teacher": "mgr Edward Polakiewicz",
                 "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Kryminalistyka* (wt)",
-                "short_name": "Krymi (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
             }
         ],
         "Niedziela 2026-11-08": [
@@ -923,6 +916,13 @@
             },
             {
                 "time": "17:15-18:45",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
                 "class_name": "Kryminalistyka* (wt)",
                 "short_name": "Krymi (wt)",
                 "teacher": "mgr Edward Polakiewicz",

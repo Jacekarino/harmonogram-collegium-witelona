@@ -675,6 +675,13 @@
                 "short_name": "Pc-zips (wt)",
                 "teacher": "mgr Adriana Pińczuk",
                 "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Postępowanie cywilne-zips (wt)",
+                "short_name": "Pc-zips (wt)",
+                "teacher": "mgr Adriana Pińczuk",
+                "room": "C224"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -846,9 +853,9 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Postępowanie cywilne-zips (wt)",
-                "short_name": "Pc-zips (wt)",
-                "teacher": "mgr Adriana Pińczuk",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
                 "room": "C224"
             }
         ],
@@ -882,13 +889,6 @@
                 "room": "C224"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Prawo międzynarodowe publiczne (wt)",
-                "short_name": "Pmp (wt)",
-                "teacher": "mgr Agnieszka Łakomska",
-                "room": "C224"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Prawo międzynarodowe publiczne (wt)",
                 "short_name": "Pmp (wt)",
@@ -897,9 +897,9 @@
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
-                "short_name": "Pais (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
+                "class_name": "Prawo międzynarodowe publiczne (wt)",
+                "short_name": "Pmp (wt)",
+                "teacher": "mgr Agnieszka Łakomska",
                 "room": "C224"
             }
         ],

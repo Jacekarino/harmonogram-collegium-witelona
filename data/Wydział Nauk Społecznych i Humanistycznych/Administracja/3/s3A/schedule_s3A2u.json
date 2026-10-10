@@ -200,17 +200,10 @@
         ],
         "Sobota 2026-10-17": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
-                "short_name": "Ppius (wt)",
-                "teacher": "mgr Andrzej Marek",
-                "room": "C14"
-            },
-            {
                 "time": "10:00-11:30",
-                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
-                "short_name": "Ppius (wt)",
-                "teacher": "mgr Andrzej Marek",
+                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
+                "short_name": "Amrs (wt)",
+                "teacher": "mgr Marlena Gniewosz",
                 "room": "C14"
             },
             {
@@ -233,6 +226,20 @@
                 "short_name": "Ppg (wt)",
                 "teacher": "mgr  Joanna Rewak",
                 "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A217"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prawo pracy i ubezpieczeń społecznych (wt)",
+                "short_name": "Ppius (wt)",
+                "teacher": "mgr Andrzej Marek",
+                "room": "A217"
             }
         ],
         "Poniedziałek 2026-10-19": [
@@ -916,13 +923,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Wojciech Mucha",
                 "room": "C122"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Alternatywne metody rozwiązywania sporów (wt)",
-                "short_name": "Amrs (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "C228"
             }
         ],
         "Poniedziałek 2026-12-14": [
