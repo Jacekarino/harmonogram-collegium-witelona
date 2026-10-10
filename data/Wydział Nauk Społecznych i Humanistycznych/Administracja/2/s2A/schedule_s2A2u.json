@@ -564,13 +564,6 @@
                 "short_name": "Pmbwns (wt)",
                 "teacher": "mgr Marlena Gniewosz",
                 "room": "E4"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Samorząd i polityka lokalna (wt)",
-                "short_name": "Sipl (wt)",
-                "teacher": "mgr Zbigniew Wróblewski",
-                "room": "E4"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -764,18 +757,25 @@
                 "room": "E1"
             },
             {
-                "time": "17:15-18:45",
+                "time": "15:30-17:00",
                 "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
                 "short_name": "Pais (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
-                "room": "E4"
+                "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Samorząd i polityka lokalna (wt)",
+                "short_name": "Sipl (wt)",
+                "teacher": "mgr Zbigniew Wróblewski",
+                "room": "A36"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Samorząd i polityka lokalna (wt)",
                 "short_name": "Sipl (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
-                "room": "E4"
+                "room": "A36"
             }
         ],
         "Środa 2026-12-02": [

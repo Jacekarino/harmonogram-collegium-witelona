@@ -76,8 +76,8 @@
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
-                "room": "C127 / A2"
+                "teacher": "mgr Katarzyna Ben Abdallah / mgr Izabela Selera / mgr  Magdalena Berdys",
+                "room": "C127 / C129 / A2"
             },
             {
                 "time": "11:45-13:15",
@@ -178,15 +178,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
-                "room": "Online_01 / Online_02 / Online_09"
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_09 / Online_102"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
-                "room": "Online_01 / Online_02 / Online_09"
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_09 / Online_102"
             }
         ],
         "Środa 2026-10-14": [
@@ -408,6 +408,13 @@
         ],
         "Poniedziałek 2026-10-26": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_06"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -539,18 +546,25 @@
         ],
         "Poniedziałek 2026-11-09": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_105"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
-                "room": "Online_01 / Online_02 / Online_09"
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_09 / Online_105"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys",
-                "room": "Online_01 / Online_02 / Online_09"
+                "teacher": "mgr Sylwia Zajchowska / mgr Katarzyna Ben Abdallah / mgr  Magdalena Berdys / mgr Izabela Selera",
+                "room": "Online_01 / Online_02 / Online_09 / Online_105"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -574,6 +588,22 @@
                 "short_name": "Mh/s (wyk)",
                 "teacher": "dr Leszek Kędzierski",
                 "room": "Online_03"
+            }
+        ],
+        "Piątek 2026-11-13": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_13"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_13"
             }
         ],
         "Sobota 2026-11-14": [
@@ -703,6 +733,13 @@
         ],
         "Poniedziałek 2026-11-23": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_08"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -761,6 +798,22 @@
                 "short_name": "Urmiu (wyk)",
                 "teacher": "dr inż. Tomasz Stechnij-Trochanowski",
                 "room": "Online_02"
+            }
+        ],
+        "Piątek 2026-11-27": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_113"
             }
         ],
         "Sobota 2026-11-28": [
@@ -868,6 +921,13 @@
             }
         ],
         "Poniedziałek 2026-12-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_08"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
@@ -1266,6 +1326,13 @@
         ],
         "Poniedziałek 2027-01-11": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Izabela Selera",
+                "room": "Online_03"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -1310,8 +1377,8 @@
                 "time": "08:15-09:45",
                 "class_name": "Cyberbezpieczeństwo (wt)",
                 "short_name": "Cyber (wt)",
-                "teacher": "mgr inż. Marcin Żmuda",
-                "room": "A31"
+                "teacher": "mgr Izabela Selera / mgr inż. Marcin Żmuda",
+                "room": "C128 / A31"
             },
             {
                 "time": "10:00-11:30",
