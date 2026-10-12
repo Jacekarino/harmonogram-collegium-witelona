@@ -229,50 +229,6 @@
                 "room": "A116 (MCSM-WW)"
             }
         ],
-        "Poniedziałek 2026-10-12": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
-                "short_name": "Pipp (zp)",
-                "teacher": "mgr Eliza Lisiewicz",
-                "room": "Szpital_Bol_01"
-            }
-        ],
         "Wtorek 2026-10-13": [
             {
                 "time": "10:00-11:30",
@@ -735,6 +691,27 @@
                 "short_name": "Radio (ćw)",
                 "teacher": "mgr Magdalena Słomczyńska",
                 "room": "A13"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Elżbieta Piekarz",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Elżbieta Piekarz",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Elżbieta Piekarz",
+                "room": "Szpital_Leg_07"
             }
         ],
         "Środa 2026-11-04": [
@@ -910,25 +887,46 @@
         ],
         "Czwartek 2026-11-12": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
+            },
+            {
                 "time": "15:15-16:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Elżbieta Piekarz",
-                "room": "Szpital_Leg_07"
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Elżbieta Piekarz",
-                "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Elżbieta Piekarz",
-                "room": "Szpital_Leg_07"
+                "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
+                "short_name": "Pipp (zp)",
+                "teacher": "mgr Eliza Lisiewicz",
+                "room": "Szpital_Bol_01"
             }
         ],
         "Piątek 2026-11-13": [

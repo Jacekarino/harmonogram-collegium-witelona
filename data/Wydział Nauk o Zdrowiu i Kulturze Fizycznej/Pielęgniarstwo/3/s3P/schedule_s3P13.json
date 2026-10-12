@@ -312,20 +312,6 @@
                 "short_name": "Pr (wyk)",
                 "teacher": "dr Łukasz Rogowski",
                 "room": "A212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
-                "short_name": "Pod (wyk)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "C113"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
-                "short_name": "Pod (wyk)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "C113"
             }
         ],
         "Piątek 2026-10-16": [
@@ -789,6 +775,13 @@
             }
         ],
         "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A14"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
@@ -1902,6 +1895,13 @@
             }
         ],
         "Środa 2026-12-16": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A36"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",

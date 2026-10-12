@@ -947,20 +947,6 @@
                 "short_name": "Zp (ćw)",
                 "teacher": "mgr Anna Płotnicka-Mieloch",
                 "room": "Tymczasowa04"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "2 Promocja zdrowia (ćw)",
-                "short_name": "2Pz (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "2 Promocja zdrowia (ćw)",
-                "short_name": "2Pz (ćw)",
-                "teacher": "dr Grażyna Sondel",
-                "room": "C14"
             }
         ],
         "Środa 2026-12-16": [
@@ -1019,6 +1005,20 @@
             }
         ],
         "Sobota 2026-12-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "2 Promocja zdrowia (ćw)",
+                "short_name": "2Pz (ćw)",
+                "teacher": "dr Grażyna Sondel",
+                "room": "C14"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "2 Promocja zdrowia (ćw)",
+                "short_name": "2Pz (ćw)",
+                "teacher": "dr Grażyna Sondel",
+                "room": "C14"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Biologia człowieka (ćw)",

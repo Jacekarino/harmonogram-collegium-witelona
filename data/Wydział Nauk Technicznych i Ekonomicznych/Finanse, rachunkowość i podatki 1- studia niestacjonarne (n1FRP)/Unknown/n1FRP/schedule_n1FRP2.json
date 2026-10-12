@@ -90,13 +90,6 @@
         ],
         "Sobota 2026-10-17": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Statystyka (wyk)",
-                "short_name": "Staty (wyk)",
-                "teacher": "prof. dr hab. Adam Kopiński",
-                "room": "Online_01"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Mikroekonomia (wyk)",
                 "short_name": "Mikro (wyk)",
@@ -219,6 +212,13 @@
                 "class_name": "Prawo (wyk)",
                 "short_name": "Prawo (wyk)",
                 "teacher": "dr Marta Stanisławska",
+                "room": "Online_01"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Statystyka (wyk)",
+                "short_name": "Staty (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
                 "room": "Online_01"
             },
             {
