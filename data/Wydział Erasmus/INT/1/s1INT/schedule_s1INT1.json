@@ -97,15 +97,6 @@
                 "room": "--"
             }
         ],
-        "Piątek 2026-10-23": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social communication (wyk)",
-                "short_name": "Sc (wyk)",
-                "teacher": "dr Dawid Kutryn",
-                "room": "Online_08"
-            }
-        ],
         "Środa 2026-10-28": [
             {
                 "time": "08:15-09:45",
@@ -139,8 +130,8 @@
         "Piątek 2026-10-30": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Social communication (ćw)",
-                "short_name": "Sc (ćw)",
+                "class_name": "Social communication (wyk)",
+                "short_name": "Sc (wyk)",
                 "teacher": "dr Dawid Kutryn",
                 "room": "A16"
             },
@@ -518,8 +509,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Social communication (wyk)",
-                "short_name": "Sc (wyk)",
+                "class_name": "Social communication (ćw)",
+                "short_name": "Sc (ćw)",
                 "teacher": "dr Dawid Kutryn",
                 "room": "A13"
             },
@@ -529,15 +520,6 @@
                 "short_name": "Sc (ćw)",
                 "teacher": "dr Dawid Kutryn",
                 "room": "A13"
-            }
-        ],
-        "Piątek 2027-01-22": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Social communication (ćw)",
-                "short_name": "Sc (ćw)",
-                "teacher": "dr Dawid Kutryn",
-                "room": "A15"
             }
         ]
     }
