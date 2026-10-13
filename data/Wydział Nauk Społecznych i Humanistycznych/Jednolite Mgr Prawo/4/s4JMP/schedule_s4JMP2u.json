@@ -206,21 +206,21 @@
                 "class_name": "Postępowanie karne (wyk)",
                 "short_name": "Pk (wyk)",
                 "teacher": "Wakat_5_WS",
-                "room": "A36"
+                "room": "A144"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Administracja elektroniczna (wt)",
                 "short_name": "Ae (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "A12"
+                "room": "A14"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Administracja elektroniczna (wt)",
                 "short_name": "Ae (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "A12"
+                "room": "A14"
             }
         ],
         "Sobota 2026-10-24": [
@@ -675,20 +675,6 @@
                 "short_name": "PUE (wt)",
                 "teacher": "Wakat_2_WS",
                 "room": "E1"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Administracja elektroniczna (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "E1"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Administracja elektroniczna (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "mgr Marlena Gniewosz",
-                "room": "E1"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -740,6 +726,22 @@
                 "short_name": "Zp (wt)",
                 "teacher": "dr Krystian Czarny",
                 "room": "E1"
+            }
+        ],
+        "Poniedziałek 2026-11-23": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Administracja elektroniczna (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "mgr Marlena Gniewosz",
+                "room": "A16"
             }
         ],
         "Środa 2026-11-25": [

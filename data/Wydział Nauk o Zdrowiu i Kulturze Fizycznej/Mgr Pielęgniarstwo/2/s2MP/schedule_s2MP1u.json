@@ -106,15 +106,6 @@
                 "room": "E1"
             }
         ],
-        "Środa 2026-10-14": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "1 Zaawansowana opieka pielęgniarska w okulistyce* (wyk)",
-                "short_name": "1Zopwo (wyk)",
-                "teacher": "lek. Kacper Śliwiński",
-                "room": "C224"
-            }
-        ],
         "Czwartek 2026-10-15": [
             {
                 "time": "15:15-16:45",
@@ -220,7 +211,7 @@
                 "class_name": "Statystyka medyczna (wyk)",
                 "short_name": "Sm (wyk)",
                 "teacher": "dr Karol Selwat",
-                "room": "C224"
+                "room": "C113"
             }
         ],
         "Sobota 2026-10-24": [
@@ -853,6 +844,13 @@
             }
         ],
         "Piątek 2026-12-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "1 Zaawansowana opieka pielęgniarska w okulistyce* (wyk)",
+                "short_name": "1Zopwo (wyk)",
+                "teacher": "lek. Kacper Śliwiński",
+                "room": "C224"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Statystyka medyczna (ćw)",

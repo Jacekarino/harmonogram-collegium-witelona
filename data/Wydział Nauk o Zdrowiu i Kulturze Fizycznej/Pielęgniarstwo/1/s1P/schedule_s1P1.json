@@ -371,14 +371,14 @@
                 "class_name": "Prawo medyczne (wyk)",
                 "short_name": "Pm (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "A144"
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy pielęgniarstwa (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
-                "room": "A212"
+                "room": "A245"
             }
         ],
         "Czwartek 2026-10-22": [
@@ -401,7 +401,7 @@
                 "class_name": "Psychologia (ćw)",
                 "short_name": "Psych (ćw)",
                 "teacher": "dr Małgorzata Buchla",
-                "room": "A245"
+                "room": "A144"
             },
             {
                 "time": "13:30-15:00",
@@ -409,6 +409,27 @@
                 "short_name": "Psych (wyk)",
                 "teacher": "dr Małgorzata Buchla",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Beata Turkiewicz",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Beata Turkiewicz",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Beata Turkiewicz",
+                "room": "A118 (MCSM-UT)"
             }
         ],
         "Piątek 2026-10-23": [
@@ -901,27 +922,6 @@
                 "short_name": "Fizjo (wyk)",
                 "teacher": "dr Małgorzata Fortuna",
                 "room": "C14"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Beata Turkiewicz",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Beata Turkiewicz",
-                "room": "A117 (MCSM-ALS/BLS)"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Beata Turkiewicz",
-                "room": "A117 (MCSM-ALS/BLS)"
             }
         ],
         "Środa 2026-11-18": [

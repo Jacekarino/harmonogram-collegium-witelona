@@ -46,27 +46,6 @@
         ],
         "Wtorek 2026-10-13": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Production Logistics (wyk)",
-                "short_name": "PL (wyk)",
-                "teacher": "mgr Małgorzata Pacer",
-                "room": "C201"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Supply Chain Management (wyk)",
-                "short_name": "SCM (wyk)",
-                "teacher": "mgr Małgorzata Pacer",
-                "room": "C201"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Supply Chain Management (ćw)",
-                "short_name": "SCM (ćw)",
-                "teacher": "mgr Małgorzata Pacer",
-                "room": "C201"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Mathematics I (wyk)",
                 "short_name": "Mathe (wyk)",
@@ -98,6 +77,27 @@
             }
         ],
         "Poniedziałek 2026-10-19": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Production Logistics (wyk)",
+                "short_name": "PL (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Supply Chain Management (wyk)",
+                "short_name": "SCM (wyk)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Supply Chain Management (ćw)",
+                "short_name": "SCM (ćw)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Production and service management (wyk)",
