@@ -154,13 +154,6 @@
                 "short_name": "Bmp (wyk)",
                 "teacher": "dr Jerzy Buczko",
                 "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
-                "short_name": "Mmpwsk (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_105"
             }
         ],
         "Sobota 2026-10-17": [
@@ -865,6 +858,13 @@
             }
         ],
         "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_03"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",

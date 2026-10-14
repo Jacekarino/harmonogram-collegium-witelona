@@ -219,13 +219,6 @@
         ],
         "Środa 2026-10-14": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
-                "short_name": "Żcwca (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_109"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
                 "short_name": "Żidg (wyk)",
@@ -1173,6 +1166,13 @@
                 "short_name": "Żk (wyk)",
                 "teacher": "mgr Marzena Witek",
                 "room": "Online_06"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
             }
         ],
         "Środa 2026-12-02": [
@@ -1703,21 +1703,21 @@
                 "class_name": "Żywienie w zaburzeniach metabolicznych (lab)1h [x/-]",
                 "short_name": "Żwzm (lab)1h [x/-]",
                 "teacher": "mgr Ewa Popowicz",
-                "room": "C10"
+                "room": "A218"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Żywienie w zaburzeniach metabolicznych (lab)",
                 "short_name": "Żwzm (lab)",
                 "teacher": "mgr Ewa Popowicz",
-                "room": "C10"
+                "room": "A218"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (lab)1h [x/-]",
                 "short_name": "Żcwca (lab)1h [x/-]",
                 "teacher": "mgr Ewa Popowicz",
-                "room": "C10"
+                "room": "A218"
             }
         ],
         "Sobota 2027-01-16": [
