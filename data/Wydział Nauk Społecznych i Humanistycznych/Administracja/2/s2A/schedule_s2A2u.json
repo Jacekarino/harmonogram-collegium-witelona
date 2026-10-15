@@ -252,15 +252,15 @@
             },
             {
                 "time": "17:15-18:45",
-                "class_name": "Samorząd i polityka lokalna (wt)",
-                "short_name": "Sipl (wt)",
+                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
+                "short_name": "Pais (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
                 "room": "C113"
             },
             {
                 "time": "19:00-20:30",
-                "class_name": "Postępowanie administracyjne i sądowoadministracyjne (wt)",
-                "short_name": "Pais (wt)",
+                "class_name": "Samorząd i polityka lokalna (wt)",
+                "short_name": "Sipl (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
                 "room": "C113"
             }
@@ -792,13 +792,6 @@
                 "short_name": "1Zp (wyk)",
                 "teacher": "prof. dr hab. Andrzej Powałowski",
                 "room": "Online_107"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "1 Zamówienia publiczne (wyk)",
-                "short_name": "1Zp (wyk)",
-                "teacher": "mgr Jakub Adamiak",
-                "room": "Online_06"
             }
         ],
         "Czwartek 2026-12-03": [
@@ -972,6 +965,15 @@
                 "short_name": "Sipl (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
                 "room": "E1"
+            }
+        ],
+        "Środa 2026-12-16": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "1 Zamówienia publiczne (wyk)",
+                "short_name": "1Zp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_106"
             }
         ],
         "Czwartek 2026-12-17": [

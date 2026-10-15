@@ -652,17 +652,10 @@
         ],
         "Sobota 2027-01-23": [
             {
-                "time": "08:15-09:45",
+                "time": "10:00-11:30",
                 "class_name": "Mikroekonomia (wyk)",
                 "short_name": "Mikro (wyk)",
                 "teacher": "dr Paweł Jóźwiakowski",
-                "room": "A245"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Karol Selwat",
                 "room": "A245"
             },
             {
@@ -715,6 +708,13 @@
                 "short_name": "Gigi (ćw)",
                 "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "A36"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A245"
             }
         ]
     }
