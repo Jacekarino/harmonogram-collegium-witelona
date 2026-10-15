@@ -24,7 +24,7 @@
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
@@ -54,7 +54,7 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (wyk)",
                 "short_name": "Mitrszs (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A14"
@@ -132,7 +132,7 @@
         "Poniedziałek 2026-10-12": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (wyk)",
                 "short_name": "Mitrszs (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A245"
@@ -176,8 +176,8 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
@@ -199,15 +199,15 @@
         "Środa 2026-10-14": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
@@ -266,36 +266,36 @@
         "Piątek 2026-10-16": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (wyk)",
                 "short_name": "Mitrszs (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C113"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             }
@@ -377,7 +377,7 @@
         "Środa 2026-10-21": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (wyk)",
                 "short_name": "Mitrszs (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A245"
@@ -405,15 +405,15 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A057 - Aerobik"
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A057 - Aerobik"
             }
@@ -546,8 +546,8 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A145"
             },
@@ -569,8 +569,8 @@
         "Czwartek 2026-10-29": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A14"
             },
@@ -622,15 +622,15 @@
         "Środa 2026-11-04": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A245"
             },
@@ -846,8 +846,8 @@
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A14"
             },
@@ -862,15 +862,15 @@
         "Czwartek 2026-11-19": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A245"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A245"
             },
@@ -885,7 +885,7 @@
         "Piątek 2026-11-20": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (wyk)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (wyk)",
                 "short_name": "Mitrszs (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A245"
@@ -915,8 +915,8 @@
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A212"
             },
@@ -1014,15 +1014,15 @@
         "Piątek 2026-11-27": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             },
@@ -1083,22 +1083,22 @@
         "Środa 2026-12-02": [
             {
                 "time": "11:45-13:15",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
@@ -1120,8 +1120,8 @@
         "Czwartek 2026-12-03": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A14"
             },
@@ -1134,8 +1134,8 @@
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "C322"
             }
@@ -1187,8 +1187,8 @@
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             }
@@ -1196,8 +1196,8 @@
         "Wtorek 2026-12-08": [
             {
                 "time": "13:30-15:00",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
@@ -1242,8 +1242,8 @@
         "Czwartek 2026-12-10": [
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (wyk)",
-                "short_name": "Ponoikdim (wyk)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A14"
             },
@@ -1256,8 +1256,8 @@
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
@@ -1272,14 +1272,14 @@
         "Poniedziałek 2026-12-14": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
@@ -1348,15 +1348,15 @@
         "Czwartek 2026-12-17": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A33"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A33"
             },
@@ -1371,15 +1371,15 @@
         "Piątek 2026-12-18": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Pilates/Zdrowy kręgosłup (ćw)",
-                "short_name": "Pk (ćw)",
+                "class_name": "Pilates* (ćw)",
+                "short_name": "Pilat (ćw)",
                 "teacher": "mgr Kamila Fiszer",
                 "room": "A33"
             },
@@ -1470,36 +1470,36 @@
         "Poniedziałek 2027-01-11": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Metody i techniki radzenia sobie ze stresem/Mindfulness (ćw)",
+                "class_name": "Metody i techniki radzenia sobie ze stresem* (ćw)",
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A33"
             },
             {
                 "time": "15:15-16:45",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A33"
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A245"
             }
@@ -1530,29 +1530,29 @@
         "Środa 2027-01-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Sporty walki/Samoobrona (ćw)",
-                "short_name": "Sw (ćw)",
+                "class_name": "Samoobrona* (ćw)",
+                "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A144"
             },
             {
                 "time": "11:45-13:15",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A144"
             },
             {
                 "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach/Wypoczynek dzieci i młodzieży (ćw)",
-                "short_name": "Ponoikdim (ćw)",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "A144"
             },
