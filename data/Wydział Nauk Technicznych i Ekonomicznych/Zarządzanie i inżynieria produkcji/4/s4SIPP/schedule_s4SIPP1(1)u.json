@@ -28,8 +28,8 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "C209 / C210"
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "C209"
             },
             {
                 "time": "18:45-20:15",
@@ -159,15 +159,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_14 / Online_15"
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_14"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_14 / Online_15"
+                "teacher": "dr inż.  Stefan Kozerski",
+                "room": "Online_14"
             }
         ],
         "Piątek 2026-10-23": [
@@ -253,15 +253,22 @@
                 "short_name": "Spp (wyk)",
                 "teacher": "dr inż. Agata Kirjanów-Błażej",
                 "room": "Online_113"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
+                "short_name": "Nsp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_101"
             }
         ],
         "Czwartek 2026-10-29": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Nowoczesne systemy przemysłowe (wyk)",
-                "short_name": "Nsp (wyk)",
-                "teacher": "dr inż. Agata Kirjanów-Błażej",
-                "room": "Online_113"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "A142"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -293,6 +300,13 @@
                 "class_name": "Sterowanie przepływem produkcji (wyk)",
                 "short_name": "Spp (wyk)",
                 "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_107"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
                 "room": "Online_107"
             }
         ],
@@ -425,6 +439,13 @@
                 "short_name": "Srikp (wyk)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_107"
             }
         ],
         "Środa 2026-11-25": [

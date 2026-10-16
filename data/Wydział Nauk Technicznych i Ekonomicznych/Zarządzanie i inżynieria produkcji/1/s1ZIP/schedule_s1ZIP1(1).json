@@ -97,13 +97,6 @@
                 "short_name": "Mikro (ćw)",
                 "teacher": "mgr Nadine Bednarz",
                 "room": "A13"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "C212"
             }
         ],
         "Piątek 2026-10-09": [
@@ -185,13 +178,6 @@
             }
         ],
         "Wtorek 2026-10-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Materiałoznawstwo (wyk)",
-                "short_name": "Mater (wyk)",
-                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "Online_05"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
@@ -311,9 +297,23 @@
                 "short_name": "Pz (sem)",
                 "teacher": "dr Jolanta Radkowska",
                 "room": "A142"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "A144"
             }
         ],
         "Wtorek 2026-11-03": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Materiałoznawstwo (wyk)",
+                "short_name": "Mater (wyk)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński",
+                "room": "Online_05"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Mikroekonomia (wyk)",
