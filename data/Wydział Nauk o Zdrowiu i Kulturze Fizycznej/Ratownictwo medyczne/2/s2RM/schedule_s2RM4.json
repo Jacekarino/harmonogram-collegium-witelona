@@ -178,22 +178,6 @@
                 "room": "Szpital_Leg_01"
             }
         ],
-        "Poniedziałek 2026-10-12": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Kardiologia (ćw)",
-                "short_name": "Kardi (ćw)",
-                "teacher": "mgr Mariusz Trela",
-                "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kardiologia (ćw)",
-                "short_name": "Kardi (ćw)",
-                "teacher": "mgr Mariusz Trela",
-                "room": "A144"
-            }
-        ],
         "Wtorek 2026-10-13": [
             {
                 "time": "15:15-16:45",
@@ -287,6 +271,20 @@
             }
         ],
         "Poniedziałek 2026-10-19": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Kardiologia (ćw)",
+                "short_name": "Kardi (ćw)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Kardiologia (ćw)",
+                "short_name": "Kardi (ćw)",
+                "teacher": "mgr Mariusz Trela",
+                "room": "A14"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Medycyna ratunkowa (wyk)",
