@@ -391,6 +391,13 @@
         ],
         "Wtorek 2026-11-03": [
             {
+                "time": "17:00-18:30",
+                "class_name": "Mikro i makroekonomia (wyk)",
+                "short_name": "Mim (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_102"
+            },
+            {
                 "time": "18:45-20:15",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -571,15 +578,6 @@
                 "short_name": "Mh (wyk)",
                 "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
                 "room": "Online_102 / Online_103"
-            }
-        ],
-        "Środa 2026-11-18": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Mikro i makroekonomia (wyk)",
-                "short_name": "Mim (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "Online_109"
             }
         ],
         "Wtorek 2026-11-24": [

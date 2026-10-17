@@ -362,6 +362,20 @@
         ],
         "Środa 2026-11-04": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Basics of Economics and Finance (wyk)",
+                "short_name": "BoEaF (wyk)",
+                "teacher": "dr Joanna Kenc",
+                "room": "Online_01"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Supply Chain Management (wyk)",
                 "short_name": "SCM (wyk)",
@@ -452,20 +466,6 @@
                 "short_name": "PbI (wyk)",
                 "teacher": "dr Aleksander Klosow",
                 "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Basics of Economics and Finance (wyk)",
-                "short_name": "BoEaF (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "Online_10"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Basics of Economics and Finance (wyk)",
-                "short_name": "BoEaF (wyk)",
-                "teacher": "dr Joanna Kenc",
-                "room": "Online_10"
             }
         ],
         "Środa 2026-11-18": [

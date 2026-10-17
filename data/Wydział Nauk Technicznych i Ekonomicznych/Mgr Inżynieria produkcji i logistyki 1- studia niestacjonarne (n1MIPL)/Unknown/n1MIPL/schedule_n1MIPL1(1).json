@@ -199,13 +199,6 @@
                 "room": "Online_02"
             },
             {
-                "time": "17:15-18:45",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (wyk)",
-                "short_name": "Piswp (wyk)",
-                "teacher": "dr hab. inż. Bogumiła Wnukowska",
-                "room": "Online_02"
-            },
-            {
                 "time": "19:00-20:30",
                 "class_name": "Planowanie i sterowanie produkcją (wyk)",
                 "short_name": "Pisp (wyk)",
@@ -271,6 +264,13 @@
                 "short_name": "Ełd (wyk)",
                 "teacher": "dr inż. Dariusz Michalski",
                 "room": "Online_04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (wyk)",
+                "short_name": "Piswp (wyk)",
+                "teacher": "dr hab. inż. Bogumiła Wnukowska",
+                "room": "Online_01"
             }
         ],
         "Piątek 2026-11-20": [
