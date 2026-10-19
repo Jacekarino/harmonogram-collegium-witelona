@@ -970,13 +970,6 @@
                 "room": "A33"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy kryminalistyki (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Zagrożenia bezpieczeństwa państwa (wt)",
                 "short_name": "Zbp (wt)",
@@ -1268,6 +1261,13 @@
             }
         ],
         "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy kryminalistyki (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy kryminalistyki (wt)",

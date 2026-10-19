@@ -360,13 +360,6 @@
                 "short_name": "Fkwms (wyk)",
                 "teacher": "mgr Łukasz Zajkowski",
                 "room": "A212"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
-                "short_name": "Dfwcw (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "C113"
             }
         ],
         "Środa 2026-10-21": [
@@ -878,6 +871,13 @@
                 "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
                 "room": "C212"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "A245"
             }
         ],
         "Czwartek 2026-11-12": [
