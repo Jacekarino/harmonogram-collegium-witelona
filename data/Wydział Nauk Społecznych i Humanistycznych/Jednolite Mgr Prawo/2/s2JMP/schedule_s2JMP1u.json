@@ -235,13 +235,6 @@
                 "short_name": "Pgp (wt)",
                 "teacher": "mgr  Joanna Rewak",
                 "room": "C129"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Kryminalistyka* (wt)",
-                "short_name": "Krymi (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
             }
         ],
         "Niedziela 2026-10-25": [
@@ -701,6 +694,13 @@
                 "short_name": "Wpa (wt)",
                 "teacher": "mgr Wojciech Pinkos",
                 "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Kryminalistyka* (wt)",
+                "short_name": "Krymi (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
             }
         ],
         "Niedziela 2026-11-22": [

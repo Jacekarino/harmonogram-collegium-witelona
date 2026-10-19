@@ -242,13 +242,6 @@
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Rafał Kubik",
                 "room": "Online_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nauka administracji (wyk)",
-                "short_name": "Na (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_101"
             }
         ],
         "Wtorek 2026-10-20": [
@@ -709,6 +702,13 @@
                 "short_name": "Pe (wyk)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "Online_100"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_02"
             }
         ],
         "Sobota 2026-11-28": [

@@ -302,6 +302,29 @@
                 "room": "Online_09"
             }
         ],
+        "Sobota 2026-10-24": [
+            {
+                "time": "15:30-17:00",
+                "class_name": "Podstawy kryminalistyki (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy kryminalistyki (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Podstawy kryminalistyki (wt)",
+                "short_name": "Pk (wt)",
+                "teacher": "mgr Edward Polakiewicz",
+                "room": "A243"
+            }
+        ],
         "Wtorek 2026-10-27": [
             {
                 "time": "15:15-16:45",
@@ -365,13 +388,6 @@
             }
         ],
         "Wtorek 2026-11-03": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy metodologii badań w naukach społecznych (wyk)",
-                "short_name": "Pmbwns (wyk)",
-                "teacher": "dr Wojciech Mucha",
-                "room": "Online_09"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Wprowadzenie do cyberbezpieczeństwa (wyk)",
@@ -738,27 +754,6 @@
                 "short_name": "Wdc (wt)",
                 "teacher": "mgr inż. Robert Nowakowski",
                 "room": "A213"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Podstawy kryminalistyki (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Podstawy kryminalistyki (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Podstawy kryminalistyki (wt)",
-                "short_name": "Pk (wt)",
-                "teacher": "mgr Edward Polakiewicz",
-                "room": "A243"
             }
         ],
         "Niedziela 2026-11-29": [
@@ -789,6 +784,13 @@
                 "short_name": "Eizd (wt)",
                 "teacher": "mgr Dariusz Stefaniak",
                 "room": "C113"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
             }
         ],
         "Wtorek 2026-12-01": [
@@ -1076,6 +1078,13 @@
         ],
         "Czwartek 2027-01-07": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy metodologii badań w naukach społecznych (wyk)",
+                "short_name": "Pmbwns (wyk)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "Online_04"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -1279,13 +1288,6 @@
                 "short_name": "Pk (wt)",
                 "teacher": "mgr Edward Polakiewicz",
                 "room": "A243"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
             }
         ]
     }

@@ -382,6 +382,13 @@
                 "room": "D17"
             },
             {
+                "time": "15:30-17:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
                 "time": "17:15-18:45",
                 "class_name": "Przeciwdziałanie i zwalczanie przestępczości* (wt)",
                 "short_name": "Pizp (wt)",
@@ -972,15 +979,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Marek Czarkowski / dr Wojciech Mucha",
                 "room": "Tymczasowa04 / Tymczasowa05"
-            }
-        ],
-        "Niedziela 2027-01-24": [
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
             }
         ]
     }

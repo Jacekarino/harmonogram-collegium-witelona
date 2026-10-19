@@ -262,13 +262,6 @@
                 "short_name": "Bd (wt)",
                 "teacher": "mgr Małgorzata Pacer",
                 "room": "C209"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "C329"
             }
         ],
         "Poniedziałek 2026-10-26": [
@@ -446,6 +439,13 @@
                 "short_name": "Ekolo (p)",
                 "teacher": "mgr inż. Agnieszka Paszyn",
                 "room": "A142"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
+                "room": "A141"
             }
         ],
         "Poniedziałek 2026-11-16": [

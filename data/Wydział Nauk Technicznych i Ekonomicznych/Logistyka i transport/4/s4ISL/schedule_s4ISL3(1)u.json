@@ -250,13 +250,6 @@
                 "room": "A141"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Ekonomika transportu (wt)",
-                "short_name": "Et (wt)",
-                "teacher": "mgr Łukasz Bałecki",
-                "room": "C329"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Bezpieczeństwo drogowe (wt)",
                 "short_name": "Bd (wt)",
@@ -767,6 +760,13 @@
                 "class_name": "Normy techniczne i techniczne aspekty działalności (ćw)",
                 "short_name": "Ntitad (ćw)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
+                "room": "A142"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Ekonomika transportu (wt)",
+                "short_name": "Et (wt)",
+                "teacher": "mgr Łukasz Bałecki",
                 "room": "A142"
             },
             {
