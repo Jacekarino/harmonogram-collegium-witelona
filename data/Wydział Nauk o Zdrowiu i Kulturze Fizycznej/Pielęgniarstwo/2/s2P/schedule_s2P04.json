@@ -902,6 +902,13 @@
                 "short_name": "Cwipi (lab)",
                 "teacher": "mgr Marta Soboń",
                 "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
+                "short_name": "Cwipi (lab)",
+                "teacher": "dr Monika Sobolak",
+                "room": "A116 (MCSM-WW)"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -1087,20 +1094,13 @@
         "Czwartek 2026-11-19": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
-                "short_name": "Cwipi (lab)",
-                "teacher": "mgr Barbara Golicz",
-                "room": "A116 (MCSM-WW)"
-            },
-            {
-                "time": "17:00-18:30",
                 "class_name": "Chirurgia (lab)",
                 "short_name": "Chiru (lab)",
                 "teacher": "mgr Barbara Golicz",
                 "room": "A116 (MCSM-WW)"
             },
             {
-                "time": "18:45-20:15",
+                "time": "17:00-18:30",
                 "class_name": "Chirurgia (lab)",
                 "short_name": "Chiru (lab)",
                 "teacher": "mgr Barbara Golicz",
