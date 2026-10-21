@@ -631,6 +631,13 @@
         ],
         "Wtorek 2026-11-17": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka inżynierska (wyk)",
+                "short_name": "Si (wyk)",
+                "teacher": "prof. dr hab. Adam Kopiński",
+                "room": "Online_104"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -669,13 +676,6 @@
             }
         ],
         "Poniedziałek 2026-11-23": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy mechniki i wytrzymałości materiałów (wyk)",
-                "short_name": "Pmiwm (wyk)",
-                "teacher": "dr inż. Dariusz Michalski",
-                "room": "Online_07"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
@@ -866,13 +866,20 @@
                 "room": "A12 / A13 / D8"
             }
         ],
-        "Środa 2026-12-02": [
+        "Piątek 2026-12-04": [
             {
                 "time": "17:00-18:30",
+                "class_name": "Podstawy mechniki i wytrzymałości materiałów (wyk)",
+                "short_name": "Pmiwm (wyk)",
+                "teacher": "dr inż. Dariusz Michalski",
+                "room": "Online_09"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "1 Podstawy metrologii (wyk)",
                 "short_name": "1Pm (wyk)",
                 "teacher": "mgr inż. Jan Duda",
-                "room": "Online_114"
+                "room": "Online_109"
             }
         ],
         "Wtorek 2026-12-08": [
@@ -1034,13 +1041,6 @@
         ],
         "Wtorek 2026-12-15": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Statystyka inżynierska (wyk)",
-                "short_name": "Si (wyk)",
-                "teacher": "prof. dr hab. Adam Kopiński",
-                "room": "Online_06"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -1064,7 +1064,7 @@
                 "room": "Online_102"
             },
             {
-                "time": "18:45-20:15",
+                "time": "17:00-18:30",
                 "class_name": "1 Podstawy metrologii (wyk)",
                 "short_name": "1Pm (wyk)",
                 "teacher": "mgr inż. Jan Duda",

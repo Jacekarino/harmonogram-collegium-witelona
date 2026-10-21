@@ -1242,20 +1242,6 @@
                 "short_name": "Pfwwr (wyk)",
                 "teacher": "mgr Katarzyna Kardasz",
                 "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_05"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Grzegorz Konieczny",
-                "room": "Online_05"
             }
         ],
         "Piątek 2026-12-04": [
@@ -1422,6 +1408,20 @@
                 "short_name": "Pfwdur (zp)",
                 "teacher": "mgr Arkadiusz Gdula",
                 "room": "A326"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Grzegorz Konieczny",
+                "room": "Online_112"
             }
         ],
         "Środa 2026-12-16": [

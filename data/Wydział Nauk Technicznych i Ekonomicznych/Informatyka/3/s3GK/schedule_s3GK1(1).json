@@ -350,15 +350,15 @@
                 "time": "08:15-09:45",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A12 / A16"
+                "teacher": "mgr Filip Kostek",
+                "room": "A16"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Katarzyna Ben Abdallah / mgr Filip Kostek",
-                "room": "A12 / A16"
+                "teacher": "mgr Filip Kostek",
+                "room": "A16"
             }
         ],
         "Piątek 2026-10-30": [
@@ -410,6 +410,20 @@
             }
         ],
         "Czwartek 2026-11-05": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Język angielski (ćw)",
+                "short_name": "Ja (ćw)",
+                "teacher": "mgr Katarzyna Ben Abdallah",
+                "room": "A12"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Metody sztucznej inteligencji (wyk)",

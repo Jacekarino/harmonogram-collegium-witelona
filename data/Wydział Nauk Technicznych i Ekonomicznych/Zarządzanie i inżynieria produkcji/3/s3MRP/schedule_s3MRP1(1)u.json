@@ -507,13 +507,6 @@
         ],
         "Czwartek 2026-11-05": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Układy mikroprocesorowe (wyk)",
-                "short_name": "Um (wyk)",
-                "teacher": "mgr inż. Jan Duda",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -655,13 +648,6 @@
         ],
         "Poniedziałek 2026-11-16": [
             {
-                "time": "15:15-16:45",
-                "class_name": "1 Seminarium dyplomowe (sem)",
-                "short_name": "1Sd (sem)",
-                "teacher": "dr inż. Rafał Więcławek",
-                "room": "Online_09"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -793,6 +779,13 @@
         ],
         "Środa 2026-11-25": [
             {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_108"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "1 Seminarium dyplomowe (sem)",
                 "short_name": "1Sd (sem)",
@@ -912,8 +905,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "2 Seminarium dyplomowe (sem)",
-                "short_name": "2Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_10"
             },
@@ -926,6 +919,13 @@
             }
         ],
         "Piątek 2026-12-04": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Układy mikroprocesorowe (wyk)",
+                "short_name": "Um (wyk)",
+                "teacher": "mgr inż. Jan Duda",
+                "room": "Online_02"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "1 Seminarium dyplomowe (sem)",

@@ -349,6 +349,13 @@
         ],
         "Piątek 2026-10-30": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Moduł uzupełniający - Anatomia (wyk)",
+                "short_name": "Mu-A (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "Online_105"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo w zdrowiu publicznym (wyk)",
                 "short_name": "Pwzp (wyk)",
@@ -640,6 +647,13 @@
         ],
         "Piątek 2026-11-20": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Moduł uzupełniający - Anatomia (lab)",
+                "short_name": "Mu-A (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "Online_106"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo w zdrowiu publicznym (wyk)",
                 "short_name": "Pwzp (wyk)",
@@ -878,6 +892,13 @@
                 "short_name": "1Pz (wyk)",
                 "teacher": "dr Małgorzata Buchla",
                 "room": "Online_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł uzupełniający - Anatomia (lab)",
+                "short_name": "Mu-A (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "Online_105"
             }
         ],
         "Piątek 2026-12-11": [
@@ -968,6 +989,20 @@
                 "short_name": "Zp (ćw)",
                 "teacher": "mgr Anna Płotnicka-Mieloch",
                 "room": "Tymczasowa04"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Moduł uzupełniający - Anatomia (wyk)",
+                "short_name": "Mu-A (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Moduł uzupełniający - Anatomia (lab)",
+                "short_name": "Mu-A (lab)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "C322"
             }
         ],
         "Środa 2026-12-16": [
