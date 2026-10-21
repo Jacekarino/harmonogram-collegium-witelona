@@ -269,13 +269,6 @@
         ],
         "Środa 2026-10-21": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Zarządzanie rozwojem miast (wyk)",
-                "short_name": "Zrm (wyk)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "Online_110"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Prawne aspekty ochrony środowiska (wyk)",
                 "short_name": "Paoś (wyk)",
@@ -557,6 +550,13 @@
                 "short_name": "Zrm (wyk)",
                 "teacher": "mgr Grzegorz Majewicz",
                 "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "Online_09"
             }
         ],
         "Poniedziałek 2026-11-23": [

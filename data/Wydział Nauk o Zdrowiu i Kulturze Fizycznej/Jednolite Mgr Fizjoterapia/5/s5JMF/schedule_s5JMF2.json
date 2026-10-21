@@ -327,20 +327,6 @@
         ],
         "Czwartek 2026-10-22": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
-                "short_name": "Msf-mrprnntn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
-                "short_name": "Msf-mrprnntn (wyk)",
-                "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Działalność gospodarcza w fizjoterapii* (ćw)",
                 "short_name": "Dgwf (ćw)",
@@ -393,6 +379,13 @@
             }
         ],
         "Poniedziałek 2026-10-26": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
+                "short_name": "Msf-mrprnntn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "A14"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Planowanie fizjoterapii w wieku rozwojowym (zp)",
@@ -628,6 +621,13 @@
                 "short_name": "Pfwcw (zp)",
                 "teacher": "mgr Martyna Malinka",
                 "room": "Szpital_Leg_01"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
+                "short_name": "Msf-mrprnntn (wyk)",
+                "teacher": "dr Monika Wierzbicka",
+                "room": "C113"
             },
             {
                 "time": "11:45-13:15",

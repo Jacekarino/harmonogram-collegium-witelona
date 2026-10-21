@@ -1057,6 +1057,15 @@
                 "room": "Online_16"
             }
         ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Marek Miedziński",
+                "room": "A143"
+            }
+        ],
         "Wtorek 2027-01-12": [
             {
                 "time": "15:15-16:45",
@@ -1071,13 +1080,6 @@
                 "short_name": "PgiD (wyk)",
                 "teacher": "dr Aleksander Klosow",
                 "room": "Online_15"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Marek Miedziński",
-                "room": "Online_14"
             }
         ],
         "Piątek 2027-01-15": [

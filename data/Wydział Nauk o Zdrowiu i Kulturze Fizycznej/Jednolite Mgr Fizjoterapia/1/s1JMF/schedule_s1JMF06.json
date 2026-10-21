@@ -517,13 +517,6 @@
                 "room": "A33"
             },
             {
-                "time": "15:15-16:45",
-                "class_name": "Biochemia (ćw)",
-                "short_name": "Bioch (ćw)",
-                "teacher": "mgr inż. Agnieszka Paszyn",
-                "room": "D1"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Demografia i epidemiologia (wyk)",
                 "short_name": "Die (wyk)",
@@ -1366,6 +1359,13 @@
                 "short_name": "Fipz (wyk)",
                 "teacher": "dr Grażyna Sondel",
                 "room": "C125"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biochemia (ćw)",
+                "short_name": "Bioch (ćw)",
+                "teacher": "mgr inż. Agnieszka Paszyn",
+                "room": "D1"
             }
         ],
         "Poniedziałek 2026-12-21": [
