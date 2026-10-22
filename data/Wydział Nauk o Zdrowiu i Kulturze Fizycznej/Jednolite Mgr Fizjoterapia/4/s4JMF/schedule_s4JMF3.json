@@ -565,20 +565,6 @@
                 "short_name": "Kwp (wyk)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A14"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Korekcja wad postawy* (wyk)",
-                "short_name": "Kwp (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A14"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -1037,8 +1023,8 @@
         "Poniedziałek 2026-11-23": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
-                "short_name": "Aafisozn (wyk)",
+                "class_name": "Korekcja wad postawy* (wyk)",
+                "short_name": "Kwp (wyk)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A212"
             },
@@ -1069,6 +1055,20 @@
                 "short_name": "Mbn (wyk)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
+                "short_name": "Aafisozn (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Adaptowana aktywność fizyczna i sport osób z niepełnosprawnościami (wyk)",
+                "short_name": "Aafisozn (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
             }
         ],
         "Wtorek 2026-11-24": [

@@ -333,20 +333,6 @@
                 "room": "A32"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Bezpieczeństwo drogowe (wt)",
-                "short_name": "Bd (wt)",
-                "teacher": "mgr Małgorzata Pacer",
-                "room": "A32"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Bezpieczeństwo drogowe (wt)",
-                "short_name": "Bd (wt)",
-                "teacher": "mgr Małgorzata Pacer",
-                "room": "A32"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Ekologistyka (p)",
                 "short_name": "Ekolo (p)",
@@ -423,6 +409,20 @@
                 "short_name": "Ntitad (ćw)",
                 "teacher": "dr inż. Stanisław Kwaśniowski",
                 "room": "A12"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Bezpieczeństwo drogowe (wt)",
+                "short_name": "Bd (wt)",
+                "teacher": "mgr Małgorzata Pacer",
+                "room": "C201"
             },
             {
                 "time": "17:00-18:30",

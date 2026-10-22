@@ -248,6 +248,13 @@
         ],
         "Czwartek 2026-10-22": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Prawo finansów publicznych (wt)",
+                "short_name": "Pfp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A142"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Prawo finansów publicznych (wt)",
                 "short_name": "Pfp (wt)",
@@ -378,20 +385,6 @@
             }
         ],
         "Środa 2026-11-04": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Prawo finansów publicznych (wt)",
-                "short_name": "Pfp (wt)",
-                "teacher": "dr Dariusz Zając",
-                "room": "A36"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prawo finansów publicznych (wt)",
-                "short_name": "Pfp (wt)",
-                "teacher": "dr Dariusz Zając",
-                "room": "A36"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Prawo samorządu terytorialnego (wt)",
@@ -793,6 +786,15 @@
                 "short_name": "Pfp (wyk)",
                 "teacher": "dr Dariusz Zając",
                 "room": "Online_03"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo finansów publicznych (wt)",
+                "short_name": "Pfp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A13"
             }
         ],
         "Wtorek 2027-01-19": [
