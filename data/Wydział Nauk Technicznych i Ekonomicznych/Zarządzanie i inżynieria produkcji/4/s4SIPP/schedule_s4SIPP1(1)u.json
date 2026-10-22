@@ -911,10 +911,10 @@
         "Czwartek 2027-01-21": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Sterowanie przepływem produkcji (wyk)",
-                "short_name": "Spp (wyk)",
-                "teacher": "dr inż. Agata Kirjanów-Błażej",
-                "room": "C201"
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "prof. dr hab. inż. Włodzimierz Dudziński / dr inż.  Stefan Kozerski",
+                "room": "C201 / C203"
             },
             {
                 "time": "17:00-18:30",
@@ -925,10 +925,10 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż.  Stefan Kozerski / prof. dr hab. inż. Włodzimierz Dudziński",
-                "room": "C209 / C210"
+                "class_name": "Sterowanie przepływem produkcji (wyk)",
+                "short_name": "Spp (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "C201"
             }
         ]
     }

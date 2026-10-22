@@ -255,13 +255,6 @@
         ],
         "Wtorek 2026-11-03": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Przemysłowe systemy informatyczne (wyk)",
-                "short_name": "Psi (wyk)",
-                "teacher": "Wakat_WT",
-                "room": "Online_05"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Ochrona własności intelektualnej (wyk)",
                 "short_name": "Owi (wyk)",
@@ -274,6 +267,15 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Online_08"
+            }
+        ],
+        "Czwartek 2026-11-05": [
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A14"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -396,6 +398,22 @@
                 "room": "Online_06"
             }
         ],
+        "Czwartek 2026-11-19": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_111"
+            }
+        ],
         "Wtorek 2026-11-24": [
             {
                 "time": "15:15-16:45",
@@ -422,6 +440,13 @@
             }
         ],
         "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_04"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
@@ -477,6 +502,13 @@
             }
         ],
         "Czwartek 2026-12-10": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_04"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
@@ -617,6 +649,13 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr inż. Rafał Więcławek",
                 "room": "Online_100"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "Online_114"
             }
         ],
         "Wtorek 2026-12-22": [
@@ -787,6 +826,13 @@
         ],
         "Czwartek 2027-01-14": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr inż. Rafał Więcławek",
+                "room": "Online_11"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -795,9 +841,9 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr inż. Rafał Więcławek",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
                 "room": "Online_11"
             }
         ],
@@ -834,6 +880,13 @@
             }
         ],
         "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Przemysłowe systemy informatyczne (wyk)",
+                "short_name": "Psi (wyk)",
+                "teacher": "dr inż. Agata Kirjanów-Błażej",
+                "room": "A31"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
