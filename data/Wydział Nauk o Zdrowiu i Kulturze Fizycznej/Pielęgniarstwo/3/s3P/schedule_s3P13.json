@@ -1580,21 +1580,21 @@
                 "time": "15:15-16:45",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
                 "short_name": "Gipg (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
                 "short_name": "Gipg (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
                 "short_name": "Gipg (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "A114 (MCSM-OSCE)"
             }
         ],
@@ -1892,6 +1892,20 @@
                 "short_name": "Poz (zp)",
                 "teacher": "mgr Halina Komorowicz",
                 "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "A116 (MCSM-WW)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "A116 (MCSM-WW)"
             }
         ],
         "Środa 2026-12-16": [
@@ -1952,20 +1966,6 @@
                 "short_name": "Aipwzż (wyk)",
                 "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "A144"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A116 (MCSM-WW)"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A116 (MCSM-WW)"
             }
         ],
         "Piątek 2026-12-18": [

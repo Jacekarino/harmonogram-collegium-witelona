@@ -1596,30 +1596,30 @@
                 "short_name": "Pr (wyk)",
                 "teacher": "dr Łukasz Rogowski",
                 "room": "A144"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_02"
             }
         ],
         "Piątek 2026-12-04": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
