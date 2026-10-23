@@ -355,20 +355,6 @@
                 "room": "C227"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Rachunkowość budżetowa (wt)",
-                "short_name": "Rb (wt)",
-                "teacher": "dr Bożena Rudnicka",
-                "room": "C228"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Rachunkowość budżetowa (wt)",
-                "short_name": "Rb (wt)",
-                "teacher": "dr Bożena Rudnicka",
-                "room": "C228"
-            },
-            {
                 "time": "19:00-20:30",
                 "class_name": "Rachunkowość jednostek non-profit (wt)",
                 "short_name": "Rjn (wt)",
@@ -455,13 +441,6 @@
             }
         ],
         "Poniedziałek 2026-10-26": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Rachunkowość budżetowa (wyk)",
-                "short_name": "Rb (wyk)",
-                "teacher": "dr Bożena Rudnicka",
-                "room": "Online_106"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Rachunkowość zarządcza (wyk)",
@@ -628,14 +607,14 @@
                 "class_name": "Warsztaty w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
                 "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Sylwia Zajchowska",
-                "room": "A16 / D8"
+                "room": "C202 / D8"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Komputerowe systemy rachunkowości (lab)",
                 "short_name": "Ksr (lab)",
                 "teacher": "mgr Irena Izbiańska",
-                "room": "Tymczasowa01"
+                "room": "A13"
             },
             {
                 "time": "19:00-20:30",
@@ -938,6 +917,13 @@
             }
         ],
         "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_103"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Rachunkowość zarządcza (wyk)",
@@ -1395,6 +1381,20 @@
                 "short_name": "Ksr (lab)",
                 "teacher": "mgr Irena Izbiańska",
                 "room": "A244"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Rachunkowość budżetowa (wt)",
+                "short_name": "Rb (wt)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "C203"
             }
         ],
         "Wtorek 2027-01-19": [

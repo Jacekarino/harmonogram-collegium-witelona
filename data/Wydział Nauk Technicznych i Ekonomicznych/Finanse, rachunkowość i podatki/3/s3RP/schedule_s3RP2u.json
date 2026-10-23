@@ -449,13 +449,6 @@
         ],
         "Poniedziałek 2026-10-26": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Rachunkowość budżetowa (wyk)",
-                "short_name": "Rb (wyk)",
-                "teacher": "dr Bożena Rudnicka",
-                "room": "Online_106"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Rachunkowość zarządcza (wyk)",
                 "short_name": "Rz (wyk)",
@@ -600,21 +593,21 @@
                 "class_name": "Rachunkowość zarządcza (wt)",
                 "short_name": "Rz (wt)",
                 "teacher": "mgr Irena Izbiańska",
-                "room": "Tymczasowa01"
+                "room": "A142"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Rachunkowość zarządcza (wt)",
                 "short_name": "Rz (wt)",
                 "teacher": "mgr Irena Izbiańska",
-                "room": "Tymczasowa01"
+                "room": "A142"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Rachunkowość zarządcza (wt)",
                 "short_name": "Rz (wt)",
                 "teacher": "mgr Irena Izbiańska",
-                "room": "Tymczasowa01"
+                "room": "A142"
             }
         ],
         "Sobota 2026-11-07": [
@@ -637,7 +630,7 @@
                 "class_name": "Warsztaty w języku obcym (wt)",
                 "short_name": "Wwjo (wt)",
                 "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Sylwia Zajchowska",
-                "room": "A16 / D8"
+                "room": "C202 / D8"
             },
             {
                 "time": "13:45-15:15",
@@ -961,6 +954,13 @@
             }
         ],
         "Czwartek 2026-12-03": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Rachunkowość budżetowa (wyk)",
+                "short_name": "Rb (wyk)",
+                "teacher": "dr Bożena Rudnicka",
+                "room": "Online_103"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Rachunkowość zarządcza (wyk)",

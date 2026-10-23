@@ -907,7 +907,7 @@
                 "time": "18:45-20:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
                 "short_name": "Cwipi (lab)",
-                "teacher": "dr Monika Sobolak",
+                "teacher": "mgr Marta Soboń",
                 "room": "A116 (MCSM-WW)"
             }
         ],
@@ -976,15 +976,6 @@
                 "short_name": "Cwipi (zp)",
                 "teacher": "mgr Patryk Moździoch",
                 "room": "RCZ_Lubin_01"
-            }
-        ],
-        "Piątek 2026-11-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "DS ul.Mickiewicza10"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -1108,6 +1099,13 @@
             }
         ],
         "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "DS ul.Mickiewicza10"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Wychowanie fizyczne (ćw)",
@@ -1745,6 +1743,13 @@
         ],
         "Wtorek 2026-12-15": [
             {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
                 "time": "13:30-15:00",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
                 "short_name": "Pipp (zp)",
@@ -1956,15 +1961,6 @@
                 "short_name": "Cwipi (zp)",
                 "teacher": "mgr Patryk Moździoch",
                 "room": "RCZ_Lubin_01"
-            }
-        ],
-        "Piątek 2027-01-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "DS ul.Mickiewicza10"
             }
         ]
     }

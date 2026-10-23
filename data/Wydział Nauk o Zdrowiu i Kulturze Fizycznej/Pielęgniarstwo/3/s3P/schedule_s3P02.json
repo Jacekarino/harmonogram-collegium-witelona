@@ -892,21 +892,21 @@
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
-                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A217 / A31 / A32"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
-                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A217 / A31 / A32"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr n. med. Jolanta Bielawska / mgr Anna Pączkowska / mgr Anna Filipienko / dr Dorota Milecka / mgr  Renata Hołowiak",
-                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A145 / A31 / A32"
+                "room": "A114 (MCSM-OSCE) / A115 (MCSM-Deb.) / A217 / A31 / A32"
             }
         ],
         "Piątek 2026-11-06": [
@@ -1043,13 +1043,6 @@
                 "room": "A15 / D17"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_04"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Opieka paliatywna (zp)",
                 "short_name": "Op (zp)",
@@ -1065,6 +1058,13 @@
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Opieka paliatywna (zp)",
                 "short_name": "Op (zp)",
                 "teacher": "mgr Marta Soboń",
@@ -1304,28 +1304,28 @@
         ],
         "Wtorek 2026-11-24": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
-                "short_name": "Gipg (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
                 "time": "13:30-15:00",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
+                "short_name": "Gipg (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (zp)",
                 "short_name": "Gipg (zp)",
                 "teacher": "mgr Renata Trochowska",

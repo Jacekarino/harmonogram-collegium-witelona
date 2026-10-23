@@ -603,27 +603,6 @@
         ],
         "Wtorek 2026-10-27": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_02"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
                 "short_name": "Pipp (zp)",
@@ -654,34 +633,6 @@
         ],
         "Środa 2026-10-28": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_05"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (lab)",
                 "short_name": "Pipp (lab)",
@@ -704,6 +655,34 @@
             }
         ],
         "Czwartek 2026-10-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
@@ -839,10 +818,31 @@
         ],
         "Czwartek 2026-11-05": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_07"
+            },
+            {
                 "time": "13:30-15:00",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_07"
             },
             {
@@ -893,7 +893,7 @@
                 "time": "18:45-20:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (lab)",
                 "short_name": "Cwipi (lab)",
-                "teacher": "dr Monika Sobolak",
+                "teacher": "mgr Marta Soboń",
                 "room": "A116 (MCSM-WW)"
             }
         ],
@@ -946,17 +946,31 @@
                 "time": "11:45-13:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_07"
             }
         ],
         "Piątek 2026-11-13": [
             {
                 "time": "08:15-09:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "DS ul.Mickiewicza10"
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_03"
             },
             {
                 "time": "13:30-15:00",
@@ -988,27 +1002,6 @@
             }
         ],
         "Poniedziałek 2026-11-16": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_06"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_06"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_06"
-            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
@@ -1129,6 +1122,13 @@
             }
         ],
         "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "DS ul.Mickiewicza10"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Wychowanie fizyczne (ćw)",
@@ -1392,28 +1392,28 @@
                 "time": "08:15-09:45",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_02"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_02"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_02"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_02"
             }
         ],
@@ -1469,6 +1469,27 @@
             }
         ],
         "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_04"
+            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (wyk)",
@@ -1644,28 +1665,28 @@
                 "time": "08:15-09:45",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_05"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_05"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_05"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_05"
             },
             {
@@ -1699,31 +1720,24 @@
                 "room": "DS ul.Mickiewicza10"
             },
             {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_07"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_07"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_07"
             }
         ],
@@ -1732,32 +1746,39 @@
                 "time": "08:15-09:45",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_03"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_03"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_03"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
                 "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Renata Trochowska",
                 "room": "Szpital_Leg_03"
             }
         ],
         "Wtorek 2026-12-15": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Pediatria i pielęgniarstwo pediatryczne (zp)",
@@ -1833,6 +1854,20 @@
         ],
         "Czwartek 2026-12-17": [
             {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_02"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Chirurgia i pielęgniarstwo chirurgiczne (zp)",
                 "short_name": "Cipc (zp)",
@@ -1905,36 +1940,6 @@
                 "room": "Szpital_Leg_01"
             }
         ],
-        "Poniedziałek 2026-12-21": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_04"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_04"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_04"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "Szpital_Leg_04"
-            }
-        ],
         "Wtorek 2026-12-22": [
             {
                 "time": "15:15-16:45",
@@ -1956,15 +1961,6 @@
                 "short_name": "Cipc (zp)1h [-/x]",
                 "teacher": "mgr Ewa Draczyńska",
                 "room": "Szpital_Leg_01"
-            }
-        ],
-        "Piątek 2027-01-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "DS ul.Mickiewicza10"
             }
         ]
     }

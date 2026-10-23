@@ -496,29 +496,6 @@
                 "room": "C14"
             }
         ],
-        "Czwartek 2026-10-29": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A104 (MCSM-UP)"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A104 (MCSM-UP)"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A104 (MCSM-UP)"
-            }
-        ],
         "Piątek 2026-10-30": [
             {
                 "time": "08:15-09:45",
@@ -629,21 +606,21 @@
                 "class_name": "Etyka zawodu pielęgniarki (wyk)",
                 "short_name": "Ezp (wyk)",
                 "teacher": "mgr Beata Łabowicz",
-                "room": "A144"
+                "room": "A14"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Zasoby i system informacji w ochronie zdrowia (ćw)",
                 "short_name": "Zisiwoz (ćw)",
                 "teacher": "mgr Beata Łabowicz",
-                "room": "Tymczasowa01"
+                "room": "A14"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Zasoby i system informacji w ochronie zdrowia (ćw)",
                 "short_name": "Zisiwoz (ćw)",
                 "teacher": "mgr Beata Łabowicz",
-                "room": "Tymczasowa01"
+                "room": "A14"
             }
         ],
         "Piątek 2026-11-06": [
@@ -1222,27 +1199,6 @@
                 "short_name": "Socjo (ćw)",
                 "teacher": "dr Ewa Groszewska",
                 "room": "A212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A119 (MCSM-porodowa)"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A119 (MCSM-porodowa)"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A119 (MCSM-porodowa)"
             }
         ],
         "Środa 2026-12-02": [
@@ -1297,6 +1253,13 @@
             }
         ],
         "Czwartek 2026-12-03": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A118 (MCSM-UT)"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
@@ -1751,24 +1714,24 @@
         ],
         "Czwartek 2027-01-07": [
             {
-                "time": "10:00-11:30",
+                "time": "15:15-16:45",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A118 (MCSM-UT)"
             },
             {
-                "time": "11:45-13:15",
+                "time": "17:00-18:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A118 (MCSM-UT)"
             },
             {
-                "time": "13:30-15:00",
+                "time": "18:45-20:15",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A118 (MCSM-UT)"
             }
         ],
@@ -1832,28 +1795,30 @@
                 "room": "C322"
             }
         ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A117 (MCSM-ALS/BLS)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
         "Środa 2027-01-13": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A118 (MCSM-UT)"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A118 (MCSM-UT)"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
-                "room": "A118 (MCSM-UT)"
-            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Etyka zawodu pielęgniarki (wyk)",
@@ -1874,6 +1839,29 @@
                 "short_name": "Zisiwoz (ćw)",
                 "teacher": "mgr Beata Łabowicz",
                 "room": "A144"
+            }
+        ],
+        "Czwartek 2027-01-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A118 (MCSM-UT)"
             }
         ],
         "Piątek 2027-01-15": [
@@ -1943,33 +1931,49 @@
                 "room": "A212"
             }
         ],
-        "Wtorek 2027-01-19": [
+        "Środa 2027-01-20": [
             {
-                "time": "08:15-09:45",
+                "time": "15:15-16:45",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A104 (MCSM-UP)"
             },
             {
-                "time": "10:00-11:30",
+                "time": "17:00-18:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A104 (MCSM-UP)"
             },
             {
-                "time": "11:45-13:15",
+                "time": "18:45-20:15",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A104 (MCSM-UP)"
+            }
+        ],
+        "Piątek 2027-01-22": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A104 (MCSM-UP)"
             },
             {
-                "time": "13:30-15:00",
+                "time": "17:00-18:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Karolina Karpiak",
+                "teacher": "mgr Wioletta Szwanke",
+                "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Wioletta Szwanke",
                 "room": "A104 (MCSM-UP)"
             }
         ]
