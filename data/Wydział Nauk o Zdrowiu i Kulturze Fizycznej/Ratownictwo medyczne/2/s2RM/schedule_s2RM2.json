@@ -842,20 +842,6 @@
         ],
         "Czwartek 2026-11-19": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne z elementami onkologii (zp)",
-                "short_name": "Cwzeo (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_03"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne z elementami onkologii (zp)",
-                "short_name": "Cwzeo (zp)",
-                "teacher": "mgr Marta Soboń",
-                "room": "Szpital_Leg_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Kardiologia (wyk)",
                 "short_name": "Kardi (wyk)",
@@ -871,6 +857,20 @@
             }
         ],
         "Piątek 2026-11-20": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne z elementami onkologii (zp)",
+                "short_name": "Cwzeo (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne z elementami onkologii (zp)",
+                "short_name": "Cwzeo (zp)",
+                "teacher": "mgr Marta Soboń",
+                "room": "Szpital_Leg_03"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Fizjologia z elementami fizjologii klinicznej (ćw)",
