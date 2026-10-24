@@ -897,6 +897,36 @@
                 "room": "A116 (MCSM-WW)"
             }
         ],
+        "Poniedziałek 2026-11-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
+                "short_name": "Cwipi (zp)",
+                "teacher": "mgr Renata Trochowska",
+                "room": "Szpital_Leg_05"
+            }
+        ],
         "Wtorek 2026-11-10": [
             {
                 "time": "11:45-13:15",
@@ -1739,36 +1769,6 @@
                 "short_name": "Cwipi (zp)",
                 "teacher": "mgr Marta Soboń",
                 "room": "Szpital_Leg_07"
-            }
-        ],
-        "Poniedziałek 2026-12-14": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_03"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_03"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_03"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Choroby wewnętrzne i pielęgniarstwo internistyczne (zp)",
-                "short_name": "Cwipi (zp)",
-                "teacher": "mgr Renata Trochowska",
-                "room": "Szpital_Leg_03"
             }
         ],
         "Wtorek 2026-12-15": [
