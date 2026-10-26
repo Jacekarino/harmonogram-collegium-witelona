@@ -685,13 +685,6 @@
                 "room": "A212"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
-                "short_name": "Dfwcw (wyk)",
-                "teacher": "dr  Barbara Cieślik",
-                "room": "A212"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Szkolenie (zp)",
                 "short_name": "Szkol (zp)",
@@ -957,14 +950,14 @@
                 "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
                 "short_name": "Msf-mrprnntn (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
+                "room": "A245"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Fizjoterapia kliniczna  w wieku rozwojowym (wyk)",
                 "short_name": "Fkwwr (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
+                "room": "A245"
             },
             {
                 "time": "11:45-13:15",
@@ -1031,7 +1024,7 @@
                 "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
                 "short_name": "Dfwcw (wyk)",
                 "teacher": "dr  Barbara Cieślik",
-                "room": "A212"
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
@@ -1188,6 +1181,13 @@
             }
         ],
         "Czwartek 2026-11-26": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w chorobach wewnętrznych (wyk)",
+                "short_name": "Dfwcw (wyk)",
+                "teacher": "dr  Barbara Cieślik",
+                "room": "C212"
+            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",

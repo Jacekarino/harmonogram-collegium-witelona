@@ -406,22 +406,22 @@
                 "time": "08:15-09:45",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr Bogusława Hanaczewska",
-                "room": "A15 / A32"
+                "teacher": "mgr Bogusława Hanaczewska / mgr Magdalena Szylar",
+                "room": "A142 / A15"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język angielski (ćw)",
                 "short_name": "Ja (ćw)",
-                "teacher": "mgr Magdalena Szylar / mgr Bogusława Hanaczewska",
-                "room": "A15 / A32"
+                "teacher": "mgr Bogusława Hanaczewska / mgr Magdalena Szylar",
+                "room": "A142 / A15"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Statystyka medyczna (ćw)",
                 "short_name": "Sm (ćw)",
                 "teacher": "dr Karol Selwat",
-                "room": "C125"
+                "room": "C203"
             },
             {
                 "time": "15:30-17:00",
@@ -498,20 +498,6 @@
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr Bogusława Hanaczewska",
                 "room": "A13 / A31"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Poradnictwo w pielęgniarstwie (ćw)",
-                "short_name": "Pwp (ćw)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "Tymczasowa04"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Poradnictwo w pielęgniarstwie (ćw)",
-                "short_name": "Pwp (ćw)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "Tymczasowa04"
             },
             {
                 "time": "15:30-17:00",
@@ -851,6 +837,13 @@
                 "short_name": "Oietwcp( (zp)",
                 "teacher": "mgr Marzena Miłosz",
                 "room": "A104 (MCSM-UP)"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Poradnictwo w pielęgniarstwie (ćw)",
+                "short_name": "Pwp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "Tymczasowa05"
             }
         ],
         "Środa 2026-12-09": [
@@ -1093,6 +1086,13 @@
                 "short_name": "2Zopwo (ćw)",
                 "teacher": "mgr Edyta Mikołajek",
                 "room": "A144"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Poradnictwo w pielęgniarstwie (ćw)",
+                "short_name": "Pwp (ćw)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "Tymczasowa03"
             }
         ],
         "Czwartek 2027-01-07": [

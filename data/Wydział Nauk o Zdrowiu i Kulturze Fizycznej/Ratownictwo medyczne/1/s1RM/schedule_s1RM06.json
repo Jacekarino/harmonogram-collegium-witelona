@@ -790,20 +790,6 @@
         ],
         "Wtorek 2026-11-10": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Podstawowe zabiegi medyczne (wyk)",
-                "short_name": "Pzm (wyk)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A144"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Podstawowe zabiegi medyczne (wyk)",
-                "short_name": "Pzm (wyk)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A144"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Ratownictwo przedmedyczne* (ćw)",
                 "short_name": "Rp (ćw)",
@@ -928,14 +914,14 @@
                 "class_name": "Psychologia (wyk)",
                 "short_name": "Psych (wyk)",
                 "teacher": "dr Małgorzata Buchla",
-                "room": "A212"
+                "room": "C113"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychologia (wyk)",
                 "short_name": "Psych (wyk)",
                 "teacher": "dr Małgorzata Buchla",
-                "room": "A212"
+                "room": "C113"
             },
             {
                 "time": "11:45-13:15",
@@ -949,28 +935,28 @@
                 "class_name": "Etyka zawodowa ratownika medycznego (wyk)",
                 "short_name": "Ezrm (wyk)",
                 "teacher": "mgr Stanisław Napierała",
-                "room": "A212"
+                "room": "C113"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Etyka zawodowa ratownika medycznego (ćw)",
                 "short_name": "Ezrm (ćw)",
                 "teacher": "mgr Stanisław Napierała",
-                "room": "A212"
+                "room": "C113"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
                 "short_name": "Prp (wyk)",
                 "teacher": "dr Wiesław Zielonka",
-                "room": "A212"
+                "room": "C113"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
                 "short_name": "Prp (wyk)",
                 "teacher": "dr Wiesław Zielonka",
-                "room": "A212"
+                "room": "C113"
             }
         ],
         "Środa 2026-11-18": [
@@ -1663,6 +1649,20 @@
                 "class_name": "Ekonomia i zarządzanie w ochronie zdrowia (wyk)",
                 "short_name": "Eizwoz (wyk)",
                 "teacher": "mgr Joanna Bronowicka",
+                "room": "A212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawowe zabiegi medyczne (wyk)",
+                "short_name": "Pzm (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "A212"
             }
         ]

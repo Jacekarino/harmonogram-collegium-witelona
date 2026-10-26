@@ -1018,13 +1018,6 @@
                 "short_name": "Gipg (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
                 "room": "A212"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
-                "short_name": "Aipwzż (wyk)",
-                "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A144"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -1195,14 +1188,14 @@
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
                 "short_name": "Gipg (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
-                "room": "A212"
+                "room": "A245"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Opieka paliatywna (wyk)",
                 "short_name": "Op (wyk)",
                 "teacher": "dr n. med. Jolanta Bielawska",
-                "room": "A212"
+                "room": "A245"
             },
             {
                 "time": "15:15-16:45",
@@ -1232,14 +1225,14 @@
                 "class_name": "Opieka paliatywna (wyk)",
                 "short_name": "Op (wyk)",
                 "teacher": "prof. dr hab. n. med. Grażyna Durek",
-                "room": "A212"
+                "room": "A36"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Opieka paliatywna (wyk)",
                 "short_name": "Op (wyk)",
                 "teacher": "prof. dr hab. n. med. Grażyna Durek",
-                "room": "A212"
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
@@ -1426,6 +1419,13 @@
             }
         ],
         "Piątek 2026-11-27": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
+                "short_name": "Aipwzż (wyk)",
+                "teacher": "dr n. med. Joanna Żółtańska",
+                "room": "A212"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
