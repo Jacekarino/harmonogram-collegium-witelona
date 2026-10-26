@@ -481,6 +481,13 @@
         ],
         "Poniedziałek 2026-11-09": [
             {
+                "time": "15:15-16:45",
+                "class_name": "2 Podstawy marketingu (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_104"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy mechniki i wytrzymałości materiałów (wyk)",
                 "short_name": "Pmiwm (wyk)",
@@ -532,13 +539,6 @@
                 "short_name": "Zpiu (wyk)",
                 "teacher": "dr inż. Agata Kirjanów-Błażej",
                 "room": "Online_111"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "2 Podstawy marketingu (wyk)",
-                "short_name": "2Pm (wyk)",
-                "teacher": "dr Jolanta Radkowska",
-                "room": "Online_110"
             }
         ],
         "Sobota 2026-11-14": [
@@ -721,6 +721,13 @@
                 "short_name": "Ppi (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "Online_11"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Podstawy marketingu (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_11"
             }
         ],
         "Czwartek 2026-11-26": [
@@ -737,13 +744,6 @@
                 "short_name": "Pitp (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
                 "room": "Online_02"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "2 Podstawy marketingu (wyk)",
-                "short_name": "2Pm (wyk)",
-                "teacher": "dr Jolanta Radkowska",
-                "room": "Online_01"
             }
         ],
         "Sobota 2026-11-28": [

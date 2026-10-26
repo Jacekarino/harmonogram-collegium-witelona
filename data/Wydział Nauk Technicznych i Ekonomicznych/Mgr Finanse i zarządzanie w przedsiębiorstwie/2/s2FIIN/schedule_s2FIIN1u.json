@@ -1256,6 +1256,22 @@
                 "room": "Online_02 / Online_09"
             }
         ],
+        "Środa 2027-01-13": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium dyplomowe (sem)",
+                "short_name": "Sd (sem)",
+                "teacher": "dr Przemysław Siudak",
+                "room": "Online_01"
+            }
+        ],
         "Czwartek 2027-01-14": [
             {
                 "time": "15:15-16:45",
@@ -1270,23 +1286,9 @@
                 "short_name": "Pipf (wyk)",
                 "teacher": "dr Agnieszka Koryś",
                 "room": "C201"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Przemysław Siudak",
-                "room": "Online_101"
             }
         ],
         "Piątek 2027-01-15": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
-                "teacher": "dr Przemysław Siudak",
-                "room": "Online_101"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Przedmiot do wyboru (wyk)",

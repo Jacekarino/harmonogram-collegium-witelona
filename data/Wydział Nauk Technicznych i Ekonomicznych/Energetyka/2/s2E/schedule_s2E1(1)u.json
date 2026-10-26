@@ -853,13 +853,6 @@
         ],
         "Wtorek 2026-12-15": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Mechanika płynów (wyk)",
-                "short_name": "Mp (wyk)",
-                "teacher": "dr inż. Paweł Jurczak",
-                "room": "Online_13"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -1018,6 +1011,13 @@
             }
         ],
         "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Mechanika płynów (wyk)",
+                "short_name": "Mp (wyk)",
+                "teacher": "dr inż. Paweł Jurczak",
+                "room": "Online_13"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Mechanika płynów (wyk)",

@@ -236,14 +236,14 @@
                 "room": "A31"
             },
             {
-                "time": "15:15-16:45",
+                "time": "11:45-13:15",
                 "class_name": "Prawo Unii Europejskiej (wt)",
                 "short_name": "PUE (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
                 "room": "A31"
             },
             {
-                "time": "17:00-18:30",
+                "time": "13:30-15:00",
                 "class_name": "Prawo Unii Europejskiej (wt)",
                 "short_name": "PUE (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
@@ -302,28 +302,28 @@
                 "class_name": "Administracja elektroniczna (wt)",
                 "short_name": "Ae (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
+                "room": "A217"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Administracja elektroniczna (wt)",
                 "short_name": "Ae (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "A142"
+                "room": "A217"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Zamówienia publiczne (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "dr Krystian Czarny",
-                "room": "A142"
+                "room": "A217"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Zamówienia publiczne (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "dr Krystian Czarny",
-                "room": "A142"
+                "room": "A217"
             }
         ],
         "Piątek 2026-10-30": [
@@ -363,13 +363,6 @@
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Jan Doroszczak",
                 "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo podatkowe (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Dariusz Zając",
-                "room": "Online_104"
             }
         ],
         "Środa 2026-11-04": [
@@ -386,20 +379,6 @@
                 "short_name": "Pk (wt)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo podatkowe (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "dr Dariusz Zając",
-                "room": "A12"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Prawo podatkowe (wt)",
-                "short_name": "Pp (wt)",
-                "teacher": "dr Dariusz Zając",
-                "room": "A12"
             },
             {
                 "time": "17:00-18:30",
@@ -540,11 +519,18 @@
         ],
         "Piątek 2026-11-13": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_18"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Dariusz Zając",
-                "room": "Online_101"
+                "room": "Online_18"
             }
         ],
         "Wtorek 2026-11-17": [
@@ -1021,6 +1007,22 @@
                 "short_name": "Ae (wt)",
                 "teacher": "mgr Marlena Gniewosz",
                 "room": "A36"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A13"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Prawo podatkowe (wt)",
+                "short_name": "Pp (wt)",
+                "teacher": "dr Dariusz Zając",
+                "room": "A13"
             }
         ],
         "Poniedziałek 2026-12-21": [

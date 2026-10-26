@@ -361,22 +361,6 @@
                 "room": "Online_104"
             }
         ],
-        "Czwartek 2026-11-05": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Kontrola i audyt w administracji (wyk)",
-                "short_name": "Kiawa (wyk)",
-                "teacher": "dr Dariusz Zając",
-                "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Kontrola i audyt w administracji (wyk)",
-                "short_name": "Kiawa (wyk)",
-                "teacher": "dr Dariusz Zając",
-                "room": "Online_100"
-            }
-        ],
         "Piątek 2026-11-06": [
             {
                 "time": "15:15-16:45",
@@ -801,6 +785,22 @@
                 "short_name": "Ppg (wyk)",
                 "teacher": "prof. dr hab. Andrzej Powałowski",
                 "room": "Online_08"
+            }
+        ],
+        "Środa 2026-12-02": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_111"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Kontrola i audyt w administracji (wyk)",
+                "short_name": "Kiawa (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_111"
             }
         ],
         "Piątek 2026-12-04": [

@@ -394,13 +394,6 @@
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Jan Doroszczak",
                 "room": "Online_104"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo podatkowe (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Dariusz Zając",
-                "room": "Online_104"
             }
         ],
         "Czwartek 2026-11-05": [
@@ -571,11 +564,18 @@
         ],
         "Piątek 2026-11-13": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Dariusz Zając",
+                "room": "Online_18"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Dariusz Zając",
-                "room": "Online_101"
+                "room": "Online_18"
             }
         ],
         "Wtorek 2026-11-17": [

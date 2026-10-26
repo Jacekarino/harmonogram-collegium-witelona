@@ -657,15 +657,6 @@
                 "room": "Online_22"
             }
         ],
-        "Wtorek 2026-12-22": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Energetyka jądrowa (wyk)",
-                "short_name": "Ej (wyk)",
-                "teacher": "dr inż. Kamila Jóźwiak",
-                "room": "A144"
-            }
-        ],
         "Czwartek 2027-01-07": [
             {
                 "time": "17:00-18:30",
@@ -721,6 +712,13 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr hab. inż. Bogumiła Wnukowska",
                 "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Energetyka jądrowa (wyk)",
+                "short_name": "Ej (wyk)",
+                "teacher": "dr inż. Kamila Jóźwiak",
+                "room": "A245"
             }
         ],
         "Niedziela 2027-01-17": [

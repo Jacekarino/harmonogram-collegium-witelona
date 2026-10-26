@@ -361,28 +361,28 @@
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "A12"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "A12"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Statystyka (ćw)",
                 "short_name": "Staty (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "A12"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Statystyka (ćw)",
                 "short_name": "Staty (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "A12"
             }
         ],
         "Wtorek 2026-11-03": [
@@ -421,6 +421,13 @@
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Leopold Habiniak",
+                "room": "Online_21"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
                 "room": "Online_21"
             }
         ],
@@ -1020,13 +1027,6 @@
                 "short_name": "Rachu (wyk)",
                 "teacher": "dr Marta Stanisławska",
                 "room": "Online_07"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Podstawy zarządzania (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr Jolanta Radkowska",
-                "room": "Online_05"
             },
             {
                 "time": "18:45-20:15",
