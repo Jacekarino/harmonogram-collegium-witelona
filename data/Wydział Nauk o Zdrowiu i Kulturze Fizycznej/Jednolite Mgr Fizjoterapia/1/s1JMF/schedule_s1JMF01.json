@@ -538,20 +538,6 @@
                 "room": "A144"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Anatomia (prawidłowa i funkcjonalna) (ćw)",
-                "short_name": "A(if (ćw)",
-                "teacher": "dr Monika Stanaszek",
-                "room": "C322"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
-                "short_name": "Ponoik (ćw)",
-                "teacher": "dr Monika Stanaszek",
-                "room": "A31"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Demografia i epidemiologia (wyk)",
                 "short_name": "Die (wyk)",
@@ -596,6 +582,13 @@
                 "short_name": "Bioch (wyk)",
                 "teacher": "mgr inż. Agnieszka Paszyn",
                 "room": "A14"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Anatomia (prawidłowa i funkcjonalna) (ćw)",
+                "short_name": "A(if (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
             },
             {
                 "time": "17:00-18:30",
@@ -1583,6 +1576,13 @@
                 "time": "13:30-15:00",
                 "class_name": "Anatomia (prawidłowa i funkcjonalna) (ćw)",
                 "short_name": "A(if (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (ćw)",
+                "short_name": "Ponoik (ćw)",
                 "teacher": "dr Monika Stanaszek",
                 "room": "C322"
             }

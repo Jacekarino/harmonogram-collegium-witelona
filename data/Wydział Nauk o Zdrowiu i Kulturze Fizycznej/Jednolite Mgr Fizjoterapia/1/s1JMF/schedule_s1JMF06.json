@@ -533,13 +533,6 @@
         ],
         "Czwartek 2026-10-29": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Anatomia (prawidłowa i funkcjonalna) (ćw)",
-                "short_name": "A(if (ćw)",
-                "teacher": "dr Monika Stanaszek",
-                "room": "C322"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Genetyka (wyk)",
                 "short_name": "Genet (wyk)",
@@ -562,6 +555,13 @@
             }
         ],
         "Wtorek 2026-11-03": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Anatomia (prawidłowa i funkcjonalna) (ćw)",
+                "short_name": "A(if (ćw)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "C322"
+            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Biochemia (wyk)",
