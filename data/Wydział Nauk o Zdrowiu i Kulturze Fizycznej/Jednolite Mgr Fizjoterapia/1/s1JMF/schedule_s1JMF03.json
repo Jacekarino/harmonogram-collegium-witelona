@@ -535,13 +535,6 @@
         ],
         "Czwartek 2026-10-29": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
-                "short_name": "Ponoik (wyk)",
-                "teacher": "dr Monika Stanaszek",
-                "room": "A36"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Genetyka (wyk)",
                 "short_name": "Genet (wyk)",
@@ -652,21 +645,21 @@
                 "class_name": "Anatomia (prawidłowa i funkcjonalna) (wyk)",
                 "short_name": "A(if (wyk)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
-                "room": "C212"
+                "room": "A14"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Anatomia (prawidłowa i funkcjonalna) (wyk)",
                 "short_name": "A(if (wyk)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
-                "room": "C212"
+                "room": "A14"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Pedagogika - pedagogika ogólna pedagogika specjalna (ćw)",
                 "short_name": "P-pops (ćw)",
                 "teacher": "dr Marek Kazimierowicz",
-                "room": "C111"
+                "room": "C122"
             },
             {
                 "time": "15:15-16:45",
@@ -726,14 +719,14 @@
                 "class_name": "Demografia i epidemiologia (ćw)",
                 "short_name": "Die (ćw)",
                 "teacher": "mgr Anna Filipienko",
-                "room": "A145"
+                "room": "C224"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Demografia i epidemiologia (ćw)",
                 "short_name": "Die (ćw)",
                 "teacher": "mgr Anna Filipienko",
-                "room": "A145"
+                "room": "C224"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -917,6 +910,13 @@
             },
             {
                 "time": "13:30-15:00",
+                "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
+                "short_name": "Ponoik (wyk)",
+                "teacher": "dr Monika Stanaszek",
+                "room": "A212"
+            },
+            {
+                "time": "15:15-16:45",
                 "class_name": "Praca opiekuńczo-wychowawcza na obozach i koloniach* (wyk)",
                 "short_name": "Ponoik (wyk)",
                 "teacher": "dr Monika Stanaszek",

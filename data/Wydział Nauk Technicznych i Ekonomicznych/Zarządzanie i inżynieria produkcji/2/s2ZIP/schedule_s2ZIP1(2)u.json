@@ -868,6 +868,13 @@
         ],
         "Piątek 2026-12-04": [
             {
+                "time": "15:15-16:45",
+                "class_name": "2 Podstawy marketingu (wyk)",
+                "short_name": "2Pm (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_03"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy mechniki i wytrzymałości materiałów (wyk)",
                 "short_name": "Pmiwm (wyk)",
@@ -892,13 +899,6 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "2 Podstawy marketingu (wyk)",
-                "short_name": "2Pm (wyk)",
-                "teacher": "dr Jolanta Radkowska",
-                "room": "Online_03"
-            },
-            {
-                "time": "18:45-20:15",
                 "class_name": "2 Podstawy marketingu (wyk)",
                 "short_name": "2Pm (wyk)",
                 "teacher": "dr Jolanta Radkowska",
