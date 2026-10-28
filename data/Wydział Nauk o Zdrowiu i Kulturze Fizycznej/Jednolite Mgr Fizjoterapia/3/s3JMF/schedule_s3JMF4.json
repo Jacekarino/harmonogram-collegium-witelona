@@ -646,6 +646,13 @@
         ],
         "Środa 2026-11-04": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
                 "short_name": "Fkwoit (zp)",
@@ -1884,6 +1891,20 @@
                 "short_name": "Tz (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "A057 - Aerobik"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
+                "short_name": "Fkwoit (zp)",
+                "teacher": "mgr Arkadiusz Gdula",
+                "room": "Szpital_Leg_02"
             }
         ],
         "Poniedziałek 2027-01-18": [
@@ -1966,27 +1987,6 @@
                 "class_name": "Fizjoterapia kliniczna w neurologii i neurochirurgii (zp)",
                 "short_name": "Fkwnin (zp)",
                 "teacher": "mgr Weronika Siewiera",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
-                "short_name": "Fkwoit (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
-                "short_name": "Fkwoit (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
-                "room": "Szpital_Leg_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjoterapia kliniczna w ortopedii i traumatologii (zp)",
-                "short_name": "Fkwoit (zp)",
-                "teacher": "mgr Arkadiusz Gdula",
                 "room": "Szpital_Leg_02"
             }
         ]

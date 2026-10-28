@@ -479,6 +479,13 @@
                 "room": "A217"
             },
             {
+                "time": "17:15-18:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
                 "time": "19:00-20:30",
                 "class_name": "Etyka służb publicznych (wt)",
                 "short_name": "Esp (wt)",
@@ -768,10 +775,10 @@
             },
             {
                 "time": "10:00-11:30",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
+                "class_name": "Podstawy metodologii badań w naukach społecznych (wt)",
+                "short_name": "Pmbwns (wt)",
+                "teacher": "dr Wojciech Mucha",
+                "room": "C228"
             },
             {
                 "time": "11:45-13:15",
@@ -799,13 +806,6 @@
                 "class_name": "Zagrożenia bezpieczeństwa państwa (wt)",
                 "short_name": "Zbp (wt)",
                 "teacher": "mgr Piotr Pilarczyk",
-                "room": "C228"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Podstawy metodologii badań w naukach społecznych (wt)",
-                "short_name": "Pmbwns (wt)",
-                "teacher": "dr Wojciech Mucha",
                 "room": "C228"
             }
         ],
@@ -979,13 +979,6 @@
         ],
         "Niedziela 2026-12-13": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Wprowadzenie do cyberbezpieczeństwa (wt)",
                 "short_name": "Wdc (wt)",
@@ -1012,6 +1005,13 @@
                 "short_name": "Esp (wt)",
                 "teacher": "dr Jan Doroszczak",
                 "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
             }
         ],
         "Wtorek 2026-12-15": [

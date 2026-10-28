@@ -899,20 +899,6 @@
         ],
         "Wtorek 2026-11-10": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Ilona Pielach",
-                "room": "A118 (MCSM-UT)"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Opieka paliatywna (zp)",
-                "short_name": "Op (zp)",
-                "teacher": "mgr Ilona Pielach",
-                "room": "A118 (MCSM-UT)"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Geriatria i pielęgniarstwo geriatryczne (wyk)",
                 "short_name": "Gipg (wyk)",
@@ -1420,6 +1406,20 @@
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr  Magdalena Berdys / mgr Magdalena Szylar",
                 "room": "A12 / D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Ilona Pielach",
+                "room": "A118 (MCSM-UT)"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Opieka paliatywna (zp)",
+                "short_name": "Op (zp)",
+                "teacher": "mgr Ilona Pielach",
+                "room": "A118 (MCSM-UT)"
             },
             {
                 "time": "15:15-16:45",

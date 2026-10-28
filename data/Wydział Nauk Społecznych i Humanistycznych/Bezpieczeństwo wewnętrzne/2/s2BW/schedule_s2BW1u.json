@@ -784,13 +784,6 @@
                 "short_name": "Eizd (wt)",
                 "teacher": "mgr Dariusz Stefaniak",
                 "room": "C113"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Łukasz Stawarz",
-                "room": "A33"
             }
         ],
         "Wtorek 2026-12-01": [
@@ -964,6 +957,13 @@
         "Niedziela 2026-12-13": [
             {
                 "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Łukasz Stawarz",
+                "room": "A33"
+            },
+            {
+                "time": "10:00-11:30",
                 "class_name": "Wychowanie fizyczne (ćw)",
                 "short_name": "Wf (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
