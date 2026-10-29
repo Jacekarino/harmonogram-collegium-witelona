@@ -650,28 +650,28 @@
                 "class_name": "Zarządzanie projektami (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "C203"
+                "room": "C14"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Zarządzanie projektami (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "C203"
+                "room": "C14"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Zarządzanie projektami (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "C203"
+                "room": "C14"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Zarządzanie projektami (wt)",
                 "short_name": "Zp (wt)",
                 "teacher": "mgr inż. Maciej Pietrowicz",
-                "room": "C203"
+                "room": "C14"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -701,14 +701,14 @@
                 "class_name": "Przedsiębiorczość akademicka (wt)",
                 "short_name": "Pa (wt)",
                 "teacher": "dr Sławomir Kłosowski",
-                "room": "A141"
+                "room": "C128"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Przedsiębiorczość akademicka (wt)",
                 "short_name": "Pa (wt)",
                 "teacher": "dr Sławomir Kłosowski",
-                "room": "A141"
+                "room": "C128"
             }
         ],
         "Poniedziałek 2026-11-23": [
@@ -1123,13 +1123,6 @@
                 "short_name": "Zsk-p (wyk)",
                 "teacher": "dr Agnieszka Koryś",
                 "room": "C212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Tworzenie i kierowanie zespołami  w organizacji (wyk)",
-                "short_name": "Tikzwo (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C212"
             }
         ],
         "Środa 2027-01-13": [
@@ -1250,6 +1243,15 @@
                 "short_name": "Bm (p)",
                 "teacher": "dr Krzysztof Radkowski",
                 "room": "A141"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Tworzenie i kierowanie zespołami  w organizacji (wyk)",
+                "short_name": "Tikzwo (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "A144"
             }
         ]
     }

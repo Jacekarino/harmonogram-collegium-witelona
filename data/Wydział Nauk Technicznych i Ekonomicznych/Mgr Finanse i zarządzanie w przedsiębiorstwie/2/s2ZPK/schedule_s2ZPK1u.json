@@ -662,35 +662,35 @@
                 "class_name": "Przedmiot do wyboru(s) (wt)",
                 "short_name": "Pdw(s) (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "room": "C129"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Przedmiot do wyboru(s) (wt)",
                 "short_name": "Pdw(s) (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "room": "C129"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Przedmiot do wyboru (sem)",
                 "short_name": "Pdw (sem)",
                 "teacher": "dr Sławomir Kryszkowski",
-                "room": "C202"
+                "room": "C129"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
                 "short_name": "Pzkl (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C202"
+                "room": "C203"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Podstawy zarządzania kapitałem ludzkim (wt)",
                 "short_name": "Pzkl (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
-                "room": "C202"
+                "room": "C203"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -1355,13 +1355,6 @@
                 "short_name": "Mm (wyk)",
                 "teacher": "dr Jolanta Radkowska",
                 "room": "C125"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Nowoczesna organizacja pracy i czasu pracy (wyk)",
-                "short_name": "Nopicp (wyk)",
-                "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
             }
         ],
         "Piątek 2027-01-15": [
@@ -1449,11 +1442,18 @@
         ],
         "Środa 2027-01-20": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Nowoczesna organizacja pracy i czasu pracy (wyk)",
+                "short_name": "Nopicp (wyk)",
+                "teacher": "dr Tadeusz Kowalski",
+                "room": "C203"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy fizjologii pracy i ergonomii (wyk)",
                 "short_name": "Pfpie (wyk)",
                 "teacher": "dr Tadeusz Kowalski",
-                "room": "C202"
+                "room": "C203"
             },
             {
                 "time": "18:45-20:15",
