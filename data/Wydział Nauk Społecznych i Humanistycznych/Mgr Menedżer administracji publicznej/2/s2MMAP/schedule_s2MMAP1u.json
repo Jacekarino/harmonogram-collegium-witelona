@@ -545,13 +545,6 @@
         ],
         "Środa 2026-11-18": [
             {
-                "time": "17:00-18:30",
-                "class_name": "Zarządzanie rozwojem miast (wyk)",
-                "short_name": "Zrm (wyk)",
-                "teacher": "mgr Grzegorz Majewicz",
-                "room": "A14"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Zarządzanie rozwojem miast (wyk)",
                 "short_name": "Zrm (wyk)",
@@ -1042,6 +1035,13 @@
                 "short_name": "Lm (wyk)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "A16"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Zarządzanie rozwojem miast (wyk)",
+                "short_name": "Zrm (wyk)",
+                "teacher": "mgr Grzegorz Majewicz",
+                "room": "C224"
             }
         ],
         "Sobota 2027-01-23": [

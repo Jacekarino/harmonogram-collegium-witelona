@@ -594,13 +594,6 @@
         ],
         "Środa 2026-10-28": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Biologia i mikrobiologia (ćw)",
-                "short_name": "Bim (ćw)",
-                "teacher": "dr Małgorzata Jusiakowska - Piputa",
-                "room": "D17"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Biologia i mikrobiologia (wyk)",
                 "short_name": "Bim (wyk)",
@@ -784,6 +777,13 @@
                 "short_name": "Iib (ćw)",
                 "teacher": "dr Karol Selwat",
                 "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biologia i mikrobiologia (ćw)",
+                "short_name": "Bim (ćw)",
+                "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "D17"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -968,14 +968,14 @@
                 "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
                 "short_name": "Prp (wyk)",
                 "teacher": "dr Wiesław Zielonka",
-                "room": "C113"
+                "room": "C125"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Procedury ratunkowe przedszpitalne (wyk)",
                 "short_name": "Prp (wyk)",
                 "teacher": "dr Wiesław Zielonka",
-                "room": "C113"
+                "room": "C125"
             }
         ],
         "Środa 2026-11-18": [
@@ -1014,14 +1014,14 @@
                 "class_name": "Podstawowe zabiegi medyczne (wyk)",
                 "short_name": "Pzm (wyk)",
                 "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A144"
+                "room": "A14"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Podstawowe zabiegi medyczne (wyk)",
                 "short_name": "Pzm (wyk)",
                 "teacher": "dr n. med. Joanna Żółtańska",
-                "room": "A144"
+                "room": "A14"
             },
             {
                 "time": "13:30-15:00",
