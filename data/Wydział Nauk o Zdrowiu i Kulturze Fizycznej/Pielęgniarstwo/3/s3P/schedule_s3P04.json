@@ -795,6 +795,13 @@
         ],
         "Piątek 2026-11-06": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A33"
+            },
+            {
                 "time": "10:00-11:30",
                 "class_name": "Opieka paliatywna (wyk)",
                 "short_name": "Op (wyk)",
@@ -2052,15 +2059,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
                 "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
-            }
-        ],
-        "Poniedziałek 2027-01-11": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Tomasz Majchrzyk",
-                "room": "DS ul.Mickiewicza10"
             }
         ],
         "Czwartek 2027-01-14": [

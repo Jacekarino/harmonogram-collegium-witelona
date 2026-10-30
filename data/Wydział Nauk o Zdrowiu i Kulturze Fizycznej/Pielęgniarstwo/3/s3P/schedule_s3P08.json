@@ -1809,6 +1809,13 @@
                 "room": "Szpital_Leg_05"
             },
             {
+                "time": "13:30-15:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
@@ -2050,15 +2057,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
                 "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
-            }
-        ],
-        "Poniedziałek 2027-01-11": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Tomasz Majchrzyk",
-                "room": "DS ul.Mickiewicza10"
             }
         ],
         "Czwartek 2027-01-14": [

@@ -904,6 +904,13 @@
                 "room": "A212"
             },
             {
+                "time": "13:30-15:00",
+                "class_name": "Wychowanie fizyczne (ćw)",
+                "short_name": "Wf (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "A33"
+            },
+            {
                 "time": "15:15-16:45",
                 "class_name": "Podstawy rehabilitacji (ćw)",
                 "short_name": "Pr (ćw)",
@@ -2052,15 +2059,6 @@
                 "short_name": "Sd (sem)",
                 "teacher": "mgr Anna Pączkowska / dr n. med. Jolanta Bielawska / mgr Anna Filipienko / mgr  Renata Hołowiak / dr Dorota Milecka",
                 "room": "Online_10 / Online_104 / Online_105 / Online_106 / Online_107"
-            }
-        ],
-        "Poniedziałek 2027-01-11": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Wychowanie fizyczne (ćw)",
-                "short_name": "Wf (ćw)",
-                "teacher": "mgr Tomasz Majchrzyk",
-                "room": "DS ul.Mickiewicza10"
             }
         ],
         "Czwartek 2027-01-14": [
