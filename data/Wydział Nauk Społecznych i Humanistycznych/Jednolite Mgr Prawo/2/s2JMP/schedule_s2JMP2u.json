@@ -486,20 +486,6 @@
                 "room": "C329"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Wykładnia prawa administracyjnego (wt)",
-                "short_name": "Wpa (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C228"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Wykładnia prawa administracyjnego (wt)",
-                "short_name": "Wpa (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C228"
-            },
-            {
                 "time": "15:30-17:00",
                 "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
                 "short_name": "Pap (wt)",
@@ -920,6 +906,13 @@
                 "short_name": "Krymi (wt)",
                 "teacher": "mgr Edward Polakiewicz",
                 "room": "A243"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C129"
             }
         ],
         "Niedziela 2026-12-06": [
@@ -1509,6 +1502,13 @@
             }
         ],
         "Niedziela 2027-01-24": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C129"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (lek)",

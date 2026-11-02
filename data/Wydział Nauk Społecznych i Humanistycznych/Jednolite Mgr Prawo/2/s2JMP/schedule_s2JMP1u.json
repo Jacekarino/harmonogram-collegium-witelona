@@ -491,20 +491,6 @@
                 "short_name": "Pkipw (wt)",
                 "teacher": "dr Jan Doroszczak",
                 "room": "C329"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Wykładnia prawa administracyjnego (wt)",
-                "short_name": "Wpa (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C228"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Wykładnia prawa administracyjnego (wt)",
-                "short_name": "Wpa (wt)",
-                "teacher": "mgr Wojciech Pinkos",
-                "room": "C228"
             }
         ],
         "Poniedziałek 2026-11-09": [
@@ -1153,6 +1139,13 @@
                 "short_name": "Pgp (wt)",
                 "teacher": "mgr  Joanna Rewak",
                 "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C127"
             }
         ],
         "Niedziela 2026-12-20": [
@@ -1372,6 +1365,13 @@
                 "short_name": "Pgp (wt)",
                 "teacher": "mgr  Joanna Rewak",
                 "room": "A141"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Wykładnia prawa administracyjnego (wt)",
+                "short_name": "Wpa (wt)",
+                "teacher": "mgr Wojciech Pinkos",
+                "room": "C128"
             }
         ],
         "Niedziela 2027-01-17": [

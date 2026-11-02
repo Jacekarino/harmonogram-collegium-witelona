@@ -658,14 +658,14 @@
                 "room": "C212"
             },
             {
-                "time": "15:15-16:45",
+                "time": "17:00-18:30",
                 "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
                 "short_name": "Fkwp (wyk)",
                 "teacher": "dr Łukasz Rogowski",
                 "room": "A14"
             },
             {
-                "time": "17:00-18:30",
+                "time": "18:45-20:15",
                 "class_name": "Kliniczne podstawy fizjoterapii w psychiatrii (wyk)",
                 "short_name": "Kpfwp (wyk)",
                 "teacher": "dr Łukasz Rogowski",
@@ -1124,14 +1124,14 @@
                 "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
                 "short_name": "Fkwp (wyk)",
                 "teacher": "dr Łukasz Rogowski",
-                "room": "C212"
+                "room": "C224"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Kliniczne podstawy fizjoterapii w psychiatrii (wyk)",
                 "short_name": "Kpfwp (wyk)",
                 "teacher": "dr Łukasz Rogowski",
-                "room": "C212"
+                "room": "C224"
             }
         ],
         "Środa 2026-11-25": [
@@ -1244,14 +1244,14 @@
                 "class_name": "Trening zdrowotny (wyk)",
                 "short_name": "Tz (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
-                "room": "A144"
+                "room": "C113"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Trening zdrowotny (wyk)",
                 "short_name": "Tz (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
-                "room": "A144"
+                "room": "C113"
             },
             {
                 "time": "15:15-16:45",
@@ -1288,14 +1288,14 @@
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A13 / D17"
+                "room": "A12 / D17"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A13 / D17"
+                "room": "A12 / D17"
             },
             {
                 "time": "15:15-16:45",
@@ -1341,7 +1341,7 @@
                 "class_name": "Kliniczne podstawy fizjoterapii w psychiatriiind (wyk)",
                 "short_name": "Kpfwpind (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A144"
+                "room": "A212"
             },
             {
                 "time": "10:00-11:30",
@@ -1378,7 +1378,7 @@
                 "class_name": "Kliniczne podstawy fizjoterapii w psychiatriiind (wyk)",
                 "short_name": "Kpfwpind (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A212"
+                "room": "A14"
             },
             {
                 "time": "10:00-11:30",
