@@ -667,6 +667,15 @@
                 "room": "Online_102"
             }
         ],
+        "Środa 2026-11-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
+                "short_name": "Epp (wyk)",
+                "teacher": "dr Przemysław Charzewski",
+                "room": "Online_07"
+            }
+        ],
         "Czwartek 2026-11-19": [
             {
                 "time": "15:15-16:45",
@@ -940,35 +949,35 @@
                 "class_name": "Prawo konstytucyjne (wt)",
                 "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A14"
+                "room": "A12"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Prawo konstytucyjne (wt)",
                 "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A14"
+                "room": "A12"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Logika prawnicza (wt)",
                 "short_name": "Lp (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
-                "room": "A36"
+                "room": "A16"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Logika prawnicza (wt)",
                 "short_name": "Lp (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
-                "room": "A36"
+                "room": "A16"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Logika prawnicza (wt)",
                 "short_name": "Lp (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
-                "room": "A2"
+                "room": "A16"
             }
         ],
         "Niedziela 2026-12-06": [
@@ -1009,13 +1018,6 @@
             }
         ],
         "Wtorek 2026-12-08": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Etyka profesjonalizmu prawnika (wyk)",
-                "short_name": "Epp (wyk)",
-                "teacher": "dr Przemysław Charzewski",
-                "room": "Online_10"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Prawo konstytucyjne (wyk)",

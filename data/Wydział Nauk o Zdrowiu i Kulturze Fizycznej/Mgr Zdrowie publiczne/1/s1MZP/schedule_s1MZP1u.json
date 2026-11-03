@@ -384,36 +384,6 @@
                 "short_name": "E-zdr (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Marketing usług zdrowotnych (ćw)",
-                "short_name": "Muz (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "A212"
-            }
-        ],
-        "Piątek 2026-11-06": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Zdrowie publiczne (ćw)",
-                "short_name": "Zp (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "E1"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Zdrowie publiczne (ćw)",
-                "short_name": "Zp (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "E1"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Zdrowie publiczne (ćw)",
-                "short_name": "Zp (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "E1"
             }
         ],
         "Sobota 2026-11-07": [
@@ -468,20 +438,6 @@
             }
         ],
         "Niedziela 2026-11-08": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Marketing usług zdrowotnych (ćw)",
-                "short_name": "Muz (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "E2"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Marketing usług zdrowotnych (ćw)",
-                "short_name": "Muz (ćw)",
-                "teacher": "mgr Anna Płotnicka-Mieloch",
-                "room": "E2"
-            },
             {
                 "time": "11:45-13:15",
                 "class_name": "Pierwsza pomoc przedmedyczna (zp)",
@@ -576,6 +532,20 @@
                 "short_name": "Pwzp (ćw)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "A36"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Marketing usług zdrowotnych (ćw)",
+                "short_name": "Muz (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "C224"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Marketing usług zdrowotnych (ćw)",
+                "short_name": "Muz (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "C224"
             }
         ],
         "Niedziela 2026-11-15": [
@@ -619,6 +589,13 @@
                 "class_name": "Biologia człowieka (wyk)",
                 "short_name": "Bc (wyk)",
                 "teacher": "dr Małgorzata Jusiakowska - Piputa",
+                "room": "A36"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Marketing usług zdrowotnych (ćw)",
+                "short_name": "Muz (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
                 "room": "A36"
             }
         ],
@@ -696,6 +673,27 @@
                 "short_name": "1Pz (ćw)",
                 "teacher": "mgr  Aleksandra Chmiel-Karakuła",
                 "room": "A144"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "A212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "A212"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zdrowie publiczne (ćw)",
+                "short_name": "Zp (ćw)",
+                "teacher": "mgr Anna Płotnicka-Mieloch",
+                "room": "A212"
             }
         ],
         "Czwartek 2026-11-26": [

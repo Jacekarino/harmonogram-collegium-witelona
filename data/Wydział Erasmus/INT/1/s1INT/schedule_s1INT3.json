@@ -475,23 +475,9 @@
                 "short_name": "PbI (wyk)",
                 "teacher": "dr Aleksander Klosow",
                 "room": "Online_04"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Computer Networks I (wyk)",
-                "short_name": "CNI (wyk)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "Online_107"
             }
         ],
         "Środa 2026-11-18": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Mathematics I (wyk)",
-                "short_name": "Mathe (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "Online_106"
-            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Mathematics I (wyk)",
@@ -576,15 +562,6 @@
                 "room": "C201"
             }
         ],
-        "Wtorek 2026-11-24": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Programming basic I (wyk)",
-                "short_name": "PbI (wyk)",
-                "teacher": "dr Aleksander Klosow",
-                "room": "Online_18"
-            }
-        ],
         "Wtorek 2026-12-01": [
             {
                 "time": "13:30-15:00",
@@ -598,14 +575,7 @@
                 "class_name": "Programming basic I (lab)",
                 "short_name": "PbI (lab)",
                 "teacher": "mgr inż. Kamil Piech",
-                "room": "A213"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Programming basic I (lab)",
-                "short_name": "PbI (lab)",
-                "teacher": "mgr inż. Kamil Piech",
-                "room": "A213"
+                "room": "A242"
             }
         ],
         "Środa 2026-12-02": [
@@ -648,13 +618,6 @@
             }
         ],
         "Środa 2026-12-09": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Mathematics I (wyk)",
-                "short_name": "Mathe (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "Online_04"
-            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Mathematics I (wyk)",
@@ -891,31 +854,6 @@
                 "class_name": "Production Logistics (ćw)",
                 "short_name": "PL (ćw)",
                 "teacher": "mgr Rafał Zientara",
-                "room": "C201"
-            }
-        ],
-        "Poniedziałek 2027-01-18": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Computer Networks I (lab)",
-                "short_name": "CNI (lab)",
-                "teacher": "mgr inż. Karol Zygadło",
-                "room": "C10"
-            }
-        ],
-        "Środa 2027-01-20": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Mathematics I (ćw)",
-                "short_name": "Mathe (ćw)",
-                "teacher": "dr Karol Selwat",
-                "room": "C201"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Mathematics I (ćw)",
-                "short_name": "Mathe (ćw)",
-                "teacher": "dr Karol Selwat",
                 "room": "C201"
             }
         ]

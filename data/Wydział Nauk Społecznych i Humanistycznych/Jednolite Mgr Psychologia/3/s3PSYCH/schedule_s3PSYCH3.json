@@ -368,22 +368,6 @@
                 "room": "Online_102"
             }
         ],
-        "Wtorek 2026-11-03": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A32"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A32"
-            }
-        ],
         "Środa 2026-11-04": [
             {
                 "time": "15:15-16:45",
@@ -605,6 +589,13 @@
                 "short_name": "Psych (ćw)",
                 "teacher": "mgr  Diana Celler",
                 "room": "C123"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
             },
             {
                 "time": "13:30-15:00",
@@ -841,7 +832,14 @@
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C111"
+                "room": "C122"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "C122"
             },
             {
                 "time": "11:45-13:15",

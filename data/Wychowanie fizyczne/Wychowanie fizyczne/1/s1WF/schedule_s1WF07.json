@@ -160,6 +160,22 @@
                 "room": "DS ul.Mickiewicza10"
             }
         ],
+        "Niedziela 2026-11-29": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Siłownia (ćw)",
+                "short_name": "Siłow (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Siłownia (ćw)",
+                "short_name": "Siłow (ćw)",
+                "teacher": "mgr Tomasz Majchrzyk",
+                "room": "DS ul.Mickiewicza10"
+            }
+        ],
         "Piątek 2026-12-04": [
             {
                 "time": "15:15-16:45",
@@ -256,7 +272,7 @@
                 "room": "DS ul.Mickiewicza10"
             }
         ],
-        "Piątek 2027-01-08": [
+        "Piątek 2027-01-15": [
             {
                 "time": "15:15-16:45",
                 "class_name": "Siłownia (ćw)",
@@ -266,22 +282,6 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Siłownia (ćw)",
-                "short_name": "Siłow (ćw)",
-                "teacher": "mgr Tomasz Majchrzyk",
-                "room": "DS ul.Mickiewicza10"
-            }
-        ],
-        "Sobota 2027-01-09": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Siłownia (ćw)",
-                "short_name": "Siłow (ćw)",
-                "teacher": "mgr Tomasz Majchrzyk",
-                "room": "DS ul.Mickiewicza10"
-            },
-            {
-                "time": "10:00-11:30",
                 "class_name": "Siłownia (ćw)",
                 "short_name": "Siłow (ćw)",
                 "teacher": "mgr Tomasz Majchrzyk",

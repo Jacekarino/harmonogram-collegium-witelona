@@ -456,20 +456,6 @@
         ],
         "Wtorek 2026-11-10": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "A16"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "A16"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Moduł humanistyczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -589,6 +575,20 @@
             }
         ],
         "Poniedziałek 2026-11-23": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C201"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C201"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Ochrona własności intelektualnej (wyk)",

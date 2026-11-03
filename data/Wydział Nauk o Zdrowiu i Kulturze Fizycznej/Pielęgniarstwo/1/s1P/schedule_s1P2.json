@@ -820,6 +820,13 @@
                 "short_name": "Anato (ćw)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
                 "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Ilona Pielach",
+                "room": "A114 (MCSM-OSCE)"
             }
         ],
         "Wtorek 2026-11-17": [
@@ -1008,6 +1015,13 @@
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Podstawy pielęgniarstwa (lab)",
+                "short_name": "Pp (lab)",
+                "teacher": "mgr Karolina Karpiak",
+                "room": "A114 (MCSM-OSCE)"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
                 "teacher": "mgr Karolina Karpiak",
@@ -1721,13 +1735,6 @@
         ],
         "Wtorek 2027-01-12": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
-                "room": "A118 (MCSM-UT)"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
@@ -1885,38 +1892,31 @@
         ],
         "Wtorek 2027-01-19": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy pielęgniarstwa (lab)",
-                "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
-                "room": "A114 (MCSM-OSCE)"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
+                "teacher": "mgr Karolina Karpiak",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
+                "teacher": "mgr Karolina Karpiak",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
+                "teacher": "mgr Karolina Karpiak",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Podstawy pielęgniarstwa (lab)",
                 "short_name": "Pp (lab)",
-                "teacher": "mgr Ilona Pielach",
+                "teacher": "mgr Karolina Karpiak",
                 "room": "A114 (MCSM-OSCE)"
             },
             {
