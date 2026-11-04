@@ -555,6 +555,22 @@
                 "room": "Online_05"
             }
         ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_107"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_107"
+            }
+        ],
         "Środa 2026-11-18": [
             {
                 "time": "17:00-18:30",
@@ -592,15 +608,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             },
             {
                 "time": "18:45-20:15",
@@ -746,6 +762,22 @@
                 "room": "Online_09"
             }
         ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_106"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_106"
+            }
+        ],
         "Środa 2026-12-02": [
             {
                 "time": "17:00-18:30",
@@ -797,15 +829,15 @@
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             }
         ],
         "Sobota 2026-12-05": [
@@ -937,6 +969,22 @@
                 "room": "Online_07"
             }
         ],
+        "Poniedziałek 2026-12-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_106"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Język obcy (ćw)",
+                "short_name": "Jo (ćw)",
+                "teacher": "mgr Anna Świerczyńska",
+                "room": "Online_106"
+            }
+        ],
         "Środa 2026-12-16": [
             {
                 "time": "17:00-18:30",
@@ -974,15 +1022,15 @@
                 "time": "15:15-16:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr Anna Świerczyńska / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
-                "room": "Online_01 / Online_02 / Online_03 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
+                "teacher": "mgr  Magdalena Berdys / mgr Izabela Selera / mgr  Aneta Dzikowska-Janicka / mgr Monika Florek / mgr Bogusława Hanaczewska / mgr Sylwia Zajchowska / mgr Agnieszka Łakomska",
+                "room": "Online_01 / Online_02 / Online_04 / Online_05 / Online_06 / Online_07 / Online_08"
             },
             {
                 "time": "18:45-20:15",

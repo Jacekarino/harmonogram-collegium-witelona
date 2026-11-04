@@ -771,13 +771,6 @@
                 "short_name": "Aafisozn (ćw)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A33"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
-                "short_name": "Dfwwr (zp)",
-                "teacher": "mgr Monika Kamieniecka",
-                "room": "A324"
             }
         ],
         "Wtorek 2026-11-10": [
@@ -1450,6 +1443,13 @@
                 "short_name": "Dfwcw (wyk)",
                 "teacher": "dr  Barbara Cieślik",
                 "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (zp)",
+                "short_name": "Dfwwr (zp)",
+                "teacher": "mgr Monika Kamieniecka",
+                "room": "A326"
             }
         ],
         "Poniedziałek 2026-12-14": [
@@ -1472,14 +1472,14 @@
                 "class_name": "Język obcy zawodowy (ćw)",
                 "short_name": "Joz (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A13 / D17"
+                "room": "A15 / D17"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Język obcy zawodowy (ćw)",
                 "short_name": "Joz (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
-                "room": "A13 / D17"
+                "room": "A15 / D17"
             },
             {
                 "time": "15:15-16:45",

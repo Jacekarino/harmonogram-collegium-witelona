@@ -491,13 +491,6 @@
         ],
         "Sobota 2026-11-07": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
-                "short_name": "Mgod3 (lab)",
-                "teacher": "dr Aleksander Klosow",
-                "room": "C311"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
                 "short_name": "Mgod3 (lab)",
@@ -510,6 +503,13 @@
                 "short_name": "Cmiopm (lab)",
                 "teacher": "dr Marek Miedziński",
                 "room": "A218"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Modelowanie graficzne oraz druk 3D (lab)",
+                "short_name": "Mgod3 (lab)",
+                "teacher": "dr Aleksander Klosow",
+                "room": "C311"
             },
             {
                 "time": "15:30-17:00",
