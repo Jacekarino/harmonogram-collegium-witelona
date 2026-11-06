@@ -667,13 +667,6 @@
                 "short_name": "Biofi (wyk)",
                 "teacher": "dr Witold Urbanik",
                 "room": "Online_102"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Biofizyka (wyk)",
-                "short_name": "Biofi (wyk)",
-                "teacher": "dr Witold Urbanik",
-                "room": "Online_102"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -1028,6 +1021,13 @@
                 "class_name": "Spotkanie organizacyjnecjo (wyk)",
                 "short_name": "Socjo (wyk)",
                 "teacher": "dr Ewa Groszewska",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Biofizyka (wyk)",
+                "short_name": "Biofi (wyk)",
+                "teacher": "dr Witold Urbanik",
                 "room": "A144"
             },
             {

@@ -978,27 +978,6 @@
                 "short_name": "Ja (ćw)",
                 "teacher": "mgr Monika Florek",
                 "room": "A15"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_02"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_02"
             }
         ],
         "Piątek 2026-11-13": [
@@ -1043,36 +1022,6 @@
                 "short_name": "Pod (wyk)",
                 "teacher": "mgr Joanna Bronowicka",
                 "room": "A144"
-            }
-        ],
-        "Poniedziałek 2026-11-16": [
-            {
-                "time": "13:30-15:00",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_01"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_01"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_01"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
-                "short_name": "Pwod (zp)",
-                "teacher": "mgr Jowita Hajduk",
-                "room": "RCZ_Lubin_01"
             }
         ],
         "Wtorek 2026-11-17": [
@@ -1929,6 +1878,27 @@
                 "short_name": "Bnwp (ćw)",
                 "teacher": "dr Dariusz Lewera",
                 "room": "A144"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_01"
             }
         ],
         "Czwartek 2026-12-17": [
@@ -2040,6 +2010,36 @@
                 "short_name": "Wf (ćw)",
                 "teacher": "mgr Tomasz Majchrzyk",
                 "room": "DS ul.Mickiewicza10"
+            }
+        ],
+        "Wtorek 2026-12-22": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_02"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Pielęgniarstwo w opiece długoterminowej (zp)",
+                "short_name": "Pwod (zp)",
+                "teacher": "mgr Jowita Hajduk",
+                "room": "RCZ_Lubin_02"
             }
         ],
         "Piątek 2027-01-08": [
