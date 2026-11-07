@@ -439,6 +439,20 @@
         ],
         "Niedziela 2026-11-08": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Moduł uzupełniający - Fizjologia (wyk)",
+                "short_name": "Mu-F (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_02"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł uzupełniający - Fizjologia (ćw)",
+                "short_name": "Mu-F (ćw)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_02"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Pierwsza pomoc przedmedyczna (zp)",
                 "short_name": "Ppp (zp)",

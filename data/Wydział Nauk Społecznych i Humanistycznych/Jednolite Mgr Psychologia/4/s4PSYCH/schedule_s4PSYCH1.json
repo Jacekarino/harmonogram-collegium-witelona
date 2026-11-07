@@ -627,6 +627,20 @@
                 "short_name": "Uid (wyk)",
                 "teacher": "dr Beata Rajba",
                 "room": "Online_105"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_19"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Katarzyna Sępowicz-Buczko",
+                "room": "Online_19"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -725,14 +739,14 @@
                 "class_name": "Język obcy specjalistyczny* (ćw)",
                 "short_name": "Jos (ćw)",
                 "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Monika Florek",
-                "room": "A12 / A32"
+                "room": "A12 / A142"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy specjalistyczny* (ćw)",
                 "short_name": "Jos (ćw)",
                 "teacher": "dr Małgorzata Szudrowicz-Garstka / mgr Monika Florek",
-                "room": "A12 / A32"
+                "room": "A12 / A142"
             }
         ],
         "Wtorek 2026-11-24": [
@@ -1039,15 +1053,15 @@
                 "time": "17:00-18:30",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Małgorzata Buchla / dr Katarzyna Sępowicz-Buczko",
-                "room": "Online_11 / Online_110"
+                "teacher": "dr Małgorzata Buchla",
+                "room": "Online_11"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Małgorzata Buchla / dr Katarzyna Sępowicz-Buczko",
-                "room": "Online_11 / Online_110"
+                "teacher": "dr Małgorzata Buchla",
+                "room": "Online_11"
             }
         ],
         "Poniedziałek 2026-12-14": [

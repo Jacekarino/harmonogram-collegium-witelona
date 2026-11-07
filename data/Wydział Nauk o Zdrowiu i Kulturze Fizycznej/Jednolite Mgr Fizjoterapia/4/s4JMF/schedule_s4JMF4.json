@@ -817,6 +817,13 @@
                 "short_name": "Fkwwr (wyk)",
                 "teacher": "dr Monika Wierzbicka",
                 "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "A144"
             }
         ],
         "Piątek 2026-11-13": [
@@ -937,20 +944,6 @@
                 "short_name": "Kwp (ćw)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A33"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
-                "short_name": "Dfwwr (wyk)",
-                "teacher": "mgr Katarzyna Kardasz",
-                "room": "C212"
             }
         ],
         "Czwartek 2026-11-19": [
@@ -1183,6 +1176,13 @@
             },
             {
                 "time": "17:00-18:30",
+                "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
+                "short_name": "Dfwwr (wyk)",
+                "teacher": "mgr Katarzyna Kardasz",
+                "room": "C113"
+            },
+            {
+                "time": "18:45-20:15",
                 "class_name": "Diagnostyka funkcjonalna w wieku rozwojowym (wyk)",
                 "short_name": "Dfwwr (wyk)",
                 "teacher": "mgr Katarzyna Kardasz",
