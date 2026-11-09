@@ -467,20 +467,6 @@
                 "room": "C113"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "C113"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Karol Selwat",
-                "room": "C113"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
                 "short_name": "Tiisi (lab)",
@@ -493,6 +479,22 @@
                 "short_name": "I-bd (lab)",
                 "teacher": "mgr inż. Roman Hojniak",
                 "room": "A213"
+            }
+        ],
+        "Poniedziałek 2026-11-16": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A14"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Karol Selwat",
+                "room": "A14"
             }
         ],
         "Wtorek 2026-11-17": [

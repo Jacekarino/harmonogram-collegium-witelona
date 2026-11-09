@@ -447,20 +447,6 @@
         ],
         "Środa 2026-11-04": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawo energetyczne* (wyk)",
-                "short_name": "Pe (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_02"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo energetyczne* (wyk)",
-                "short_name": "Pe (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_104"
-            },
-            {
                 "time": "18:45-20:15",
                 "class_name": "Prawo handlowe (wyk)",
                 "short_name": "Ph (wyk)",
@@ -1117,6 +1103,20 @@
                 "short_name": "Pp (wt)",
                 "teacher": "mgr Andrzej Marek",
                 "room": "A36"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo energetyczne* (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo energetyczne* (wyk)",
+                "short_name": "Pe (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_104"
             }
         ],
         "Czwartek 2027-01-07": [
