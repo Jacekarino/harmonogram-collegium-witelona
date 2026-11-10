@@ -462,6 +462,22 @@
                 "room": "Online_03"
             }
         ],
+        "Czwartek 2026-11-12": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium (sem)",
+                "short_name": "Semin (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium (sem)",
+                "short_name": "Semin (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A15"
+            }
+        ],
         "Poniedziałek 2026-11-16": [
             {
                 "time": "13:30-15:00",
@@ -517,20 +533,6 @@
         ],
         "Środa 2026-11-18": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Seminarium (sem)",
-                "short_name": "Semin (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "C201"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Seminarium (sem)",
-                "short_name": "Semin (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "C201"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Prawo finansów publicznych (wt)",
                 "short_name": "Pfp (wt)",
@@ -565,20 +567,6 @@
                 "class_name": "Prawo samorządu terytorialnego (wt)",
                 "short_name": "Pst (wt)",
                 "teacher": "mgr Grzegorz Majewicz",
-                "room": "A15"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Seminarium (sem)",
-                "short_name": "Semin (sem)",
-                "teacher": "dr Paweł Kobes",
-                "room": "A15"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Seminarium (sem)",
-                "short_name": "Semin (sem)",
-                "teacher": "dr Paweł Kobes",
                 "room": "A15"
             }
         ],
@@ -664,6 +652,20 @@
                 "class_name": "Prawo finansów publicznych (wt)",
                 "short_name": "Pfp (wt)",
                 "teacher": "dr Dariusz Zając",
+                "room": "A12"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Seminarium (sem)",
+                "short_name": "Semin (sem)",
+                "teacher": "dr Paweł Kobes",
+                "room": "A12"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Seminarium (sem)",
+                "short_name": "Semin (sem)",
+                "teacher": "dr Paweł Kobes",
                 "room": "A12"
             }
         ],

@@ -468,22 +468,6 @@
                 "room": "A36"
             }
         ],
-        "Piątek 2026-11-13": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Statystyka medyczna (ćw)",
-                "short_name": "Sm (ćw)",
-                "teacher": "dr Karol Selwat",
-                "room": "C113"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Statystyka medyczna (ćw)",
-                "short_name": "Sm (ćw)",
-                "teacher": "dr Karol Selwat",
-                "room": "C113"
-            }
-        ],
         "Sobota 2026-11-14": [
             {
                 "time": "08:15-09:45",
@@ -747,6 +731,20 @@
                 "short_name": "Pwp (ćw)",
                 "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "E3"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Statystyka medyczna (ćw)",
+                "short_name": "Sm (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka medyczna (ćw)",
+                "short_name": "Sm (ćw)",
+                "teacher": "dr Karol Selwat",
+                "room": "C212"
             }
         ],
         "Czwartek 2026-12-03": [
