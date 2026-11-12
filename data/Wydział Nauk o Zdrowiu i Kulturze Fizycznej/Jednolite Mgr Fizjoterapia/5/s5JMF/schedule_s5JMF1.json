@@ -905,20 +905,6 @@
         ],
         "Wtorek 2026-11-17": [
             {
-                "time": "11:45-13:15",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
-                "short_name": "Pfwcw (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Planowanie fizjoterapii w wieku rozwojowym (zp)",
                 "short_name": "Pfwwr (zp)",
@@ -1313,6 +1299,22 @@
                 "room": "A324"
             }
         ],
+        "Środa 2026-12-09": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (zp)",
+                "short_name": "Pfwcw (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A324"
+            }
+        ],
         "Czwartek 2026-12-10": [
             {
                 "time": "08:15-09:45",
@@ -1490,7 +1492,7 @@
                 "class_name": "Planowanie fizjoterapii w chorobach wewnętrznych (wyk)",
                 "short_name": "Pfwcw (wyk)",
                 "teacher": "dr  Barbara Cieślik",
-                "room": "A14"
+                "room": "A212"
             }
         ],
         "Poniedziałek 2026-12-21": [
@@ -1522,14 +1524,14 @@
                 "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
                 "short_name": "Msf-mrprnntn (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A32"
+                "room": "A16"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Metody specj. fizj. - met. reedukacji posturalnej, reed. nerwowo-mięśn., neuroreh., terapii neuroroz (wyk)",
                 "short_name": "Msf-mrprnntn (wyk)",
                 "teacher": "dr Monika Wierzbicka",
-                "room": "A32"
+                "room": "A16"
             },
             {
                 "time": "11:45-13:15",

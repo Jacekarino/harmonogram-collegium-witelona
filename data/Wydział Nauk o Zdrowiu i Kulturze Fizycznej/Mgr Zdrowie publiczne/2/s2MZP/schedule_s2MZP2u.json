@@ -552,27 +552,6 @@
         ],
         "Niedziela 2026-11-15": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
-                "short_name": "Afocp (zp)",
-                "teacher": "mgr Kamila Fiszer",
-                "room": "A058 - Siłownia"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
-                "short_name": "Afocp (zp)",
-                "teacher": "mgr Kamila Fiszer",
-                "room": "A058 - Siłownia"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
-                "short_name": "Afocp (zp)",
-                "teacher": "mgr Kamila Fiszer",
-                "room": "A058 - Siłownia"
-            },
-            {
                 "time": "13:45-15:15",
                 "class_name": "Epidemiologia chorób cywilizacyjnych* (ćw)",
                 "short_name": "Ecc (ćw)",
@@ -831,21 +810,21 @@
                 "class_name": "Techniki couchingowe w promocji zdrowia (zp)",
                 "short_name": "Tcwpz (zp)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "E2"
+                "room": "A14"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Techniki couchingowe w promocji zdrowia (zp)",
                 "short_name": "Tcwpz (zp)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "E2"
+                "room": "A14"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Techniki couchingowe w promocji zdrowia (zp)",
                 "short_name": "Tcwpz (zp)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "E2"
+                "room": "A14"
             },
             {
                 "time": "17:15-18:45",
@@ -981,14 +960,14 @@
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
                 "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A16 / C324"
+                "room": "A16 / C329"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
                 "teacher": "dr Lilia Omelan / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A16 / C324"
+                "room": "A16 / C329"
             },
             {
                 "time": "11:45-13:15",
@@ -1032,21 +1011,21 @@
                 "class_name": "Promocja zdrowia psychicznego* (ćw)",
                 "short_name": "Pzp (ćw)",
                 "teacher": "mgr Katarzyna Zielińska",
-                "room": "C127"
+                "room": "A36"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Promocja zdrowia psychicznego* (ćw)",
                 "short_name": "Pzp (ćw)",
                 "teacher": "mgr Katarzyna Zielińska",
-                "room": "C127"
+                "room": "A36"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Promocja zdrowia psychicznego* (ćw)",
                 "short_name": "Pzp (ćw)",
                 "teacher": "mgr Katarzyna Zielińska",
-                "room": "C127"
+                "room": "A36"
             },
             {
                 "time": "13:45-15:15",
@@ -1112,6 +1091,29 @@
                 "short_name": "Ecc (ćw)",
                 "teacher": "mgr Agnieszka Bukowska",
                 "room": "C227"
+            }
+        ],
+        "Niedziela 2027-01-10": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
+                "short_name": "Afocp (zp)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
+                "short_name": "Afocp (zp)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A058 - Siłownia"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Aktywność fizyczna o charakterze prozdrowotnym (zp)",
+                "short_name": "Afocp (zp)",
+                "teacher": "mgr Kamila Fiszer",
+                "room": "A058 - Siłownia"
             }
         ],
         "Piątek 2027-01-22": [

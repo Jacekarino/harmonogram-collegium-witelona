@@ -1073,13 +1073,6 @@
                 "short_name": "Ph (wt)",
                 "teacher": "mgr Witold Łakomski",
                 "room": "A12"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo handlowe (wyk)",
-                "short_name": "Ph (wyk)",
-                "teacher": "dr Krystian Czarny",
-                "room": "Online_104"
             }
         ],
         "Wtorek 2026-12-22": [
@@ -1088,21 +1081,21 @@
                 "class_name": "Postępowanie cywilne (wt)",
                 "short_name": "Pc (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "A36"
+                "room": "A15"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Postępowanie cywilne (wt)",
                 "short_name": "Pc (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "A36"
+                "room": "A15"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Prawo pracy (wt)",
                 "short_name": "Pp (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "A36"
+                "room": "A15"
             },
             {
                 "time": "17:00-18:30",
@@ -1262,15 +1255,22 @@
                 "short_name": "Jo (lek)",
                 "teacher": "mgr  Aneta Dzikowska-Janicka",
                 "room": "A32"
-            }
-        ],
-        "Piątek 2027-01-15": [
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (lek)",
                 "short_name": "Jo (lek)",
                 "teacher": "mgr Agnieszka Łakomska",
-                "room": "A31"
+                "room": "A15"
+            }
+        ],
+        "Piątek 2027-01-15": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo handlowe (wyk)",
+                "short_name": "Ph (wyk)",
+                "teacher": "dr Krystian Czarny",
+                "room": "Online_09"
             },
             {
                 "time": "18:45-20:15",

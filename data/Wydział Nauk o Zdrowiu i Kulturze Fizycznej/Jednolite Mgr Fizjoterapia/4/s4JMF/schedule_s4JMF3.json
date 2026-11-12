@@ -844,20 +844,6 @@
                 "short_name": "Tm (wyk)",
                 "teacher": "dr Grzegorz Konieczny",
                 "room": "C212"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Terapia manualna (zp)",
-                "short_name": "Tm (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Terapia manualna (zp)",
-                "short_name": "Tm (zp)",
-                "teacher": "mgr Martyna Malinka",
-                "room": "A324"
             }
         ],
         "Środa 2026-11-18": [
@@ -1369,6 +1355,20 @@
                 "short_name": "Joz (ćw)",
                 "teacher": "mgr Monika Florek / mgr Magdalena Szylar",
                 "room": "A13 / D17"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A146"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Terapia manualna (zp)",
+                "short_name": "Tm (zp)",
+                "teacher": "mgr Martyna Malinka",
+                "room": "A146"
             }
         ],
         "Wtorek 2026-12-08": [
@@ -1601,14 +1601,14 @@
                 "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
                 "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A144"
+                "room": "A36"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
                 "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A144"
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",

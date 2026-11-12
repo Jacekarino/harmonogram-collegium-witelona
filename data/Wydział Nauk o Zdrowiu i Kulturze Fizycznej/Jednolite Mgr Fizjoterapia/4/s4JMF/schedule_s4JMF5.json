@@ -903,20 +903,6 @@
                 "short_name": "Msf-mrprnntn (ćw)",
                 "teacher": "mgr Jakub Mitka",
                 "room": "A324"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A244"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A244"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -977,6 +963,20 @@
                 "short_name": "Aafisozn (ćw)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A33"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A244"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A244"
             }
         ],
         "Środa 2026-11-18": [
@@ -1631,14 +1631,14 @@
                 "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
                 "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A144"
+                "room": "A36"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Diagnostyka funkcjonalna w dysfunkcjach układu ruchu (wyk)",
                 "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
-                "room": "A144"
+                "room": "A36"
             }
         ],
         "Wtorek 2026-12-22": [
