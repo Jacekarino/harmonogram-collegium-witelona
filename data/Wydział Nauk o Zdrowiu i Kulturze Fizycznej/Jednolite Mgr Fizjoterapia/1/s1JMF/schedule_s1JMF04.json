@@ -1089,22 +1089,6 @@
                 "room": "A14"
             }
         ],
-        "Środa 2026-12-02": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjoterapia ogólna (wyk)",
-                "short_name": "Fo (wyk)",
-                "teacher": "dr Katarzyna Siwek",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Fizjoterapia ogólna (wyk)",
-                "short_name": "Fo (wyk)",
-                "teacher": "dr Katarzyna Siwek",
-                "room": "A144"
-            }
-        ],
         "Czwartek 2026-12-03": [
             {
                 "time": "10:00-11:30",
@@ -1483,6 +1467,20 @@
                 "short_name": "P-pops (ćw)",
                 "teacher": "dr Marek Kazimierowicz",
                 "room": "D17"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia ogólna (wyk)",
+                "short_name": "Fo (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia ogólna (wyk)",
+                "short_name": "Fo (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
             }
         ],
         "Wtorek 2027-01-12": [

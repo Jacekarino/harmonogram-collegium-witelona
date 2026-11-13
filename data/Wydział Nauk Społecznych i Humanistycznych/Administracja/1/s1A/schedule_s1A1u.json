@@ -608,13 +608,6 @@
                 "short_name": "PmiUE (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
                 "room": "A144"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
-                "short_name": "PmiUE (wt)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "A144"
             }
         ],
         "Wtorek 2026-11-17": [
@@ -1124,6 +1117,13 @@
                 "short_name": "Noiz (wyk)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "A36"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo międzynarodowe i Unii Europejskiej (wt)",
+                "short_name": "PmiUE (wt)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "A36"
             }
         ],
         "Poniedziałek 2027-01-11": [
@@ -1208,7 +1208,7 @@
                 "class_name": "Nauka organizacji i zarządzania (wt)",
                 "short_name": "Noiz (wt)",
                 "teacher": "mgr Agnieszka Łakomska",
-                "room": "A15"
+                "room": "E3"
             }
         ],
         "Niedziela 2027-01-17": [

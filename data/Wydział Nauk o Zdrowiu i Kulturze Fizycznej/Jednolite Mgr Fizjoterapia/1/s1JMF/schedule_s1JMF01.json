@@ -1108,20 +1108,6 @@
                 "short_name": "Samoo (ćw)",
                 "teacher": "mgr Łukasz Stawarz",
                 "room": "A33"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjoterapia ogólna (wyk)",
-                "short_name": "Fo (wyk)",
-                "teacher": "dr Katarzyna Siwek",
-                "room": "A144"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Fizjoterapia ogólna (wyk)",
-                "short_name": "Fo (wyk)",
-                "teacher": "dr Katarzyna Siwek",
-                "room": "A144"
             }
         ],
         "Czwartek 2026-12-03": [
@@ -1490,6 +1476,20 @@
                 "short_name": "Mitrszs (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Fizjoterapia ogólna (wyk)",
+                "short_name": "Fo (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Fizjoterapia ogólna (wyk)",
+                "short_name": "Fo (wyk)",
+                "teacher": "dr Katarzyna Siwek",
+                "room": "A144"
             },
             {
                 "time": "17:00-18:30",

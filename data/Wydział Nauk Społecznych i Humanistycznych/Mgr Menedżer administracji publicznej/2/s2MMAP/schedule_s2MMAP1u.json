@@ -423,13 +423,6 @@
         ],
         "Poniedziałek 2026-11-09": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
-                "short_name": "Paoś (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_03"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
@@ -891,35 +884,35 @@
                 "class_name": "Zarządzanie rozwojem miast (wt)",
                 "short_name": "Zrm (wt)",
                 "teacher": "mgr Robert Raczyński",
-                "room": "A36"
+                "room": "A14"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Zarządzanie rozwojem miast (wt)",
                 "short_name": "Zrm (wt)",
                 "teacher": "mgr Robert Raczyński",
-                "room": "A36"
+                "room": "A14"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Zarządzanie jakością (wt)",
                 "short_name": "Zj (wt)",
                 "teacher": "dr Wojciech Mucha",
-                "room": "A36"
+                "room": "A14"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Marcin Sieja / dr Waldemar Bochenek / dr Jakub Rzucidło",
-                "room": "A16 / C324 / C325"
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "C129 / A2 / C329"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Marcin Sieja / dr Waldemar Bochenek / dr Jakub Rzucidło",
-                "room": "A16 / C324 / C325"
+                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
+                "room": "C129 / A2 / C329"
             },
             {
                 "time": "17:15-18:45",
@@ -1020,6 +1013,13 @@
             }
         ],
         "Poniedziałek 2027-01-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawne aspekty ochrony środowiska (wyk)",
+                "short_name": "Paoś (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Język obcy (wt)",

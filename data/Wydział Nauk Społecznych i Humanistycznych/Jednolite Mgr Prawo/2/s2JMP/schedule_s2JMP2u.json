@@ -507,20 +507,6 @@
                 "short_name": "Wf (ćw)",
                 "teacher": "mgr  Mateusz Wierzbicki",
                 "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Prawo gospodarcze publiczne (wyk)",
-                "short_name": "Pgp (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo gospodarcze publiczne (wyk)",
-                "short_name": "Pgp (wyk)",
-                "teacher": "prof. dr hab. Andrzej Powałowski",
-                "room": "Online_10"
             }
         ],
         "Czwartek 2026-11-12": [
@@ -1329,42 +1315,42 @@
                 "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
                 "short_name": "Pap (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "C111"
+                "room": "C228"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Prawno-ekonomiczne aspekty projektów (wt)",
                 "short_name": "Pap (wt)",
                 "teacher": "mgr Marlena Gniewosz",
-                "room": "C111"
+                "room": "C228"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Prawo gospodarcze publiczne (wt)",
                 "short_name": "Pgp (wt)",
                 "teacher": "mgr  Joanna Rewak",
-                "room": "C113"
+                "room": "C329"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Prawo gospodarcze publiczne (wt)",
                 "short_name": "Pgp (wt)",
                 "teacher": "mgr  Joanna Rewak",
-                "room": "C113"
+                "room": "C329"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
                 "short_name": "Pc-coipr (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "C113"
+                "room": "C210"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Prawo cywilne - część ogólna i prawo rzeczowe (wt)",
                 "short_name": "Pc-coipr (wt)",
                 "teacher": "mgr Andrzej Marek",
-                "room": "C113"
+                "room": "C210"
             }
         ],
         "Niedziela 2027-01-17": [
@@ -1425,6 +1411,22 @@
                 "short_name": "Pc-coipr (wyk)",
                 "teacher": "dr Jakub Rzucidło",
                 "room": "A36"
+            }
+        ],
+        "Środa 2027-01-20": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Prawo gospodarcze publiczne (wyk)",
+                "short_name": "Pgp (wyk)",
+                "teacher": "prof. dr hab. Andrzej Powałowski",
+                "room": "Online_01"
             }
         ],
         "Czwartek 2027-01-21": [
