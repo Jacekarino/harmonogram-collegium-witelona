@@ -589,13 +589,6 @@
         ],
         "Wtorek 2026-11-24": [
             {
-                "time": "15:15-16:45",
-                "class_name": "Podstawy zarządzania (wyk)",
-                "short_name": "Pz (wyk)",
-                "teacher": "dr Jolanta Radkowska",
-                "room": "Online_05"
-            },
-            {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy zarządzania (wyk)",
                 "short_name": "Pz (wyk)",
@@ -611,6 +604,13 @@
             }
         ],
         "Środa 2026-11-25": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Podstawy zarządzania (wyk)",
+                "short_name": "Pz (wyk)",
+                "teacher": "dr Jolanta Radkowska",
+                "room": "Online_102"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Matematyka (wyk)",
@@ -1118,21 +1118,21 @@
                 "class_name": "Statystyka (wyk)",
                 "short_name": "Staty (wyk)",
                 "teacher": "dr inż. Renata Gnitecka",
-                "room": "C212"
+                "room": "E3"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Fizyka (wyk)",
                 "short_name": "Fizyk (wyk)",
                 "teacher": "dr Witold Urbanik",
-                "room": "A144"
+                "room": "E2"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Podstawy zarządzania (wyk)",
                 "short_name": "Pz (wyk)",
                 "teacher": "dr Jolanta Radkowska",
-                "room": "C113"
+                "room": "A36"
             }
         ],
         "Środa 2027-01-20": [
@@ -1147,8 +1147,8 @@
                 "time": "18:45-20:15",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
-                "room": "A14 / C212"
+                "teacher": "dr Przemysław Siudak / dr Anna Kowal-Orczykowska",
+                "room": "C212 / E4"
             }
         ],
         "Sobota 2027-01-23": [

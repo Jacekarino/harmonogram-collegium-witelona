@@ -613,6 +613,22 @@
                 "room": "A36"
             }
         ],
+        "Wtorek 2026-11-17": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł uzupełniający - Fizjologia (wyk)",
+                "short_name": "Mu-F (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł uzupełniający - Fizjologia (ćw)",
+                "short_name": "Mu-F (ćw)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_10"
+            }
+        ],
         "Środa 2026-11-18": [
             {
                 "time": "15:15-16:45",
@@ -708,6 +724,22 @@
                 "short_name": "Zp (ćw)",
                 "teacher": "mgr Anna Płotnicka-Mieloch",
                 "room": "A212"
+            }
+        ],
+        "Wtorek 2026-11-24": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Moduł uzupełniający - Fizjologia (wyk)",
+                "short_name": "Mu-F (wyk)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_18"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Moduł uzupełniający - Fizjologia (ćw)",
+                "short_name": "Mu-F (ćw)",
+                "teacher": "dr hab. Paulina Hebisz",
+                "room": "Online_18"
             }
         ],
         "Czwartek 2026-11-26": [

@@ -893,20 +893,6 @@
                 "short_name": "Aafisozn (ćw)",
                 "teacher": "dr Renata Myrna-Bekas",
                 "room": "A33"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A244"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A244"
             }
         ],
         "Środa 2026-11-18": [
@@ -1397,6 +1383,13 @@
                 "short_name": "Swbn (ćw)",
                 "teacher": "dr inż. Renata Gnitecka",
                 "room": "A213"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A213"
             }
         ],
         "Środa 2026-12-09": [
@@ -1607,6 +1600,13 @@
                 "short_name": "Dfwdur (wyk)",
                 "teacher": "dr Monika Sobolak",
                 "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
             },
             {
                 "time": "17:00-18:30",

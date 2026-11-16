@@ -618,13 +618,6 @@
                 "short_name": "Pz (ćw)",
                 "teacher": "mgr Agnieszka Bukowska",
                 "room": "D17"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Podstawy żywienia zbiorowego (lab)",
-                "short_name": "Pżz (lab)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "C125"
             }
         ],
         "Środa 2026-11-25": [
@@ -1059,7 +1052,7 @@
                 "class_name": "Mikrobiologia ogólna i żywności (wyk)",
                 "short_name": "Moiż (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A144"
+                "room": "A36"
             },
             {
                 "time": "17:00-18:30",
@@ -1134,6 +1127,13 @@
                 "short_name": "Anato (lab)",
                 "teacher": "dr Katarzyna Siwek",
                 "room": "C322"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Podstawy żywienia zbiorowego (lab)",
+                "short_name": "Pżz (lab)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "C212"
             }
         ]
     }

@@ -505,21 +505,21 @@
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C322"
+                "room": "A31"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C322"
+                "room": "A31"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "C322"
+                "room": "A31"
             },
             {
                 "time": "13:30-15:00",
@@ -835,15 +835,6 @@
                 "room": "C123"
             },
             {
-                "time": "13:30-15:00",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A15"
-            }
-        ],
-        "Wtorek 2026-12-08": [
-            {
                 "time": "11:45-13:15",
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
@@ -852,6 +843,13 @@
             },
             {
                 "time": "13:30-15:00",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
                 "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
                 "short_name": "Pzep (ćw)",
                 "teacher": "mgr Magdalena Zagrodnik-Sowińska",
@@ -942,27 +940,6 @@
             }
         ],
         "Wtorek 2026-12-15": [
-            {
-                "time": "08:15-09:45",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A142"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A142"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
-                "short_name": "Pzep (ćw)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "A142"
-            },
             {
                 "time": "13:30-15:00",
                 "class_name": "Psychologia kliniczna (ćw)",
@@ -1165,6 +1142,27 @@
                 "short_name": "Pp (ćw)",
                 "teacher": "mgr Małgorzata Chrzan",
                 "room": "A15"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A15"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Psychopatologia z elementami psychiatrii (ćw)",
+                "short_name": "Pzep (ćw)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "A15"
             }
         ],
         "Środa 2027-01-13": [
@@ -1290,21 +1288,21 @@
                 "class_name": "Psychopatologia z elementami psychiatrii (wyk)",
                 "short_name": "Pzep (wyk)",
                 "teacher": "lek. Małgorzata Dosiak",
-                "room": "A144"
+                "room": "E3"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Psychologia kliniczna (wyk)",
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Tomasz Cyrkot",
-                "room": "A144"
+                "room": "E3"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Pomoc psychologiczna (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr Joanna Dziura",
-                "room": "A212"
+                "room": "E3"
             }
         ],
         "Piątek 2027-01-22": [

@@ -638,22 +638,6 @@
                 "room": "Online_104"
             }
         ],
-        "Piątek 2026-11-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Przedmiot do wyboru(s) (wt)",
-                "short_name": "Pdw(s) (wt)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C203"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Przedmiot do wyboru (sem)",
-                "short_name": "Pdw (sem)",
-                "teacher": "dr Sławomir Kryszkowski",
-                "room": "C203"
-            }
-        ],
         "Sobota 2026-11-21": [
             {
                 "time": "08:15-09:45",
@@ -684,18 +668,11 @@
                 "room": "C202"
             },
             {
-                "time": "15:30-17:00",
-                "class_name": "Analiza ekonomiczno-finansowa (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "dr Paweł Jóźwiakowski",
-                "room": "C127"
-            },
-            {
                 "time": "17:15-18:45",
-                "class_name": "Analiza ekonomiczno-finansowa (wt)",
-                "short_name": "Ae (wt)",
-                "teacher": "dr Paweł Jóźwiakowski",
-                "room": "C127"
+                "class_name": "Przedmiot do wyboru(s) (wt)",
+                "short_name": "Pdw(s) (wt)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C129"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -940,6 +917,20 @@
         ],
         "Sobota 2026-12-05": [
             {
+                "time": "08:15-09:45",
+                "class_name": "Analiza ekonomiczno-finansowa (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C126"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Analiza ekonomiczno-finansowa (wt)",
+                "short_name": "Ae (wt)",
+                "teacher": "dr Paweł Jóźwiakowski",
+                "room": "C126"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Pozyskiwanie funduszy unijnych (wt)",
                 "short_name": "Pfu (wt)",
@@ -1153,6 +1144,13 @@
                 "time": "17:15-18:45",
                 "class_name": "Przedmiot do wyboru(s) (wt)",
                 "short_name": "Pdw(s) (wt)",
+                "teacher": "dr Sławomir Kryszkowski",
+                "room": "C129"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Przedmiot do wyboru (sem)",
+                "short_name": "Pdw (sem)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "C129"
             }
@@ -1391,21 +1389,21 @@
                 "class_name": "Zarządzanie ryzykiem finansowym (wyk)",
                 "short_name": "Zrf (wyk)",
                 "teacher": "dr Leszek Kędzierski",
-                "room": "C201"
+                "room": "A14"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
                 "teacher": "dr Przemysław Siudak",
-                "room": "C201"
+                "room": "C202"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Inwestycje rzeczowe (wyk)",
                 "short_name": "Ir (wyk)",
                 "teacher": "dr Leszek Kędzierski",
-                "room": "C201"
+                "room": "A14"
             }
         ],
         "Środa 2027-01-20": [
@@ -1414,7 +1412,7 @@
                 "class_name": "Analiza ekonomiczno-finansowa (wyk)",
                 "short_name": "Ae (wyk)",
                 "teacher": "dr Paweł Jóźwiakowski",
-                "room": "C129"
+                "room": "C201"
             },
             {
                 "time": "18:45-20:15",

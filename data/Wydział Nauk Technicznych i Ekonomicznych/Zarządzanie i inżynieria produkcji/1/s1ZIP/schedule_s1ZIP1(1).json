@@ -642,22 +642,6 @@
                 "room": "Online_01"
             }
         ],
-        "Piątek 2026-11-27": [
-            {
-                "time": "10:00-11:30",
-                "class_name": "Geometria i grafika inżynierska (ćw)",
-                "short_name": "Gigi (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "C113"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Geometria i grafika inżynierska (ćw)",
-                "short_name": "Gigi (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "C113"
-            }
-        ],
         "Wtorek 2026-12-01": [
             {
                 "time": "15:15-16:45",
@@ -761,20 +745,6 @@
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Karol Selwat",
-                "room": "C113"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Geometria i grafika inżynierska (ćw)",
-                "short_name": "Gigi (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
-                "room": "C113"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Geometria i grafika inżynierska (ćw)",
-                "short_name": "Gigi (ćw)",
-                "teacher": "dr inż. Jerzy Kwaśnik",
                 "room": "C113"
             },
             {
@@ -1195,14 +1165,14 @@
                 "class_name": "Mikroekonomia (wyk)",
                 "short_name": "Mikro (wyk)",
                 "teacher": "dr Paweł Jóźwiakowski",
-                "room": "A144"
+                "room": "E2"
             },
             {
                 "time": "17:00-18:30",
                 "class_name": "Podstawy zarządzania (wyk)",
                 "short_name": "Pz (wyk)",
                 "teacher": "dr Jolanta Radkowska",
-                "room": "A212"
+                "room": "A36"
             }
         ],
         "Środa 2027-01-20": [
@@ -1218,37 +1188,65 @@
                 "class_name": "Wprowadzenie do techniki (wyk)",
                 "short_name": "Wdt (wyk)",
                 "teacher": "prof. dr hab. inż. Jerzy Pietkiewicz",
-                "room": "A14"
+                "room": "A36"
             },
             {
                 "time": "15:15-16:45",
                 "class_name": "Matematyka (wyk)",
                 "short_name": "Matem (wyk)",
                 "teacher": "dr Karol Selwat",
-                "room": "A14"
+                "room": "A144"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Moduł humanistyczny/społeczny (wyk)",
                 "short_name": "Mh (wyk)",
-                "teacher": "dr Anna Kowal-Orczykowska / dr Przemysław Siudak",
-                "room": "A14 / C212"
+                "teacher": "dr Przemysław Siudak / dr Anna Kowal-Orczykowska",
+                "room": "C212 / E4"
             }
         ],
         "Czwartek 2027-01-21": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A144"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A144"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A144"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Geometria i grafika inżynierska (ćw)",
+                "short_name": "Gigi (ćw)",
+                "teacher": "dr inż. Jerzy Kwaśnik",
+                "room": "A144"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "C322"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
-                "room": "A142"
+                "room": "C322"
             }
         ]
     }
