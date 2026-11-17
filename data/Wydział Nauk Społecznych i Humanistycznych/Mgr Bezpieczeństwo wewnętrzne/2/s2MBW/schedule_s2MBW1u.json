@@ -1175,35 +1175,35 @@
                 "class_name": "Psychologia zarządzania kryzysowego (wyk)",
                 "short_name": "Pzk (wyk)",
                 "teacher": "dr Katarzyna Sępowicz-Buczko",
-                "room": "Tymczasowa06"
+                "room": "A212"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Ochrona danych osobowych i informacji niejawnych (wyk)",
                 "short_name": "Odoiin (wyk)",
                 "teacher": "dr Marcin Sieja",
-                "room": "Tymczasowa06"
+                "room": "E2"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Zwalczanie przestępczości zorganizowanej* (wyk)",
                 "short_name": "Zpz (wyk)",
                 "teacher": "dr Marek Czarkowski",
-                "room": "Tymczasowa06"
+                "room": "A14"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Bezpieczeństwo militarne państwa (wyk)",
                 "short_name": "Bmp (wyk)",
                 "teacher": "dr Jerzy Buczko",
-                "room": "Tymczasowa06"
+                "room": "E4"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Proces karny (wyk)",
                 "short_name": "Pk (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
-                "room": "Tymczasowa06"
+                "room": "A36"
             }
         ],
         "Niedziela 2027-01-24": [
@@ -1211,8 +1211,8 @@
                 "time": "08:15-09:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Agnieszka Łakomska / mgr Filip Kostek",
-                "room": "A16 / A31 / A32"
+                "teacher": "mgr Filip Kostek / mgr  Aneta Dzikowska-Janicka / mgr Agnieszka Łakomska",
+                "room": "A12 / A15 / A31"
             },
             {
                 "time": "10:00-11:30",
@@ -1240,21 +1240,21 @@
                 "class_name": "Rola organów administracji publicznych w sytuacjach kryzysowych (wt)",
                 "short_name": "Roapwsk (wt)",
                 "teacher": "mgr Piotr Pilarczyk",
-                "room": "Tymczasowa06"
+                "room": "E2"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Bezpieczeństwo militarne państwa (wt)",
                 "short_name": "Bmp (wt)",
                 "teacher": "mgr Piotr Pilarczyk",
-                "room": "Tymczasowa06"
+                "room": "E2"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Zwalczanie przestępczości zorganizowanej* (wt)",
                 "short_name": "Zpz (wt)",
                 "teacher": "mgr Edward Polakiewicz",
-                "room": "Tymczasowa06"
+                "room": "E2"
             }
         ]
     }

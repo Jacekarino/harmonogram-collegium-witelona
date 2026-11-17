@@ -961,20 +961,6 @@
                 "short_name": "Jo (ćw)",
                 "teacher": "mgr Magdalena Szylar / mgr Monika Florek",
                 "room": "D17 / D8"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
-                "short_name": "Fkwp (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "C212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
-                "short_name": "Fkwp (wyk)",
-                "teacher": "dr Łukasz Rogowski",
-                "room": "C212"
             }
         ],
         "Środa 2026-11-18": [
@@ -1087,6 +1073,20 @@
                 "class_name": "Trening zdrowotny (wyk)",
                 "short_name": "Tz (wyk)",
                 "teacher": "dr Katarzyna Lisowska",
+                "room": "C212"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
+                "short_name": "Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
+                "room": "C212"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Fizjoterapia kliniczna w pulmonologii (wyk)",
+                "short_name": "Fkwp (wyk)",
+                "teacher": "dr Łukasz Rogowski",
                 "room": "C212"
             }
         ],

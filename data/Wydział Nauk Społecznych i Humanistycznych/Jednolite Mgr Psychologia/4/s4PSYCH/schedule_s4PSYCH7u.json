@@ -1253,42 +1253,42 @@
                 "class_name": "Marketing handlowy (wt)",
                 "short_name": "Mh (wt)",
                 "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "C126"
+                "room": "A13"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Marketing handlowy (wt)",
                 "short_name": "Mh (wt)",
                 "teacher": "mgr  Aleksandra Chmiel-Karakuła",
-                "room": "C129"
+                "room": "A13"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Język obcy specjalistyczny* (ćw)",
                 "short_name": "Jos (ćw)",
-                "teacher": "mgr Katarzyna Krajewska / mgr Monika Florek / mgr Anna Świerczyńska / mgr  Magdalena Berdys / mgr Kacper Bielawski / mgr Sylwia Zajchowska",
-                "room": "A12 / A15 / A16 / A31 / C324 / D8"
+                "teacher": "mgr Monika Florek / mgr Katarzyna Krajewska / mgr  Magdalena Berdys / mgr Anna Świerczyńska / mgr Kacper Bielawski / mgr Sylwia Zajchowska",
+                "room": "A15 / A16 / C203 / C205 / C324 / D8"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
                 "teacher": "mgr Magdalena Kasprzak",
-                "room": "A12"
+                "room": "A212"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Oskar Madej",
-                "room": "C129"
+                "room": "C227"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Techniki i narzędzia wywierania wpływu (ćw)",
                 "short_name": "Tinww (ćw)",
                 "teacher": "mgr Oskar Madej",
-                "room": "A12"
+                "room": "C227"
             }
         ],
         "Niedziela 2027-01-24": [
@@ -1297,42 +1297,42 @@
                 "class_name": "2 Język obcy specjalistyczny* (ćw)",
                 "short_name": "2Jos (ćw)",
                 "teacher": "mgr Anna Świerczyńska",
-                "room": "A15"
+                "room": "C205"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Współczesne wyzwania psychologii społecznej (ćw)",
                 "short_name": "Wwps (ćw)",
                 "teacher": "mgr Magdalena Kasprzak",
-                "room": "C210"
+                "room": "C212"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Psychologia sportu (ćw)",
                 "short_name": "Ps (ćw)",
                 "teacher": "mgr Arkadiusz Kos",
-                "room": "C210"
+                "room": "A212"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot / dr Dorota Domińska-Werbel",
-                "room": "C202 / C209 / C210 / C227"
+                "teacher": "dr Dorota Domińska-Werbel / dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot",
+                "room": "C111 / C126 / C127 / A15"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot / dr Dorota Domińska-Werbel",
-                "room": "C202 / C209 / C210 / C227"
+                "teacher": "dr Dorota Domińska-Werbel / dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot",
+                "room": "C111 / C126 / C127 / A15"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "2 Seminarium dyplomowe (sem)",
                 "short_name": "2Sd (sem)",
-                "teacher": "dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot / dr Dorota Domińska-Werbel",
-                "room": "C202 / C209 / C210 / C227"
+                "teacher": "dr Dorota Domińska-Werbel / dr Beata Rajba / dr  Mirosława Marks / dr Tomasz Cyrkot",
+                "room": "C111 / C126 / C127 / A15"
             }
         ]
     }

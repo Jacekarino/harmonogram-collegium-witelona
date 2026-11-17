@@ -1266,29 +1266,29 @@
                 "time": "08:15-09:45",
                 "class_name": "Język obcy (ćw)",
                 "short_name": "Jo (ćw)",
-                "teacher": "mgr  Aneta Dzikowska-Janicka / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr Anna Świerczyńska / dr Lilia Omelan / mgr Kacper Bielawski",
-                "room": "A12 / A13 / A141 / A16 / A2 / A31"
+                "teacher": "mgr Kacper Bielawski / mgr Iwona Chrzan-Filipowska / dr Małgorzata Szudrowicz-Garstka / mgr  Aneta Dzikowska-Janicka / dr Lilia Omelan / mgr Anna Świerczyńska",
+                "room": "C128 / C129 / A141 / A16 / A2 / C205"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychologia społeczna (ćw)",
                 "short_name": "Ps (ćw)",
                 "teacher": "mgr Zbigniew Tracz",
-                "room": "C111"
+                "room": "C122"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Psychologia twórczości (ćw)",
                 "short_name": "Pt (ćw)",
                 "teacher": "mgr Astrid Brojanowska",
-                "room": "C129"
+                "room": "A143"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Psychologia twórczości (ćw)",
                 "short_name": "Pt (ćw)",
                 "teacher": "mgr Astrid Brojanowska",
-                "room": "C129"
+                "room": "A143"
             },
             {
                 "time": "15:30-17:00",
@@ -1309,7 +1309,7 @@
                 "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (ćw)",
                 "short_name": "Mbpzess (ćw)",
                 "teacher": "mgr Julia Jurczyk",
-                "room": "C111"
+                "room": "C122"
             }
         ],
         "Niedziela 2027-01-24": [
@@ -1318,21 +1318,21 @@
                 "class_name": "Psychologia twórczości (ćw)",
                 "short_name": "Pt (ćw)",
                 "teacher": "mgr Astrid Brojanowska",
-                "room": "C111"
+                "room": "A32"
             },
             {
                 "time": "10:00-11:30",
                 "class_name": "Psychologia twórczości (ćw)",
                 "short_name": "Pt (ćw)",
                 "teacher": "mgr Astrid Brojanowska",
-                "room": "C111"
+                "room": "A32"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Psychologia społeczna (ćw)",
                 "short_name": "Ps (ćw)",
                 "teacher": "mgr Zbigniew Tracz",
-                "room": "C111"
+                "room": "C128"
             },
             {
                 "time": "13:45-15:15",
@@ -1346,21 +1346,21 @@
                 "class_name": "Psychologia wychowawcza (ćw)",
                 "short_name": "Pw (ćw)",
                 "teacher": "mgr Michał Kwiatkowski",
-                "room": "C111"
+                "room": "C122"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (ćw)",
                 "short_name": "Mbpzess (ćw)",
                 "teacher": "mgr Julia Jurczyk",
-                "room": "C111"
+                "room": "C226"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Metodologia badań psychologicznych z elementami statystyki stosowanej (ćw)",
                 "short_name": "Mbpzess (ćw)",
                 "teacher": "mgr Julia Jurczyk",
-                "room": "C111"
+                "room": "C226"
             }
         ]
     }

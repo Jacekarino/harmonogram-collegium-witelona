@@ -1064,28 +1064,28 @@
                 "class_name": "Zarządzanie jakością (wt)",
                 "short_name": "Zj (wt)",
                 "teacher": "dr Wojciech Mucha",
-                "room": "Tymczasowa13"
+                "room": "C224"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Zarządzanie jakością (wt)",
                 "short_name": "Zj (wt)",
                 "teacher": "dr Wojciech Mucha",
-                "room": "Tymczasowa13"
+                "room": "C224"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
-                "room": "A12 / A13 / A15"
+                "teacher": "dr Waldemar Bochenek / dr Jakub Rzucidło / dr Marcin Sieja",
+                "room": "C129 / A2 / C324"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr Jakub Rzucidło / dr Marcin Sieja / dr Waldemar Bochenek",
-                "room": "A12 / A13 / A15"
+                "teacher": "dr Waldemar Bochenek / dr Jakub Rzucidło / dr Marcin Sieja",
+                "room": "C129 / A2 / C324"
             }
         ],
         "Niedziela 2027-01-24": [
@@ -1101,42 +1101,42 @@
                 "class_name": "Prawne aspekty ochrony środowiska (wt)",
                 "short_name": "Paoś (wt)",
                 "teacher": "mgr Zbigniew Wróblewski",
-                "room": "A32"
+                "room": "A144"
             },
             {
                 "time": "11:45-13:15",
                 "class_name": "Język obcy (wt)",
                 "short_name": "Jo (wt)",
                 "teacher": "mgr  Aneta Dzikowska-Janicka / dr Małgorzata Szudrowicz-Garstka",
-                "room": "A16 / A31"
+                "room": "A15 / A31"
             },
             {
                 "time": "13:45-15:15",
                 "class_name": "Negocjacje i mediacje (wt)",
                 "short_name": "Nim (wt)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "A31"
+                "room": "C125"
             },
             {
                 "time": "15:30-17:00",
                 "class_name": "Negocjacje i mediacje (wt)",
                 "short_name": "Nim (wt)",
                 "teacher": "dr Agnieszka Kos",
-                "room": "A31"
+                "room": "C125"
             },
             {
                 "time": "17:15-18:45",
                 "class_name": "Logistyka miejska (wt)",
                 "short_name": "Lm (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A31"
+                "room": "C125"
             },
             {
                 "time": "19:00-20:30",
                 "class_name": "Logistyka miejska (wt)",
                 "short_name": "Lm (wt)",
                 "teacher": "mgr Aldona Sondej",
-                "room": "A31"
+                "room": "C125"
             }
         ]
     }
