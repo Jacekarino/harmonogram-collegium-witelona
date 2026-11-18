@@ -990,29 +990,6 @@
                 "room": "A14"
             }
         ],
-        "Wtorek 2026-11-24": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Choroby zakaźne (wyk)",
-                "short_name": "Cz (wyk)",
-                "teacher": "lek. Ryszard Kępa",
-                "room": "A14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Choroby zakaźne (wyk)",
-                "short_name": "Cz (wyk)",
-                "teacher": "lek. Ryszard Kępa",
-                "room": "A14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Choroby zakaźne (wyk)",
-                "short_name": "Cz (wyk)",
-                "teacher": "lek. Ryszard Kępa",
-                "room": "A14"
-            }
-        ],
         "Środa 2026-11-25": [
             {
                 "time": "11:45-13:15",
@@ -1311,6 +1288,22 @@
                 "room": "A245"
             }
         ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Choroby zakaźne (wyk)",
+                "short_name": "Cz (wyk)",
+                "teacher": "lek. Ryszard Kępa",
+                "room": "A14"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Choroby zakaźne (wyk)",
+                "short_name": "Cz (wyk)",
+                "teacher": "lek. Ryszard Kępa",
+                "room": "A14"
+            }
+        ],
         "Środa 2026-12-09": [
             {
                 "time": "08:15-09:45",
@@ -1348,6 +1341,13 @@
                 "short_name": "Kardi (zp)",
                 "teacher": "mgr Halina Komorowicz",
                 "room": "Szpital_Leg_03"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Choroby zakaźne (wyk)",
+                "short_name": "Cz (wyk)",
+                "teacher": "lek. Ryszard Kępa",
+                "room": "A212"
             },
             {
                 "time": "17:00-18:30",

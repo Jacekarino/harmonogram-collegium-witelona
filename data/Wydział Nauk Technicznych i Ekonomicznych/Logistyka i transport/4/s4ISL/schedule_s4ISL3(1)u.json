@@ -21,8 +21,8 @@
         "Poniedziałek 2026-10-05": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "C203"
             }
@@ -465,8 +465,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "Online_104"
             },
@@ -527,10 +527,10 @@
         "Poniedziałek 2026-11-23": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska",
-                "room": "Online_05"
+                "room": "Online_104"
             },
             {
                 "time": "17:00-18:30",
@@ -549,6 +549,13 @@
         ],
         "Środa 2026-11-25": [
             {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_07"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo podatkowe (wyk)",
                 "short_name": "Pp (wyk)",
@@ -564,6 +571,13 @@
             }
         ],
         "Czwartek 2026-11-26": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_07"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Normy techniczne i techniczne aspekty działalności (wyk)",
@@ -589,8 +603,8 @@
             },
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska",
                 "room": "Online_105"
             },
@@ -600,6 +614,22 @@
                 "short_name": "Sd (sem)",
                 "teacher": "dr Magdalena Dąbrowska / dr inż. Daniel Dębowski / dr inż. Dariusz Michalski",
                 "room": "Online_105 / Online_106 / Online_107"
+            }
+        ],
+        "Wtorek 2026-12-01": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_104"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_104"
             }
         ],
         "Środa 2026-12-02": [
@@ -646,6 +676,31 @@
                 "short_name": "Ekolo (wyk)",
                 "teacher": "dr Tomasz Janiak",
                 "room": "Online_104"
+            }
+        ],
+        "Poniedziałek 2026-12-07": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_104"
+            }
+        ],
+        "Wtorek 2026-12-08": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_10"
             }
         ],
         "Środa 2026-12-09": [
@@ -807,13 +862,6 @@
                 "short_name": "Ps (wyk)",
                 "teacher": "dr Waldemar Bochenek",
                 "room": "Online_101"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Prawo podatkowe (wyk)",
-                "short_name": "Pp (wyk)",
-                "teacher": "dr Marta Stanisławska",
-                "room": "Online_101"
             }
         ],
         "Środa 2026-12-16": [
@@ -964,15 +1012,38 @@
                 "time": "17:00-18:30",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_105"
+                "teacher": "dr Magdalena Dąbrowska / dr inż. Daniel Dębowski",
+                "room": "Online_104 / Online_105"
             },
             {
                 "time": "18:45-20:15",
                 "class_name": "Seminarium dyplomowe (sem)",
                 "short_name": "Sd (sem)",
-                "teacher": "dr inż. Daniel Dębowski",
-                "room": "Online_105"
+                "teacher": "dr Magdalena Dąbrowska / dr inż. Daniel Dębowski",
+                "room": "Online_104 / Online_105"
+            }
+        ],
+        "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_108"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_108"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_108"
             }
         ],
         "Środa 2027-01-13": [
@@ -999,6 +1070,13 @@
             }
         ],
         "Czwartek 2027-01-14": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "Online_108"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Prawo socjalne (wyk)",
@@ -1033,8 +1111,8 @@
         "Poniedziałek 2027-01-18": [
             {
                 "time": "17:00-18:30",
-                "class_name": "Seminarium dyplomowe (sem)",
-                "short_name": "Sd (sem)",
+                "class_name": "1 Seminarium dyplomowe (sem)",
+                "short_name": "1Sd (sem)",
                 "teacher": "dr inż. Daniel Dębowski / dr Magdalena Dąbrowska",
                 "room": "A16 / C203"
             },
@@ -1048,6 +1126,13 @@
         ],
         "Środa 2027-01-20": [
             {
+                "time": "15:15-16:45",
+                "class_name": "Prawo podatkowe (wyk)",
+                "short_name": "Pp (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "A14"
+            },
+            {
                 "time": "17:00-18:30",
                 "class_name": "Prawo socjalne (wyk)",
                 "short_name": "Ps (wyk)",
@@ -1060,6 +1145,22 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "E3"
+            }
+        ],
+        "Czwartek 2027-01-21": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A15"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "2 Seminarium dyplomowe (sem)",
+                "short_name": "2Sd (sem)",
+                "teacher": "dr Magdalena Dąbrowska",
+                "room": "A15"
             }
         ],
         "Piątek 2027-01-22": [

@@ -962,10 +962,10 @@
         "Środa 2027-01-20": [
             {
                 "time": "15:15-16:45",
-                "class_name": "Rachunkowość finansowa (wyk)",
-                "short_name": "Rf (wyk)",
-                "teacher": "dr Marta Stanisławska",
-                "room": "A14"
+                "class_name": "Matematyka finansowa (wyk)",
+                "short_name": "Mf (wyk)",
+                "teacher": "dr Bogumiła Wątorek",
+                "room": "E2"
             },
             {
                 "time": "17:00-18:30",
@@ -976,10 +976,10 @@
             },
             {
                 "time": "18:45-20:15",
-                "class_name": "Matematyka finansowa (wyk)",
-                "short_name": "Mf (wyk)",
-                "teacher": "dr Bogumiła Wątorek",
-                "room": "A144"
+                "class_name": "Rachunkowość finansowa (wyk)",
+                "short_name": "Rf (wyk)",
+                "teacher": "dr Marta Stanisławska",
+                "room": "A14"
             }
         ]
     }

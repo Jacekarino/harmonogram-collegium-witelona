@@ -861,29 +861,6 @@
                 "room": "Online_07"
             }
         ],
-        "Środa 2026-11-18": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
-                "short_name": "Żwzm (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_110"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
-                "short_name": "Żcwca (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_110"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
-                "short_name": "Żidg (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_110"
-            }
-        ],
         "Czwartek 2026-11-19": [
             {
                 "time": "15:15-16:45",
@@ -1147,30 +1124,51 @@
         ],
         "Niedziela 2026-11-29": [
             {
-                "time": "10:00-11:30",
-                "class_name": "Żywienie kliniczneciwol (wyk)",
-                "short_name": "Żkciwol (wyk)",
-                "teacher": "mgr Marzena Witek",
-                "room": "Online_06"
-            },
-            {
-                "time": "11:45-13:15",
+                "time": "08:15-09:45",
                 "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
                 "short_name": "Żwzm (wyk)",
                 "teacher": "mgr Marzena Witek",
                 "room": "Online_06"
             },
             {
+                "time": "10:00-11:30",
+                "class_name": "Żywienie w zaburzeniach metabolicznych (wyk)",
+                "short_name": "Żwzm (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
                 "time": "13:45-15:15",
-                "class_name": "Żywienie kliniczne (wyk)",
-                "short_name": "Żk (wyk)",
+                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
+                "short_name": "Żcwca (wyk)",
                 "teacher": "mgr Marzena Witek",
                 "room": "Online_06"
             },
             {
                 "time": "15:30-17:00",
-                "class_name": "Żywienie człowieka w chorobach autoimmunologicznych (wyk)",
-                "short_name": "Żcwca (wyk)",
+                "class_name": "Żywienie i dietetyka geriatryczna (wyk)",
+                "short_name": "Żidg (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Żywienie kliniczneciwol (wyk)",
+                "short_name": "Żkciwol (wyk)",
+                "teacher": "mgr Marzena Witek",
+                "room": "Online_06"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Żywienie kliniczne (wyk)",
+                "short_name": "Żk (wyk)",
                 "teacher": "mgr Marzena Witek",
                 "room": "Online_06"
             }
