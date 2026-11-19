@@ -1112,13 +1112,6 @@
                 "short_name": "Eizwoz (ćw)",
                 "teacher": "mgr Joanna Bronowicka",
                 "room": "C212"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Dydaktyka medyczna (wyk)",
-                "short_name": "Dm (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "C113"
             }
         ],
         "Czwartek 2026-11-26": [
@@ -1358,6 +1351,13 @@
                 "class_name": "Anatomia (wyk)",
                 "short_name": "Anato (wyk)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
+                "room": "A36"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Dydaktyka medyczna (wyk)",
+                "short_name": "Dm (wyk)",
+                "teacher": "mgr Beata Łabowicz",
                 "room": "A36"
             },
             {

@@ -778,13 +778,6 @@
                 "short_name": "Pk (wt)",
                 "teacher": "mgr Aldona Sondej",
                 "room": "A243"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Prawo rzymskie (wt)",
-                "short_name": "Pr (wt)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "A36"
             }
         ],
         "Niedziela 2026-11-22": [
@@ -820,6 +813,13 @@
                 "time": "15:30-17:00",
                 "class_name": "Logika prawnicza (wt)",
                 "short_name": "Lp (wt)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "C212"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prawo rzymskie (wt)",
+                "short_name": "Pr (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
                 "room": "C212"
             }

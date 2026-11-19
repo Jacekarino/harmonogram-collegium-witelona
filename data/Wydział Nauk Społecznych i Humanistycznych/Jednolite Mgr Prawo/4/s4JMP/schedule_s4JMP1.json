@@ -604,20 +604,6 @@
                 "room": "A15"
             },
             {
-                "time": "10:00-11:30",
-                "class_name": "Prawo Unii Europejskiej (wt)",
-                "short_name": "PUE (wt)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "A15"
-            },
-            {
-                "time": "11:45-13:15",
-                "class_name": "Prawo Unii Europejskiej (wt)",
-                "short_name": "PUE (wt)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "A15"
-            },
-            {
                 "time": "13:30-15:00",
                 "class_name": "Administracja elektroniczna (wt)",
                 "short_name": "Ae (wt)",
@@ -1147,18 +1133,32 @@
         ],
         "Piątek 2027-01-15": [
             {
+                "time": "10:00-11:30",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "A31"
+            },
+            {
                 "time": "11:45-13:15",
                 "class_name": "Prawo Unii Europejskiej (wt)",
                 "short_name": "PUE (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
-                "room": "A32"
+                "room": "A31"
             },
             {
                 "time": "13:30-15:00",
                 "class_name": "Prawo Unii Europejskiej (wt)",
                 "short_name": "PUE (wt)",
                 "teacher": "mgr Bartłomiej Solarz",
-                "room": "A32"
+                "room": "A31"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prawo Unii Europejskiej (wt)",
+                "short_name": "PUE (wt)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "A31"
             }
         ],
         "Środa 2027-01-20": [

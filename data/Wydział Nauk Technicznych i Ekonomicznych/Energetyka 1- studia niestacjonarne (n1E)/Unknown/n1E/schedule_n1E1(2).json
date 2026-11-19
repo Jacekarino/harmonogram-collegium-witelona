@@ -291,20 +291,6 @@
         ],
         "Niedziela 2026-11-22": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Statystyka inżynierska (lab)",
-                "short_name": "Si (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A217"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Statystyka inżynierska (lab)",
-                "short_name": "Si (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A217"
-            },
-            {
                 "time": "11:45-13:15",
                 "class_name": "Technologie informacyjne i sztuczna inteligencja (lab)",
                 "short_name": "Tiisi (lab)",
@@ -560,6 +546,20 @@
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Jan Szyller",
                 "room": "C203"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Statystyka inżynierska (lab)",
+                "short_name": "Si (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C227"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Statystyka inżynierska (lab)",
+                "short_name": "Si (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "C227"
             }
         ],
         "Niedziela 2027-01-10": [

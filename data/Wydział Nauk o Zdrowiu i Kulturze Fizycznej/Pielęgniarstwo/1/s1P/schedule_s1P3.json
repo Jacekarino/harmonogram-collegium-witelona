@@ -1153,13 +1153,6 @@
                 "short_name": "Pm (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "A36"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Organizacja pracy pielęgniarki (ćw)",
-                "short_name": "Opp (ćw)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "C113"
             }
         ],
         "Piątek 2026-11-27": [
@@ -1368,27 +1361,6 @@
                 "short_name": "Pm (wyk)",
                 "teacher": "dr Izabela Bernatek-Zaguła",
                 "room": "Online_09"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Etyka zawodu pielęgniarki (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_10"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Etyka zawodu pielęgniarki (wyk)",
-                "short_name": "Ezp (wyk)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_106"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Organizacja pracy pielęgniarki (ćw)",
-                "short_name": "Opp (ćw)",
-                "teacher": "mgr Beata Łabowicz",
-                "room": "Online_106"
             }
         ],
         "Poniedziałek 2026-12-07": [
@@ -1581,6 +1553,13 @@
                 "short_name": "Anato (ćw)",
                 "teacher": "dr hab. n. med. Jerzy Błaszczuk",
                 "room": "C322"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organizacja pracy pielęgniarki (ćw)",
+                "short_name": "Opp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "C113"
             }
         ],
         "Poniedziałek 2026-12-14": [
@@ -1932,6 +1911,27 @@
                 "short_name": "Wikwzi (ćw)",
                 "teacher": "dr Katarzyna Lisowska",
                 "room": "C322"
+            },
+            {
+                "time": "15:15-16:45",
+                "class_name": "Etyka zawodu pielęgniarki (wyk)",
+                "short_name": "Ezp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Etyka zawodu pielęgniarki (wyk)",
+                "short_name": "Ezp (wyk)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Organizacja pracy pielęgniarki (ćw)",
+                "short_name": "Opp (ćw)",
+                "teacher": "mgr Beata Łabowicz",
+                "room": "A144"
             }
         ],
         "Poniedziałek 2027-01-18": [
