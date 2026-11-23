@@ -723,6 +723,13 @@
                 "short_name": "Pp (wyk)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
                 "room": "Online_102"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Matematyka (wyk)",
+                "short_name": "Matem (wyk)",
+                "teacher": "dr Leopold Habiniak",
+                "room": "Online_06"
             }
         ],
         "Sobota 2026-12-05": [
@@ -856,13 +863,6 @@
                 "class_name": "Podstawy programowania (wyk)",
                 "short_name": "Pp (wyk)",
                 "teacher": "dr inż. Zbigniew Fryźlewicz",
-                "room": "Online_14"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Matematyka (wyk)",
-                "short_name": "Matem (wyk)",
-                "teacher": "dr Leopold Habiniak",
                 "room": "Online_14"
             },
             {

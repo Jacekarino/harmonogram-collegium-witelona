@@ -576,20 +576,6 @@
                 "short_name": "Ae (wt)",
                 "teacher": "dr Paweł Jóźwiakowski",
                 "room": "C210"
-            },
-            {
-                "time": "17:15-18:45",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C202"
-            },
-            {
-                "time": "19:00-20:30",
-                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
-                "short_name": "Zwp (wt)",
-                "teacher": "dr Sławomir Kłosowski",
-                "room": "C202"
             }
         ],
         "Poniedziałek 2026-11-16": [
@@ -1381,6 +1367,20 @@
                 "short_name": "Pipf (wt)",
                 "teacher": "dr Agnieszka Koryś",
                 "room": "A16"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A15"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Zarządzanie wartością przedsiębiorstwa (wt)",
+                "short_name": "Zwp (wt)",
+                "teacher": "dr Sławomir Kłosowski",
+                "room": "A15"
             }
         ],
         "Wtorek 2027-01-19": [

@@ -544,13 +544,6 @@
                 "short_name": "Psych (ćw)",
                 "teacher": "mgr inż. Kamila Ślusarczyk",
                 "room": "A14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Psychodietetyka (ćw)",
-                "short_name": "Psych (ćw)",
-                "teacher": "mgr inż. Kamila Ślusarczyk",
-                "room": "A14"
             }
         ],
         "Środa 2026-12-02": [
@@ -869,6 +862,13 @@
                 "short_name": "Fiilzż (ćw)1h [x/-]",
                 "teacher": "mgr Małgorzata Krzemień",
                 "room": "D17"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Psychodietetyka (ćw)",
+                "short_name": "Psych (ćw)",
+                "teacher": "mgr inż. Kamila Ślusarczyk",
+                "room": "A212"
             }
         ]
     }

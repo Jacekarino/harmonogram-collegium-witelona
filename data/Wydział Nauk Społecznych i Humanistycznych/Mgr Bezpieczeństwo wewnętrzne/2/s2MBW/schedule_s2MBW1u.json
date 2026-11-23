@@ -251,22 +251,6 @@
                 "room": "C123"
             }
         ],
-        "Wtorek 2026-10-20": [
-            {
-                "time": "15:15-16:45",
-                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
-                "short_name": "Mmpwsk (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_03"
-            },
-            {
-                "time": "17:00-18:30",
-                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
-                "short_name": "Mmpwsk (wyk)",
-                "teacher": "dr inż. Paweł Dąbrowa",
-                "room": "Online_104"
-            }
-        ],
         "Środa 2026-10-21": [
             {
                 "time": "18:45-20:15",
@@ -535,6 +519,13 @@
             }
         ],
         "Poniedziałek 2026-11-09": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_03"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",
@@ -1140,6 +1131,13 @@
             }
         ],
         "Poniedziałek 2027-01-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Międzynarodowe mechanizmy pomocowe w sytuacjach kryzysowych (wyk)",
+                "short_name": "Mmpwsk (wyk)",
+                "teacher": "dr inż. Paweł Dąbrowa",
+                "room": "Online_04"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Język obcy (ćw)",

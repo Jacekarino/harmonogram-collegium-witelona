@@ -1395,13 +1395,6 @@
                 "short_name": "Aipwzż (wyk)",
                 "teacher": "dr n. med. Joanna Żółtańska",
                 "room": "A212"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
-                "short_name": "Pod (wyk)",
-                "teacher": "mgr Joanna Bronowicka",
-                "room": "A212"
             }
         ],
         "Piątek 2026-11-27": [
@@ -1479,6 +1472,13 @@
             }
         ],
         "Wtorek 2026-12-01": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Pielęgniarstwo opieki długoterminowej (wyk)",
+                "short_name": "Pod (wyk)",
+                "teacher": "mgr Joanna Bronowicka",
+                "room": "A36"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Anestezjologia i pielęgniarstwo w zagrożeniu życia (wyk)",
