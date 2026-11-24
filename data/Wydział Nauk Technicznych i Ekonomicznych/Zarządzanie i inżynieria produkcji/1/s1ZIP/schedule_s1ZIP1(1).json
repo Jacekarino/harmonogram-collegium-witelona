@@ -642,6 +642,22 @@
                 "room": "Online_01"
             }
         ],
+        "Poniedziałek 2026-11-30": [
+            {
+                "time": "11:45-13:15",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Materiałoznawstwo (lab)",
+                "short_name": "Mater (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C24"
+            }
+        ],
         "Wtorek 2026-12-01": [
             {
                 "time": "15:15-16:45",
@@ -666,20 +682,6 @@
             }
         ],
         "Środa 2026-12-02": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż. Daniel Medyński",
-                "room": "C24"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Materiałoznawstwo (lab)",
-                "short_name": "Mater (lab)",
-                "teacher": "dr inż. Daniel Medyński",
-                "room": "C24"
-            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Chemia (lab)",

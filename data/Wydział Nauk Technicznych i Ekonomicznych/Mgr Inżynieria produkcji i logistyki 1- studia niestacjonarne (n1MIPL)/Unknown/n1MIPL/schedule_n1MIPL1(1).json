@@ -317,6 +317,13 @@
                 "short_name": "Przed (wt)",
                 "teacher": "dr Sławomir Kryszkowski",
                 "room": "C329"
+            },
+            {
+                "time": "15:30-17:00",
+                "class_name": "Nowoczesne technologie mechaniczne - materiały (lab)",
+                "short_name": "Ntm-m (lab)",
+                "teacher": "dr inż. Daniel Medyński",
+                "room": "C21"
             }
         ],
         "Sobota 2026-12-05": [
@@ -363,13 +370,6 @@
                 "short_name": "Mdwwjo (wt)",
                 "teacher": "mgr Małgorzata Pacer",
                 "room": "A141"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Nowoczesne technologie mechaniczne - materiały (lab)",
-                "short_name": "Ntm-m (lab)",
-                "teacher": "dr inż. Daniel Medyński",
-                "room": "C21"
             },
             {
                 "time": "11:45-13:15",

@@ -690,13 +690,6 @@
                 "short_name": "Pe (wyk)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "Online_100"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Nauka administracji (wyk)",
-                "short_name": "Na (wyk)",
-                "teacher": "dr Waldemar Bochenek",
-                "room": "Online_02"
             }
         ],
         "Sobota 2026-11-28": [
@@ -900,6 +893,13 @@
                 "short_name": "Noiz (wyk)",
                 "teacher": "dr Agnieszka Kos",
                 "room": "Online_08"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Nauka administracji (wyk)",
+                "short_name": "Na (wyk)",
+                "teacher": "dr Waldemar Bochenek",
+                "room": "Online_01"
             }
         ],
         "Sobota 2026-12-12": [

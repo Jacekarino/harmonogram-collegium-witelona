@@ -861,22 +861,6 @@
                 "room": "Online_10"
             }
         ],
-        "Piątek 2026-12-04": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
-                "short_name": "Spiswp (wyk)",
-                "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "Online_111"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
-                "short_name": "Spiswp (wyk)",
-                "teacher": "prof. dr hab. inż. Anna Burduk",
-                "room": "Online_111"
-            }
-        ],
         "Wtorek 2026-12-08": [
             {
                 "time": "15:15-16:45",
@@ -1247,6 +1231,20 @@
             }
         ],
         "Wtorek 2027-01-12": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
+                "short_name": "Spiswp (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_111"
+            },
+            {
+                "time": "17:00-18:30",
+                "class_name": "Systemy planowania i sterowania w przemyśle (wyk)",
+                "short_name": "Spiswp (wyk)",
+                "teacher": "prof. dr hab. inż. Anna Burduk",
+                "room": "Online_111"
+            },
             {
                 "time": "18:45-20:15",
                 "class_name": "Automatyzacja i robotyzacja procesów produkcyjnych (wyk)",

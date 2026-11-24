@@ -1267,13 +1267,6 @@
                 "short_name": "F(fofwffbdf) (ćw)",
                 "teacher": "dr Małgorzata Fortuna",
                 "room": "C14"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Podstawy logopedii* (wyk)",
-                "short_name": "Pl (wyk)",
-                "teacher": "dr Renata Myrna-Bekas",
-                "room": "A14"
             }
         ],
         "Wtorek 2026-12-08": [
@@ -1565,6 +1558,13 @@
             }
         ],
         "Czwartek 2027-01-07": [
+            {
+                "time": "13:30-15:00",
+                "class_name": "Podstawy logopedii* (wyk)",
+                "short_name": "Pl (wyk)",
+                "teacher": "dr Renata Myrna-Bekas",
+                "room": "A14"
+            },
             {
                 "time": "15:15-16:45",
                 "class_name": "Masaż w odnowie biologicznej (ćw)",
