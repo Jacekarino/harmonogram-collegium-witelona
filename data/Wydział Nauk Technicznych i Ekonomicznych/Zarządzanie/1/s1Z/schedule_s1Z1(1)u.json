@@ -643,8 +643,8 @@
                 "time": "11:45-13:15",
                 "class_name": "Moduły do wyboru (wt)",
                 "short_name": "Mdw (wt)",
-                "teacher": "mgr Bożena Jasiak-Kaczmarek / dr Krzysztof Radkowski",
-                "room": "C11 / C313"
+                "teacher": "mgr Bożena Jasiak-Kaczmarek",
+                "room": "C11"
             },
             {
                 "time": "15:30-17:00",
@@ -906,6 +906,13 @@
                 "short_name": "Mdw (wt)",
                 "teacher": "mgr Bożena Jasiak-Kaczmarek",
                 "room": "A244"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Moduły do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C210"
             }
         ],
         "Czwartek 2027-01-14": [

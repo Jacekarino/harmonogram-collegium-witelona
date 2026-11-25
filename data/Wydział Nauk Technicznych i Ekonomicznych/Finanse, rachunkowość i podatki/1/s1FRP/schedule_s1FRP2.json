@@ -793,20 +793,6 @@
         ],
         "Wtorek 2026-12-08": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "C201"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "C201"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Moduł humanistyczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -899,20 +885,6 @@
         ],
         "Wtorek 2026-12-22": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "C203"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Moduł do wyboru (wt)",
-                "short_name": "Mdw (wt)",
-                "teacher": "dr Krzysztof Radkowski",
-                "room": "C203"
-            },
-            {
                 "time": "15:15-16:45",
                 "class_name": "Moduł humanistyczny (wyk)",
                 "short_name": "Mh (wyk)",
@@ -961,6 +933,22 @@
                 "class_name": "Matematyka (ćw)",
                 "short_name": "Matem (ćw)",
                 "teacher": "mgr Janina Płaskonka-Fietkowska",
+                "room": "C203"
+            }
+        ],
+        "Poniedziałek 2027-01-11": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
                 "room": "C203"
             }
         ],
@@ -1036,6 +1024,22 @@
                 "short_name": "Owi (wyk)",
                 "teacher": "dr Marcin Sieja",
                 "room": "Online_09"
+            }
+        ],
+        "Poniedziałek 2027-01-18": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
+            },
+            {
+                "time": "10:00-11:30",
+                "class_name": "Moduł do wyboru (wt)",
+                "short_name": "Mdw (wt)",
+                "teacher": "dr Krzysztof Radkowski",
+                "room": "C203"
             }
         ],
         "Wtorek 2027-01-19": [

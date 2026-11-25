@@ -748,13 +748,6 @@
         ],
         "Sobota 2026-11-28": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Podstawy projektowania inżynierskiego (p)",
-                "short_name": "Ppi (p)",
-                "teacher": "mgr inż. Krzysztof Kolbusz",
-                "room": "C125"
-            },
-            {
                 "time": "10:00-11:30",
                 "class_name": "2 Podstawy marketingu (sem)",
                 "short_name": "2Pm (sem)",
@@ -1157,6 +1150,13 @@
             }
         ],
         "Sobota 2027-01-09": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Podstawy projektowania inżynierskiego (p)",
+                "short_name": "Ppi (p)",
+                "teacher": "mgr inż. Krzysztof Kolbusz",
+                "room": "C224"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Podstawy projektowania inżynierskiego (p)",

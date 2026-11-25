@@ -667,15 +667,6 @@
                 "room": "Online_105"
             }
         ],
-        "Piątek 2026-11-27": [
-            {
-                "time": "18:45-20:15",
-                "class_name": "Biologiczne podstawy zachowań cz. I (wyk)",
-                "short_name": "BpzcI (wyk)",
-                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
-                "room": "Online_102"
-            }
-        ],
         "Poniedziałek 2026-11-30": [
             {
                 "time": "08:15-09:45",
@@ -964,6 +955,13 @@
                 "short_name": "Wdp (wyk)",
                 "teacher": "dr  Mirosława Marks",
                 "room": "Online_112"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Biologiczne podstawy zachowań cz. I (wyk)",
+                "short_name": "BpzcI (wyk)",
+                "teacher": "mgr Magdalena Zagrodnik-Sowińska",
+                "room": "Online_102"
             }
         ],
         "Wtorek 2026-12-22": [
