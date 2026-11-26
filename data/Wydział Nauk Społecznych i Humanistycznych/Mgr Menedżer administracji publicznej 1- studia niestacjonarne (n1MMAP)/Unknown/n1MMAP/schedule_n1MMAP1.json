@@ -329,22 +329,6 @@
                 "room": "C125"
             }
         ],
-        "Piątek 2026-11-27": [
-            {
-                "time": "17:00-18:30",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "Online_112"
-            },
-            {
-                "time": "18:45-20:15",
-                "class_name": "Metodologia badań w naukach społecznych (wyk)",
-                "short_name": "Mbwns (wyk)",
-                "teacher": "mgr Bartłomiej Solarz",
-                "room": "Online_112"
-            }
-        ],
         "Sobota 2026-11-28": [
             {
                 "time": "08:15-09:45",
@@ -528,6 +512,22 @@
                 "short_name": "Mbwns (wyk)",
                 "teacher": "mgr Bartłomiej Solarz",
                 "room": "Online_01"
+            }
+        ],
+        "Piątek 2026-12-18": [
+            {
+                "time": "17:00-18:30",
+                "class_name": "Metodologia badań w naukach społecznych (wyk)",
+                "short_name": "Mbwns (wyk)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "Online_14"
+            },
+            {
+                "time": "18:45-20:15",
+                "class_name": "Metodologia badań w naukach społecznych (wyk)",
+                "short_name": "Mbwns (wyk)",
+                "teacher": "mgr Bartłomiej Solarz",
+                "room": "Online_14"
             }
         ],
         "Sobota 2026-12-19": [
