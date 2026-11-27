@@ -372,27 +372,6 @@
                 "room": "A141"
             },
             {
-                "time": "11:45-13:15",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C11"
-            },
-            {
-                "time": "13:45-15:15",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C11"
-            },
-            {
-                "time": "15:30-17:00",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C11"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
                 "short_name": "Wdpz (wt)",
@@ -428,6 +407,13 @@
                 "short_name": "Ntm-m (lab)",
                 "teacher": "dr inż. Daniel Medyński",
                 "room": "C21"
+            },
+            {
+                "time": "13:45-15:15",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A244"
             },
             {
                 "time": "15:30-17:00",
@@ -502,6 +488,20 @@
                 "short_name": "Ospwp4 (wyk)",
                 "teacher": "prof. dr hab. inż. Anna Burduk",
                 "room": "Online_04"
+            },
+            {
+                "time": "17:15-18:45",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_05"
+            },
+            {
+                "time": "19:00-20:30",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_05"
             }
         ],
         "Sobota 2027-01-16": [

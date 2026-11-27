@@ -379,20 +379,6 @@
         ],
         "Sobota 2026-12-12": [
             {
-                "time": "08:15-09:45",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C11"
-            },
-            {
-                "time": "10:00-11:30",
-                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
-                "short_name": "Piswp (lab)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "C11"
-            },
-            {
                 "time": "17:15-18:45",
                 "class_name": "Wprowadzenie do praktyki zawodowej (wt)",
                 "short_name": "Wdpz (wt)",
@@ -408,6 +394,13 @@
             }
         ],
         "Niedziela 2026-12-13": [
+            {
+                "time": "08:15-09:45",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A244"
+            },
             {
                 "time": "10:00-11:30",
                 "class_name": "Nowoczesne technologie mechaniczne - materiały (lab)",
@@ -452,6 +445,13 @@
             }
         ],
         "Piątek 2026-12-18": [
+            {
+                "time": "15:15-16:45",
+                "class_name": "Prognozowanie i symulacje w przedsiębiorstwie (lab)",
+                "short_name": "Piswp (lab)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "Online_03"
+            },
             {
                 "time": "17:00-18:30",
                 "class_name": "Ochrona własności przemysłowej i prawo autorskie (wyk)",

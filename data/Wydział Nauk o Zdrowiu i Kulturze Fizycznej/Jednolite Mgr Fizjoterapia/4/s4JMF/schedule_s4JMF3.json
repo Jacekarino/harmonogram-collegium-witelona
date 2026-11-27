@@ -1151,29 +1151,6 @@
                 "room": "A33"
             }
         ],
-        "Wtorek 2026-12-01": [
-            {
-                "time": "11:45-13:15",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A218"
-            },
-            {
-                "time": "13:30-15:00",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A218"
-            },
-            {
-                "time": "15:15-16:45",
-                "class_name": "Statystyka w badaniach naukowych (ćw)",
-                "short_name": "Swbn (ćw)",
-                "teacher": "dr inż. Renata Gnitecka",
-                "room": "A218"
-            }
-        ],
         "Środa 2026-12-02": [
             {
                 "time": "11:45-13:15",
@@ -1641,6 +1618,29 @@
                 "short_name": "Tm (zp)",
                 "teacher": "mgr Martyna Malinka",
                 "room": "A324"
+            }
+        ],
+        "Czwartek 2027-01-07": [
+            {
+                "time": "10:00-11:30",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "11:45-13:15",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
+            },
+            {
+                "time": "13:30-15:00",
+                "class_name": "Statystyka w badaniach naukowych (ćw)",
+                "short_name": "Swbn (ćw)",
+                "teacher": "dr inż. Renata Gnitecka",
+                "room": "A218"
             }
         ],
         "Piątek 2027-01-08": [
